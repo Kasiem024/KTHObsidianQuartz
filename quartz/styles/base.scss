@@ -151,7 +151,6 @@ a {
       margin-top: $topSpacing;
       box-sizing: border-box;
       padding: 0 4rem;
-      position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
@@ -162,7 +161,7 @@ a {
     }
 
     & .sidebar.left {
-      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      top: 6rem;
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -170,7 +169,6 @@ a {
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
@@ -404,7 +402,6 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.6rem;
   font-size: 1.4rem;
 }
 
@@ -475,8 +472,6 @@ video {
 
 ul.overflow,
 ol.overflow {
-  max-height: 400;
-  overflow-y: auto;
 
   // clearfix
   content: "";
@@ -504,4 +499,9 @@ ol.overflow {
   ul {
     padding-left: 1rem;
   }
+}
+
+#explorer-content li, #explorer-content ul{
+  text-decoration: underline;
+  padding: 2px;
 }
