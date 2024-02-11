@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "kasiem024.github.io/KTHObsidianQuartz",
-    ignorePatterns: ["private", "templates", ".obsidian",".excalidraw"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Obsidian Plugins"],
     defaultDateType: "modified",
     theme: {
       cdnCaching: true,
