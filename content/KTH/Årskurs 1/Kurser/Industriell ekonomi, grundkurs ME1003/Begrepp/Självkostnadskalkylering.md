@@ -1,0 +1,28 @@
+# Självkostnadskalkylering
+
+---
+
+Skapad: 2024-02-10 14:57
+
+Uppdaterad: Saturday 10th February 2024 14:57:16
+
+Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
+
+---
+
+## Definition
+
+Självkostnadskalkylering är när man kalkylerar samtliga kostnader som företaget har för en produkt tills den är levererad och betald. Detta blir svårare ju mer produkter företaget har.
+
+Självkostnaden för en produkt är summan av samtliga kostnader för produkten tills den är levererad och betald.
+
+## Kopplat till
+
+- [[Produktkalkylering]]
+- [[Påläggskalkylering]]
+
+## Flashcards
+
+Självkostnadskalkylering (Definition):: När man kalkylerar samtliga kostnader som företaget har för en produkt tills den är levererad och betald, svårare ju mer produkter företaget har
+
+Självkostnad (Definition):: Summan av samtliga kostnader för produkten tills den är levererad och betald

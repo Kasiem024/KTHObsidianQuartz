@@ -1,0 +1,58 @@
+# Rörlig Kostnad
+
+---
+
+Skapad: 2024-02-10 10:12
+
+Uppdaterad: Saturday 10th February 2024 10:12:34
+
+Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
+
+---
+
+## Definition
+
+Rörlig Kostnad (RK) varierar med verksamhetsvolym. Alltså ju mer som produceras ju högre de Rörliga Kostnaderna blir.
+
+### Typer av rörlig kostnad
+
+==Proportionellt== rörliga kostnader:
+När kostnaden per styck är alltid samma och den totala kostnaden ökar ständigt i en rak linje.
+
+![[Proportionellt Rörliga Kostnader ME1003.png]]
+
+==Progressivt== rörliga kostnader:
+När styckkostnaden ökar för varje tillverkad produkt. Alltså dyrt om volymen är hög men billig med låg volym. Kan hända om personalen behöver jobba övertid.
+
+![[Progressivt Rörliga Kostnader ME1003.png]]
+
+==Regressivt== rörliga kostnader:
+När styckkostnaden minskar för varje tillverkad produkt. Alltså dyrt om volymen är hög men billig med hög volym. Kan hända om man får en rabatt från leverantören för att köpa råmaterial i bulk.
+
+![[Regressivt Rörliga Kostnader ME1003.png]]
+
+## Kopplat till
+
+- [[Kostnad]]
+- [[Kostnadsbegrepp]]
+- [[Fast Kostnad]]
+
+## Flashcards
+
+Rörlig Kostnad (Definition):: Kostnader som är beroende av verksamhetsvolym
+<!--SR:!2024-02-10,4,270!2000-01-01,1,250-->
+
+Typer av Rörlig Kostnad (3)
+??
+- ==Proportionellt== rörliga kostnader.
+- ==Progressivt== rörliga kostnader.
+- ==Regressivt== rörliga kostnader.
+
+Rörliga Kostnader, Proportionellt (Definition):: När kostnaden per styck är alltid samma och den totala kostnaden ökar ständigt i en rak linje
+![[Proportionellt Rörliga Kostnader ME1003.png]]
+
+Rörliga Kostnader, Progressivt (Definition):: När styckkostnaden ökar för varje tillverkad produkt. Alltså dyrt om volymen är hög men billig med låg volym. Kan hända om personalen behöver jobba övertid
+![[Progressivt Rörliga Kostnader ME1003.png]]
+
+Rörliga Kostnader, Regressivt (Definition):: När styckkostnaden minskar för varje tillverkad produkt. Alltså dyrt om volymen är hög men billig med hög volym. Kan hända om man får en rabatt från leverantören för att köpa råmaterial i bulk
+![[Regressivt Rörliga Kostnader ME1003.png]]

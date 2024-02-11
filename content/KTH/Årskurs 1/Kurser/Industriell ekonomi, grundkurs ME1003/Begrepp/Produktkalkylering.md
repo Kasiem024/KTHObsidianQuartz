@@ -1,0 +1,57 @@
+# Produktkalkylering
+
+---
+
+Skapad: 2024-02-10 10:52
+
+Uppdaterad: Saturday 10th February 2024 10:52:14
+
+Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
+
+---
+
+## Definition
+
+Produktkalkylering handlar i grunden om att försöka bestämma intäkter och kostnader för sina produkter och utifrån det göra sina beslut.
+
+Inom Produktkalkylering pratar man ofta om ==kalkylobjekt==. Alltså den varan/tjänsten eller tinget som kalkyleringen avser. Exempelvis kan det vara hela företaget, marknaden, produkten, projektet.
+
+### [[Bidragskalkylering]]
+
+Bidragskalkylering är när enbart [[Särkostnad]] hänförs till [[Kostnadsbärare]]. Därefter beräknas det [[Täckningsbidrag]] som kostnadsbäraren lämnar. Denna typ av kalkylering används ofta för att göra snabba beslut på kort sikt. Exempelvis kan ett hotell göra en Bidragskalkylering för att veta om det är värt det att sänka priset en helg. ==Ett täckningsbidrag är särintäkterna minus särkostnaderna==.
+
+Bidragskalkylering tillämpas för att beräkna [[Lönsamhet]] för olika handlingsalternativ. Kalkyleringen används vanligen för att bedöma om en viss vara eller tjänst är lönsam för ett företag att producera.
+
+Bidragskalkylering använder en ofullständig kostnadsfördelning.
+
+### [[Stegkalkylering]]
+
+Stegkalkylering är när man gör sina beräkningar i olika steg. Man gör då ett [[Täckningsbidrag]] på varje steg. Detta kan hjälpa om man vill beräkna kostnaderna för enstaka produkter. Man går då upp en nivå i hur många produkter man inkluderar i kalkyleringen för varje steg.
+
+Stegen heter:
+
+- TB1: Täckningsbidraget för produktenheten.
+- TB2: Täckningsbidraget för produktslaget.
+- TB3: Täckningsbidraget för produktgruppen.
+- TB4: Täckningsbidraget för divisionen.
+
+### [[Självkostnadskalkylering]]
+
+Självkostnadskalkylering är när man kalkylerar samtliga kostnader som företaget har för en produkt tills den är levererad och betald. Detta blir svårare ju mer produkter företaget har.
+
+Självkostnaden för en produkt är summan av samtliga kostnader för produkten tills den är levererad och betald.
+
+### [[Aktivitetsbaserad Kalkylering]]
+
+Aktivitetsbaserad Kalkylering (ABC-Kalkylering) grundar sig i att inte betrakta kostnader med hjälp av begreppen fast/rörlig eller direkt/indirekt. Man ska istället utgå från att aktiviteter utförs i företaget och att det är dessa aktiviteter, inte avdelningarna, som ger upphov till kostnaderna.
+
+## Kopplat till
+
+## Flashcards
+
+Typer av Produktkalkylering (4)
+??
+- [[Bidragskalkylering]]
+- [[Stegkalkylering]]
+- [[Självkostnadskalkylering]]
+- [[Aktivitetsbaserad Kalkylering]]
