@@ -16,11 +16,11 @@ Alltså, med Nuvärdesmetoden kan vi exempelvis veta hur mycket avkastningen sku
 #### Slutvärdefaktor
 
 $$
-{ Slutvärdefaktor = ( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)} }
+{ Slutvärdefaktor = ( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)}}
 $$
 
 $$
-{ SLV = ( 1 + r )^{n} }
+{ SLV = ( 1 + r )^{n}}
 $$
 
 Om man vill få veta värdet av ett nutida belopp i framtiden ska man multiplicera det beloppet med ==slutvärdefaktorn==.
@@ -32,12 +32,12 @@ Alltså om kalkylräntan är 20% är 1000 kr idag värda 1200 kr om 1 år.
 #### Nuvärdefaktor
 
 $$
-{ Nuvärdefaktor = 
+{ Nuvärdefaktor =
 \frac{1}{( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)}}}
 $$
 
 $$
-{ NUV = 
+{ NUV =
 \frac{1}{( 1 + r )^{n}}}
 $$
 
@@ -50,23 +50,23 @@ Alltså om kalkylräntan är 20% är 1200 kr idag värda 1000 kr 1 år sen.
 #### Nusummefaktor
 
 $$
-{ Nusummefaktor = 
+{ Nusummefaktor =
 \frac{1 - ( 1 + Kalkylränta )^{-Ekonomisk \, Livslängd (Antal  \, År)}}{Kalkylränta}}
 $$
 
 $$
-{ NUS = 
+{ NUS =
 \frac{1 - ( 1 + r )^{-n}}{r}}
 $$
 
 ### Formel för Nuvärdekalkyl (Nettonuvärde)
 
 $$
-{  Nettonuvärde = Grundinvestering + Inbetalningsöverskott * Nusummefaktor + Restvärde * Nuvärdefaktor }
+{ Nettonuvärde = Grundinvestering + Inbetalningsöverskott * Nusummefaktor + Restvärde * Nuvärdefaktor }
 $$
 
 $$
-{  NNV = G + a * NUS + R * NUV }
+{ NNV = G + a * NUS + R * NUV }
 $$
 
 ### Nuvärdekvoten
@@ -95,37 +95,37 @@ Nuvärdemetoden (Definition):: En ränteräkningsmetod som med hjälp av [[Kalky
 Omräkningsfaktorer (3) (Formel)
 ||
 $$
-{ Slutvärdefaktor = ( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)} }
+{ Slutvärdefaktor = ( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)}}
 $$
 $$
-{ SLV = ( 1 + r )^{n} }
+{ SLV = ( 1 + r )^{n}}
 $$
 ---
 $$
-{ Nuvärdefaktor = 
+{ Nuvärdefaktor =
 \frac{1}{( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)}}}
 $$
 $$
-{ NUV = 
+{ NUV =
 \frac{1}{( 1 + r )^{n}}}
 $$
 ---
 $$
-{ Nusummefaktor = 
+{ Nusummefaktor =
 \frac{1 - ( 1 + Kalkylränta )^{-Ekonomisk \, Livslängd (Antal  \, År)}}{Kalkylränta}}
 $$
 $$
-{ NUS = 
+{ NUS =
 \frac{1 - ( 1 + r )^{-n}}{r}}
 $$
 
 Nettonuvärde (Formel)
 ||
 $$
-{  Nettonuvärde = Grundinvestering + Inbetalningsöverskott * Nusummefaktor + Restvärde * Nuvärdefaktor }
+{ Nettonuvärde = Grundinvestering + Inbetalningsöverskott * Nusummefaktor + Restvärde * Nuvärdefaktor }
 $$
 $$
-{  NNV = G + a * NUS + R * NUV }
+{ NNV = G + a * NUS + R * NUV }
 $$
 
 Nuvärdekvot (Definition) (Formel)

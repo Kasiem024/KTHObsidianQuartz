@@ -64,7 +64,7 @@ Ett [[Resultatdiagram]] visar relationen mellan intäkterna och volymen. Den inn
 ==Säkerhetsmarginalen== i ett [[Resultatdiagram]] anger med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår.
 
 $$
-{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym  }
+{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym }
 $$
 
 $$
@@ -240,28 +240,28 @@ $$
 #### Kritiska Punkten i ett Resultatdiagram
 
 $$
-{ Kritiska Punkten\!: TI = TK  }
+{ Kritiska Punkten\!: TI = TK }
 $$
 <br>
 
 #### Säkerhetsmarginalen i ett Resultatdiagram (volym)
 
 $$
-{ Säkerhetsmarginal (volym) = q_{v} - q_{K}  }
+{ Säkerhetsmarginal (volym) = q_{v} - q_{K}}
 $$
 <br>
 
 #### Säkerhetsmarginalen i ett Resultatdiagram (%)
 
 $$
-{ Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}  }
+{ Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}}
 $$
 <br>
 
 #### Materialomkostnadspålägget
 
 $$
-{  MO \!-\! pålägg=\frac{MO}{dM}}
+{ MO \!-\! pålägg=\frac{MO}{dM}}
 $$
 <br>
 
@@ -344,7 +344,7 @@ $$
 $$
 
 $$
-{  Nettonuvärde = Grundinvestering + Inbetalningsöverskott * NUS + Restvärde * NUV }
+{ Nettonuvärde = Grundinvestering + Inbetalningsöverskott * NUS + Restvärde * NUV }
 $$
 
 7. Vad visar nuvärdekvoten?
@@ -364,11 +364,11 @@ När man använder [[Annuitetsmetoden]] räknar man om investeringens betalninga
 Annuitetsmetodens beslutsregler säger att en investering där annuiteten av de framtida betalningarna är större än noll är lönsam. Investeringen med störst annuitet är mest lönsam.
 
 $$
-{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
+{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}}}
 $$
 
 $$
-{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
+{ Annuitet = Nettonuvärde * Annuitetsfaktor }
 $$
 
 9. Vad visar annuitetskvoten?
@@ -458,7 +458,7 @@ NNV = Nettonuvärde
 ##### Slutvärdefaktor
 
 $$
-{ SLV = ( 1 + r )^{n} }
+{ SLV = ( 1 + r )^{n}}
 $$
 
 ##### Nuvärdefaktor
@@ -478,7 +478,7 @@ $$
 ##### Formel för Nuvärdemetoden (Nettonuvärde)
 
 $$
-{  NNV = G + a * NUS + R * NUV }
+{ NNV = G + a * NUS + R * NUV }
 $$
 
 ##### Nuvärdekvoten
@@ -493,13 +493,13 @@ $$
 ##### Annuitetsfaktor
 
 $$
-{ ANN = \frac{r}{1-(1+r)^{-n}} }
+{ ANN = \frac{r}{1-(1+r)^{-n}}}
 $$
 
 ##### Formel för Annuitetsmetoden (Annuitet)
 
 $$
-{ Annuitet = NNV * ANN  }
+{ Annuitet = NNV * ANN }
 $$
 
 ##### Annuitetskvoten

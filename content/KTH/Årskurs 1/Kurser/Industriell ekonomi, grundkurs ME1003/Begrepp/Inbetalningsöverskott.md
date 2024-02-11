@@ -17,6 +17,7 @@ Inbetalningsöverskott (a) kan användas för att beskriva en [[Investering]]. D
 ### Restvärde
 
 Restvärdet (R) är investeringsobjektets värde vid slutet av dess [[Ekonomisk Livslängd]]. Kan vara positivt om man kan sälja det, kan vara negativt om det kostar att skrota det.
+
 ## Kopplat till
 
 ## Flashcards

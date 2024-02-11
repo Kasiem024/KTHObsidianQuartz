@@ -9,23 +9,22 @@ Annuitetsmetoden är när man räknar om investeringens betalningar, både [[Gru
 
 Annuitetsmetodens beslutsregler säger att en investering där annuiteten av de framtida betalningarna är större än noll är lönsam. Investeringen med störst annuitet har mest [[Lönsamhet]].
 
+$$
+{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}}}
+$$
 
 $$
-{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
-$$
-
-$$
-{ ANN = \frac{r}{1-(1+r)^{-n}} }
+{ ANN = \frac{r}{1-(1+r)^{-n}}}
 $$
 
 ### Formel för Annuitetskalkyl (Annuitet)
 
 $$
-{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
+{ Annuitet = Nettonuvärde * Annuitetsfaktor }
 $$
 
 $$
-{ Annuitet = NNV * ANN  }
+{ Annuitet = NNV * ANN }
 $$
 
 ### Annuitetskvoten
@@ -51,19 +50,19 @@ Annuitetsmetoden (Definition):: är man räknar om investeringens betalningar, b
 Annuitetsfaktor (Formel)
 ||
 $$
-{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
+{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}}}
 $$
 $$
-{ ANN = \frac{r}{1-(1+r)^{-n}} }
+{ ANN = \frac{r}{1-(1+r)^{-n}}}
 $$
 
 Formel för Annuitetskalkyl, Annuitet (Formel)
 ||
 $$
-{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
+{ Annuitet = Nettonuvärde * Annuitetsfaktor }
 $$
 $$
-{ Annuitet = NNV * ANN  }
+{ Annuitet = NNV * ANN }
 $$
 
 Annuitetskvoten (Formel)

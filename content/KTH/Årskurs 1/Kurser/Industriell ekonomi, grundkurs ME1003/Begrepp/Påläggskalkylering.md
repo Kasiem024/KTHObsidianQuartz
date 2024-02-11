@@ -42,7 +42,7 @@ $$
 $$
 
 $$
-{  MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
+{ MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
 $$
 
 ---
@@ -96,7 +96,7 @@ $$
 {Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkta Kostnader}}
 $$
 $$
-{  MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
+{ MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
 $$
 
 Tillverkningsomkostnadspålägget (Formel)

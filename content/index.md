@@ -2,8 +2,9 @@
 title: Home
 ---
 
+
 ## Navigation
 
-Ignorera mappen "Obsidian Plugins". Allting som är relevant finns i mappen "KTH" och dess undermappar.
+Använd taggarna nedan och sök funktionen för att hitta relevanta anteckningar.
 
-#CM1005 #ME1003
+tags: #CM1005 #ME1003 #ME1003KS2

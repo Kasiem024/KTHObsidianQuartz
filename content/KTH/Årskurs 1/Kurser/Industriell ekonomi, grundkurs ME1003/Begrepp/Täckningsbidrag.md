@@ -43,12 +43,12 @@ $$
 Visar hur mycket kalkylobjektet bidrar med att betala [[Samkostnad]] i procent.
 
 $$
-{ Täckninsgrad = 
+{ Täckninsgrad =
 \frac{Täckningsbidrag}{Särinäkt}}
 $$
 
 $$
-{ TG = 
+{ TG =
 \frac{TB}{Särinäkt}}
 $$
 
@@ -72,10 +72,10 @@ $$
 Täckningsgrad (Formel)
 ||
 $$
-{ Täckninsgrad = 
+{ Täckninsgrad =
 \frac{Täckningsbidrag}{Särinäkt}}
 $$
 $$
-{ TG = 
+{ TG =
 \frac{TB}{Särinäkt}}
 $$

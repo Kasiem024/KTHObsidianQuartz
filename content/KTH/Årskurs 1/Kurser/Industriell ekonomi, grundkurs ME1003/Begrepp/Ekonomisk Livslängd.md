@@ -6,8 +6,7 @@ Skapad: 2024-02-11 08:44
 
 Uppdaterad: Sunday 11th February 2024 08:44:26
 
-Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
-#ME1003KS2 
+Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ---
 
