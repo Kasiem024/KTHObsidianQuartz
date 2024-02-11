@@ -11,32 +11,32 @@ Annuitetsmetodens beslutsregler säger att en investering där annuiteten av de 
 
 
 $$
-\pu{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
+{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
 $$
 
 $$
-\pu{ ANN = \frac{r}{1-(1+r)^{-n}} }
+{ ANN = \frac{r}{1-(1+r)^{-n}} }
 $$
 
 ### Formel för Annuitetskalkyl (Annuitet)
 
 $$
-\pu{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
+{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
 $$
 
 $$
-\pu{ Annuitet = NNV * ANN  }
+{ Annuitet = NNV * ANN  }
 $$
 
 ### Annuitetskvoten
 
 $$
-\pu{Annuitetskvot=
+{Annuitetskvot=
 \frac{Annuitet}{Grundinvestering}}
 $$
 
 $$
-\pu{Annuitetskvot=
+{Annuitetskvot=
 \frac{Annuitet}{G}}
 $$
 
@@ -51,28 +51,28 @@ Annuitetsmetoden (Definition):: är man räknar om investeringens betalningar, b
 Annuitetsfaktor (Formel)
 ||
 $$
-\pu{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
+{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
 $$
 $$
-\pu{ ANN = \frac{r}{1-(1+r)^{-n}} }
+{ ANN = \frac{r}{1-(1+r)^{-n}} }
 $$
 
 Formel för Annuitetskalkyl, Annuitet (Formel)
 ||
 $$
-\pu{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
+{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
 $$
 $$
-\pu{ Annuitet = NNV * ANN  }
+{ Annuitet = NNV * ANN  }
 $$
 
 Annuitetskvoten (Formel)
 ||
 $$
-\pu{Annuitetskvot=
+{Annuitetskvot=
 \frac{Annuitet}{Grundinvestering}}
 $$
 $$
-\pu{Annuitetskvot=
+{Annuitetskvot=
 \frac{Annuitet}{G}}
 $$

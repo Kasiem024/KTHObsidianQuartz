@@ -21,11 +21,11 @@ Ett Resultatdiagram visar relationen mellan intäkterna och volymen. Den innehå
 Den kritiska punkten i ett resultatdiagram visar punkten där [[Total Intäkt]] precis räcker för att täcka [[Total Kostnad]].
 
 $$
-\pu{ Kritiska Punkten\!: Total Inäkt = Total Kostnad  }
+{ Kritiska Punkten\!: Total Inäkt = Total Kostnad  }
 $$
 
 $$
-\pu{ Kritiska Punkten\!: TI = TK  }
+{ Kritiska Punkten\!: TI = TK  }
 $$
 
 ### Säkerhetsmarginal
@@ -33,19 +33,19 @@ $$
 Säkerhetsmarginalen anger med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår.
 
 $$
-\pu{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym  }
+{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym  }
 $$
 
 $$
-\pu{ Säkerhetsmarginal (volym) = q_{v} - q_{K}  }
+{ Säkerhetsmarginal (volym) = q_{v} - q_{K}  }
 $$
 ---
 $$
-\pu{ Säkerhetsmarginal (\%) = \frac{Verklig \, Volym - Kritisk \, Volym}{Verklig \, Volym}}
+{ Säkerhetsmarginal (\%) = \frac{Verklig \, Volym - Kritisk \, Volym}{Verklig \, Volym}}
 $$
 
 $$
-\pu{ Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}  }
+{ Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}  }
 $$
 
 ## Kopplat till
@@ -55,24 +55,24 @@ $$
 Resultatdiagram (Definition):: Ett diagram som visar ==relationen== mellan ==intäkterna== och ==verksamhetsvolymen==, innehåller en linje för [[Fast Kostnad]], totala kostnader och totala intäkter
 ![[Resultatdiagram ME1003.png]]
 
-Kritiska Punkten i ett Resultatdiagram (Definition):: Punkten där de totala intäkterna precis räcker för att täcka de totala kostnaderna i ett Resultatdiagram $\pu{ Kritiska Punkten\!: Total Inäkt = Total Kostnad  }$
+Kritiska Punkten i ett Resultatdiagram (Definition):: Punkten där de totala intäkterna precis räcker för att täcka de totala kostnaderna i ett Resultatdiagram ${ Kritiska Punkten\!: Total Inäkt = Total Kostnad  }$
 
 Säkerhetsmarginalen (Definition):: Visar med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår i ett Resultatdiagram
 
 Säkerhetsmarginal, Volym (Formel)
 ||
 $$
-\pu{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym  }
+{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym  }
 $$
 $$
-\pu{ Säkerhetsmarginal (volym) = q_{v} - q_{K}  }
+{ Säkerhetsmarginal (volym) = q_{v} - q_{K}  }
 $$
 
 Säkerhetsmarginal, Procent (Formel)
 ||
 $$
-\pu{ Säkerhetsmarginal (\%) = \frac{Verklig \, Volym - Kritisk \, Volym}{Verklig \, Volym}}
+{ Säkerhetsmarginal (\%) = \frac{Verklig \, Volym - Kritisk \, Volym}{Verklig \, Volym}}
 $$
 $$
-\pu{ Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}  }
+{ Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}  }
 $$

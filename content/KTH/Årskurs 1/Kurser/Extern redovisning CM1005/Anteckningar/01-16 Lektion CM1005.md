@@ -57,13 +57,16 @@ Företagets skatt går till staten.
 [[Kassaflöde]]: In- och ut betalningar under en period. Samma period som resultaträkningen.
 
 [[Inkomst]]: När man säljer något, inte när man får betalt. Sin försäljning. Faktura.
+
 [[Utgift]]: Inköpstillfället. Innan man har förbrukat det, när man lagt det på lagret.
 
 [[Intäkt]]: När man levererar något. Kredit.
+
 [[Kostnad]]: Resurser som använts/förbrukats. Resurs ex: Arbetskraft (lön), maskiner/utrustning, energi/bränsle, tid, kapital. Förbrukning tillfället.
 Italienskt räknesätt. Debet.
 
 [[Inbetalning]]: När det kommer in pengar till företaget.
+
 [[Utbetalning]]: Utflödet av pengar och är kopplade till betalningstidpunkten.
 
 Diskussion --> Förhandling --> [[Inkomst]] --> [[Intäkt]].

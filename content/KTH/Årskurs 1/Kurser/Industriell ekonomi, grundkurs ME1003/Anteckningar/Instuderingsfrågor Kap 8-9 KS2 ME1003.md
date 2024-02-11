@@ -64,11 +64,11 @@ Ett [[Resultatdiagram]] visar relationen mellan intäkterna och volymen. Den inn
 ==Säkerhetsmarginalen== i ett [[Resultatdiagram]] anger med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår.
 
 $$
-\pu{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym  }
+{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym  }
 $$
 
 $$
-\pu{ Säkerhetsmarginal (\%) = \frac{Verklig \, Volym - Kritisk \, Volym}{Verklig \, Volym}}
+{ Säkerhetsmarginal (\%) = \frac{Verklig \, Volym - Kritisk \, Volym}{Verklig \, Volym}}
 $$
 
 9. Definiera följande begrepp:
@@ -123,16 +123,18 @@ Självkostnaden för en produkt är summan av samtliga kostnader för produkten 
 
 15. Hur beräknas
 <br>
-$\pu{Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkt \, Material}}$
+${Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkt \, Material}}$
 <br>
 
 ---
-$\pu{Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt \,  Lön}}$
+${Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt \,  Lön}}$
 <br>
 
 ---
-$\pu{Affärsomkostnadspålägget=\frac{Affärsomkostnader}{Tillverkningskostnad}}$
-<br>
+${Affärsomkostnadspålägget=\frac{Affärsomkostnader}{Tillverkningskostnad}}$
+
+---
+
 16. Ge ett exempel på en direkt kostnad som många tillverkningsföretag, särskilt sådana som bedriver högt automatiserad tillverkning, använder som påläggsbas i stället för direkt lön i sin modell för självkostnads kalkylering.
 
 Lönen för en operatör av en viss maskin kan räknas som en tillverkningsomkostnad och fördelas med maskintid som grund om operatören betjänar flera maskiner.
@@ -155,7 +157,7 @@ RK = Total Rörlig Kostnad
 
 RK/st = Total Rörlig Kostnad/styck
 
-$\pu{ RK_{tot}}$ = Total Rörlig Kostnad
+${ RK_{tot}}$ = Total Rörlig Kostnad
 
 TI = Total Intäkt
 
@@ -202,7 +204,7 @@ SjK = Självkostnad
 #### Total Kostnad
 
 $$
-\pu{TK = FK + (RK\!/\!st \,*\, q)}
+{TK = FK + (RK\!/\!st \,*\, q)}
 $$
 
 <br>
@@ -210,70 +212,70 @@ $$
 #### Total intäkt
 
 $$
-\pu{TI =  Pris\!/\!st \,*\, q}
+{TI =  Pris\!/\!st \,*\, q}
 $$
 <br>
 
 #### Täckningsbidrag/st
 
 $$
-\pu{ TB\!/\!st = Särintäkt - Särkostnad}
+{ TB\!/\!st = Särintäkt - Särkostnad}
 $$
 <br>
 
 #### Totalt Täckningsbidrag
 
 $$
-\pu{ TTB = Total Särintäkt - Total Särkostnad }
+{ TTB = Total Särintäkt - Total Särkostnad }
 $$
 <br>
 
 #### Täckningsgrad
 
 $$
-\pu{ TG = 
+{ TG =
 \frac{TB}{Särinäkt}}
 $$
 
 #### Kritiska Punkten i ett Resultatdiagram
 
 $$
-\pu{ Kritiska Punkten\!: TI = TK  }
+{ Kritiska Punkten\!: TI = TK  }
 $$
 <br>
 
 #### Säkerhetsmarginalen i ett Resultatdiagram (volym)
 
 $$
-\pu{ Säkerhetsmarginal (volym) = q_{v} - q_{K}  }
+{ Säkerhetsmarginal (volym) = q_{v} - q_{K}  }
 $$
 <br>
 
 #### Säkerhetsmarginalen i ett Resultatdiagram (%)
 
 $$
-\pu{ Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}  }
+{ Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}  }
 $$
 <br>
 
 #### Materialomkostnadspålägget
 
 $$
-\pu{  MO \!-\! pålägg=\frac{MO}{dM}}
+{  MO \!-\! pålägg=\frac{MO}{dM}}
 $$
 <br>
 
 #### Tillverkningsomkostnadspålägget
 
 $$
-\pu{TO \!-\! pålägg=\frac{TO}{dL}}
+{TO \!-\! pålägg=\frac{TO}{dL}}
 $$
 <br>
 
 #### Affärsomkostnadspålägget
 
 $$
-\pu{AffO \!-\! pålägg=\frac{AffO}{TvK}}
+{AffO \!-\! pålägg=\frac{AffO}{TvK}}
 $$
 <br>
 
@@ -332,17 +334,17 @@ Nuvärdemetodens beslutsregler säger att en investering där nuvärdet av de fr
 Alltså, med nuvärdesmetoden kan vi exempelvis veta hur mycket avkastningen skulle varit om vi satte in pengarna i banken istället för att göra investeringen.
 
 $$
-\pu{ Nusummefaktor (NUS) = 
+{ Nusummefaktor (NUS) =
 \frac{1 - ( 1 + Kalkylränta )^{-Ekonomisk \, Livslängd (Antal  \, År)}}{Kalkylränta}}
 $$
 
 $$
-\pu{ Nuvärdefaktor (NUV) = 
+{ Nuvärdefaktor (NUV) =
 \frac{1}{( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)}}}
 $$
 
 $$
-\pu{  Nettonuvärde = Grundinvestering + Inbetalningsöverskott * NUS + Restvärde * NUV }
+{  Nettonuvärde = Grundinvestering + Inbetalningsöverskott * NUS + Restvärde * NUV }
 $$
 
 7. Vad visar nuvärdekvoten?
@@ -350,7 +352,7 @@ $$
 När man vill veta hur olika investeringsalternativ kommer utnyttja det satsade kapitalet, grundinvesteringen, kan man beräkna ==nuvärdekvoten==. Ju högre kvoten är ju bättre.
 
 $$
-\pu{ Nuvärdekvot=
+{ Nuvärdekvot=
 \frac
 {Netoonuvärde}{Grundinvestering}}
 $$
@@ -362,11 +364,11 @@ När man använder [[Annuitetsmetoden]] räknar man om investeringens betalninga
 Annuitetsmetodens beslutsregler säger att en investering där annuiteten av de framtida betalningarna är större än noll är lönsam. Investeringen med störst annuitet är mest lönsam.
 
 $$
-\pu{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
+{ Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}} }
 $$
 
 $$
-\pu{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
+{ Annuitet = Nettonuvärde * Annuitetsfaktor  }
 $$
 
 9. Vad visar annuitetskvoten?
@@ -374,7 +376,7 @@ $$
 När man vill veta hur olika investeringsalternativ kommer utnyttja det satsade kapitalet, grundinvesteringen, kan man beräkna ==annuitetskvoten==. Ju högre kvoten är ju bättre.
 
 $$
-\pu{Annuitetskvot=
+{Annuitetskvot=
 \frac{Annuitet}{Grundinvestering}}
 $$
 
@@ -456,33 +458,33 @@ NNV = Nettonuvärde
 ##### Slutvärdefaktor
 
 $$
-\pu{ SLV = ( 1 + r )^{n} }
+{ SLV = ( 1 + r )^{n} }
 $$
 
 ##### Nuvärdefaktor
 
 $$
-\pu{ NUV = 
+{ NUV =
 \frac{1}{( 1 + r )^{n}}}
 $$
 
 ##### Nusummefaktor
 
 $$
-\pu{ NUS = 
+{ NUS =
 \frac{1 - ( 1 + r )^{-n}}{r}}
 $$
 
 ##### Formel för Nuvärdemetoden (Nettonuvärde)
 
 $$
-\pu{  NNV = G + a * NUS + R * NUV }
+{  NNV = G + a * NUS + R * NUV }
 $$
 
 ##### Nuvärdekvoten
 
 $$
-\pu{ Nuvärdekvot=
+{ Nuvärdekvot=
 \frac{NNV}{G}}
 $$
 
@@ -491,18 +493,18 @@ $$
 ##### Annuitetsfaktor
 
 $$
-\pu{ ANN = \frac{r}{1-(1+r)^{-n}} }
+{ ANN = \frac{r}{1-(1+r)^{-n}} }
 $$
 
 ##### Formel för Annuitetsmetoden (Annuitet)
 
 $$
-\pu{ Annuitet = NNV * ANN  }
+{ Annuitet = NNV * ANN  }
 $$
 
 ##### Annuitetskvoten
 
 $$
-\pu{Annuitetskvot=
+{Annuitetskvot=
 \frac{Annuitet}{G}}
 $$

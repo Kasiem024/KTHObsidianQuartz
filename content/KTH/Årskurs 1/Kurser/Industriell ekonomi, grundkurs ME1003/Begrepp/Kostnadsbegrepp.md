@@ -56,7 +56,7 @@ Kostnader som är opåverkade av verksamhetsvolymen upp till en viss nivå. När
 Total Kostnad (TK) är när man summerar en produkts [[Fast Kostnad]] och [[Rörlig Kostnad]], alltså är det den Totala Kostnaden för att tillverka den produkten.
 
 $$
-\pu{Total Kostnad = Fast Kostnad + (Rörlig Kostnad\!/\!st \,*\, Volym)}
+{Total Kostnad = Fast Kostnad + (Rörlig Kostnad\!/\!st \,*\, Volym)}
 $$
 
 ### [[Direkt Kostnad]]

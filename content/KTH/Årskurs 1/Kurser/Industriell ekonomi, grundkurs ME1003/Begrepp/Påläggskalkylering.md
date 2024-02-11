@@ -38,31 +38,31 @@ Alla omkostnader är en [[Indirekt Kostnad]] medan alla andra kostnader är en [
 ### Formler
 
 $$
-\pu{Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkta Kostnader}}
+{Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkta Kostnader}}
 $$
 
 $$
-\pu{  MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
-$$
-
----
-
-$$
-\pu{Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt lön}}
-$$
-
-$$
-\pu{TO\!-\!pålägg=\frac{TO}{dL}}
+{  MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
 $$
 
 ---
 
 $$
-\pu{Affärsomkostnadspålägget=\frac{Affärsomkostnader}{Tillverkningskostnad}}
+{Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt lön}}
 $$
 
 $$
-\pu{AffO\!-\!pålägg=\frac{AffO}{TvK}}
+{TO\!-\!pålägg=\frac{TO}{dL}}
+$$
+
+---
+
+$$
+{Affärsomkostnadspålägget=\frac{Affärsomkostnader}{Tillverkningskostnad}}
+$$
+
+$$
+{AffO\!-\!pålägg=\frac{AffO}{TvK}}
 $$
 
 ## Kopplat till
@@ -93,26 +93,26 @@ Påläggsbaser och Fördelningsnycklar (7)
 Materialomkostnadspålägget (Formel)
 ||
 $$
-\pu{Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkta Kostnader}}
+{Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkta Kostnader}}
 $$
 $$
-\pu{  MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
+{  MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
 $$
 
 Tillverkningsomkostnadspålägget (Formel)
 ||
 $$
-\pu{Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt lön}}
+{Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt lön}}
 $$
 $$
-\pu{TO\!-\!pålägg=\frac{TO}{dL}}
+{TO\!-\!pålägg=\frac{TO}{dL}}
 $$
 
 Affärsomkostnadspålägget (Formel)
 ||
 $$
-\pu{Affärsomkostnadspålägget=\frac{Affärsomkostnader}{Tillverkningskostnad}}
+{Affärsomkostnadspålägget=\frac{Affärsomkostnader}{Tillverkningskostnad}}
 $$
 $$
-\pu{AffO\!-\!pålägg=\frac{AffO}{TvK}}
+{AffO\!-\!pålägg=\frac{AffO}{TvK}}
 $$
