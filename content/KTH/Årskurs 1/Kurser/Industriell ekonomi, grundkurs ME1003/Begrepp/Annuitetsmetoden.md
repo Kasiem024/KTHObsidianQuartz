@@ -9,6 +9,8 @@ Annuitetsmetoden är när man räknar om investeringens betalningar, både [[Gru
 
 Annuitetsmetodens beslutsregler säger att en investering där annuiteten av de framtida betalningarna är större än noll är lönsam. Investeringen med störst annuitet har mest [[Lönsamhet]].
 
+==Räntetabell D==
+
 $$
 { Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}}}
 $$

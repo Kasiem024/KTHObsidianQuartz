@@ -16,6 +16,10 @@ Självkostnadskalkylering är när man kalkylerar samtliga kostnader som företa
 
 Självkostnaden för en produkt är summan av samtliga kostnader för produkten tills den är levererad och betald.
 
+### [[Divisionskalkylering]]
+
+Inom Självkostnadskalkylering finns det något som heter Divisionskalkylering som använda för att få självkostnaden av en enda produkt. Denna metod är väldigt enkel att använda då den fungerar bara om företaget säljer ett väldigt litet antal likartade produkter.
+
 ## Kopplat till
 
 - [[Produktkalkylering]]

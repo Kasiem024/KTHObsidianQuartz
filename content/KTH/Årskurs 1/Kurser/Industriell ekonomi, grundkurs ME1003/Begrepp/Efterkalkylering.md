@@ -17,7 +17,6 @@ Efterkalkylering är när ett företag beräknar sina kostnader för en produkt 
 ## Kopplat till
 
 - [[Produktkalkylering]]
-- [[Förkalkylering]]
 
 ## Flashcards
 

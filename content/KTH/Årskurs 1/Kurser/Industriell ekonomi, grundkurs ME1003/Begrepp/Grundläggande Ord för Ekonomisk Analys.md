@@ -1,4 +1,4 @@
-# Grundläggande Begrepp för Ekonomisk Analys
+# Grundläggande Ord för Ekonomisk Analys
 
 ---
 

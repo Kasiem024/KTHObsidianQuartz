@@ -47,11 +47,11 @@ Kostnad (Definition):: En periodiserad utgift. När företaget förbrukar en res
 
 Exempel på resurser (5)
 ??
-- Arbetskraft (lön).
-- Maskiner/Utrustning.
-- Energi/Bränsle.
-- Tid.
-- Kapital.
+- Arbetskraft (lön)
+- Maskiner/Utrustning
+- Energi/Bränsle
+- Tid
+- Kapital
 <!--SR:!2024-02-12,13,270!2024-03-16,36,290-->
 
 Motsatsen till kostnad:: Motsatsen till [[Intäkt]]

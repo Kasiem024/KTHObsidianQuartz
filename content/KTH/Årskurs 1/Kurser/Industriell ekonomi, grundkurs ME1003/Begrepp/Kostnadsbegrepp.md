@@ -65,7 +65,9 @@ Kostnader som kan direkt hänföras till en specifik [[Kostnadsbärare]].
 
 ### [[Indirekt Kostnad]]
 
-Kostnader som kan indirekt hänföras till en kostnadsbärare via den avdelning eller funktion där de uppkommit. Kostnader för exempelvis arbets- och företagsledningen räknas som indirekta.
+Indirekta Kostnader kan indirekt hänföras till en kostnadsbärare via den avdelning eller funktion där de uppkommit. Kostnader för exempelvis arbets- och företagsledningen räknas som indirekta.
+
+De kopplas som procent till kostnadsbäraren/kalkylobjektet till skillnad från [[Direkt Kostnad]] där beloppet kopplas direkt.
 
 ### [[Särkostnad]]
 
@@ -75,13 +77,17 @@ Kostnader som direkt orsakats av den handling eller det beslut kalkylen avser. A
 
 Kostnader som inte påverkas av den handling eller det beslut kalkylen avser, alltså har de inget med vad kalkylen försöker räkna ut. Kostnader för personal och kontor ses som samkostnader då de skulle uppstått även om just den produkten inte producerades.
 
-### Kostnadsställe
+### [[Kostnadsställe]]
 
-Ett kostnadsställe är den avdelningen eller funktionen där kostnaden uppstår.
+Kostnadsställe är den avdelningen eller funktionen där kostnaden uppstår.
 
-### Kostnadsbärare
+### [[Kostnadsbärare]]
 
-En kostnadsbärare är de varor eller tjänster som företaget producerar. Alltså ska varje produkt bära sin egna kostnad.
+Kostnadsbärare är de varor eller tjänster som företaget producerar. Alltså ska varje produkt bära sin egna kostnad. Man kan också säga att det är ett annat namn för produkt.
+
+### Kostnadsslag
+
+Kostnadsslag är vilken typ av kostnad det är. Exempelvis kan det vara lön, material, hyra, ränta.
 
 ## Kopplat till
 
@@ -92,7 +98,3 @@ Kostnadstyper (3)
 - [[Rörlig Kostnad]], [[Fast Kostnad]] och [[Halvfast Kostnad]]
 - [[Direkt Kostnad]] och [[Indirekt Kostnad]]
 - [[Särkostnad]] och [[Samkostnad]]
-
-Kostnadsställe (Definition):: Den avdelning eller funktion där kostnaden uppstår
-
-Kostnadsbärare (Definition):: De varor eller tjänster som företaget producerar

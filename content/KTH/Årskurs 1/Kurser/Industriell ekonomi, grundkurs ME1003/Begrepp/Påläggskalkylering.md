@@ -30,10 +30,44 @@ Påläggskalkylering är när man systematiskt fördelar kostnaderna på en [[Ko
 	- Exempelvis kostnader för patent.
 - ==Affärsomkostnader== (AffO)
 	- Exempelvis kostnader för ekonomiavdelningen och företagsledningen men också för reklam och försäljare.
-- ==Speciella direkta försäljningskostnader==
+- ==Direkta försäljningskostnader== (dF)
 	- Exempelvis provisioner.
 
-Alla omkostnader är en [[Indirekt Kostnad]] medan alla andra kostnader är en [[Direkt Kostnad]].
+---
+
+dM = Direkt Material
+
+MO = Materialomkostnad
+
+MO-pålägg = Materialomkostnadspålägg
+
+dL = Direkt Lön
+
+TvK = Tillverkningskostnad
+
+TO = Tillverkningsomkostnad
+
+TO-pålägg = Tillverkningsomkostnadspålägg
+
+AO = Administrationskostnad
+
+FO = Försäljningskostnad
+
+AffO = AO + FO = Affärsomkostnader
+
+AffO-pålägg = Affärsomkostnadspålägg
+
+dF = Direkta Försäljningskostnader
+
+---
+
+Alla omkostnader är en [[Indirekt Kostnad]] medan alla andra  kostnader är en [[Direkt Kostnad]].
+
+Tillverkningskostnad (TvK) är summan av dM, MO, dL, TO och övriga direkta tillverkningskostnader.
+
+Affärsomkostnader (AffO) består av Administrationskostnad (AO) och Försäljningskostnad (FO).
+
+Självkostnaden (SjK) för en produkt är alltså summan av TvK, AffO och dF.
 
 ### Formler
 
@@ -93,10 +127,10 @@ Påläggsbaser och Fördelningsnycklar (7)
 Materialomkostnadspålägget (Formel)
 ||
 $$
-{Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkta Kostnader}}
+{Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkt \, Material}}
 $$
 $$
-{ MO\!-\!pålägg=\frac{MO}{Direkta \, Kostnader}}
+{ MO\!-\!pålägg=\frac{MO}{dM}}
 $$
 
 Tillverkningsomkostnadspålägget (Formel)

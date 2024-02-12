@@ -29,6 +29,8 @@ Exempel: $1000 * SLV = 1000 * (1+0.2)^{1}=1200$
 
 Alltså om kalkylräntan är 20% är 1000 kr idag värda 1200 kr om 1 år.
 
+==Räntetabell A==
+
 #### Nuvärdefaktor
 
 $$
@@ -43,9 +45,11 @@ $$
 
 Om man vill få ett framtida belopp i nutidens värde ska man dela det beloppet med ==nuvärdefaktorn==.
 
-Exempel $1200*NUV=1200*\frac{1}{(1+0.2)^{1}}=1000$
+Exempel: $1200*NUV=1200*\frac{1}{(1+0.2)^{1}}=1000$
 
 Alltså om kalkylräntan är 20% är 1200 kr idag värda 1000 kr 1 år sen.
+
+==Räntetabell B==
 
 #### Nusummefaktor
 
@@ -58,6 +62,10 @@ $$
 { NUS =
 \frac{1 - ( 1 + r )^{-n}}{r}}
 $$
+
+Om man ska betala ett lika stort belopp varje år i flera år ska man använda ==nusummefaktorn==. Alltså summerar den nuvärdefaktorn.
+
+==Räntetabell C==
 
 ### Formel för Nuvärdekalkyl (Nettonuvärde)
 

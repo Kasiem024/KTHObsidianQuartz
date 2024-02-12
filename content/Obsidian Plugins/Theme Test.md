@@ -1,10 +1,12 @@
 # Theme Test
 
+---
+
 Skapad: 2024-02-08 14:46
 
 Uppdaterad: Thursday 8th February 2024 14:46:17
 
-Tags: #year2024
+---
 
 ## Header 2
 
@@ -18,6 +20,7 @@ Tags: #year2024
 
 **bold text**
 *italic text*
+***italic and bold text***
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ==incididunt== ut labore et dolore magna aliqua.
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in **reprehenderit** in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

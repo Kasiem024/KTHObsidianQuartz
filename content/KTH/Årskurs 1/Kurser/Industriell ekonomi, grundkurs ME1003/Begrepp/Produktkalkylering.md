@@ -41,17 +41,32 @@ Självkostnadskalkylering är när man kalkylerar samtliga kostnader som företa
 
 Självkostnaden för en produkt är summan av samtliga kostnader för produkten tills den är levererad och betald.
 
+#### [[Divisionskalkylering]]
+
+Inom Självkostnadskalkylering finns det något som heter Divisionskalkylering som använda för att få självkostnaden av en enda produkt. Denna metod är väldigt enkel att använda då den fungerar bara om företaget säljer ett väldigt litet antal likartade produkter.
+
 ### [[Aktivitetsbaserad Kalkylering]]
 
 Aktivitetsbaserad Kalkylering (ABC-Kalkylering) grundar sig i att inte betrakta kostnader med hjälp av begreppen fast/rörlig eller direkt/indirekt. Man ska istället utgå från att aktiviteter utförs i företaget och att det är dessa aktiviteter, inte avdelningarna, som ger upphov till kostnaderna.
+
+### [[Förkalkylering]]
+
+Förkalkylering är när ett företag försöker beräkna sina kostnader för en viss produkt i förväg.
+
+### [[Efterkalkylering]]
+
+Efterkalkylering är när ett företag beräknar sina kostnader för en produkt i efter hand, vanligtvis för att se hur det gick med [[Förkalkylering]].
 
 ## Kopplat till
 
 ## Flashcards
 
-Typer av Produktkalkylering (4)
+Typer av Produktkalkylering (7)
 ??
 - [[Bidragskalkylering]]
 - [[Stegkalkylering]]
 - [[Självkostnadskalkylering]]
+- [[Divisionskalkylering]]
 - [[Aktivitetsbaserad Kalkylering]]
+- [[Förkalkylering]]
+- [[Efterkalkylering]]

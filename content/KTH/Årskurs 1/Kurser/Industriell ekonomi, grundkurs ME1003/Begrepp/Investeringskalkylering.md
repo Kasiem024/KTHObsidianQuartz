@@ -12,11 +12,13 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
 
-En Investeringskalkyl analyserar de effekter som med rimlig säkerhet kan översättas till kronor och ören. Kalkylen behandlar hur en viss [[Investering]] påverkar ==betalningsströmmarna== över företagets gräns, det vill säga hur mycket pengar som flyter in och ut från företaget, alltså [[Kassaflöde]].
+En Investeringskalkyl analyserar de effekter som med rimlig säkerhet kan översättas till kronor och ören. Kalkylen behandlar hur en viss [[Investering]] påverkar ==betalningsströmmarna== över företagets gräns, det vill säga hur mycket pengar som flyter in och ut från företaget, alltså [[Kassaflöde]] inte kostnader.
 
 Syftet med en Investeringskalkyl är att utgöra ett underlag för att bedöma [[Lönsamhet]] i en satsning eller ett större projekt. Med den kan man veta lönsamheten av en pågående investering eller om en nyinvestering är värt det.
 
 Alltså, en investeringskalkyl bedömer lönsamheten eller värdet av en investering och syftet med kalkylen är att veta om en viss investering är bra eller inte.
+
+Det investerade kapitalet skall förräntas alltså öka i värde. Detta kallas ==avkastningskrav== och hänger ihop med [[Kalkylränta]] och ==återbetalningstid==.
 
 ## Metoder
 
@@ -25,9 +27,9 @@ Alltså, en investeringskalkyl bedömer lönsamheten eller värdet av en investe
 - [[Internräntemetoden]]
 - [[Återbetalningsmetoden]]
 
-## Kopplat till
+![[Investeringskalkyleringsmetoder ME1003.png]]
 
-- [[Kalkylränta]]
+## Kopplat till
 
 ## Flashcards
 

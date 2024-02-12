@@ -13,6 +13,8 @@ Internräntemetodens beslutsregler säger att en investering vars internränta �
 
 Alltså, Internräntemetoden visar när en investering möter avkastningskraven, [[Kalkylränta]].
 
+==Räntetabell C==
+
 ## Kopplat till
 
 - [[Investeringskalkylering]]

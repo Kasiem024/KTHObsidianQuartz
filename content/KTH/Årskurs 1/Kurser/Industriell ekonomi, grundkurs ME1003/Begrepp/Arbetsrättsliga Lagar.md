@@ -14,7 +14,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
 - ==Lagen om anställningsskydd (LAS)==
 	- Skyddar de anställda för det mesta när det kommer till uppsägningar och provanställningar.
-- ==Arbetsmiljölagen==
+- ==Arbetsmiljölagen (AML)==
 	- Regler om skyldigheter för arbetsgivare om att förebygga ohälsa och olycksfall i arbetet.
 - ==Medbestämmandelagen (MBL)==
 	- Reglerar rätten för arbetsgivare och arbetstagare att organisera sig och kalla till kollektiva förhandlingar med sin motpart, alltså fackförbund.

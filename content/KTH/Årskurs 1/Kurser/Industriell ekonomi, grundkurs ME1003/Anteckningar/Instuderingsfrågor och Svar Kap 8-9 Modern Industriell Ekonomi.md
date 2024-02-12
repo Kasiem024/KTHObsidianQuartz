@@ -1,7 +1,10 @@
-# Instuderingsfrågor Kap 8-9 KS2 ME1003
+# OBS
 
-2024-02-05 20:13
-Tags: #year2024 #KTH #ekonomi #ME1003 #övning #ME1003KS2
+Tags: #nograph
+
+**Detta är instuderingsfrågor tagna från övningsboken. Det finns inget facit för frågorna utan svaren är mina egna baserat på vad jag har läst i boken och vad som har sagts på föreläsningarna.**
+
+---
 
 ## Kapitel 8 Ekonomisk Analys och Produktkalkylering
 

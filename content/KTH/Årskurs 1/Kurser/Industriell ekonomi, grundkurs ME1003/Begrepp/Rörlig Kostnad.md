@@ -12,7 +12,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
 
-Rörlig Kostnad (RK) varierar med verksamhetsvolym. Alltså ju mer som produceras ju högre de Rörliga Kostnaderna blir.
+Rörlig Kostnad (RK) varierar med verksamhetsvolym. Alltså ändras de beroende på hur mycket som tillverkas och säljs.
 
 ### Typer av rörlig kostnad
 
@@ -39,7 +39,7 @@ När styckkostnaden minskar för varje tillverkad produkt. Alltså dyrt om volym
 
 ## Flashcards
 
-Rörlig Kostnad (Definition):: Kostnader som är beroende av verksamhetsvolym
+Rörlig Kostnad (Definition):: Kostnader som är beroende av verksamhetsvolym, alltså ändras de beroende på hur mycket som tillverkas och säljs.
 <!--SR:!2024-02-10,4,270!2000-01-01,1,250-->
 
 Typer av Rörlig Kostnad (3)
