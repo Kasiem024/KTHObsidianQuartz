@@ -29,4 +29,4 @@ Uppgifter som ska inkluderas i förvaltningsberättelsen (4)
 - Händelser av väsentlig betydelse.
 - Förväntade framtida utvecklingar.
 - Förslag till disposition av årets resultat.
-<!--SR:!2024-02-17,7,230!2024-02-11,2,230-->
+<!--SR:!2024-02-17,7,230!2024-02-19,6,250-->

@@ -22,3 +22,4 @@ Intäkter som direkt orsakats av den handling eller det beslut kalkylen avser. A
 ## Flashcards
 
 Särintäkt (Definition):: Intäkter som direkt orsakats av den handling eller det beslut kalkylen avser, alltså om intäkten uppstår för att en viss produkt har producerats
+<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->

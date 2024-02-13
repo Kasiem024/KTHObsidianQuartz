@@ -16,4 +16,4 @@ Alltså, Koncernredovisningen är en särskild [[Årsredovisning]] som ett moder
 ## Flashcards
 
 Koncernredovisning (Definition):: En särskild [[Årsredovisning]] som ett moderföretag upprättar utöver sin vanliga årsredovisning där moderföretaget och alla dess dotterföretag ses som en ekonomisk enhet. Innehållet liknar årsredovisningen och vissa moderföretag har undantag
-<!--SR:!2024-02-12,3,230!2024-02-20,10,288-->
+<!--SR:!2024-02-25,12,250!2024-02-20,10,288-->

@@ -5,7 +5,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
 ## Definition
 
-Har med hur många mellanled det finns mellan producenten av en produkt och själva kunden. Ju mer steg det finns ju dyrare priset av en produkt blir för kunden.
+Distributionskanaler har med hur många mellanled det finns mellan producenten av en produkt och själva kunden. Ju mer steg det finns ju dyrare priset av en produkt blir för kunden.
 
 ![[Distributionskanaler ME1003.png]]
 

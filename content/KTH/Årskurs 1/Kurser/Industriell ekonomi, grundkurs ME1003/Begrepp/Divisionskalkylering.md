@@ -31,6 +31,7 @@ $$
 ## Flashcards
 
 Divisionskalkylering (Definition):: Kalkyleringsmetod om man säljer ett litet antal likartade produkter och vill veta självkostnaden
+<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->
 
 Divisionskalkylering (Formel)
 ||
@@ -40,3 +41,4 @@ $$
 $$
 SJK/st= \frac{TK}{q}
 $$
+<!--SR:!2024-02-16,3,250-->

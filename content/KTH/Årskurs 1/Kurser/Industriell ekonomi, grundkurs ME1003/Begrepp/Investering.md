@@ -41,6 +41,7 @@ Rationaliseringsinvesteringar är operativa och förbättrar förutsättningarna
 ## Flashcards
 
 Investering (Definition):: En kapitalsatsning som ger betalningskonsekvenser under en längre tid, minst mer än ett år, alltså när man satsar pengar idag i hoppet om att konsekvenserna av den satsningen i framtiden blir positiv
+<!--SR:!2024-02-16,3,250!2000-01-01,1,250-->
 
 Typer av Investeringar (3)
 ??
@@ -50,3 +51,4 @@ Typer av Investeringar (3)
 	- Anpassningsinvesteringar är taktiska och görs för att säkerställa att företaget framgångsrikt kan driva den existerande verksamheten vidare på relativt långt sikt. Exempelvis en ny tillverkningsprocess eller en ny maskinpark.
 - [[Rationaliseringsinvesteringar]]
 	- Rationaliseringsinvesteringar är operativa och förbättrar förutsättningarna för den löpande verksamheten. Exempelvis nya arbetsmetoder och eliminering av en trång sektor.
+<!--SR:!2024-02-14,1,230!2000-01-01,1,250-->

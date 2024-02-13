@@ -26,3 +26,4 @@ De kopplas som procent till kostnadsbäraren/kalkylobjektet till skillnad från 
 ## Flashcards
 
 Indirekt Kostnad (Definition):: Kostnader som kan hänföras till en [[Kostnadsbärare]] via den avdelning eller funktion där de uppkommit, exempelvis arbets- och företagsledningens kostnader
+<!--SR:!2000-01-01,1,250!2024-02-17,4,270-->

@@ -52,21 +52,25 @@ $$
 
 ## Flashcards
 
-Resultatdiagram (Definition):: Ett diagram som visar ==relationen== mellan ==intäkterna== och ==verksamhetsvolymen==, innehåller en linje för [[Fast Kostnad]], totala kostnader och totala intäkter
+Resultatdiagram (Definition):: Ett diagram som visar ==relationen== mellan ==intäkterna== och ==verksamhetsvolymen==, innehåller en linje för [[Fast Kostnad]], [[Total Kostnad]] och [[Total Intäkt]]
+<!--SR:!2024-02-16,3,256!2024-02-17,4,270-->
 ![[Resultatdiagram ME1003.png]]
 
-Kritiska Punkten i ett Resultatdiagram (Definition):: Punkten där de totala intäkterna precis räcker för att täcka de totala kostnaderna i ett Resultatdiagram ${ Kritiska Punkten\!: Total Inäkt = Total Kostnad }$
+Kritiska Punkten i ett Resultatdiagram (Definition):: Punkten där de totala intäkterna precis räcker för att täcka de totala kostnaderna i ett Resultatdiagram, Total Inäkt = Total Kostnad
+<!--SR:!2000-01-01,1,250!2024-02-17,4,274-->
 
 Säkerhetsmarginalen (Definition):: Visar med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår i ett Resultatdiagram
+<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->
 
 Säkerhetsmarginal, Volym (Formel)
 ||
 $$
-{ Säkerhetsmarginal (volym) = Verklig Volym - Kritisk Volym }
+{ Säkerhetsmarginal (volym) = Verklig \, Volym - Kritisk \, Volym }
 $$
 $$
 { Säkerhetsmarginal (volym) = q_{v} - q_{K}}
 $$
+<!--SR:!2024-02-16,3,254-->
 
 Säkerhetsmarginal, Procent (Formel)
 ||
@@ -76,3 +80,4 @@ $$
 $$
 { Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}}
 $$
+<!--SR:!2024-02-16,3,254-->

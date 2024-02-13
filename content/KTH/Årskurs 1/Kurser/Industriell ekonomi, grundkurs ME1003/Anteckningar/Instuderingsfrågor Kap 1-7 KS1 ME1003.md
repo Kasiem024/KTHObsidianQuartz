@@ -442,10 +442,7 @@ Offert (Definition):: När det säljande företaget ska lämna ett erbjudande ti
 
 16. Vad är dröjsmålsränta?
 
-==Dröjsmålsränta== är en straffavgift som leverantören/säljaren betalar till köparen för varje dag en leverans är försenad.
-
-Dröjsmålsränta (Definition):: När en leverans är försenad kan köparen begära en ==straffavgift== av leverantören för varje dag leveransen är försenad
-<!--SR:!2024-02-11,3,264!2024-02-13,4,295-->
+[[Dröjsmålsränta]] är en straffavgift som leverantören/säljaren betalar till köparen för varje dag en leverans är försenad.
 
 ## Kapitel 6 Produktion
 

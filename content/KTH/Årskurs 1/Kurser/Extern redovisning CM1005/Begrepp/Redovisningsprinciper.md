@@ -35,4 +35,4 @@ Olika Redovisningsprinciper (7)
 - [[Kontinuitetsprincipen]]
 - [[Bruttoredovisningsprincipen]]
 - [[Principen om individuell värdering]]
-<!--SR:!2024-02-11,3,210!2024-02-19,13,290-->
+<!--SR:!2024-02-15,2,190!2024-02-19,13,290-->

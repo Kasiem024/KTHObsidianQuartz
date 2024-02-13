@@ -26,4 +26,4 @@ Utbetalning (Definition):: När företaget betalar för något. En del av [[Kass
 <!--SR:!2024-03-16,37,292!2024-02-14,14,290-->
 
 Motsatsen till utbetalning:: Motsatsen till [[Inbetalning]]
-<!--SR:!2024-02-12,17,292!2024-02-16,17,292-->
+<!--SR:!2024-04-21,68,312!2024-02-16,17,292-->

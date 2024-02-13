@@ -64,10 +64,10 @@ Sidor 43-51, 58-73
 ## Flashcards
 
 Kontant Affär (Definition):: När [[Utgift]] och [[Utbetalning]] sker vid samma tidpunkt
-<!--SR:!2024-02-13,7,263!2024-02-18,13,285-->
+<!--SR:!2024-03-11,27,283!2024-02-18,13,285-->
 
 När händer Faktura/Bokföring;; Vid en specifik tidpunkt
 <!--SR:!2024-03-07,28,282-->
 
 När händer Prestation/Förbrukning;; Över en period
-<!--SR:!2024-02-12,13,270-->
+<!--SR:!2024-03-30,46,290-->

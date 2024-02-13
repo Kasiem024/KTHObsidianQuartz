@@ -24,4 +24,5 @@ Halvfasta Kostnader är opåverkade av verksamhetsvolymen upp till en viss nivå
 ## Flashcards
 
 Halvfast kostnad (Definition):: En kostnad som är opåverkad av verksamhetsvolymen upp till en viss nivå, hoppar upp när den nivån uppnås
+<!--SR:!2000-01-01,1,250!2024-02-17,4,270-->
 ![[Halvfasta Kostnader ME1003.png]]

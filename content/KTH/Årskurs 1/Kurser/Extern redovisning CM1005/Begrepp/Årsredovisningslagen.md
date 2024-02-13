@@ -19,8 +19,8 @@ Det är inte alla verksamheter som behöver följa denna lag. De verksamheter so
 
 ## Flashcards
 
-Årsredovisningslagen (Definition):: En lag som bestämmer hur företag ska redogöra sin [[Årsredovisning]], [[Koncernredovisning]] och delårsrapport. Den är baserad på direktiv från EU.
-<!--SR:!2024-02-11,2,230!2024-02-23,13,292-->
+Årsredovisningslagen (Definition):: En lag som bestämmer hur företag ska redogöra sin [[Årsredovisning]], [[Koncernredovisning]] och delårsrapport. Den är baserad på direktiv från EU
+<!--SR:!2024-02-18,5,230!2024-02-23,13,292-->
 
 Vem ska följa Årsredovisningslagen (5)
 ??

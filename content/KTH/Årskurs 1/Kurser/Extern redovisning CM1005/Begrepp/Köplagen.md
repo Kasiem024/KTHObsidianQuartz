@@ -1,0 +1,39 @@
+# Köplagen
+
+---
+
+Skapad: 2024-02-13 17:21
+
+Uppdaterad: 2024-02-13 17:21
+
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
+
+---
+
+## Definition
+
+Köplagen är som [[Konsumentköplagen]] dock när köparen inte är en privatperson. Syftet med den är att skydda köparen dock är den inte lika sträng som konsumentköplagen då parternas förhandlingsstyrka är mer balanserad. Alltså är denna lag mer relevant inom en [[Företagsmarknad]].
+
+Exempel på när Köplagen gäller:
+
+- Mellan två företag.
+- Mellan två privatpersoner.
+- När en privatperson säljer till ett företag.
+
+Köplagen är dispositiv. Med detta menas att den gäller bara i situationer där inget har tidigare avtalats om. Då det är vanligt att företag kommer överens om ett avtal med varandra. Alltså gäller avtalet först och sen kommer Köplagen.
+
+## Kopplat till
+
+- [[Varutransaktion]]
+
+## Flashcards
+
+Köplagen (Definition):: En svagare version av [[Konsumentköplagen]] som är mer relevant inom en [[Företagsmarknad]], syftet är att skydda köparen, den är dispositiv, gäller bara om inget har tidigare avtalats om
+<!--SR:!2024-02-16,3,250!2000-01-01,1,250-->
+
+När Köplagen gäller (3)
+??
+- Mellan två företag.
+- Mellan två privatpersoner.
+- När en privatperson säljer till ett företag.
+<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->

@@ -25,3 +25,4 @@ Särkostnader som direkt orsakats av den handling eller det beslut kalkylen avse
 ## Flashcards
 
 Särkostnad (Definition):: Kostnader som direkt orsakats av den handling eller det beslut kalkylen avser. Alltså om kostnaden uppstår för att just den produkten har producerats
+<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->

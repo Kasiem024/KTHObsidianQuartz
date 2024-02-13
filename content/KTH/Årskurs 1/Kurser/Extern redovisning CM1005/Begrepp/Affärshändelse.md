@@ -19,4 +19,4 @@ Affärshändelse (Definition):: En ekonomisk transaktion som har en inverkan på
 <!--SR:!2024-02-25,20,270!2024-02-14,14,290-->
 
 Fråga för att veta om något är en affärshändelse:: Har det varit ett ekonomiskt utbyte med världen?
-<!--SR:!2024-03-30,51,310!2024-02-12,13,270-->
+<!--SR:!2024-03-30,51,310!2024-03-31,47,290-->

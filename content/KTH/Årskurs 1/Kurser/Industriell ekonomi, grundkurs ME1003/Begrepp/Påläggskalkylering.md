@@ -31,7 +31,7 @@ Påläggskalkylering är när man systematiskt fördelar kostnaderna på en [[Ko
 - ==Affärsomkostnader== (AffO)
 	- Exempelvis kostnader för ekonomiavdelningen och företagsledningen men också för reklam och försäljare.
 - ==Direkta försäljningskostnader== (dF)
-	- Exempelvis provisioner.
+	- Exempelvis provision, reklam, resor, mässor.
 
 ---
 
@@ -106,6 +106,7 @@ $$
 ## Flashcards
 
 Påläggskalkylering (Definition):: När man systematiskt fördelar kostnaderna på en [[Kostnadsbärare]] genom att utgå från [[Direkt Kostnad]].
+<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->
 
 Påläggsbaser och Fördelningsnycklar (7)
 ??
@@ -121,8 +122,9 @@ Påläggsbaser och Fördelningsnycklar (7)
 	- Exempelvis kostnader för patent.
 - ==Affärsomkostnader== (AffO)
 	- Exempelvis kostnader för ekonomiavdelningen och företagsledningen men också för reklam och försäljare.
-- ==Speciella direkta försäljningskostnader==
-	- Exempelvis provisioner.
+- ==Speciella direkta försäljningskostnader== (dF)
+	- Exempelvis provision, reklam, resor, mässor.
+<!--SR:!2024-02-14,1,230!2024-02-17,4,270-->
 
 Materialomkostnadspålägget (Formel)
 ||
@@ -132,6 +134,7 @@ $$
 $$
 { MO\!-\!pålägg=\frac{MO}{dM}}
 $$
+<!--SR:!2024-02-16,3,250-->
 
 Tillverkningsomkostnadspålägget (Formel)
 ||
@@ -141,6 +144,7 @@ $$
 $$
 {TO\!-\!pålägg=\frac{TO}{dL}}
 $$
+<!--SR:!2024-02-14,1,230-->
 
 Affärsomkostnadspålägget (Formel)
 ||
@@ -150,3 +154,4 @@ $$
 $$
 {AffO\!-\!pålägg=\frac{AffO}{TvK}}
 $$
+<!--SR:!2024-02-16,3,250-->

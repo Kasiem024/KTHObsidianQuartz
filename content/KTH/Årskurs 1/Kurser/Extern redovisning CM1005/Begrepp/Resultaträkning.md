@@ -54,7 +54,7 @@ Vad som brukar inkluderas i RR Vänster (5)
 <!--SR:!2024-02-17,10,288!2024-02-25,17,293-->
 
 Kostnadsindelad Resultaträkning (Definition):: När man delar upp verksamhetens kostnader efter kostnadsslag, alltså vilken typ av kostnad det är
-<!--SR:!2024-02-24,14,292!2024-02-11,3,235-->
+<!--SR:!2024-02-24,14,292!2024-02-25,12,255-->
 
 Funktionsindelad Resultaträkning (3)
 ??
@@ -62,4 +62,4 @@ När man delar upp verksamhetens kostnader i 3 huvudfunktioner:
 - Tillverkning
 - Försäljning
 - Administration
-<!--SR:!2024-02-11,1,155!2024-02-10,1,212-->
+<!--SR:!2024-02-11,1,155!2024-02-16,3,232-->

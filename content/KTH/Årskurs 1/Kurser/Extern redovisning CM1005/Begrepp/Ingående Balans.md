@@ -23,4 +23,4 @@ Konton som bildar ingående balans (3)
 - Tillgångar
 - Eget Kapital
 - Skulder
-<!--SR:!2024-02-12,13,270!2024-03-17,37,290-->
+<!--SR:!2024-04-01,48,290!2024-03-17,37,290-->

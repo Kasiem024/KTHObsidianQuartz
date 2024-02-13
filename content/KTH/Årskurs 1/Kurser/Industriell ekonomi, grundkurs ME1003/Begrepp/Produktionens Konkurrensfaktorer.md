@@ -9,10 +9,10 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
 Alltså faktorer som har med [[Produktion]] att göra och som gör att vi kan konkurrera med andra företag. De är viktiga både för kunden och för producenten men är ofta motstridiga. Därför måste man välja vilka man vill fokusera på.
 
-- ==Pris==: Förmågan att producera och leverera till låg kostnad
-- ==Leveransförmåga==: Förmågan att leverera snabbt och billigt, uppnås genom färdigvarulager och korta genomloppstider
-- ==Kvalitet==: Förmågan att tillfredsställa kundens behov och förväntningar, uppnås genom standardisering och kunskap om kundens behov
-- ==Flexibilitet==: Förmåga att anpassa produktionen till förändringar i omvärlden, uppnås genom överkapacitet och utbildning av personal som klarar av snabba omställningar
+- ==Pris==: Förmågan att producera och leverera till låg kostnad.
+- ==Leveransförmåga==: Förmågan att leverera snabbt och billigt, uppnås genom färdigvarulager och korta genomloppstider.
+- ==Kvalitet==: Förmågan att tillfredsställa kundens behov och förväntningar, uppnås genom standardisering och kunskap om kundens behov.
+- ==Flexibilitet==: Förmåga att anpassa produktionen till förändringar i omvärlden, uppnås genom överkapacitet och utbildning av personal som klarar av snabba omställningar.
 
 Ett enkelt exempel på hur Produktionens Konkurrensfaktorer är motstridiga är hur kvaliteten av en produkt beror på råvarorna man har använt för tillverkningen. Hög kvalitet betyder dyra råvaror vilket leder till att priset som man säljer produkten för måste öka så att man kan tjäna på det. Eftersom de är motstridiga betyder det att man måste välja vilka man vill fokusera på beroende på [[Värdeerbjudandet]].
 

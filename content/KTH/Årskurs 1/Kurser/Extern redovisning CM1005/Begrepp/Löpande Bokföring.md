@@ -31,8 +31,8 @@ Löpande Bokföring (Definition):: När man bokför ett företags [[Affärshänd
 
 De olika konton för löpande bokföring (4)
 ??
-- Tillgångar.
-- Eget Kapital/Skulder.
-- Utgifter.
-- Inkomster.
-<!--SR:!2024-02-11,3,228!2024-02-14,5,210-->
+- Tillgångar
+- Eget Kapital/Skulder
+- Utgifter
+- Inkomster
+<!--SR:!2024-02-22,9,228!2024-02-14,5,210-->

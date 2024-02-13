@@ -32,12 +32,14 @@ $$
 ## Flashcards
 
 Totala Intäkter (Definition):: Beräknas genom att pris per styck multipliceras med antalet sålda enheter. När de Totala Intäkterna är lika stora som [[Total Kostnad]] är företagets resultat noll, det vill säga varken vinst eller förlust
+<!--SR:!2000-01-01,1,250!2024-02-17,4,270-->
 
 Totala Intäkter (Formel)
 ||
 $$
-{Total Intäkt =  Pris\!/\!st \,*\, Volym}
+{Total \, Intäkt =  Pris\!/\!st \,*\, Volym}
 $$
 $$
 {TI =  Pris\!/\!st \,*\, q}
 $$
+<!--SR:!2024-02-16,3,250-->

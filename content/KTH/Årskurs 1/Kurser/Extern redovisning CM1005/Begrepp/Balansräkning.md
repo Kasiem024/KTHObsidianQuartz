@@ -48,7 +48,7 @@ Vad som brukar inkluderas i BR Vänster
 ??
 - Faktiska värdet av utrustningen efter avskrivning (500-100=400).
 - Vad man har i banken, saldot/resultatet från kassaflöde.
-<!--SR:!2024-02-12,10,287!2024-02-16,9,269-->
+<!--SR:!2024-03-23,39,307!2024-02-16,9,269-->
 
 Vad som brukar inkluderas i BR Höger
 ??
@@ -57,4 +57,4 @@ Vad som brukar inkluderas i BR Höger
 - Ägaruttag från vinsten.
 - Främmande kapital, skulder, banklån.
 - Amortering på banklån.
-<!--SR:!2024-02-15,10,287!2024-02-13,11,287-->
+<!--SR:!2024-02-15,10,287!2024-03-27,43,307-->

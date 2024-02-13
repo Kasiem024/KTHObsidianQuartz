@@ -40,7 +40,7 @@ Debet (Definition):: Visar vart det kommer in pengar. Alltså på vilket konto p
 <!--SR:!2024-02-22,15,294!2024-03-05,26,272-->
 
 Kredit (Definition):: Visar vart pengarna kommer från. Alltså vad pengarnas källa är (T-Konto)
-<!--SR:!2024-02-11,11,272!2024-02-20,15,296-->
+<!--SR:!2024-03-25,41,292!2024-02-20,15,296-->
 
 Råbalans (Definition):: En förteckning över samtliga konton med dessas totalsummor i debet och kredit för perioden. Hopräkning av alla kontons summor vid slutet av en redovisningsperiod. En sammanställning av allt som har debiterats respektive krediterats, kopplat till saldobalans
 <!--SR:!2024-02-22,12,258!2024-02-14,8,240-->

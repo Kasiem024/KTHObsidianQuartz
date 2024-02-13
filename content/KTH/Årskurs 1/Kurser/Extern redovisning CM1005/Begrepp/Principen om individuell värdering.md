@@ -18,4 +18,4 @@ Alltså värdet av alla sina tillgångar och skulder ska inte summeras men värd
 ## Flashcards
 
 Principen om individuell värdering (Definition):: En av flera [[Redovisningsprinciper]] som innebär att värdet av alla sina tillgångar och värdet av alla skulder ska inte summeras eller kvittas mot varann men ==värderas separat==. Dock finns det undantag
-<!--SR:!2024-02-11,5,248!2024-02-21,11,270-->
+<!--SR:!2024-03-01,17,268!2024-02-21,11,270-->

@@ -12,7 +12,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
 
-Grundinvestering (G) är den första utbetalningen man gör när det kommer till en investering. Detta värde används i flera olika metoder inom [[Investeringskalkylering]] för att veta om en viss [[Investering]] har [[Lönsamhet]] eller inte.
+Grundinvestering (G) är den första [[Utbetalning]] man gör när det kommer till en investering. Detta värde används i flera olika metoder inom [[Investeringskalkylering]] för att veta om en viss [[Investering]] har [[Lönsamhet]] eller inte.
 
 ## Kopplat till
 
@@ -20,4 +20,5 @@ Grundinvestering (G) är den första utbetalningen man gör när det kommer till
 
 ## Flashcards
 
-Grundinvestering (G) (Definition):: Den första utbetalningen för en investering
+Grundinvestering (G) (Definition):: Den första [[Utbetalning]] för en investering
+<!--SR:!2024-02-17,4,270!2024-02-17,4,272-->

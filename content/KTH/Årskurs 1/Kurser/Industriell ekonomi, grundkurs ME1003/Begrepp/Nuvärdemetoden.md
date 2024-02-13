@@ -99,6 +99,7 @@ $$
 ## Flashcards
 
 Nuvärdemetoden (Definition):: En ränteräkningsmetod som med hjälp av [[Kalkylränta]] räknar om de olika investeringsalternativens betalningar till en och samma tidpunkt, till början av det år då ==grundinvesteringen== görs, hur mycket skulle avkastningen varit om vi satte in pengarna i banken istället för att göra investeringen
+<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->
 
 Omräkningsfaktorer (3) (Formel)
 ||
@@ -126,6 +127,7 @@ $$
 { NUS =
 \frac{1 - ( 1 + r )^{-n}}{r}}
 $$
+<!--SR:!2024-02-14,1,230-->
 
 Nettonuvärde (Formel)
 ||
@@ -135,6 +137,7 @@ $$
 $$
 { NNV = G + a * NUS + R * NUV }
 $$
+<!--SR:!2024-02-14,1,230-->
 
 Nuvärdekvot (Definition) (Formel)
 ||
@@ -148,3 +151,4 @@ $$
 \frac
 {NNV}{G}}
 $$
+<!--SR:!2024-02-14,1,230-->
