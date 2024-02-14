@@ -3,7 +3,11 @@
 2024-02-06 08:28
 Tags: #year2024 #KTH #ekonomi #ME1003 #övning #ME1003KS2
 
-## 8.1 Johanna LargeKitchen
+[[Räkneövningar Frågor Kap 8-9 ME1003.pdf]]
+
+## Begrepp
+
+### 8.1 Johanna LargeKitchen
 
 Johanna LargeKitchen AB är ett storkök som tillagar och levererar färdiglagad mat till sjukhus, skolor etc. Företaget registrerade under ett par månader nedanstående affärshändelser. Ange om dessa är utgifter/inkomster, utbetalningar/inbetalningar, eller kostnader/intäkter. De kan vara fler än en av dessa!
 
@@ -17,18 +21,58 @@ Johanna LargeKitchen AB är ett storkök som tillagar och levererar färdiglagad
 	- Inbetalning
 - e) Företaget erhåller och bokför en faktura för inköpta varor
 	- Utgift
-- f)
+- f) Inköp av ny skärmaskin, betalas direkt.
 	- Utbetalning, Utgift
-- g)
+- g) Lön till personalen.
 	- Utbetalning, Kostnad
-- h)
+- h) Betalning av fakturan för inköpta råvaror (se e)
 	- Utbetalning
-- i)
+- i) Amortering på banklån.
 	- Utbetalning
-- j)
+- j) Avskrivning på köksutrustning.
 	- Kostnad
-- k)
+- k) Beställning av råvaror.
 	- Inget
+
+---
+
+### 8.2 Axton
+
+I samband med att företaget Axton AB köper in ett parti komponenter som ska användas i tillverkningen sker följande händelser:
+
+- Beställning av komponenterna - 16/03-2023
+- Komponenterna anländer till Axton - 15/05-2023
+- Faktura på 60 tkr skickas av leverantören - 18/05-2023
+- Fakturan mottas och bokförs av Axton - 20/05-2023
+
+Betalning sker med hälften av beloppet (dvs 30 tkr) 31/06-2023, andra halvan 31/01-2024. I slutet av 2023 finns 65% av komponenterna kvar, resterande komponenter förbrukas under 2024.
+
+Ur Axton AB:s perspektiv, när föreligger utgift, utbetalning och kostnad och med vilka belopp?
+
+Svar:
+
+20/05-2023 Utgift 60 tkr
+31/06-2023 Utbetalning 30 tkr
+31/12-2024 Kostnad 21 tkr
+31/01-2024 Utbetalning 30 tkr
+31/01-2024 Kostnad 39 tkr
+
+---
+
+## Resultatanalys
+
+### 8.3 Forsberg Efterträdare
+
+Företaget Forsberg Efterträdare kan konstatera att de totala kostnaderna under april uppgick till 55 000 kr. Under denna månad producerade man 15 000 enheter. I mars, när man producerade 16 000 enheter, uppgick de totala kostnaderna till 57 000 kr. Så vitt man kan bedöma fanns inga andra skillnader mellan de två månaderna.
+
+a) Hur stora är företagets rörliga kostnader per styck?
+
+b) Hur stora är företagets fasta kostnader?
+
+Svar:
+
+a) 2 kr
+b) 25 000 kr
 
 ## 8.6 Safety & Security
 

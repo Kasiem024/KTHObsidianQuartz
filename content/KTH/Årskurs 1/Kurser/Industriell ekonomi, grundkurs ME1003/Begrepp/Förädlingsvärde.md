@@ -11,6 +11,8 @@ Alltså är Förädlingsvärdet priset av produkten minus kostnaden för tillver
 
 Man kan också säga att Förädlingsvärdet är ett ekonomiskt mått på hur stort värde företaget tillför genom sin verksamhet. Alltså det värdet som företaget skapar i förhållande till om kunderna själva hade utfört [[Resurstransformation]].
 
+Hur mycket förädlingsvärde man tillför bestämmer hur mycket [[Moms]] man ska betala.
+
 ## Kopplat till
 
 - [[Prissättning]]

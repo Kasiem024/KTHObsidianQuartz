@@ -27,6 +27,8 @@ BAS består av 10 kontoklasser, 1-8 är de viktiga:
 
 [BAS-kontoplan, Visma](https://vismaspcs.se/ditt-foretagande/driva-eget-foretag/kontoplan)
 
+[[Den nya affärsredovisningen CM1005.pdf#page=105&selection=27,0,27,10|Den nya affärsredovisningen CM1005, page 105]]
+
 ## Kopplat till
 
 ## Flashcards

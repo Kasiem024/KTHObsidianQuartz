@@ -31,7 +31,7 @@ $$
 ## Flashcards
 
 Total Kostnad (Definition):: När man summerar en produkts [[Fast Kostnad]] och [[Rörlig Kostnad]]
-<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->
+<!--SR:!2024-02-17,4,270!2024-02-18,4,275-->
 
 Total Kostnad (Formel)
 ||

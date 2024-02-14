@@ -28,6 +28,10 @@ $$
 { Kritiska Punkten\!: TI = TK }
 $$
 
+$$
+{ Kritiska \, Punkten \, (volym) = \frac{FK}{Pris/st-RK/st} }
+$$
+
 ### Säkerhetsmarginal
 
 Säkerhetsmarginalen anger med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår.
@@ -56,11 +60,17 @@ Resultatdiagram (Definition):: Ett diagram som visar ==relationen== mellan ==int
 <!--SR:!2024-02-16,3,256!2024-02-17,4,270-->
 ![[Resultatdiagram ME1003.png]]
 
-Kritiska Punkten i ett Resultatdiagram (Definition):: Punkten där de totala intäkterna precis räcker för att täcka de totala kostnaderna i ett Resultatdiagram, Total Inäkt = Total Kostnad
-<!--SR:!2000-01-01,1,250!2024-02-17,4,274-->
+Kritiska Punkten i ett Resultatdiagram (Definition):: Punkten där de totala intäkterna precis räcker för att täcka de totala kostnaderna i ett Resultatdiagram, [[Total Intäkt]] = [[Total Kostnad]]
+<!--SR:!2024-02-18,4,276!2024-02-17,4,274-->
+
+Kritiska Punkten i volym (Formel)
+||
+$$
+{ Kritiska \, Punkten \, (volym) = \frac{FK}{Pris/st-RK/st} }
+$$
 
 Säkerhetsmarginalen (Definition):: Visar med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår i ett Resultatdiagram
-<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->
+<!--SR:!2024-02-17,4,270!2024-02-18,4,277-->
 
 Säkerhetsmarginal, Volym (Formel)
 ||

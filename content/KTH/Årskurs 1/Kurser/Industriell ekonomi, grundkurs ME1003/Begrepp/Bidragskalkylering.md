@@ -25,4 +25,4 @@ Bidragskalkylering använder en ofullständig kostnadsfördelning.
 ## Flashcards
 
 Bidragskalkylering (Definition):: När enbart [[Särkostnad]] hänförs till [[Kostnadsbärare]]. Därefter beräknas det [[Täckningsbidrag]] som kostnadsbäraren lämnar. Denna typ av kalkylering används ofta för att göra snabba beslut på kort sikt, exempelvis hotell, och för att veta [[Lönsamhet]]
-<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->
+<!--SR:!2024-02-17,3,250!2024-02-16,3,250-->

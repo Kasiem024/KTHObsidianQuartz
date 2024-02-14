@@ -6,6 +6,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 ## Definition
 
 Priset av en produkt är självkostnaden + vinstpålägg (marginalen). Alltså priset av en produkt och kostnaden av en produkt är olika och ska därför skiljas.
+
 ![[Prissättning ME1003.png]]
 
 Grunden för Prissättning, verksamhetsanalyser och beslut:

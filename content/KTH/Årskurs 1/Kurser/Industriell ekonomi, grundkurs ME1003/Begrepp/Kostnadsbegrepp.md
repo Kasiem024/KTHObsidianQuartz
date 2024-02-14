@@ -98,4 +98,4 @@ Kostnadstyper (3)
 - [[Rörlig Kostnad]], [[Fast Kostnad]] och [[Halvfast Kostnad]]
 - [[Direkt Kostnad]] och [[Indirekt Kostnad]]
 - [[Särkostnad]] och [[Samkostnad]]
-<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->
+<!--SR:!2024-02-17,4,270!2024-02-18,4,272-->

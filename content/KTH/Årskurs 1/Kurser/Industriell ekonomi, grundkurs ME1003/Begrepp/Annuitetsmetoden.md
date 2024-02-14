@@ -48,7 +48,7 @@ $$
 ## Flashcards
 
 Annuitetsmetoden (Definition):: När man räknar om investeringens betalningar, både [[Grundinvestering]] och framtida betalningar, till belopp som är lika stora varje år, alltså räknar man ut den genomsnittliga årliga betalningen för en [[Investering]]
-<!--SR:!2024-02-14,1,230!2000-01-01,1,250-->
+<!--SR:!2024-02-14,1,230!2024-02-17,3,268-->
 
 Annuitetsfaktor (Formel)
 ||

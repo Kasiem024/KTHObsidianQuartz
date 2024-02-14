@@ -99,7 +99,7 @@ $$
 ## Flashcards
 
 Nuvärdemetoden (Definition):: En ränteräkningsmetod som med hjälp av [[Kalkylränta]] räknar om de olika investeringsalternativens betalningar till en och samma tidpunkt, till början av det år då ==grundinvesteringen== görs, hur mycket skulle avkastningen varit om vi satte in pengarna i banken istället för att göra investeringen
-<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->
+<!--SR:!2024-02-16,2,245!2024-02-16,3,250-->
 
 Omräkningsfaktorer (3) (Formel)
 ||

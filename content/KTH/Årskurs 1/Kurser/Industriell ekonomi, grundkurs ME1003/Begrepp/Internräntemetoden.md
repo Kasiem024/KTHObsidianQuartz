@@ -22,4 +22,4 @@ Alltså, Internräntemetoden visar när en investering möter avkastningskraven,
 ## Flashcards
 
 Internräntemetoden (Definition):: Handlar om att veta när en viss investering möter avkastningskravet, [[Kalkylränta]]
-<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->
+<!--SR:!2024-02-15,1,230!2024-02-16,3,250-->

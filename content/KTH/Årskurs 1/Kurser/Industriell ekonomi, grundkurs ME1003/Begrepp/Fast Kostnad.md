@@ -24,4 +24,4 @@ Fasta Kostnader (FK) är oberoende av verksamhetsvolym, alltså beror den inte p
 ## Flashcards
 
 Fast Kostnad (Definition):: Kostnader som är oberoende av verksamhetsvolym
-<!--SR:!2000-01-01,1,250!2024-02-17,4,270-->
+<!--SR:!2024-02-18,4,272!2024-02-17,4,270-->

@@ -23,4 +23,4 @@ Kostnadsbärare är de varor eller tjänster som företaget producerar. Alltså 
 ## Flashcards
 
 Kostnadsbärare (Definition):: De varor eller tjänster som företaget producerar
-<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->
+<!--SR:!2024-02-17,4,270!2024-02-18,4,272-->

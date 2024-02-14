@@ -105,8 +105,8 @@ $$
 
 ## Flashcards
 
-Påläggskalkylering (Definition):: När man systematiskt fördelar kostnaderna på en [[Kostnadsbärare]] genom att utgå från [[Direkt Kostnad]].
-<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->
+Påläggskalkylering (Definition):: När man systematiskt fördelar kostnaderna på en [[Kostnadsbärare]] genom att utgå från [[Direkt Kostnad]]
+<!--SR:!2024-02-16,2,248!2024-02-16,3,250-->
 
 Påläggsbaser och Fördelningsnycklar (7)
 ??
@@ -124,7 +124,7 @@ Påläggsbaser och Fördelningsnycklar (7)
 	- Exempelvis kostnader för ekonomiavdelningen och företagsledningen men också för reklam och försäljare.
 - ==Speciella direkta försäljningskostnader== (dF)
 	- Exempelvis provision, reklam, resor, mässor.
-<!--SR:!2024-02-14,1,230!2024-02-17,4,270-->
+<!--SR:!2024-02-16,2,230!2024-02-17,4,270-->
 
 Materialomkostnadspålägget (Formel)
 ||

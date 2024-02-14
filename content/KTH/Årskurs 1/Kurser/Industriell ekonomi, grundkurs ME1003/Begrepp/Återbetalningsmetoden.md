@@ -19,5 +19,5 @@ Alltså, Återbetalningsmetoden visar den tiden det tar innan grundinvesteringen
 
 ## Flashcards
 
-Återbetalningsmetoden (Definition):: Visar den tiden det tar innan grundinvesteringen är återbetald, ju kortare tid ju bättre
-<!--SR:!2000-01-01,1,250!2024-02-17,4,270-->
+Återbetalningsmetoden (Definition):: Visar den tiden det tar innan [[Grundinvestering]] är återbetald, ju kortare tid ju bättre
+<!--SR:!2024-02-18,4,272!2024-02-17,4,270-->
