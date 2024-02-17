@@ -1,7 +1,13 @@
 # AIDA
 
-2024-01-30 12:24
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -25,4 +31,4 @@ Delarna av AIDA (4)
 - ==Interest==: Konsumenten blir intresserad genom att lära sig hur produkten/varumärket passar med sina behov och livsstil.
 - ==Desire==: Konsumenten utvecklar en positiv hållning till produkten/varumärket.
 - ==Action==: Konsumenten utvecklar en vilja till inköp, tar nödvändiga kontakter och gör inköpet.
-<!--SR:!2024-02-11,3,250!2024-02-19,14,290-->
+<!--SR:!2024-02-24,9,250!2024-02-19,14,290-->

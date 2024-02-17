@@ -1,10 +1,9 @@
 # Moms
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-01-16 20:58
-
-Uppdaterad: 2024-02-13 20:16
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -67,4 +66,4 @@ Hur ofta man ska redovisa sin moms beror på hur mycket omsättning man har. 1 g
 ## Flashcards
 
 Moms (Definition):: En skatt som betalas vid köpet av varor och tjänster. Inbakad i priset
-<!--SR:!2024-03-15,37,292!2024-02-15,16,292-->
+<!--SR:!2024-03-15,37,292!2024-04-19,64,312-->

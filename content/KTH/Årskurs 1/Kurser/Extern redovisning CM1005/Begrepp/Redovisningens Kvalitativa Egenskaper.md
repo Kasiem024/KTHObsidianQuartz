@@ -1,7 +1,13 @@
 # Redovisningens Kvalitativa Egenskaper
 
-2024-02-01 08:43
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -68,19 +74,19 @@ En finansiell rapport ska kännetecknas av vissa egenskaper som gör den använd
 - Relevant
 - Jämförbar
 - Väsentlig
-<!--SR:!2024-02-15,2,186!2024-02-18,13,270-->
+<!--SR:!2024-02-19,4,186!2024-02-18,13,270-->
 
 Redovisningens Kvalitativa Egenskaper, Begriplig (Definition):: Informationen i en finansiell rapport ska redovisas på ett sådant sätt att någon med rimlig kunskap om ekonomi och redovisning ska förstå den
-<!--SR:!2024-02-15,7,250!2024-03-03,19,268-->
+<!--SR:!2024-03-11,25,270!2024-03-03,19,268-->
 
 Redovisningens Kvalitativa Egenskaper, Tillförlitlig (Definition):: Informationen i en finansiell rapport ska vara neutral och inte innehålla väsentliga felaktigheter. Informationen ska också vara aktuell och fullständig
-<!--SR:!2024-02-12,5,228!2024-02-15,2,168-->
+<!--SR:!2024-02-27,11,228!2024-02-18,3,168-->
 
 Redovisningens Kvalitativa Egenskaper, Relevant (Definition):: Informationen i en finansiell rapport ska underlätta för användaren att bedöma inträffade, aktuella och framtida händelser, eller genom att bekräfta eller korrigera tidigare bedömningar
-<!--SR:!2024-02-15,5,230!2024-02-16,3,225-->
+<!--SR:!2024-02-26,11,230!2024-02-23,7,225-->
 
 Redovisningens Kvalitativa Egenskaper, Jämförbar (Definition):: Informationen i en finansiell rapport ska följa [[Jämförbarhetsprincipen]] genom att redovisa information på samma sätt hela tiden
 <!--SR:!2024-02-21,15,290!2024-02-19,9,268-->
 
 Redovisningens Kvalitativa Egenskaper, Väsentlig (Definition):: Informationen i en finansiell rapport som kan påverka de beslut som en användare tar ska alltid inkluderas
-<!--SR:!2024-02-29,16,245!2024-02-12,4,228-->
+<!--SR:!2024-02-29,16,245!2024-02-26,11,228-->

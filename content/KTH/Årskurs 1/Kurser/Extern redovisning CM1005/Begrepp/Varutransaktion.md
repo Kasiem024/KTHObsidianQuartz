@@ -1,10 +1,9 @@
 # Varutransaktion
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-13 16:03
-
-Uppdaterad: 2024-02-13 16:03
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -67,20 +66,20 @@ Alltså handlar den finansiella aspekten av en Varutransaktion om hur köparen s
 ## Flashcards
 
 Varutransaktion (Definition):: Kommer till stånd genom att ett avtal sluts mellan två parter, en säljare (leverantör) och en köpare (kund)
-<!--SR:!2000-01-01,1,250!2024-02-17,4,270-->
+<!--SR:!2024-02-18,3,253!2024-02-17,4,270-->
 
 Delar av en Varutransaktion (3)
 ??
 - Köpeavtalet, Juridiskt
 - Leveransen, Materiellt
 - Betalningen, Finansiellt
-<!--SR:!2024-02-14,1,230!2000-01-01,1,250-->
+<!--SR:!2024-02-19,3,250!2024-02-19,4,272-->
 
 Köpeavtalet, Juridiskt (Definition):: Skapas när köparen och säljaren kommer överens om ==villkoren för transaktionen==, alltså varans kvalitet, kvantitet, pris, leverans etc. **Vad köparens beställning är**
-<!--SR:!2024-02-16,3,250!2000-01-01,1,250-->
+<!--SR:!2024-02-22,6,250!2024-02-18,3,252-->
 
-Leveransen, Materiellt (Definition):: Vid en Varutransaktion måste man bestämma i avtalet vem som ska ansvara för den fysiska transporten av beställningen. **Hur köparens beställning ska levereras**
-<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->
+Varutransaktionens Leverans, Materiellt (Definition):: Vid en Varutransaktion måste man bestämma i avtalet vem som ska ansvara för den fysiska transporten av beställningen. **Hur köparens beställning ska levereras**
+<!--SR:!2024-02-17,4,270!2024-02-18,3,252-->
 
-Betalningen, Finansiellt (Definition):: Villkor gällande köparens betalning för sin beställning ska avtals om, då kallas de för ==betalningsvillkor==. Vad är beloppet, hur ska betalningen ske, när ska betalningen ske, finns det en rabatt och [[Dröjsmålsränta]]. **Hur köparen ska betala för sin beställning**
-<!--SR:!2024-02-16,3,250!2000-01-01,1,250-->
+Varutransaktionens Betalning, Finansiellt (Definition):: Villkor gällande köparens betalning för sin beställning ska avtals om, då kallas de för ==betalningsvillkor==. Vad är beloppet, hur ska betalningen ske, när ska betalningen ske, finns det en rabatt och [[Dröjsmålsränta]]. **Hur köparen ska betala för sin beställning**
+<!--SR:!2024-02-23,7,250!2024-02-18,3,252-->

@@ -1,8 +1,13 @@
 # 02-07 Lektion Moms Pelles Golfshop CM1005
 
-2024-02-07 13:15
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005KS3
 
+---
 [[02-07 Moms Pelles Golfshop CM1005.excalidraw]]
 
 ---
@@ -116,5 +121,3 @@ Staten kan använda moms för att belöna eller straffa befolkningen beroende p�
 Hur ofta man ska redovisa sin moms beror på hur mycket omsättning man har. 1 gång/år, 4 gånger/år eller 12 gånger/år.
 
 Utgående moms minus ingående moms blir en momsdeklaration som går till staten.
-
-## Flashcards

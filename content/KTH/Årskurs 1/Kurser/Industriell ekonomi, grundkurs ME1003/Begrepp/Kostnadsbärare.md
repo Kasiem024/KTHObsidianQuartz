@@ -1,10 +1,9 @@
 # Kostnadsbärare
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-12 17:28
-
-Uppdaterad: Monday 12th February 2024 17:28:21
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 

@@ -1,8 +1,13 @@
 # 01-26 Lektion CM1005
 
-2024-01-26 13:03
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #lektion
 
+---
 [[Årsredovisningslagen]]: Alla stora företag måste följa denna lag. Den består av:
 
 - [[Årsbokslut]]: [[Balansräkning]] och [[Resultaträkning]]

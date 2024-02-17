@@ -1,7 +1,13 @@
 # Affärsmodellen
 
-2024-01-18 20:55
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -23,7 +29,7 @@ Ordet "värde" i detta sammanhang är värde för kunden.
 ## Flashcards
 
 Affärsmodell (Definition):: Ett recept för hur intäkter kommer in till företaget. Hur varor och tjänster produceras samt hur kunden får tillgång till de. En beskrivning av hur verksamheten är tänkt att fungera
-<!--SR:!2024-02-15,5,212!2024-02-12,13,290-->
+<!--SR:!2024-03-02,15,232!2024-02-12,13,290-->
 
 Delarna av en affärsmodell (3)
 ??

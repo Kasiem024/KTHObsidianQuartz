@@ -1,6 +1,10 @@
 # Annuitetsmetoden
 
-2024-02-07 10:36
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
@@ -48,17 +52,18 @@ $$
 ## Flashcards
 
 Annuitetsmetoden (Definition):: När man räknar om investeringens betalningar, både [[Grundinvestering]] och framtida betalningar, till belopp som är lika stora varje år, alltså räknar man ut den genomsnittliga årliga betalningen för en [[Investering]]
-<!--SR:!2024-02-14,1,230!2024-02-17,3,268-->
+<!--SR:!2024-02-17,2,230!2024-02-17,3,268-->
 
 Annuitetsfaktor (Formel)
 ||
+(Finns i formelsamling)
 $$
 { Annuitetsfaktor = \frac{Kalkylränta}{1-(1+Kalkylränta)^{-Ekonomisk \, Livslängd (Antal \, År)}}}
 $$
 $$
 { ANN = \frac{r}{1-(1+r)^{-n}}}
 $$
-<!--SR:!2024-02-16,3,250-->
+<!--SR:!2024-02-18,2,230-->
 
 Formel för Annuitetskalkyl, Annuitet (Formel)
 ||
@@ -68,7 +73,7 @@ $$
 $$
 { Annuitet = NNV * ANN }
 $$
-<!--SR:!2024-02-15,2,248-->
+<!--SR:!2024-02-21,6,248-->
 
 Annuitetskvoten (Formel)
 ||
@@ -80,4 +85,4 @@ $$
 {Annuitetskvot=
 \frac{Annuitet}{G}}
 $$
-<!--SR:!2024-02-15,2,248-->
+<!--SR:!2024-02-24,9,268-->

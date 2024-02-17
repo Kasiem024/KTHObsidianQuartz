@@ -1,7 +1,13 @@
 # Hållbarhetsrapport
 
-2024-01-26 13:29
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 

@@ -1,7 +1,13 @@
 # PESTLE-Analys
 
-2024-02-01 15:20
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -28,4 +34,4 @@ PESTLE-Analys (6)
 - ==Technological factors==: Automatisering, Forskning och utveckling, Teknikmognad på marknaden, Teknikskiften.
 - ==Legal factors==: Konsumentlagstiftning, Arbetsgivaransvar för säkerhet och hälsa, Arbetsmarknadslagar, Handelshinder.
 - ==Environmental factors==: Klimatförändringar, Utsläppsregler, Lokala miljöeffekter, Miljöavgifter.
-<!--SR:!2024-02-11,2,210!2024-02-13,3,250-->
+<!--SR:!2024-02-11,2,210!2024-02-27,11,270-->

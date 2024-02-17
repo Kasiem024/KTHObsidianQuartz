@@ -1,10 +1,9 @@
 # Kostnadsbegrepp
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-10 10:05
-
-Uppdaterad: Saturday 10th February 2024 10:05:52
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -18,7 +17,7 @@ Kostnader som har med ==Verksamhetsvolym== kallas [[Rörlig Kostnad]] och [[Fast
 
 Kostnader som används för att veta kostnaden inom en specifik ==handlingssituation== kallas [[Samkostnad]] och [[Särkostnad]]. Alltså används de för att veta om en specifik handling är värt det eller ej.
 
-Kostnader som används inom en ==kostnadsfördelningsprincip== kallas [[Direkt Kostnad]] och [[Indirekt Kostnad]]. Alltså används de för att veta vilka kostnader som hör till ett visst kalkylobjekt.  
+Kostnader som används inom en ==kostnadsfördelningsprincip== kallas [[Direkt Kostnad]] och [[Indirekt Kostnad]]. Alltså används de för att veta vilka kostnader som hör till ett visst kalkylobjekt.
 
 ### [[Rörlig Kostnad]]
 

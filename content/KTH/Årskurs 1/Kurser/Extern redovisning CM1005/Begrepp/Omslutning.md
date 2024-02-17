@@ -1,7 +1,13 @@
 # Omslutning
 
-2024-01-23 09:07
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -22,4 +28,4 @@ Omslutning kan läggas både på debet sidan och kredit sidan.
 ## Flashcards
 
 Omslutning (Definition):: Summan [[Inbetalning]] och summan [[Utbetalning]] när det kommer till ett specifikt [[T-Konton]]. Visar ett företags ekonomiska ställning vid en specifik tidpunkt
-<!--SR:!2024-02-15,7,230!2024-02-18,5,210-->
+<!--SR:!2024-03-03,17,230!2024-02-18,5,210-->

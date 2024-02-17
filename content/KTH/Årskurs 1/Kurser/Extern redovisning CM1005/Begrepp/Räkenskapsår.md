@@ -1,7 +1,13 @@
 # Räkenskapsår
 
-2024-01-31 19:33
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -9,7 +15,7 @@ Ett Räkenskapsår är den period som en verksamhets bokföring omfattar och som
 
 [Räkenskapsår, Visma](https://vismaspcs.se/ekonomiska-termer/vad-ar-rakenskapsar)
 
-Vissa verksamheter såsom [[Enskild näringsverksamhet]], [[Handelsbolag]] måste ha kalenderåret som Räkenskapsår.
+Vissa verksamheter såsom [[Enskild Näringsverksamhet]], [[Handelsbolag]] måste ha kalenderåret som Räkenskapsår.
 
 Om Räkenskapsåret inte följer kalenderåret kallas det för ==Brutet Räkenskapsår==.
 

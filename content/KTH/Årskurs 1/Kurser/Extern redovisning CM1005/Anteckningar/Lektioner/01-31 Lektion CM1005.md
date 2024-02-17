@@ -1,10 +1,16 @@
 # 01-31 Lektion CM1005
 
-2024-01-31 10:08
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #lektion
 
+---
 [[01-31 Bokexempel CM1005.excalidraw]]
 
+---
 [[Huvudbokföring]]: Handlar om att göra sin redovisning systematiskt. Att dela upp alla händelser på olika konton.
 
 [[Grundbokföring]]: Handlar om att bokföra beroende på ordningen av händelser
@@ -72,5 +78,3 @@ Syftet med ett årsbokslut är att ge en överblick på hur det har gått för v
 [[Koncernredovisning]]: Om företaget är ett moderföretag ska den redovisa för sina dotterföretag, den ska beskriva allas finansiella ställning som om de vore en enhet.
 
 [[Interimsskuld]]: Upplupna kostnader och förutbetalda intäkter.
-
-## Flashcards

@@ -1,10 +1,9 @@
 # Inbetalningsöverskott
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-11 09:28
-
-Uppdaterad: Sunday 11th February 2024 09:28:07
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 

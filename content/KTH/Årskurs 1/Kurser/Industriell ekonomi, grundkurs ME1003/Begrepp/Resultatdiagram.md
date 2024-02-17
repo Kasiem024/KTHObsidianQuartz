@@ -1,10 +1,9 @@
 # Resultatdiagram
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-10 10:28
-
-Uppdaterad: Saturday 10th February 2024 10:28:50
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -29,7 +28,7 @@ $$
 $$
 
 $$
-{ Kritiska \, Punkten \, (volym) = \frac{FK}{Pris/st-RK/st} }
+{ Kritiska \, Punkten \, (q_{k}) = \frac{FK}{Pris/st-RK/st} }
 $$
 
 ### Säkerhetsmarginal
@@ -57,7 +56,7 @@ $$
 ## Flashcards
 
 Resultatdiagram (Definition):: Ett diagram som visar ==relationen== mellan ==intäkterna== och ==verksamhetsvolymen==, innehåller en linje för [[Fast Kostnad]], [[Total Kostnad]] och [[Total Intäkt]]
-<!--SR:!2024-02-16,3,256!2024-02-17,4,270-->
+<!--SR:!2024-02-25,9,256!2024-02-17,4,270-->
 ![[Resultatdiagram ME1003.png]]
 
 Kritiska Punkten i ett Resultatdiagram (Definition):: Punkten där de totala intäkterna precis räcker för att täcka de totala kostnaderna i ett Resultatdiagram, [[Total Intäkt]] = [[Total Kostnad]]
@@ -68,6 +67,7 @@ Kritiska Punkten i volym (Formel)
 $$
 { Kritiska \, Punkten \, (volym) = \frac{FK}{Pris/st-RK/st} }
 $$
+<!--SR:!2024-02-18,3,258-->
 
 Säkerhetsmarginalen (Definition):: Visar med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår i ett Resultatdiagram
 <!--SR:!2024-02-17,4,270!2024-02-18,4,277-->
@@ -80,7 +80,7 @@ $$
 $$
 { Säkerhetsmarginal (volym) = q_{v} - q_{K}}
 $$
-<!--SR:!2024-02-16,3,254-->
+<!--SR:!2024-02-23,7,254-->
 
 Säkerhetsmarginal, Procent (Formel)
 ||
@@ -90,4 +90,4 @@ $$
 $$
 { Säkerhetsmarginal (\%) = \frac{q_{v} - q_{K}}{q_{v}}}
 $$
-<!--SR:!2024-02-16,3,254-->
+<!--SR:!2024-02-25,9,254-->

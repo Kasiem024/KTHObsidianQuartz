@@ -1,8 +1,13 @@
 # 01-30 Lektion ME1003
 
-2024-01-30 15:15
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #lektion
 
+---
 [Länk till föreläsning på Canvas](https://kaf.canvas.kth.se/media/F7+HRM%26ampBOrganisation+P4+V22+SWE+2022-04-04+MOH.mp4/0_kcb4vfls/660304)
 [Länk till PPT på Canvas](https://canvas.kth.se/courses/44986/files/folder/2.%20F%C3%B6rel%C3%A4sningar?preview=7568103)
 
@@ -83,7 +88,7 @@ Motivation:
 
 Bara för att hygienfaktorerna är uppfyllda betyder inte att man har motivationen att jobba effektivt eller gilla jobbet i sig.
 
-|  | Hög Hygien | Låg Hygien |
+| | Hög Hygien | Låg Hygien |
 | :--: | :--: | :--: |
 | **Hög Motivation** | Optimala situationen | Bra arbetsuppgift men låg lön |
 | **Låg Motivation** | Målet med arbetet är lönen | Sämsta situationen |

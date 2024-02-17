@@ -1,7 +1,13 @@
 # Värdeskapandet
 
-2024-01-18 21:41
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -44,7 +50,7 @@ Varudominerad logik (Definition):: När huvuddelen av Värdeskapandet sker ==uta
 <!--SR:!2024-02-12,3,244!2024-02-11,3,268-->
 
 Back-office dominerad logik (Definition):: När huvuddelen av Värdeskapandet sker ==utan kunden men kunden behövs==, vanligtvis i ==början== och ==slutet== av processen
-<!--SR:!2024-02-16,6,268!2024-02-12,3,268-->
+<!--SR:!2024-02-16,6,268!2024-02-25,10,288-->
 
 Front-office dominerad logik (Definition):: När huvuddelen av Värdeskapandet sker i ==direkt interaktion== med ==kunden== och det handlar om kundens ==upplevelse==
 <!--SR:!2024-02-17,7,264!2024-02-27,18,304-->

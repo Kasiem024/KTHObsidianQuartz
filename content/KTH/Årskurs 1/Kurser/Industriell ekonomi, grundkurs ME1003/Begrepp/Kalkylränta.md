@@ -1,6 +1,10 @@
 # Kalkylränta
 
-2024-02-07 10:28
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
@@ -17,5 +21,5 @@ Alltså, Kalkylräntan visar värdet av en framtida investering idag, alltså v�
 
 ## Flashcards
 
-Kalkylränta (r) (Definition):: Visar värdet av en framtida investering idag, alltså värdet av investeringen i relation till grundinvesteringen
-<!--SR:!2024-02-14,1,230!2000-01-01,1,250-->
+Kalkylränta (r) (Definition):: Visar värdet av en framtida investering idag, alltså värdet av investeringen i relation till [[Grundinvestering]]
+<!--SR:!2000-01-01,1,250!2024-02-19,3,250-->

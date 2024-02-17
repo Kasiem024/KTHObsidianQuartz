@@ -1,7 +1,13 @@
 # Ekonomisk Förening
 
-2024-01-16 10:56
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -16,7 +22,7 @@ Medlemmarna i en ekonomisk förening har inget personligt ansvar och de riskerar
 ## Flashcards
 
 Ekonomisk förening (Definition):: Företagsform om man är minst tre personer och vill främja sina ekonomiska intressen. Medlemmarna ska få ett ekonomiskt utbyte av deltagandet som exempelvis en anställning, bättre pris eller sänkta kostnader. Medlemmarna har inget personligt ansvar. Endast satsat kapital riskerar att förloras. ==Kan vara en konsumentkooperation==och ==producentkooperation==
-<!--SR:!2024-03-08,24,250!2024-02-13,11,288-->
+<!--SR:!2024-03-08,24,250!2024-03-20,34,288-->
 
 Exempel på olika ekonomiska föreningar (5)
 ??
@@ -25,4 +31,4 @@ Exempel på olika ekonomiska föreningar (5)
 - Bostadsrättsföreningar
 - Lantmännen
 - Södra skogsägarna
-<!--SR:!2024-02-14,12,270!2024-02-25,16,296-->
+<!--SR:!2024-03-17,31,270!2024-02-25,16,296-->

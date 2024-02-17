@@ -1,7 +1,13 @@
 # Kraljics Matris
 
-2024-02-03 10:14
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -9,7 +15,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
 Alltså visar den hur viktig en viss inköpt artikel är och hur problematiskt det är ifall den inte levereras i tid.
 
-|  | Låg | Hög |
+| | Låg | Hög |
 | ---- | ---- | ---- |
 | Hög | ==Hävstång==<br>Utnyttja förhandlingsstyrkan<br>genom att konkurrensutsätta<br>flera olika leverantörer | ==Strategisk==<br>Utveckla ett fåtal nyckelleverantörer |
 | Låg | ==Icke-kritisk==<br>Minska transaktionskostnaderna med färre leverantörer | ==Flaskhals==<br>Säkra leveranser hos nyckelleverantörer, sök alternativa leverantörer |

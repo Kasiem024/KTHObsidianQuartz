@@ -1,10 +1,9 @@
 # Offert
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-13 16:15
-
-Uppdaterad: 2024-02-13 16:15
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -20,5 +19,5 @@ Exempelvis inom en [[Varutransaktion]] kan an av de två parterna kommer med en 
 
 ## Flashcards
 
-Offert (Definition):: Säljarens erbjudande anger de villkor på vilka en leverantör kan leverera en bestämd vara eller tjänst, ren- och oren accept
-<!--SR:!2024-02-14,1,230!2000-01-01,1,250-->
+Offert (Definition):: Säljarens erbjudande anger de villkor på vilka en leverantör kan leverera en bestämd vara eller tjänst, ren- och oren accept, kallas också anbud
+<!--SR:!2024-02-18,2,230!2024-02-17,2,248-->

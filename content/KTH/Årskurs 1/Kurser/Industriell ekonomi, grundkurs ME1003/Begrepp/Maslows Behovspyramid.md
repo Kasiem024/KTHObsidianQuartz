@@ -1,10 +1,9 @@
 # Maslows Behovspyramid
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-08 10:34
-
-Uppdaterad: Thursday 8th February 2024 10:34:57
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
@@ -28,4 +27,4 @@ Maslows Behovspyramid (5)
 - Esteem needs
 - Self-actualization
 ![[Maslow's Hierarchy Of Needs ME1003.png]]
-<!--SR:!2024-02-12,3,250!2000-01-01,1,250-->
+<!--SR:!2024-02-18,2,230!2024-02-18,3,250-->

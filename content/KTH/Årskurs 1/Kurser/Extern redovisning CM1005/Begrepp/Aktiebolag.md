@@ -1,7 +1,13 @@
 # Aktiebolag
 
-2024-01-16 10:54
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -21,16 +27,16 @@ Aktiebolaget är ett eget skattesubjekt. Det betalar sin egna skatt.
 
 ==Börskurs== är hur mycket varje aktie är värd på börsen just nu.
 
-![[Aktiebolag karta CM1005.png]]
+![[Aktiebolag Karta CM1005.png]]
 [[Den nya affärsredovisningen CM1005.pdf#page=275&selection=6,0,6,30|Aktiebolagets organ enligt ABL]]
 
 ## Flashcards
 
 Aktiebolag (Definition):: Företagsform där delägarna inte är personligt ansvariga för företagets skulder. Ägarna riskerar bara att förlora deras egna satsade kapital. Minst 1 ägare men kan också vara 100,000-tals ägare
-<!--SR:!2024-02-24,17,272!2024-02-14,15,292-->
+<!--SR:!2024-02-24,17,272!2024-04-12,57,312-->
 
-Aktiens kvotvärde:: Aktiens värde vid grundandet som grundarna bestämmer själva
-<!--SR:!2024-03-13,34,292!2024-02-14,15,292-->
+Aktiens kvotvärde (Definition):: Aktiens värde vid grundandet som grundarna bestämmer själva
+<!--SR:!2024-03-13,34,292!2024-04-15,60,312-->
 
 Antal aktier ett företag har:: Riskkapital/Aktiens kvotvärde
 <!--SR:!2024-02-20,12,252!2024-02-25,20,270-->
@@ -39,7 +45,7 @@ De två typerna av aktiebolag;; Privat aktiebolag (50,000 aktiekapital), Publikt
 <!--SR:!2024-03-20,39,290-->
 
 Börskurs (Definition):: Priset av en aktie, bestäms av tillgång och efterfrågan
-<!--SR:!2024-02-15,13,270!2024-02-15,12,272-->
+<!--SR:!2024-03-21,34,270!2024-04-02,47,292-->
 
 Vad som påverkar en akties börskurs (6)
 ==DISABLEDFLASHCARD==

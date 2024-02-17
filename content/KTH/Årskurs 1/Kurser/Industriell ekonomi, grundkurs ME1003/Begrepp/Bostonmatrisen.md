@@ -1,10 +1,9 @@
 # Bostonmatrisen
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-08 10:17
-
-Uppdaterad: Thursday 8th February 2024 10:17:53
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
@@ -30,4 +29,4 @@ Bostonmatrisen (Definition) (4)
 ??
 En portföljanalys som handlar om hur stor andel av marknaden som vill ha en viss produkt och hur mycket utrymme den produkten har att växa. Om båda är höga för en viss produkt ska man investera i produkt medan om båda är låga ska man döda produkten
 ![[Bostonmatrisen ME1003.png]]
-<!--SR:!2024-02-12,2,230!2024-02-12,3,268-->
+<!--SR:!2024-02-22,6,230!2024-02-12,3,268-->

@@ -1,7 +1,13 @@
 # Inbetalning
 
-2024-01-16 22:00
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -23,7 +29,7 @@ Inbetalning kan ses som likviditet, penningflödet. Det sker i banken, plusgiro 
 ## Flashcards
 
 Inbetalning (Definition):: Tidpunkten pengar kommer in till företaget. En del av [[Kassaflöde]]
-<!--SR:!2024-02-13,13,290!2024-04-06,53,310-->
+<!--SR:!2024-04-06,51,310!2024-04-06,53,310-->
 
 Motsatsen till inbetalning:: Motsatsen till [[Utbetalning]]
-<!--SR:!2024-02-14,15,294!2024-04-09,56,314-->
+<!--SR:!2024-04-15,60,314!2024-04-09,56,314-->

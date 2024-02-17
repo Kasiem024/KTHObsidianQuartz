@@ -1,7 +1,13 @@
 # Årsredovisning
 
-2024-02-01 09:07
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -11,7 +17,7 @@ Alla företag är skyldiga att upprätta ett [[Årsbokslut]] vid räkenskapsåre
 
 [[Handelsbolag]] och kommanditbolag ska upprätta antingen ett [[Årsbokslut]] eller en Årsredovisning.
 
-Beroende på omsättningen av en [[Enskild näringsverksamhet]] ska den upprätta ett förenklat årsbokslut, ett vanligt [[Årsbokslut]] eller en Årsredovisning.
+Beroende på omsättningen av en [[Enskild Näringsverksamhet]] ska den upprätta ett förenklat årsbokslut, ett vanligt [[Årsbokslut]] eller en Årsredovisning.
 
 [Bokslut och årsredovisning, Björn Lundén](https://www.bjornlunden.se/f%C3%B6retagskunskap/bokslut--%C3%A5rsredovisning/s%C3%A5-g%C3%B6r-du-bokslut-och-%C3%A5rsredovisning__8611)
 

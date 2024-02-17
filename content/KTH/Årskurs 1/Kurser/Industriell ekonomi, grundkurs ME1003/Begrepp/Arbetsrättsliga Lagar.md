@@ -1,10 +1,9 @@
 # Arbetsrättsliga Lagar
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-08 10:27
-
-Uppdaterad: Thursday 8th February 2024 10:27:32
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
@@ -39,13 +38,13 @@ Syftet är att motverka diskriminering och främja lika rättigheter och möjlig
 ## Flashcards
 
 Lagen om anställningsskydd (LAS) (Definition):: En lag som skyddar de anställda för det mesta när det kommer till uppsägningar och provanställningar
-<!--SR:!2024-02-13,3,250!2024-02-12,3,268-->
+<!--SR:!2024-02-25,9,270!2024-02-24,9,288-->
 
 Arbetsmiljölagen (Definition):: Regler om skyldigheter för arbetsgivare om att förebygga ohälsa och olycksfall i arbetet
-<!--SR:!2024-02-12,2,230!2024-02-12,3,265-->
+<!--SR:!2024-02-12,2,230!2024-02-23,7,265-->
 
 Medbestämmandelagen (MBL) (Definition):: En lag som reglerar rätten för arbetsgivare och arbetstagare att organisera sig och kalla till kollektiva förhandlingar med sin motpart, alltså fackförbund
-<!--SR:!2024-02-11,1,210!2024-02-12,3,269-->
+<!--SR:!2024-02-11,1,210!2024-02-26,11,289-->
 
 Diskrimineringslagen (Definition):: En lag vars syfte är att främja lika rättigheter och möjligheter för alla
-<!--SR:!2024-02-11,3,250!2024-02-12,3,265-->
+<!--SR:!2024-02-24,8,250!2024-02-12,3,265-->

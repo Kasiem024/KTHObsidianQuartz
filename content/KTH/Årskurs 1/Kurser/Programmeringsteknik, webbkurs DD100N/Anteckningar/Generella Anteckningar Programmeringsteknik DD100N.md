@@ -1,7 +1,13 @@
 # Generella Anteckningar Programmeringsteknik DD100N
 
-2024-01-19 11:57
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #programmering #DD100N
+
+---
 
 ## Regler
 

@@ -1,7 +1,13 @@
 # Beroende Efterfrågan
 
-2024-02-02 22:05
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -13,5 +19,5 @@ När efterfrågan för en produkt styrs av efterfrågan för en annan produkt s�
 
 ## Flashcards
 
-Beroende Efterfrågan (Definition):: När efterfrågan för en produkt styrs av efterfrågan för en annan produkt.
-<!--SR:!2024-02-11,3,250!2024-02-13,4,270-->
+Beroende Efterfrågan (Definition):: När efterfrågan för en produkt styrs av efterfrågan för en annan produkt
+<!--SR:!2024-02-11,3,250!2024-02-27,12,270-->

@@ -1,7 +1,13 @@
 # Förädlingsvärde
 
-2024-02-01 21:32
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -21,4 +27,4 @@ Hur mycket förädlingsvärde man tillför bestämmer hur mycket [[Moms]] man sk
 ## Flashcards
 
 Förädlingsvärde (Definition):: Priset av en produkt minus kostnaden för tillverkningen av produkten, alltså vinstmarginal. Dock inte för den individuella produkten utan för hela företaget
-<!--SR:!2024-02-11,2,228!2024-02-19,9,250-->
+<!--SR:!2024-02-20,4,228!2024-02-19,9,250-->

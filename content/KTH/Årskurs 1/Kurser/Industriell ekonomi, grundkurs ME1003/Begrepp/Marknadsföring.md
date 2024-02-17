@@ -1,7 +1,13 @@
 # Marknadsföring
 
-2024-01-27 16:52
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -33,7 +39,7 @@ Nyckelkoncept inom Marknadsföring (3)
 - [[Marknadssegmentering|Segmentering]]: Rätt målgrupp.
 - Positionering: Rätt del i marknaden.
 - Diversifiering: Produktportfölj.
-<!--SR:!2024-02-11,2,192!2024-02-18,12,272-->
+<!--SR:!2024-02-21,6,212!2024-02-18,12,272-->
 
 Relationsmarknadsföring (Definition):: När man bygger långsiktiga relationer med sina kunder, vanligtvis mellan två företag, B2B och [[Företagsmarknad]]
 <!--SR:!2024-02-27,18,304!2024-02-22,14,294-->

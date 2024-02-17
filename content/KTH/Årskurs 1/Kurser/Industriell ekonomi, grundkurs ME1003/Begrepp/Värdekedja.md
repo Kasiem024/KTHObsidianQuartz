@@ -1,7 +1,13 @@
 # Värdekedja
 
-2024-01-21 10:05
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -39,7 +45,7 @@ Vertikal Integration inom en Värdekedja (Definition):: När ett företag köper
 <!--SR:!2024-02-12,4,275!2024-02-13,4,276-->
 
 Horisontell Integration inom en Värdekedja (Definition):: När man köper en konkurrent, alltså ett annat företag på samma position i värdekedjan
-<!--SR:!2024-02-12,4,275!2024-02-13,4,276-->
+<!--SR:!2024-02-12,4,275!2024-03-04,17,296-->
 
 Sätt att ändra på värdekedjan (4)
 ??

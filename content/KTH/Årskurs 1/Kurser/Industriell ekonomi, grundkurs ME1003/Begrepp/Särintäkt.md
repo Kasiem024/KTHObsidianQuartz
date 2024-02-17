@@ -1,10 +1,9 @@
 # Särintäkt
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-10 11:00
-
-Uppdaterad: Saturday 10th February 2024 11:00:34
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -22,4 +21,4 @@ Intäkter som direkt orsakats av den handling eller det beslut kalkylen avser. A
 ## Flashcards
 
 Särintäkt (Definition):: Intäkter som direkt orsakats av den handling eller det beslut kalkylen avser, alltså om intäkten uppstår för att en viss produkt har producerats
-<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->
+<!--SR:!2024-02-17,4,270!2024-02-18,3,252-->

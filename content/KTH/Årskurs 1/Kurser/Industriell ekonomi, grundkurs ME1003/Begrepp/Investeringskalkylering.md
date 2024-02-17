@@ -1,10 +1,9 @@
 # Investeringskalkylering
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-11 08:52
-
-Uppdaterad: Sunday 11th February 2024 08:52:38
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 

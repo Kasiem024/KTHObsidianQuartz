@@ -1,10 +1,9 @@
 # Hemtagningsutgift
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-13 16:51
-
-Uppdaterad: 2024-02-13 16:51
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -26,11 +25,11 @@ Hemtagningsutgifter, eller hemtagningskostnader, är köparens utgifter för att
 ## Flashcards
 
 Hemtagningsutgift (Definition):: Köparens utgifter för att få hem varan från säljarens ort till eget lager
-<!--SR:!2024-02-16,3,250!2000-01-01,1,250-->
+<!--SR:!2024-02-24,8,250!2024-02-18,3,252-->
 
 Exempel på Hemtagningsutgifter (3)
 ??
 - Transport
 - Tull
 - Försäkring
-<!--SR:!2000-01-01,1,250!2024-02-17,4,270-->
+<!--SR:!2024-02-18,3,252!2024-02-17,4,270-->

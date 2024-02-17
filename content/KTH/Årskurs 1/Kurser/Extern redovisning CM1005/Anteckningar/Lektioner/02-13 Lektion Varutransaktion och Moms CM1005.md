@@ -1,16 +1,16 @@
 # 02-13 Lektion Varutransaktion och Moms CM1005
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-13 10:17
-
-Uppdaterad: 2024-02-13 10:17
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005KS3
 
 ---
-
 [[02-13 Lektion CM1005.excalidraw]]
+
+---
 
 ## [[Varutransaktion]]
 

@@ -20,7 +20,7 @@ Man kan säga att en [[Affärsidé]] är ett övergripande och långsiktigt syft
 
 4. Beskriv Ansof-matrisen och dess tillväxtstrategier.
 
-|  | Existing Products | New Products |
+| | Existing Products | New Products |
 | :--: | :--: | :--: |
 | **Existing Markets** | ==Market penetration==, mer aggresiv markandsföring för att ta en större andel av marknaden | ==Product development==, genom att utveckla en produkt man redan har kan man ta en större andel av marknaden |
 | **New Markets** | ==Market development==, mycket marknadsföring för att få nya kunder | ==Diversification==, försöker anpassa produkten efter marknaden |
@@ -340,7 +340,7 @@ HR-avdelningen är vanligtvis en specialiserad stabsenhet med inriktning på ans
 
 - [[Aktiebolag]]
 	- Delägarna i ett aktiebolag har normalt sett inget personligt ansvar för företagets skulder, man behöver en kapitalinsats för att starta, bolaget är ett eget skattesubjekt och skattas oberoende av dess ägare.
-- [[Enskild näringsverksamhet|Enskild Firma]]
+- [[Enskild Näringsverksamhet|Enskild Firma]]
 	- När en enskild näringsidkare driver och äger ett företag själv, företaget är kopplat till ägarens personnummer.
 - [[Handelsbolag]]
 	- Ett företag med minst två delägare, ägarna kallas för bolagsmän och kan vara både fysiska personer och företag, det är de som ansvarar för skulderna, företaget är i sig en juridisk person.
@@ -348,7 +348,7 @@ HR-avdelningen är vanligtvis en specialiserad stabsenhet med inriktning på ans
 	- En speciell form av handelsbolag där en ägare, som kallas komplementär, har obegränsat ekonomiskt ansvar.
 - [[Ekonomisk Förening]]
 	- När minst tre personer vill bedriva verksamhet för att främja varandras ekonomiska intressen.
-- [[Ideell förening]]
+- [[Ideell Förening]]
 	- En ideell förening får inte ha till syfte att främja medlemmarnas ekonomiska intressen genom att driva affärsmässig verksamhet.
 - [[Konsortium]]
 	- Ett tillfälligt företag som skapas när flera företag eller individer går ihop för att utföra ett stort projekt, upplöses när projektet är genomfört.

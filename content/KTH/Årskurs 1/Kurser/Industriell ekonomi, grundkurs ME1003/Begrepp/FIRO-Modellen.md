@@ -1,10 +1,9 @@
 # FIRO-Modellen
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-08 10:38
-
-Uppdaterad: Thursday 8th February 2024 10:38:08
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
@@ -27,4 +26,4 @@ Faserna av FIRO-modellen (3)
 - ==Tillhörafasen==: Här bestäms vem som är gruppens medlemmar.
 - ==Rollsökningsfasen==: Här finner alla sin roll i gruppen.
 - ==Samhörighetsfasen==: Här kan gruppen börja arbeta effektivt.
-<!--SR:!2024-02-13,3,230!2024-02-23,14,290-->
+<!--SR:!2024-02-26,10,250!2024-02-23,14,290-->

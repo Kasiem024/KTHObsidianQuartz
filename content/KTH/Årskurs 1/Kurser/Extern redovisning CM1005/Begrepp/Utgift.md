@@ -1,7 +1,13 @@
 # Utgift
 
-2024-01-16 22:24
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -33,4 +39,4 @@ Utgift (Definition):: Uppstår när företaget betalar för något, innan man ha
 <!--SR:!2024-02-17,17,250!2024-02-21,14,250-->
 
 Motsatsen till utgift:: Motsatsen till [[Inkomst]]
-<!--SR:!2024-02-16,18,268!2024-02-17,18,268-->
+<!--SR:!2024-04-22,66,288!2024-02-17,18,268-->

@@ -1,7 +1,13 @@
 # Intäkt
 
-2024-01-16 22:00
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -38,4 +44,4 @@ Intäkt (Definition):: En periodiserad [[Inkomst]] som är kopplat till ett för
 <!--SR:!2024-03-05,25,272!2024-04-01,48,292-->
 
 Motsatsen till Intäkt:: Motsatsen till [[Kostnad]]
-<!--SR:!2024-03-31,47,290!2024-02-12,13,290-->
+<!--SR:!2024-03-31,47,290!2024-04-09,54,310-->

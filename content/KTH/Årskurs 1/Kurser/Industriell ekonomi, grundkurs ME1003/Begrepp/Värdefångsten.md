@@ -1,7 +1,13 @@
 # Värdefångsten
 
-2024-01-18 21:42
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -28,7 +34,7 @@ Vart kategoriseras Uber och Airbnb?
 ## Flashcards
 
 Värdefångsten (Definition):: Ett begrepp för att beskriva ett företags betalningsmodell eller intäktsmodell, hur det är tänkt att man ska få betalt och tjäna pengar på det värdet man erbjuder kunden
-<!--SR:!2024-02-14,9,250!2024-02-28,20,270-->
+<!--SR:!2024-03-18,31,270!2024-02-28,20,270-->
 
 Olika intäktsmodeller (Värdefångst) (8)
 ??

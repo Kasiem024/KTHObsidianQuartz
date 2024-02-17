@@ -1,7 +1,13 @@
 # Instuderingsfrågor Kap 1-7 KS1 ME1003
 
-2024-02-01 16:16
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #övning
+
+---
 
 ## Kapitel 1 Introduktion
 
@@ -10,7 +16,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #övning
 Ämnet industriell ekonomi tar sin utgångspunkt i en verksamhet och dess värdeskapande processer. Man fokuserar på [[Produktutveckling]], [[Produktion]] och [[Marknadsföring]]. Dessa tre utgör företagets kärnverksamhet och deras syfte är att skapa värde åt kunden.
 
 Utgångspunkten för ämnet industriell ekonomi (Definition):: När utgångspunkten för en verksamhet är dess värdeskapande processer, [[Produktutveckling]], [[Produktion]], [[Marknadsföring]]
-<!--SR:!2024-02-11,3,264!2024-02-13,4,289-->
+<!--SR:!2024-02-11,3,264!2024-03-03,16,309-->
 
 2. Vad menar vi när vi säger att en verksamhet är industrialiserad?
 
@@ -31,7 +37,7 @@ De tre centrala [[Värdeskapande Processerna]] i ett industriföretag är: [[Pro
 I början av 1900-talet var Sverige ett utpräglat jordbrukssamhälle och ett av Europas fattigaste länder. Sverige industrialiserades också sent. Eftersom Sverige inte var med nån av världskrigen blev de svenska företagen starkare än sina europeiska konkurrenter. Mot slutet av 1900-talet ökade näringslivets och den offentliga sektorns tjänsteproduktion.
 
 De viktigaste förändringarna i den svenska ekonomins struktur från år 1900 till idag;; Sverige började som ett ==jordbrukssamhälle==, ett av de ==fattigaste== länderna i Europa, ==industrialiserades sent==, var inte med i nåt av ==världskrigen== vilket gjorde svenska företag starka, näringslivets och den offentliga sektorns tjänsteproduktion ökade mot slutet av 1900-talet
-<!--SR:!2024-02-11,3,264-->
+<!--SR:!2024-02-27,11,284-->
 
 2. Ungefär hur stor andel av Sveriges BNP står näringslivets tjänstesektor för och hur stor andel står den tillverkande industrin för?
 
@@ -46,7 +52,7 @@ Näringslivets tjänstesektor står för ungefär 52% av Sveriges BNP. Den tillv
 Eftersom de flesta i Sverige är antingen anställda för stora företag (250+ anställda) eller för små företag (0-19 anställda) säger man att näringslivets struktur i Sverige är som ett timglas. Alltså många som jobbar i botten och toppen men inte så många i mitten.
 
 Vad menas med att näringslivets struktur i Sverige kan beskrivas som ett timglas;; Eftersom de flesta i Sverige är antingen ==anställda för stora företag== (250+ anställda) eller för ==små företag== (0-19 anställda) säger man att näringslivets struktur i Sverige är som ett timglas. Alltså många som jobbar i botten och toppen men ==inte så många i mitten==
-<!--SR:!2024-02-12,4,284-->
+<!--SR:!2024-03-04,17,304-->
 
 5. Vilka är de tre största branscherna i det svenska näringslivets branschstruktur, sett till antal anställda och till förädlingsvärde.
 
@@ -142,7 +148,7 @@ Komplementtjänst (Definition):: En tjänst som erbjuds tillsammans med en vara 
 <!--SR:!2024-02-22,13,294!2024-02-12,4,284-->
 
 Ersättningstjänst (Definition):: En tjänst som substituerar varan helt och hållet så att kunden faktiskt inte äger varan
-<!--SR:!2024-02-25,16,304!2024-02-12,4,284-->
+<!--SR:!2024-02-25,16,304!2024-03-03,16,304-->
 
 6. Namnge och beskriv de tre principiella konkurrensstrategier som kan identifieras oberoende av om ett industriföretags värdeerbjudande består av varor, tjänster eller en kombination av dessa. Ge dessutom exempel på tre företag som du anser är bra exempel på var och en av strategierna.
 
@@ -272,7 +278,7 @@ Definitionen av innovation är en ny eller märkbart förbättrad produkt, proce
 ==Reverse salient== är ett begrepp som beskriver en komponent av en teknologi som försämrar teknologi i helhet för att den inte är tillräckligt bra.
 
 Reverse salient (Definition):: En komponent av en teknologi som försämrar teknologi i helhet för att den inte är tillräckligt bra
-<!--SR:!2024-02-11,3,264!2024-02-13,4,289-->
+<!--SR:!2024-02-11,3,264!2024-03-02,15,309-->
 
 6. Beskriv, med en figur och i ord, innovationsspridningens livscykel och namnge de fem användarkategorierna i modellen.
 
@@ -303,7 +309,7 @@ Processinnovation (Definition):: När en ==existerande produkt== kan tillverkas 
 En ==dominant design== eller de facto-standard är begrepp som används för att beskriva tekniska lösningar som blivit dominanta eller standarden för att de är populära, inte nödvändigtvis för att de är bäst.
 
 Dominant Design (Definition):: Ett begrepp som används för att beskriva tekniska lösningar som blivit standarden för att de är populära, inte nödvändigtvis för att de är bäst
-<!--SR:!2024-02-25,16,294!2024-02-12,4,284-->
+<!--SR:!2024-02-25,16,294!2024-02-29,14,304-->
 
 9. Ge två exempel på teknikskiften som på ett fundamentalt sätt har förändrat etablerade branscher.
 
@@ -320,7 +326,7 @@ Disruptive Innovation (Definition):: När etablerade företag och affärsmodelle
 
 När ett företag kan klara av att använda sina befintliga kunskaper och samtidigt utveckla nya nyttiga kunskaper kan man säga att den är tvåhänt.
 
-Ett tvåhänt teknikbaserat företag (Definition):: När ett företag kan ==balansera== att ==effektivisera== sin nuvarande verksamhet samtidigt som den försöker innovera och ==förnya== sin ==verksamhet==.
+Ett tvåhänt teknikbaserat företag (Definition):: När ett företag kan ==balansera== att ==effektivisera== sin nuvarande verksamhet samtidigt som den försöker innovera och ==förnya== sin ==verksamhet==
 <!--SR:!2024-02-11,3,264!2024-02-23,14,304-->
 
 12. Vad säger "Amaras lag"?
@@ -531,7 +537,7 @@ Typer av tjänsteproduktion (3)
 - ==Professionella tjänster==: Låg variation och volym. Är vanligtvis väldigt kundanpassade och kräver därför hög kompetens vilket leder till hög styckkostnad.
 - ==Serviceverkstäder==: Normal mängd variation och volym.
 - ==Standardtjänster==: Låg variation men stor volym, alltså lätt att standardisera.
-<!--SR:!2024-02-13,3,214!2024-02-12,3,254-->
+<!--SR:!2024-02-13,3,214!2024-02-18,2,234-->
 
 10. Redogör för de fyra olika logikerna av produktionsflöden.
 
@@ -633,20 +639,20 @@ Om man har hög ==flexibilitet== betyder att man kan hantera hög variation i ef
 Ett annat sätt att hantera variation i produktionsprocessen är genom att ha en ==buffert==, vanligen pratas det om två olika typer av buffert. ==Inputbuffert== är när man har ett förråd av råmaterial och komponenter för att hantera leveransproblem. ==Outputbuffert== är när man har ett stort färdigvarulager av produkter för att hantera en plötslig ökning av efterfrågan.
 
 Flexibilitet i Produktionsprocessen (Definition):: När man kan enkelt ställa om sin produktionsprocess för att hantera variation i efterfrågan och problem med leverantörer
-<!--SR:!2024-02-13,3,214!2024-02-09,4,284-->
+<!--SR:!2024-02-18,2,194!2024-02-09,4,284-->
 
 Inputbuffert i Produktionsprocessen (Definition):: När man har ett förråd av råmaterial och komponenter för att hantera leveransproblem
 <!--SR:!2024-02-25,16,304!2024-02-12,4,284-->
 
-Outputbuffert i Produktionsprocessen (Definition):: När man har ett stort färdigvarulager av produkter för att hantera en plötslig ökning av efterfrågan.
-<!--SR:!2024-02-24,15,294!2024-02-12,4,284-->
+Outputbuffert i Produktionsprocessen (Definition):: När man har ett stort färdigvarulager av produkter för att hantera en plötslig ökning av efterfrågan
+<!--SR:!2024-02-24,15,294!2024-03-03,16,304-->
 
 22. Beskriv begreppet Lean production.
 
 Tanken bakom ==Lean production== är att identifiera och eliminera allt sådant i en produktionsprocess som inte skapar värde för slut kunden, alltså minska slöseri. En stor del av Lean production är ==Just in Time==, vilket handlar om att allt ska ske i precis rätt tid, alltså inga buffertar eller mellanlager.
 
 Lean Production (Definition):: Handlar om att ==identifiera== och ==eliminera== allt som inte skapar värde för slut kunden, alltså minska ==slöseri==. ==Just in Time== är centralt, allt ska ske i precis rätt tid, ==inga buffertar==
-<!--SR:!2024-02-19,10,284!2024-02-12,4,284-->
+<!--SR:!2024-02-19,10,284!2024-03-04,17,304-->
 
 23. Beskriv skillnaden mellan de två beordringsprinciperna "push" och "pull".
 
@@ -655,7 +661,7 @@ Push är när varje produktionsmoment får en signal att påbörja från det fö
 Pull är när ett moment beställer material från ett tidigare produktionssteg. Detta eliminerar mellanlager och leder till kort genomloppstid men innebär också att det kan bli överkapacitet, alltså att maskiner i tidigare produktionssteg står stilla.
 
 Beordringsprincipen Push (Definition):: När varje moment i ett produktions system väntar på det föregående produktionssteget, leder lätt till mellanlager där komponenter väntar på att det blir deras tur att bearbetas
-<!--SR:!2024-02-11,2,244!2024-02-14,4,214-->
+<!--SR:!2024-02-11,2,244!2024-02-23,7,214-->
 
 Beordringsprincipen Pull (Definition):: När ett moment beställer material från ett tidigare produktionssteg, eliminerar mellanlager och leder till kort genomloppstid men innebär också att det kan bli överkapacitet, alltså att maskiner i tidigare produktionssteg står stilla
 <!--SR:!2024-02-11,3,267!2024-02-12,3,265-->
@@ -665,7 +671,7 @@ Beordringsprincipen Pull (Definition):: När ett moment beställer material frå
 ==Påfyllningsvolym== är hur ofta och i hur stora mängder ett lager får en leverans. Alltså kan ett lager få många små leveranser eller ett fåtal stora. Om det är många små leveranser är den genomsnittliga lagernivån låg och i det andra fallet blir den genomsnittliga lagernivån hög.
 
 Relationen mellan Lagernivå och Påfyllningsvolym;; Låg påfyllningsvolym, många små leveranser, leder till låg lagernivå. Hög påfyllningsvolym, ett fåtal stora leveranser, leder till hög lagernivå
-<!--SR:!2024-02-12,4,287-->
+<!--SR:!2024-03-01,15,307-->
 
 ![[Lagernivå och Påfyllningsvolym ME1003.png]]
 
@@ -866,7 +872,7 @@ Genom att införa beslutspunkter vid övergångarna mellan olika stadier av utve
 När man koordinerar det operativa arbete genom dagliga eller veckovisa stå-upp-möten framför en projekttavla som ger en bild av vad som ska göras kallar man det för visuell planering. Alltså handlar det om att fysiskt se hur långt man har kommit och vad som finns att göras.
 
 Visuell Planering (Definition):: När man koordinerar det operativa arbete genom dagliga eller veckovisa stå-upp-möten framför en projekttavla som ger en bild av vad som ska göras kallar, **handlar om att fysiskt se hur långt man har kommit och vad som finns att göras**
-<!--SR:!2024-02-11,3,268!2024-02-13,4,289-->
+<!--SR:!2024-02-27,11,288!2024-02-13,4,289-->
 
 15. Beskriv begreppen:
 
@@ -886,7 +892,7 @@ Begrepp inom [[Scrum]]:
 ==Set-based design== handlar om att inte låsa sig fast vid något lösningsalternativ för tidigt men att hålla målet vagt och att eliminera vissa alternativ och ta fram andra under arbetets gång. Tanken är att man ska ha ett set av alternativ vid början av arbetet som minskar och minskar eftersom man utvecklar ny kunskap och vet vilka som inte är användbara.
 
 Set-Based Design (Definition):: När man påbörjar ett projekt med många alternativ som succesivt elimineras då man utvecklar sin kunskap om vad projektet behöver
-<!--SR:!2024-02-11,3,268!2024-02-13,4,289-->
+<!--SR:!2024-02-11,3,268!2024-03-05,18,309-->
 
 17. Beskriv idén bakom s.k. prototyping.
 
@@ -911,4 +917,4 @@ Design for Manufacturing and Assembly (Definition):: När man väldigt tidigt i 
 <!--SR:!2024-02-11,3,268!2024-02-11,1,256-->
 
 Failure Mode and Effect Analysis (Definition):: När man väldigt tidigt försöker identifiera tänkbara fel genom att bryta ner produkten i komponenter och bedöma varje komponents möjliga felkällor
-<!--SR:!2024-02-11,3,268!2024-02-13,3,276-->
+<!--SR:!2024-02-28,12,288!2024-02-13,3,276-->

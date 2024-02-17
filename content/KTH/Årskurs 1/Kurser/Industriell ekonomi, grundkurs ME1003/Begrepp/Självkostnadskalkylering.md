@@ -1,10 +1,9 @@
 # Självkostnadskalkylering
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-10 14:57
-
-Uppdaterad: Saturday 10th February 2024 14:57:16
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -28,7 +27,7 @@ Inom Självkostnadskalkylering finns det något som heter Divisionskalkylering s
 ## Flashcards
 
 Självkostnadskalkylering (Definition):: När man kalkylerar samtliga kostnader som företaget har för en produkt tills den är levererad och betald, svårare ju mer produkter företaget har
-<!--SR:!2024-02-16,3,250!2024-02-18,4,270-->
+<!--SR:!2024-02-24,8,250!2024-02-18,4,270-->
 
 Självkostnad (Definition):: Summan av samtliga kostnader för produkten tills den är levererad och betald
-<!--SR:!2024-02-16,3,250!2024-02-18,4,270-->
+<!--SR:!2024-02-26,10,270!2024-02-18,4,270-->

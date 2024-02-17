@@ -1,7 +1,13 @@
 # Kundorderpunkten
 
-2024-01-27 13:35
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -36,4 +42,4 @@ Genomloppstid (Definition):: Tiden som det tar att tillverka produkten från bö
 <!--SR:!2024-02-11,3,252!2024-02-13,4,270-->
 
 Leveranstid (Definition):: Tiden som det tar för kunden att få produkten efter att beställningen har gjorts
-<!--SR:!2024-02-11,3,252!2024-02-27,17,290-->
+<!--SR:!2024-02-25,9,272!2024-02-27,17,290-->

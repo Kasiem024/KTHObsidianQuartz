@@ -1,10 +1,9 @@
 # Affärsmodellkanvasen
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-08 10:23
-
-Uppdaterad: Thursday 8th February 2024 10:23:17
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
@@ -49,4 +48,4 @@ Affärsmodellkanvasen (9)
 - ==Intäktsflöden==: Försäljning av kaffekapslar.
 - ==Kundsegment==: Espresso älskare.
 ![[Affärsmodellkanvas ME1003.png]]
-<!--SR:!2024-02-13,3,248!2024-02-12,3,267-->
+<!--SR:!2024-02-13,3,248!2024-02-18,2,247-->

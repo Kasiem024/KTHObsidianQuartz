@@ -1,8 +1,13 @@
 # 01-23 Lektion CM1005
 
-2024-01-23 08:23
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #lektion
 
+---
 När man skickar en faktura kan man redovisa det som en [[Utgift]].
 
 [[Inbetalning]] och [[Utbetalning]] kan ses som likviditet, penningflödet. Sker i banken, plusgiro och kassan.
@@ -60,14 +65,3 @@ När man gör balansräkning på bokslutstablå börja mitt i med skulder och eg
 Sidor 43-51, 58-73
 
 [[01-23 Bokslutstablå Exempel 1 CM1005.pdf]]
-
-## Flashcards
-
-Kontant Affär (Definition):: När [[Utgift]] och [[Utbetalning]] sker vid samma tidpunkt
-<!--SR:!2024-03-11,27,283!2024-02-18,13,285-->
-
-När händer Faktura/Bokföring;; Vid en specifik tidpunkt
-<!--SR:!2024-03-07,28,282-->
-
-När händer Prestation/Förbrukning;; Över en period
-<!--SR:!2024-03-30,46,290-->

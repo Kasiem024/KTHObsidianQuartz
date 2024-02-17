@@ -1,7 +1,13 @@
 # Inkomst
 
-2024-01-16 22:00
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -29,4 +35,4 @@ Inkomst (Definition):: Uppstår när företaget har slutfört en prestation. Nä
 <!--SR:!2024-02-23,17,250!2024-02-24,19,270-->
 
 Motsatsen till Inkomst:: Motsatsen till [[Utgift]]
-<!--SR:!2024-02-14,12,250!2024-03-16,36,290-->
+<!--SR:!2024-03-28,42,270!2024-03-16,36,290-->

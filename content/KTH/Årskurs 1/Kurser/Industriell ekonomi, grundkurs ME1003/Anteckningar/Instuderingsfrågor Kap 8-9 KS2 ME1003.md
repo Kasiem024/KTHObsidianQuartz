@@ -1,7 +1,13 @@
 # Instuderingsfrågor Kap 8-9 KS2 ME1003
 
-2024-02-05 20:13
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #övning #ME1003KS2
+
+---
 
 ## Kapitel 8 Ekonomisk Analys och Produktkalkylering
 
@@ -151,7 +157,7 @@ ${Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkt \, Material}}$
 <br>
 
 ---
-${Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt \,  Lön}}$
+${Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt \, Lön}}$
 <br>
 
 ---
@@ -244,7 +250,7 @@ $$
 #### Total intäkt
 
 $$
-{TI =  Pris\!/\!st \,*\, q}
+{TI = Pris\!/\!st \,*\, q}
 $$
 <br>
 
@@ -376,12 +382,12 @@ Alltså, med nuvärdesmetoden kan vi exempelvis veta hur mycket avkastningen sku
 
 $$
 { Nusummefaktor (NUS) =
-\frac{1 - ( 1 + Kalkylränta )^{-Ekonomisk \, Livslängd (Antal  \, År)}}{Kalkylränta}}
+\frac{1 - ( 1 + Kalkylränta )^{-Ekonomisk \, Livslängd (Antal \, År)}}{Kalkylränta}}
 $$
 
 $$
 { Nuvärdefaktor (NUV) =
-\frac{1}{( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)}}}
+\frac{1}{( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal \, År)}}}
 $$
 
 $$

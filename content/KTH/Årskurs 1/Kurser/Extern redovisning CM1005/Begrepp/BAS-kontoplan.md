@@ -1,7 +1,13 @@
 # BAS-kontoplan
 
-2024-02-01 10:36
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -43,7 +49,7 @@ En typ av kontoplan som består av 4 huvudgrupper:
 - Skulder
 - Intäkter
 - Kostnader
-<!--SR:!2024-02-15,7,250!2024-02-24,14,290-->
+<!--SR:!2024-03-04,18,250!2024-02-24,14,290-->
 
 BAS-Kontoplanens kontoklasser (10)
 ??
@@ -57,4 +63,4 @@ BAS-Kontoplanens kontoklasser (10)
 - 8xxx: Finansiella poster.
 - 9xxx: Interna konton.
 - 0xxx: Interna konton.
-<!--SR:!2024-02-14,1,210!2024-02-20,12,270-->
+<!--SR:!2024-02-17,2,210!2024-02-20,12,270-->

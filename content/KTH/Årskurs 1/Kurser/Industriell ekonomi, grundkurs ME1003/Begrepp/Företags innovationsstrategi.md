@@ -1,10 +1,9 @@
 # Företags innovationsstrategi
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-08 09:34
-
-Uppdaterad: Thursday 8th February 2024 09:34:25
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 

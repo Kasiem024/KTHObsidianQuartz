@@ -1,10 +1,9 @@
 # Konsumenttjänstlagen
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-13 17:14
-
-Uppdaterad: 2024-02-13 17:14
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -22,4 +21,4 @@ Konsumentköplagen gäller när en privatperson köper en tjänst från ett för
 ## Flashcards
 
 Konsumenttjänstlagen (Definition):: Gäller när en privatperson köper en tjänst från ett företag, [[Konsumentmarknad]], tvingar företag att agera till konsumentens fördel, innehåller lagar om vad som gäller om tjänsten är felaktig, alltså om resultatet inte är upp till standard.
-<!--SR:!2024-02-17,4,270!2000-01-01,1,250-->
+<!--SR:!2024-02-17,4,270!2024-02-18,3,252-->

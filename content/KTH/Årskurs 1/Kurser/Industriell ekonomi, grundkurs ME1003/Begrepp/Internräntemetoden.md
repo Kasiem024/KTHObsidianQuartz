@@ -1,6 +1,10 @@
 # Internräntemetoden
 
-2024-02-07 10:37
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
@@ -22,4 +26,4 @@ Alltså, Internräntemetoden visar när en investering möter avkastningskraven,
 ## Flashcards
 
 Internräntemetoden (Definition):: Handlar om att veta när en viss investering möter avkastningskravet, [[Kalkylränta]]
-<!--SR:!2024-02-15,1,230!2024-02-16,3,250-->
+<!--SR:!2024-02-17,2,230!2024-02-25,9,250-->

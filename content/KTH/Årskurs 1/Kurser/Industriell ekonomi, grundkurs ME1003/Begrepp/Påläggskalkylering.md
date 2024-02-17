@@ -1,10 +1,9 @@
 # Påläggskalkylering
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-10 15:46
-
-Uppdaterad: Saturday 10th February 2024 15:46:59
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -61,7 +60,7 @@ dF = Direkta Försäljningskostnader
 
 ---
 
-Alla omkostnader är en [[Indirekt Kostnad]] medan alla andra  kostnader är en [[Direkt Kostnad]].
+Alla omkostnader är en [[Indirekt Kostnad]] medan alla andra kostnader är en [[Direkt Kostnad]].
 
 Tillverkningskostnad (TvK) är summan av dM, MO, dL, TO och övriga direkta tillverkningskostnader.
 
@@ -106,7 +105,7 @@ $$
 ## Flashcards
 
 Påläggskalkylering (Definition):: När man systematiskt fördelar kostnaderna på en [[Kostnadsbärare]] genom att utgå från [[Direkt Kostnad]]
-<!--SR:!2024-02-16,2,248!2024-02-16,3,250-->
+<!--SR:!2024-02-16,2,248!2024-02-25,9,250-->
 
 Påläggsbaser och Fördelningsnycklar (7)
 ??
@@ -124,7 +123,7 @@ Påläggsbaser och Fördelningsnycklar (7)
 	- Exempelvis kostnader för ekonomiavdelningen och företagsledningen men också för reklam och försäljare.
 - ==Speciella direkta försäljningskostnader== (dF)
 	- Exempelvis provision, reklam, resor, mässor.
-<!--SR:!2024-02-16,2,230!2024-02-17,4,270-->
+<!--SR:!2024-02-17,1,210!2024-02-17,4,270-->
 
 Materialomkostnadspålägget (Formel)
 ||
@@ -134,7 +133,7 @@ $$
 $$
 { MO\!-\!pålägg=\frac{MO}{dM}}
 $$
-<!--SR:!2024-02-16,3,250-->
+<!--SR:!2024-02-22,6,250-->
 
 Tillverkningsomkostnadspålägget (Formel)
 ||
@@ -144,7 +143,7 @@ $$
 $$
 {TO\!-\!pålägg=\frac{TO}{dL}}
 $$
-<!--SR:!2024-02-14,1,230-->
+<!--SR:!2024-02-17,2,230-->
 
 Affärsomkostnadspålägget (Formel)
 ||
@@ -154,4 +153,4 @@ $$
 $$
 {AffO\!-\!pålägg=\frac{AffO}{TvK}}
 $$
-<!--SR:!2024-02-16,3,250-->
+<!--SR:!2024-02-23,7,250-->

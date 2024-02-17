@@ -1,10 +1,9 @@
 # Destinationsprincipen
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-14 11:48
-
-Uppdaterad: 2024-02-14 11:48
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -23,3 +22,4 @@ Möbelaffären C har ingen ingående moms för att Möbelfabrikant B är i ett a
 ## Flashcards
 
 Destinationsprincipen (Definition):: Bestämmer i vilket land [[Moms]] ska betalas, alltså vart konsumenten är ![[Destinationsprincipen CM1005.png]]
+<!--SR:!2024-02-18,3,250!2024-02-19,3,250-->

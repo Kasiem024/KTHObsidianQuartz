@@ -1,10 +1,9 @@
 # Särkostnad
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-10 10:42
-
-Uppdaterad: Saturday 10th February 2024 10:42:11
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -25,4 +24,4 @@ Särkostnader som direkt orsakats av den handling eller det beslut kalkylen avse
 ## Flashcards
 
 Särkostnad (Definition):: Kostnader som direkt orsakats av den handling eller det beslut kalkylen avser. Alltså om kostnaden uppstår för att just den produkten har producerats
-<!--SR:!2024-02-17,3,250!2024-02-16,3,250-->
+<!--SR:!2024-02-17,3,250!2024-02-25,9,250-->

@@ -1,7 +1,13 @@
 # Redovisningsprinciper
 
-2024-01-31 19:52
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -17,7 +23,7 @@ Exempel på Redovisningsprinciper:
 - [[Periodiseringsprincipen]]
 - [[Kontinuitetsprincipen]]
 - [[Bruttoredovisningsprincipen]]
-- [[Principen om individuell värdering]]
+- [[Principen om Individuell Värdering]]
 
 ## Kopplat till
 
@@ -34,5 +40,5 @@ Olika Redovisningsprinciper (7)
 - [[Periodiseringsprincipen]]
 - [[Kontinuitetsprincipen]]
 - [[Bruttoredovisningsprincipen]]
-- [[Principen om individuell värdering]]
-<!--SR:!2024-02-15,2,190!2024-02-19,13,290-->
+- [[Principen om Individuell Värdering]]
+<!--SR:!2024-02-21,6,210!2024-02-19,13,290-->

@@ -1,10 +1,9 @@
 # Bidragskalkylering
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-10 10:49
-
-Uppdaterad: Saturday 10th February 2024 10:49:55
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -25,4 +24,4 @@ Bidragskalkylering använder en ofullständig kostnadsfördelning.
 ## Flashcards
 
 Bidragskalkylering (Definition):: När enbart [[Särkostnad]] hänförs till [[Kostnadsbärare]]. Därefter beräknas det [[Täckningsbidrag]] som kostnadsbäraren lämnar. Denna typ av kalkylering används ofta för att göra snabba beslut på kort sikt, exempelvis hotell, och för att veta [[Lönsamhet]]
-<!--SR:!2024-02-17,3,250!2024-02-16,3,250-->
+<!--SR:!2024-02-17,3,250!2024-02-22,6,250-->

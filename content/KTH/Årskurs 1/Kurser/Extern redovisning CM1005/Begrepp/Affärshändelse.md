@@ -1,7 +1,13 @@
 # Affärshändelse
 
-2024-01-16 21:37
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -16,7 +22,7 @@ En affärshändelse ska bokföras snarast, kronologiskt och systematiskt.
 ## Flashcards
 
 Affärshändelse (Definition):: En ekonomisk transaktion som har en inverkan på företagets ekonomi och som bokförs
-<!--SR:!2024-02-25,20,270!2024-02-14,14,290-->
+<!--SR:!2024-02-25,20,270!2024-04-10,55,310-->
 
 Fråga för att veta om något är en affärshändelse:: Har det varit ett ekonomiskt utbyte med världen?
 <!--SR:!2024-03-30,51,310!2024-03-31,47,290-->

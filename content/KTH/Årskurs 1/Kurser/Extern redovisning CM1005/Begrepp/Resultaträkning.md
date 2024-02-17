@@ -1,7 +1,13 @@
 # Resultaträkning
 
-2024-01-16 21:51
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -62,4 +68,4 @@ När man delar upp verksamhetens kostnader i 3 huvudfunktioner:
 - Tillverkning
 - Försäljning
 - Administration
-<!--SR:!2024-02-11,1,155!2024-02-16,3,232-->
+<!--SR:!2024-02-17,2,155!2024-02-22,6,232-->

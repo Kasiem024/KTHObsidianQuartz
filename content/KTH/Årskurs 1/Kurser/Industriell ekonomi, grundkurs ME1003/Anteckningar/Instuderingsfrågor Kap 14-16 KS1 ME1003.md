@@ -1,7 +1,13 @@
 # Instuderingsfrågor Kap 14-16 KS1 ME1003
 
-2024-02-03 17:49
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #övning
+
+---
 
 ## Kapitel 14 Affärsstrategier och strategimodeller
 
@@ -22,7 +28,7 @@ Man kan säga att en [[Affärsidé]] är ett övergripande och långsiktigt syft
 
 [[Ansoff Tillväxtmatris]]
 
-|  | Existing Products | New Products |
+| | Existing Products | New Products |
 | :--: | :--: | :--: |
 | **Existing Markets** | ==Market penetration==, mer aggresiv markandsföring för att ta en större andel av marknaden | ==Product development==, genom att utveckla en produkt man redan har kan man ta en större andel av marknaden |
 | **New Markets** | ==Market development==, mycket marknadsföring för att få nya kunder | ==Diversification==, försöker anpassa produkten efter marknaden |
@@ -36,7 +42,7 @@ Unrelated Diversification: När man har ett flertal olika produkter som inte all
 Michael Porters generiska affärsstrategier bygger på idén att det endast finns två sätt att bli bättre än sina konkurrenter, antingen genom att ha låga kostnader eller genom att erbjuda differentierade produkter.
 
 Michael Porters Generiska Affärsstrategier (Definition):: Handlar om att det endast finns två sätt att bli bättre än sina konkurrenter, antingen genom att ha ==låga kostnader== eller genom att erbjuda ==differentierade produkter==
-<!--SR:!2024-02-12,4,275!2024-02-11,1,247-->
+<!--SR:!2024-02-18,2,255!2024-02-11,1,247-->
 ![[Michael Porters Generiska Affärsstrategier ME1003.png]]
 
 6. Beskriv följande konkurrenskrafter baserade på Porters och Ansoffs typstrategier:
@@ -168,7 +174,7 @@ Scenarioteknik utgår på att skapa scenarier för framtida konfliktsituationer 
 ==Sida 369 i MIE boken==
 
 Scenarioteknik (Definition):: En analysmetod som utgår på att skapa scenarier för framtida konfliktsituationer så att man kan träna på hur man ska hantera krissituationer
-<!--SR:!2024-02-10,4,275!2024-02-24,14,295-->
+<!--SR:!2024-02-27,11,275!2024-02-24,14,295-->
 
 20. Utgå från ett exempel och redogör för affärsmodellkanvasen som en strategimodell.
 
@@ -224,7 +230,7 @@ VAGT Mål (4)
 - ***A***ccepterat
 - ***G***emensamt
 - ***T***idsbestämt
-<!--SR:!2024-02-12,2,235!2024-02-12,3,259-->
+<!--SR:!2024-02-22,7,255!2024-02-28,12,279-->
 
 ## Kapitel 15 Personalledning och HRM
 
@@ -319,7 +325,7 @@ När ett företag börjar överväga om kompetensen borde komma från externa ak
 Hawthornestudierna visade att om man visar hänsyn och intresse för arbetarna kommer de jobba fortare.
 
 Hawthornestudiernas Resultat (Definition):: Om man visar hänsyn och intresse för arbetarna kommer de jobba fortare
-<!--SR:!2024-02-12,4,275!2024-02-13,4,279-->
+<!--SR:!2024-02-12,4,275!2024-03-05,18,299-->
 
 14. Vad innebär alienation?
 
@@ -340,7 +346,7 @@ Maslows Behovspyramid (5)
 - Esteem needs
 - Self-actualization
 ![[Maslow's Hierarchy Of Needs ME1003.png]]
-<!--SR:!2024-02-09,1,237!2024-02-11,1,247-->
+<!--SR:!2024-02-09,1,237!2024-02-17,1,227-->
 
 16. Redogör för Herzbergs tvåfaktorsteori. Ge tre exempel på varje faktor.
 
@@ -408,7 +414,7 @@ En formell ledare är någon som har mandat både från sina överordnade och si
 	- När ledaren anpassar sig efter mognaden av gruppen.
 
 Managerial Grid, Flerdimensionell Ledarstil (Definition):: När vilken typ av ledare man är beror på hur mycket intresse man har för människor och hur mycket intresse för verksamheten
-<!--SR:!2024-02-12,2,237!2024-02-13,4,279-->
+<!--SR:!2024-02-20,4,237!2024-02-13,4,279-->
 
 Den Situationsanpassade Ledarskapsmodellen, Flerdimensionell Ledarstil (Definition):: När ledaren anpassar sig efter mognaden av gruppen
 <!--SR:!2024-02-12,4,277!2024-02-13,4,286-->
@@ -423,7 +429,7 @@ HR-avdelningen är vanligtvis en specialiserad stabsenhet med inriktning på ans
 
 - [[Aktiebolag]]
 	- Delägarna i ett aktiebolag har normalt sett inget personligt ansvar för företagets skulder, man behöver en kapitalinsats för att starta, bolaget är ett eget skattesubjekt och skattas oberoende av dess ägare.
-- [[Enskild näringsverksamhet|Enskild Firma]]
+- [[Enskild Näringsverksamhet|Enskild Firma]]
 	- När en enskild näringsidkare driver och äger ett företag själv, företaget är kopplat till ägarens personnummer.
 - [[Handelsbolag]]
 	- Ett företag med minst två delägare, ägarna kallas för bolagsmän och kan vara både fysiska personer och företag, det är de som ansvarar för skulderna, företaget är i sig en juridisk person.
@@ -431,7 +437,7 @@ HR-avdelningen är vanligtvis en specialiserad stabsenhet med inriktning på ans
 	- En speciell form av handelsbolag där en ägare, som kallas komplementär, har obegränsat ekonomiskt ansvar.
 - [[Ekonomisk Förening]]
 	- När minst tre personer vill bedriva verksamhet för att främja varandra ekonomiska intressen.
-- [[Ideell förening]]
+- [[Ideell Förening]]
 	- En ideell förening får inte ha till syfte att främja medlemmarnas ekonomiska intressen genom att driva affärsmässig verksamhet.
 - [[Konsortium]]
 	- Ett tillfälligt företag som skapas när flera företag eller individer går ihop för att utföra ett stort projekt, upplöses när projektet är genomfört.
@@ -510,7 +516,7 @@ Vertikal Specialisering (Definition):: Handlar om hur platt eller spetsig en org
 Kontrollspann är hur många direkt underställda medarbetare en viss chef har. Brett kontrollspann är bra när arbetsuppgifterna är standardiserade och när de medarbetarna behöver självständighet. Smalt kontrollspann är bra när medarbetarna behöver chefens hjälp eller att chefen behöver övervaka sina underställda.
 
 Kontrollspann (Definition):: Handlar om hur många direkt underställda medarbetare en viss chef har, kan vara brett eller spetsigt
-<!--SR:!2024-02-12,4,277!2024-02-13,4,279-->
+<!--SR:!2024-02-26,11,277!2024-02-13,4,279-->
 
 13. Beskriv följande organisationsformer:
 

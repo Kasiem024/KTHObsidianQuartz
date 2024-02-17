@@ -1,10 +1,9 @@
 # Theme Test
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-08 14:46
-
-Uppdaterad: Thursday 8th February 2024 14:46:17
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 ---
 

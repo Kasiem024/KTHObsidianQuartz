@@ -1,24 +1,32 @@
 # Företagsformer
 
-2024-01-16 22:51
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
 
-- [[Enskild näringsverksamhet]]
+---
+
+## Definition
+
+- [[Enskild Näringsverksamhet]]
 - [[Aktiebolag]]
 - [[Handelsbolag]]
 - [[Ekonomisk Förening]]
-- [[Ideell förening]]
+- [[Ideell Förening]]
 - [[Konsortium]]
 
 ## Flashcards
 
 Alla företagsformer (6)
 ||
-- [[Enskild näringsverksamhet]]
+- [[Enskild Näringsverksamhet]]
 - [[Aktiebolag]]
 - [[Handelsbolag]]
 - [[Ekonomisk Förening]]
-- [[Ideell förening]]
+- [[Ideell Förening]]
 - [[Konsortium]]
 <!--SR:!2024-03-26,48,290-->
 

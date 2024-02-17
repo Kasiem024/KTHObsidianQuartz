@@ -1,7 +1,13 @@
 # Revisionsberättelse
 
-2024-02-01 11:25
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -30,7 +36,7 @@ Om ett [[Aktiebolag]] uppfyller två av dess kriterier måste de ha en revisor:
 - Mer än 1,5 miljoner kronor i balansomslutning
 - Mer än 3 miljoner kronor i nettoomsättning
 
-Om en [[Enskild näringsverksamhet]] uppfyller två av dessa kriterier måste de ha en revisor:
+Om en [[Enskild Näringsverksamhet]] uppfyller två av dessa kriterier måste de ha en revisor:
 
 - Fler än 50 anställda i medeltal
 - Mer än 40 miljoner kronor i balansomslutning
@@ -44,7 +50,7 @@ Revisionsberättelse (Definition):: När en revisor redogör sin granskning av e
 <!--SR:!2024-02-20,11,274!2024-02-20,13,290-->
 
 Revisor (Definition):: Någon vars jobb är att granska och verifiera företags redovisning
-<!--SR:!2024-02-16,11,270!2024-02-22,15,290-->
+<!--SR:!2024-03-16,29,270!2024-02-22,15,290-->
 
 Revisionsberättelsens innehåll (4)
 ??
@@ -52,4 +58,4 @@ Revisionsberättelsens innehåll (4)
 - Om revisorn anser att årsstämman ska fastställa [[Resultaträkning]] och [[Balansräkning]].
 - Om revisorn anser att årsstämman ska besluta förslaget till hur årets resultat ska disponeras.
 - Om revisorn anser att årsstämman ska besluta över styrelsens ansvarsfrihet.
-<!--SR:!2024-02-13,3,218!2024-02-25,12,276-->
+<!--SR:!2024-02-24,9,218!2024-02-25,12,276-->

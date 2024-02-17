@@ -1,10 +1,9 @@
 # Ekonomisk Livslängd
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-11 08:44
-
-Uppdaterad: Sunday 11th February 2024 08:44:26
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -21,4 +20,4 @@ Alltså är Ekonomisk Livslängd hur länge något fungerar bra och är värt de
 ## Flashcards
 
 Ekonomisk Livslängd (Definition):: Tiden fram till dess att investeringen har uppnått maximal [[Lönsamhet]], när företaget bedömer att det inte längre är värt det att äga investeringen och borde göra en ==nyinvestering==
-<!--SR:!2024-02-16,3,250!2024-02-18,4,270-->
+<!--SR:!2024-02-22,6,250!2024-02-18,4,270-->

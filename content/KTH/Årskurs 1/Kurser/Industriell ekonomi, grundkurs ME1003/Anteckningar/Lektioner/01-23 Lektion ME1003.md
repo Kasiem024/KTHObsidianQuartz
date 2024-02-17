@@ -1,10 +1,18 @@
 # 01-23 Lektion ME1003
 
-2024-01-23 15:09
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #lektion
+
+---
 [Länk till föreläsning på Canvas](https://kaf.canvas.kth.se/media/F4+De+va%CC%88rdeskapande+processerna+Produktion+och+Produktutveckling+P3+V22+SWE+2022-01-24+BK/0_k2rwr232/660304)
-[[01-23 Journal ME1003.pdf]]
+[[01-23 Journal Lektion ME1003.pdf]]
 [Länk till PPT på Canvas](https://canvas.kth.se/courses/44986/files/folder/2.%20F%C3%B6rel%C3%A4sningar?preview=7547659)
+
+---
 
 ## [[Teknologiska kurvan]]
 
@@ -31,11 +39,11 @@ Produktion och produktutveckling
 | Slutmontering görs av kunden | Medlemskap | Barnvänligt |
 | ==Platta paket --> Lätt att transportera== | Platta paket | Korven efter kassorna |
 | Outsourcing -<br>Leveranskedjor | Materialutveckling | Reklam i massmedia |
-| Manual för montering |  | Snitslad bana |
-|  |  | Känns som en "aktivitet" |
-|  |  | Livsmedel efter kassorna |
-|  |  | Tjänster |
-|  |  | Utanför staden |
+| Manual för montering | | Snitslad bana |
+| | | Känns som en "aktivitet" |
+| | | Livsmedel efter kassorna |
+| | | Tjänster |
+| | | Utanför staden |
 
 Platta paket som exempel: Först behövde idén bakom platta paket utvecklas, sedan behövde paketen produceras och till sist marknadsföras till kunder på ett sätt som får de att vilja köpa de. Alltså är alla tre grejer starkt kopplade till varann
 

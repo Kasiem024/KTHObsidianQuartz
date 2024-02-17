@@ -1,7 +1,13 @@
 # Produktlivscykeln
 
-2024-01-30 13:04
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -18,12 +24,12 @@ Man börjar med ==introduktionen== av produkten när den först ==lanseras== och
 ## Flashcards
 
 Produktlivscykeln (Definition):: Beskriver stadierna i en produkts livscykel. I vilken stadie man är beror på hur länge produkten har funnits på marknaden och dess försäljningsvolym. Det är viktigt för företag att ha en ==produktportfölj==. Alltså ett flertal produkter som är i olika delar av sin livscykel
-<!--SR:!2024-02-15,10,270!2024-02-16,6,272-->
+<!--SR:!2024-03-12,26,270!2024-03-09,22,292-->
 
 Stadier i en produkts livscykel (4)
 ??
-- Introduktion.
-- Tillväxt.
-- Mognad.
-- Nedgång.
-<!--SR:!2024-02-21,16,290!2024-02-13,11,270-->
+- Introduktion
+- Tillväxt
+- Mognad
+- Nedgång
+<!--SR:!2024-02-21,16,290!2024-02-22,6,250-->

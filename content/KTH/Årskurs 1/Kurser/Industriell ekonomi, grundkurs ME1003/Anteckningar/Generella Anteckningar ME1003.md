@@ -1,7 +1,13 @@
 # Generella Anteckningar ME1003
 
-2024-01-22 12:48
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ME1003
+
+---
 
 ## Länkar
 

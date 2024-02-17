@@ -154,7 +154,7 @@ ${Materialomkostnadspålägget=\frac{Materialomkostnader}{Direkt \, Material}}$
 <br>
 
 ---
-${Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt \,  Lön}}$
+${Tillverkningsomkostnadspålägget=\frac{Tillverkningsomkostnader}{Direkt \, Lön}}$
 <br>
 
 ---
@@ -247,7 +247,7 @@ $$
 #### Total intäkt
 
 $$
-{TI =  Pris\!/\!st \,*\, q}
+{TI = Pris\!/\!st \,*\, q}
 $$
 <br>
 
@@ -379,12 +379,12 @@ Alltså, med nuvärdesmetoden kan vi exempelvis veta hur mycket avkastningen sku
 
 $$
 { Nusummefaktor (NUS) =
-\frac{1 - ( 1 + Kalkylränta )^{-Ekonomisk \, Livslängd (Antal  \, År)}}{Kalkylränta}}
+\frac{1 - ( 1 + Kalkylränta )^{-Ekonomisk \, Livslängd (Antal \, År)}}{Kalkylränta}}
 $$
 
 $$
 { Nuvärdefaktor (NUV) =
-\frac{1}{( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal  \, År)}}}
+\frac{1}{( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal \, År)}}}
 $$
 
 $$

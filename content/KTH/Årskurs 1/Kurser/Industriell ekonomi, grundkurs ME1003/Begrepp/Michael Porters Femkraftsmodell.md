@@ -1,10 +1,9 @@
 # Michael Porters Femkraftsmodell
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-08 10:20
-
-Uppdaterad: Thursday 8th February 2024 10:20:22
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
@@ -26,7 +25,7 @@ Michael Porters Femkraftsmodell är ett sätt att analysera de konkurrenskrafter
 
 ## Flashcards
 
-Michael Porters Femkraftsmodell  (5)
+Michael Porters Femkraftsmodell (5)
 ??
 - ==Företag i branschen==: Sina nuvarande konkurrenter.
 - ==Kunders förhandlingsstyrka==: Om kunden är mäktig kan den pressa priserna.

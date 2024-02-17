@@ -1,7 +1,13 @@
 # Bruttoredovisningsprincipen
 
-2024-01-31 21:09
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -22,4 +28,4 @@ Alltså om två företag betalar varandra kan de inte kvitta kostnader och intä
 ## Flashcards
 
 Bruttoredovisningsprincipen (Definition):: En av flera [[Redovisningsprinciper]] som innebär att man inte får kvitta tillgångar mot skulder i en [[Balansräkning]] och kostnader mot intäkter i en [[Resultaträkning]]
-<!--SR:!2024-03-08,24,270!2024-02-15,10,270-->
+<!--SR:!2024-03-08,24,270!2024-03-25,39,290-->

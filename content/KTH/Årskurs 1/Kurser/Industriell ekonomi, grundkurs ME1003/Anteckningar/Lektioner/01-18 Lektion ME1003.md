@@ -1,10 +1,17 @@
 # 01-18 Lektion ME1003
 
-2024-01-18 12:57
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #lektion
 
+---
 [Länk till föreläsning på Canvas](https://kaf.canvas.kth.se/media/F2+Teknikbaserade+affa%CC%88rsmodeller+P3+V22+SWE+2022-01-19+BK/0_kfxregj1/660304)
 [Länk till PPT på Canvas](https://canvas.kth.se/courses/44986/files/folder/2.%20F%C3%B6rel%C3%A4sningar?preview=7529160)
+
+---
 
 ## [[4S]]
 
@@ -21,13 +28,13 @@ För att veta om en verksamhet är industriell ska den följa de 4S:
 | :--: | :--: | :--: |
 | Skalfördelar (Stor volym) | [[Varumärke]] | Individualiserat |
 | Standardisering | Nischat ("rik" målgrupp) | Kundanpassning |
-| Bred målgrupp | "Hög" kvalitet men inte kundanpassade  | Hög kvalitet |
+| Bred målgrupp | "Hög" kvalitet men inte kundanpassade | Hög kvalitet |
 | Generisk design | Design | Personligt |
 | "Kopiera design" | Inte generiska (trend setter) | Service (Uppdateringar) |
-| Låga produktionskostnader |  |  |
-| Underleverantörer |  |  |
-| Logisitk |  |  |
-| Låglöneländer |  |  |
+| Låga produktionskostnader | | |
+| Underleverantörer | | |
+| Logisitk | | |
+| Låglöneländer | | |
 
 ## [[Konkurrensstrategier]]
 

@@ -2,9 +2,9 @@
 
 ---
 
-Skapad: <% tp.file.creation_date() %>
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Uppdaterad: <% tp.file.last_modified_date() %>
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #<% tp.file.cursor(1) %> #lektion
 

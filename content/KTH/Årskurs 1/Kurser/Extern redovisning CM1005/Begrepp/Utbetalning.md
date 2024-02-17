@@ -1,7 +1,13 @@
 # Utbetalning
 
-2024-01-16 22:24
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -23,7 +29,7 @@ Utbetalning kan ses som likviditet, penningflödet. Det sker i banken, plusgiro 
 ## Flashcards
 
 Utbetalning (Definition):: När företaget betalar för något. En del av [[Kassaflöde]]
-<!--SR:!2024-03-16,37,292!2024-02-14,14,290-->
+<!--SR:!2024-03-16,37,292!2024-04-10,55,310-->
 
 Motsatsen till utbetalning:: Motsatsen till [[Inbetalning]]
-<!--SR:!2024-04-21,68,312!2024-02-16,17,292-->
+<!--SR:!2024-04-21,68,312!2024-04-24,68,312-->

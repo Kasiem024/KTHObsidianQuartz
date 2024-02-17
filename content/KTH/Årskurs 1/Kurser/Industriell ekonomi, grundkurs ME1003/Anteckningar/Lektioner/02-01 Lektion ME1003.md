@@ -1,10 +1,17 @@
 # 02-01 Lektion ME1003
 
-2024-02-01 16:11
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #lektion #ME1003KS2
 
+---
 [Länk till föreläsning på Canvas](https://canvas.kth.se/courses/44986/external_tools/2427)
 [Länk till PPT på Canvas](https://canvas.kth.se/courses/44986/files/folder/2.%20F%C3%B6rel%C3%A4sningar?preview=7575247)
+
+---
 
 ## [[Företags Ekonomiska Kretslopp]]
 

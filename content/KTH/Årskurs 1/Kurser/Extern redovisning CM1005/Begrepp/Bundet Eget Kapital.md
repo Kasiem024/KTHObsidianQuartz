@@ -1,7 +1,13 @@
 # Bundet Eget Kapital
 
-2024-02-01 11:11
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -14,4 +20,4 @@ I [[Aktiebolag]] och [[Ekonomisk Förening]] skiljer man mellan Bundet Eget Kapi
 ## Flashcards
 
 Bundet Eget Kapital (Definition):: Kapital som måste användas inom företaget, inte för vinstutdelning. Är vanligtvis aktiekapital/medlemmarnas insatser, reservfond och uppskrivningsfond
-<!--SR:!2024-02-15,8,250!2024-02-25,15,290-->
+<!--SR:!2024-03-07,21,250!2024-02-25,15,290-->

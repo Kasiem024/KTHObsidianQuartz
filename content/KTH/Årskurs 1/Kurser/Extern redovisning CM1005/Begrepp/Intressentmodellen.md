@@ -1,7 +1,13 @@
 # Intressentmodellen
 
-2024-01-17 09:17
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -29,7 +35,7 @@ Intressentmodellen (Definition):: En grafisk beskrivning av vilka som förvänta
 <!--SR:!2024-02-26,20,270!2024-04-06,53,290-->
 
 Intressenter (Definition):: Grupper/personer som påverkar eller påverkas av ett företag
-<!--SR:!2024-03-21,40,290!2024-02-15,16,290-->
+<!--SR:!2024-03-21,40,290!2024-04-18,63,310-->
 
 Intressenter i intressentmodellen (7)
 ??

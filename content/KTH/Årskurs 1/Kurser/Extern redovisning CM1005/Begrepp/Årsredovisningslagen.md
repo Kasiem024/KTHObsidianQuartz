@@ -1,7 +1,13 @@
 # Årsredovisningslagen
 
-2024-01-31 22:17
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -24,9 +30,9 @@ Det är inte alla verksamheter som behöver följa denna lag. De verksamheter so
 
 Vem ska följa Årsredovisningslagen (5)
 ??
-- [[Aktiebolag]].
-- [[Handelsbolag]].
-- [[Ekonomisk Förening]].
+- [[Aktiebolag]]
+- [[Handelsbolag]]
+- [[Ekonomisk Förening]]
 - Bokföringsskyldiga stiftelser.
 - Företag som uppfyller vissa speciella villkor gällande antalet anställda, balansomslutning och nettoomsättning.
-<!--SR:!2024-02-16,10,270!2024-02-17,10,288-->
+<!--SR:!2024-03-15,28,270!2024-02-17,10,288-->

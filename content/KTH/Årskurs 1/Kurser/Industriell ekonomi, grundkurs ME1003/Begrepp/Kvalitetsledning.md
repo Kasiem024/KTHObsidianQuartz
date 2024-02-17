@@ -1,7 +1,13 @@
 # Kvalitetsledning
 
-2024-02-03 12:46
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
+
+---
 
 ## Definition
 
@@ -31,4 +37,4 @@ Metoder inom Kvalitetsledning (4)
 - ==Fiskbensdiagram==: En metodik för att identifiera orsakssamband mellan olika faktorer.
 - ==Fem Varför==: Att ställa frågan varför fem gånger för att identifiera grundorsaker till ett identifierat kvalitetsproblem.
 - ==PDCA==: Plan, Do, Check, Act. Ett systematiskt arbetsschema vid kvalitetsförbättringar.
-<!--SR:!2024-02-13,3,245!2024-02-12,3,250-->
+<!--SR:!2024-02-18,2,225!2024-02-12,3,250-->

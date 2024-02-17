@@ -1,10 +1,9 @@
 # Köplagen
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-13 17:21
-
-Uppdaterad: 2024-02-13 17:21
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -29,11 +28,11 @@ Köplagen är dispositiv. Med detta menas att den gäller bara i situationer dä
 ## Flashcards
 
 Köplagen (Definition):: En svagare version av [[Konsumentköplagen]] som är mer relevant inom en [[Företagsmarknad]], syftet är att skydda köparen, den är dispositiv, gäller bara om inget har tidigare avtalats om
-<!--SR:!2024-02-16,3,250!2000-01-01,1,250-->
+<!--SR:!2024-02-25,9,250!2024-02-18,3,250-->
 
 När Köplagen gäller (3)
 ??
 - Mellan två företag.
 - Mellan två privatpersoner.
 - När en privatperson säljer till ett företag.
-<!--SR:!2000-01-01,1,250!2024-02-16,3,250-->
+<!--SR:!2024-02-18,3,250!2024-02-29,13,270-->

@@ -1,10 +1,9 @@
 # Incoterms
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-13 16:29
-
-Uppdaterad: 2024-02-13 16:29
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -25,4 +24,4 @@ Vad betalar jag för, hur mycket av processen har jag ansvar över, när tar jag
 ## Flashcards
 
 Incoterms/Leveransklausuler (Definition):: Preciserar leveransvillkoren vid en [[Varutransaktion]]![[Incoterms CM1005.png]]
-<!--SR:!2024-02-16,3,250!2000-01-01,1,250-->
+<!--SR:!2024-02-26,10,250!2024-02-18,3,250-->

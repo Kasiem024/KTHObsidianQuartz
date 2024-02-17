@@ -1,7 +1,13 @@
 # Ingående Balans
 
-2024-01-23 20:01
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -15,8 +21,8 @@ Den [[Utgående Balans]] från förra året blir den ingående balans för detta
 
 ## Flashcards
 
-Ingående Balans (Definition):: De belopp som bokförs i början av ett nytt [[Räkenskapsår]] som ingående saldon på balanskontona. Den visar företagets tillgångar, eget kapital och skulder vid starten av ett nytt [[Räkenskapsår]].
-<!--SR:!2024-02-14,5,276!2024-03-12,33,290-->
+Ingående Balans (Definition):: De belopp som bokförs i början av ett nytt [[Räkenskapsår]] som ingående saldon på balanskontona. Den visar företagets tillgångar, eget kapital och skulder vid starten av ett nytt [[Räkenskapsår]]
+<!--SR:!2024-03-05,19,296!2024-03-12,33,290-->
 
 Konton som bildar ingående balans (3)
 ??

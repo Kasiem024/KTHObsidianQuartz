@@ -1,7 +1,13 @@
 # K-Regelverk
 
-2024-02-01 09:51
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -17,7 +23,7 @@ Finns tre olika regelverk:
 
 ### K1
 
-Ska följas av [[Enskild näringsverksamhet]], [[Handelsbolag]], [[Ideell förening]] med årsomsättning mindre än 3 miljoner kr. Ska innehålla ett förenklat [[Årsbokslut]].
+Ska följas av [[Enskild Näringsverksamhet]], [[Handelsbolag]], [[Ideell Förening]] med årsomsättning mindre än 3 miljoner kr. Ska innehålla ett förenklat [[Årsbokslut]].
 
 ### K2 och K3
 
@@ -28,4 +34,4 @@ Alla [[Aktiebolag]] får följa K3 men om företaget är tillräckligt stort må
 ## Flashcards
 
 K-Regelverk (Definition):: Innehåller regler om hur en [[Årsredovisning]] eller ett [[Årsbokslut]] ska utformas och hur tillgångar, skulder, [[Intäkt]] och [[Kostnad]] ska värderas
-<!--SR:!2024-02-09,1,210!2024-02-17,4,190-->
+<!--SR:!2024-02-17,1,170!2024-02-17,4,190-->

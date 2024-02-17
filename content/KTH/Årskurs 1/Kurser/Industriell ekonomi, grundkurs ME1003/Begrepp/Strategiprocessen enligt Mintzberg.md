@@ -1,10 +1,9 @@
 # Strategiprocessen enligt Mintzberg
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-07 23:03
-
-Uppdaterad: Wednesday 7th February 2024 23:03:17
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 

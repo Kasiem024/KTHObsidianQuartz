@@ -1,10 +1,9 @@
 # Avtalslagen
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-13 17:46
-
-Uppdaterad: 2024-02-13 17:46
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
@@ -25,4 +24,4 @@ Ett avtal kan vara skriftligt eller muntligt och är bindande i båda fallen.
 ## Flashcards
 
 Avtalslagen (Definition):: Innefattar generella regler och riktlinjer som gäller när man ingår ett avtal, och utgör stommen i den allmänna avtalslagstiftningen
-<!--SR:!2024-02-16,3,250!2000-01-01,1,250-->
+<!--SR:!2024-02-24,8,250!2024-02-19,4,270-->

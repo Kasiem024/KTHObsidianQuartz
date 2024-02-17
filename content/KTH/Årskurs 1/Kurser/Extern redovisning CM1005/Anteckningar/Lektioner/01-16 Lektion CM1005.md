@@ -1,9 +1,16 @@
 # 01-16 Lektion CM1005
 
-2024-01-16 10:09
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #lektion
 
+---
 [[01-16 Räkningar CM1005.excalidraw]]
+
+---
 
 ## Näringsverksamhet
 
@@ -25,11 +32,11 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #lektion
 
 ## [[Företagsformer]]
 
-- [[Enskild näringsverksamhet]]
+- [[Enskild Näringsverksamhet]]
 - [[Aktiebolag]]
 - [[Handelsbolag]]
 - [[Ekonomisk Förening]]
-- [[Ideell förening]]
+- [[Ideell Förening]]
 
 [[Affärshändelse]]: En affärshändelse är en ekonomisk transaktion som dokumenteras genom en så kallad verifikation i företagets bokföring. ==Har det varit ett ekonomiskt utbyte med världen?==
 

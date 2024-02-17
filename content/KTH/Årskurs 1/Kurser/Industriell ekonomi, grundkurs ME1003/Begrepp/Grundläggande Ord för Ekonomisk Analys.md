@@ -1,10 +1,9 @@
 # Grundläggande Ord för Ekonomisk Analys
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-10 10:00
-
-Uppdaterad: Saturday 10th February 2024 10:00:37
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -20,6 +19,7 @@ Viktiga begreppspar för att kunna beskriva det finansiella flödet.
 - [[Utgift]]: När företaget erhåller en faktura.
 - [[Inbetalning]]: När företaget får betalt.
 - [[Utbetalning]]: När företaget gör en betalning.
+- [[Lönsamhet]]
 
 ## Kopplat till
 

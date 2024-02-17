@@ -1,10 +1,9 @@
 # Innovationsspridningens Livscykel
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-07 23:49
-
-Uppdaterad: Wednesday 7th February 2024 23:49:35
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp
 
@@ -36,4 +35,4 @@ Innovationsspridningens Livscykel Användarkategorier (5)
 - Tidig majoritet
 - Sen majoritet
 - Eftersläntrare
-<!--SR:!2024-02-13,3,250!2024-02-12,3,268-->
+<!--SR:!2024-02-28,13,270!2024-02-12,3,268-->

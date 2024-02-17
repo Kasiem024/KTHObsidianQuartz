@@ -1,7 +1,13 @@
-# Enskild näringsverksamhet
+# Enskild Näringsverksamhet
 
-2024-01-16 10:49
+---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
+
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
+
 Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+
+---
 
 ## Definition
 
@@ -18,7 +24,7 @@ Personligt ansvarig. Företaget är inte en separat juridisk person.
 ## Flashcards
 
 Enskild näringsverksamhet (Definition):: Företagsform om en privatperson är ensam ägare och driver/ansvarar själv för företaget
-<!--SR:!2024-03-29,45,298!2024-02-15,16,290-->
+<!--SR:!2024-03-29,45,298!2024-04-23,68,310-->
 
 Egenskaper av en enskild näringsverksamhet
 ??

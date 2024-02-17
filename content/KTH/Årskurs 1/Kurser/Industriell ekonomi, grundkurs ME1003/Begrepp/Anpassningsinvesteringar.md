@@ -1,10 +1,9 @@
 # Anpassningsinvesteringar
 
 ---
+Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
-Skapad: 2024-02-11 15:43
-
-Uppdaterad: Sunday 11th February 2024 15:43:49
+Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
 Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
@@ -22,5 +21,5 @@ Anpassningsinvesteringar är taktiska och görs för att säkerställa att före
 
 ## Flashcards
 
-Anpassningsinvesteringar (Definition):: Taktiska investeringar för att säkerställa framgångsrik drift av befintlig verksamhet på lång sikt, exempelvis ny tillverkningsprocess eller maskinpark
-<!--SR:!2024-02-14,1,230!2024-02-16,3,268-->
+Anpassningsinvesteringar (Definition):: ==Taktiska== investeringar för att **säkerställa framgångsrik drift av befintlig verksamhet på lång sikt**, exempelvis ny ==tillverkningsprocess== eller ==maskinpark==
+<!--SR:!2024-02-17,2,230!2024-02-18,2,248-->
