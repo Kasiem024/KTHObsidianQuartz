@@ -10,6 +10,8 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005KS3
 ---
 [[02-07 Moms Pelles Golfshop CM1005.excalidraw]]
 
+[Räkningar Excalidraw](https://drive.google.com/file/d/1UfXNFnliuTB_dB-jqpFuVjAxA-lJbxfb/view?usp=sharing)
+
 ---
 
 ## Pelles Golfshop1

@@ -10,6 +10,8 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #lektion
 ---
 [[01-16 Räkningar CM1005.excalidraw]]
 
+[Räkningar Excalidraw](https://drive.google.com/file/d/19Q8JmtgNmph9NpkyEkANvEcQic8HYZKV/view?usp=sharing)
+
 ---
 
 ## Näringsverksamhet

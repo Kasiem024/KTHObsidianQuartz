@@ -9,6 +9,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #lektion
 
 ---
 [Länk till föreläsning på Canvas](https://kaf.canvas.kth.se/media/F2+Teknikbaserade+affa%CC%88rsmodeller+P3+V22+SWE+2022-01-19+BK/0_kfxregj1/660304)
+
 [Länk till PPT på Canvas](https://canvas.kth.se/courses/44986/files/folder/2.%20F%C3%B6rel%C3%A4sningar?preview=7529160)
 
 ---

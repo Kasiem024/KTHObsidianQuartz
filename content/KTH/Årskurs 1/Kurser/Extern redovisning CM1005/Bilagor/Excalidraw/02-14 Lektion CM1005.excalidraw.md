@@ -21,8 +21,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 36813349,
+			"version": 76,
+			"versionNonce": 716262830,
 			"isDeleted": false,
 			"id": "Nnj9NglQy9J9VBup3HS_5",
 			"fillStyle": "solid",
@@ -42,7 +42,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104,8 +104,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1048192683,
+			"version": 81,
+			"versionNonce": 236334130,
 			"isDeleted": false,
 			"id": "2o_JdRr4dTJWEJ00Xsy8P",
 			"fillStyle": "solid",
@@ -125,7 +125,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -212,8 +212,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 446770565,
+			"version": 85,
+			"versionNonce": 651651054,
 			"isDeleted": false,
 			"id": "GJHvjzn6QVhK5vWmB8TVc",
 			"fillStyle": "solid",
@@ -233,7 +233,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -340,8 +340,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1031149899,
+			"version": 83,
+			"versionNonce": 1655035378,
 			"isDeleted": false,
 			"id": "rUTJw21JJ93BCQta0DRcB",
 			"fillStyle": "solid",
@@ -361,7 +361,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -458,8 +458,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 260781285,
+			"version": 82,
+			"versionNonce": 1673542190,
 			"isDeleted": false,
 			"id": "-xasnUuRoKWB1ooTRgp_e",
 			"fillStyle": "solid",
@@ -479,7 +479,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -571,8 +571,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1771747307,
+			"version": 82,
+			"versionNonce": 1662666674,
 			"isDeleted": false,
 			"id": "pdjVf20jH_G4gP0eh6652",
 			"fillStyle": "solid",
@@ -592,7 +592,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -684,8 +684,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 477974597,
+			"version": 74,
+			"versionNonce": 676643950,
 			"isDeleted": false,
 			"id": "J75_IX4J7kxjIAoy7MsJm",
 			"fillStyle": "solid",
@@ -705,7 +705,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -757,8 +757,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1894941323,
+			"version": 80,
+			"versionNonce": 1201308018,
 			"isDeleted": false,
 			"id": "UaxSWC7pNqu1f0VGo5Su1",
 			"fillStyle": "solid",
@@ -778,7 +778,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -860,8 +860,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 794099621,
+			"version": 80,
+			"versionNonce": 1985873582,
 			"isDeleted": false,
 			"id": "u1QtYnk3qh-Z1I8KbLH74",
 			"fillStyle": "solid",
@@ -881,7 +881,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323852,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -963,8 +963,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1547172139,
+			"version": 82,
+			"versionNonce": 728597298,
 			"isDeleted": false,
 			"id": "up3cQH3LtMKob2JiWjcAR",
 			"fillStyle": "solid",
@@ -984,7 +984,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1076,8 +1076,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 507495173,
+			"version": 81,
+			"versionNonce": 780468462,
 			"isDeleted": false,
 			"id": "v7BAsPZauxw5VuJT5QR8O",
 			"fillStyle": "solid",
@@ -1097,7 +1097,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1184,8 +1184,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 953523147,
+			"version": 74,
+			"versionNonce": 687492338,
 			"isDeleted": false,
 			"id": "Fab2YoD9t4ebEluHWlp9j",
 			"fillStyle": "solid",
@@ -1205,7 +1205,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1257,8 +1257,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 498801253,
+			"version": 71,
+			"versionNonce": 877835054,
 			"isDeleted": false,
 			"id": "tebuHevduGks87Es0CeRx",
 			"fillStyle": "solid",
@@ -1278,7 +1278,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1315,8 +1315,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 48622187,
+			"version": 86,
+			"versionNonce": 1976032946,
 			"isDeleted": false,
 			"id": "QMARrccQlPaF0092JhG8_",
 			"fillStyle": "solid",
@@ -1336,7 +1336,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1448,8 +1448,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 1989445061,
+			"version": 91,
+			"versionNonce": 305143150,
 			"isDeleted": false,
 			"id": "HB6p8w4L-sjEwAWV7X5TO",
 			"fillStyle": "solid",
@@ -1469,7 +1469,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1606,8 +1606,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1328768267,
+			"version": 88,
+			"versionNonce": 2122135666,
 			"isDeleted": false,
 			"id": "gyOKuzuYZs5M5aAli0a3O",
 			"fillStyle": "solid",
@@ -1627,7 +1627,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1749,8 +1749,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 2078901541,
+			"version": 80,
+			"versionNonce": 493240238,
 			"isDeleted": false,
 			"id": "jyNHjgGH5AwrHf2taNbJF",
 			"fillStyle": "solid",
@@ -1770,7 +1770,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1852,8 +1852,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 892898219,
+			"version": 81,
+			"versionNonce": 48323122,
 			"isDeleted": false,
 			"id": "g7jq8yXMfnryr18LJvf55",
 			"fillStyle": "solid",
@@ -1873,7 +1873,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1960,8 +1960,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1093113989,
+			"version": 83,
+			"versionNonce": 438180334,
 			"isDeleted": false,
 			"id": "H-ggvHFo25qRsR8AzAhqS",
 			"fillStyle": "solid",
@@ -1981,7 +1981,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2078,8 +2078,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 2032131659,
+			"version": 90,
+			"versionNonce": 836453362,
 			"isDeleted": false,
 			"id": "S8IvncsxpHhb6NVVyw316",
 			"fillStyle": "solid",
@@ -2099,7 +2099,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2231,8 +2231,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 269238245,
+			"version": 83,
+			"versionNonce": 1600171054,
 			"isDeleted": false,
 			"id": "dAHTrmJI2hcYvHOahYUGo",
 			"fillStyle": "solid",
@@ -2252,7 +2252,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2349,8 +2349,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1975770347,
+			"version": 86,
+			"versionNonce": 1165096370,
 			"isDeleted": false,
 			"id": "dv4S4H37pT8cjn22I5qE_",
 			"fillStyle": "solid",
@@ -2370,7 +2370,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2482,8 +2482,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 514128709,
+			"version": 84,
+			"versionNonce": 2065102446,
 			"isDeleted": false,
 			"id": "0dqJfn0RKF1UnRdMS5mZX",
 			"fillStyle": "solid",
@@ -2503,7 +2503,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2605,8 +2605,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1185875851,
+			"version": 100,
+			"versionNonce": 516714354,
 			"isDeleted": false,
 			"id": "0WDlyhgvrVw2taFmvBu8n",
 			"fillStyle": "solid",
@@ -2626,7 +2626,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2818,8 +2818,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 89082533,
+			"version": 86,
+			"versionNonce": 1443494062,
 			"isDeleted": false,
 			"id": "ydY7X19fzBDzgtvZAc0O0",
 			"fillStyle": "solid",
@@ -2839,7 +2839,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2961,8 +2961,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 840687147,
+			"version": 76,
+			"versionNonce": 1647423794,
 			"isDeleted": false,
 			"id": "j3HYNkXZgQ0swv99WyqIK",
 			"fillStyle": "solid",
@@ -2982,7 +2982,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3054,8 +3054,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1958260229,
+			"version": 72,
+			"versionNonce": 1474474734,
 			"isDeleted": false,
 			"id": "oEY9LY3mu52L7buIRSxKn",
 			"fillStyle": "solid",
@@ -3075,7 +3075,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3127,8 +3127,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1391780043,
+			"version": 71,
+			"versionNonce": 319339250,
 			"isDeleted": false,
 			"id": "sPU2UKTvUwzKNN7ytSDBs",
 			"fillStyle": "solid",
@@ -3148,7 +3148,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3195,8 +3195,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 736011621,
+			"version": 80,
+			"versionNonce": 187311406,
 			"isDeleted": false,
 			"id": "D3j-WzGiRkbRBidOiGQhA",
 			"fillStyle": "solid",
@@ -3216,7 +3216,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3308,8 +3308,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 47484779,
+			"version": 69,
+			"versionNonce": 802720946,
 			"isDeleted": false,
 			"id": "OOivauMzEPUCVrxJPN01H",
 			"fillStyle": "solid",
@@ -3329,7 +3329,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3366,8 +3366,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 772714693,
+			"version": 70,
+			"versionNonce": 1095323502,
 			"isDeleted": false,
 			"id": "BBvD__9OeusEHL2N8ySvR",
 			"fillStyle": "solid",
@@ -3387,7 +3387,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3429,8 +3429,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 67463691,
+			"version": 72,
+			"versionNonce": 1313351282,
 			"isDeleted": false,
 			"id": "BqUgWwffkeSzm3zdYMgix",
 			"fillStyle": "solid",
@@ -3450,7 +3450,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3502,8 +3502,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 954617893,
+			"version": 79,
+			"versionNonce": 914960814,
 			"isDeleted": false,
 			"id": "25vRwyGD-e3rccBhsEVw3",
 			"fillStyle": "solid",
@@ -3523,7 +3523,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3610,8 +3610,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1803677867,
+			"version": 81,
+			"versionNonce": 924747826,
 			"isDeleted": false,
 			"id": "Aybl_tvny1V9Fzt6toW8_",
 			"fillStyle": "solid",
@@ -3631,7 +3631,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3728,8 +3728,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 2052260741,
+			"version": 82,
+			"versionNonce": 907201518,
 			"isDeleted": false,
 			"id": "ARyA4mwT9oSxTGHhufwdi",
 			"fillStyle": "solid",
@@ -3749,7 +3749,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3851,8 +3851,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1257546571,
+			"version": 70,
+			"versionNonce": 37925362,
 			"isDeleted": false,
 			"id": "uAnjekvmgsUl3fuJk9fnV",
 			"fillStyle": "solid",
@@ -3872,7 +3872,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3914,8 +3914,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 110250725,
+			"version": 73,
+			"versionNonce": 1039081006,
 			"isDeleted": false,
 			"id": "F861LvT_e6dRXgtr1QGgG",
 			"fillStyle": "solid",
@@ -3935,7 +3935,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3992,8 +3992,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 448266731,
+			"version": 79,
+			"versionNonce": 851157938,
 			"isDeleted": false,
 			"id": "INjnEE30TH6Jvhbdd6EW7",
 			"fillStyle": "solid",
@@ -4013,7 +4013,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4100,8 +4100,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 238134853,
+			"version": 80,
+			"versionNonce": 587671662,
 			"isDeleted": false,
 			"id": "cgaG_bj5IbIqvrYrSufhK",
 			"fillStyle": "solid",
@@ -4121,7 +4121,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4213,8 +4213,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1675005067,
+			"version": 81,
+			"versionNonce": 1387289970,
 			"isDeleted": false,
 			"id": "SxZBp_8wBgaClKozg0H5h",
 			"fillStyle": "solid",
@@ -4234,7 +4234,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4331,8 +4331,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1410241957,
+			"version": 85,
+			"versionNonce": 891546286,
 			"isDeleted": false,
 			"id": "uS6r89V7i-lPnFPU2_iym",
 			"fillStyle": "solid",
@@ -4352,7 +4352,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4469,8 +4469,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 705348395,
+			"version": 86,
+			"versionNonce": 258465586,
 			"isDeleted": false,
 			"id": "cqzYgfustDfihc7_ndH7n",
 			"fillStyle": "solid",
@@ -4490,7 +4490,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4612,8 +4612,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1666619653,
+			"version": 82,
+			"versionNonce": 1659790574,
 			"isDeleted": false,
 			"id": "CdjIVBoQ5m7JSLxsLBhXc",
 			"fillStyle": "solid",
@@ -4633,7 +4633,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4735,8 +4735,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 364848587,
+			"version": 83,
+			"versionNonce": 1430857970,
 			"isDeleted": false,
 			"id": "Dx3OQVwxWGq8NfdrCSVNz",
 			"fillStyle": "solid",
@@ -4756,7 +4756,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4863,8 +4863,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 92745829,
+			"version": 98,
+			"versionNonce": 1575982894,
 			"isDeleted": false,
 			"id": "sGc45u5XnOCArbpC4GD3N",
 			"fillStyle": "solid",
@@ -4884,7 +4884,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5066,8 +5066,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1577989227,
+			"version": 85,
+			"versionNonce": 1809529522,
 			"isDeleted": false,
 			"id": "33k12g71vbWcfHH_gGup1",
 			"fillStyle": "solid",
@@ -5087,7 +5087,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5204,8 +5204,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 2020465605,
+			"version": 78,
+			"versionNonce": 1049657710,
 			"isDeleted": false,
 			"id": "fiXuFE-Bucss_AbljbuDv",
 			"fillStyle": "solid",
@@ -5225,7 +5225,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031271,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5317,8 +5317,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1925345035,
+			"version": 80,
+			"versionNonce": 298128498,
 			"isDeleted": false,
 			"id": "w67gWJzExDsIARLbUOjKj",
 			"fillStyle": "solid",
@@ -5338,7 +5338,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5440,8 +5440,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1680349989,
+			"version": 76,
+			"versionNonce": 672801710,
 			"isDeleted": false,
 			"id": "iwMY8_WXouS_DqG4_YkyP",
 			"fillStyle": "solid",
@@ -5461,7 +5461,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5543,8 +5543,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1716934059,
+			"version": 79,
+			"versionNonce": 416134706,
 			"isDeleted": false,
 			"id": "e399q0j3yXaarqRTJnSz8",
 			"fillStyle": "solid",
@@ -5564,7 +5564,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5661,8 +5661,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 287534725,
+			"version": 76,
+			"versionNonce": 1823833582,
 			"isDeleted": false,
 			"id": "DHv6svSpcySUe6Rl8ABWu",
 			"fillStyle": "solid",
@@ -5682,7 +5682,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5764,8 +5764,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 401893451,
+			"version": 79,
+			"versionNonce": 31203314,
 			"isDeleted": false,
 			"id": "ukR-dSshRSVolWDmVENyO",
 			"fillStyle": "solid",
@@ -5785,7 +5785,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5882,8 +5882,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1578980837,
+			"version": 80,
+			"versionNonce": 829132846,
 			"isDeleted": false,
 			"id": "0muEGN5aELz58gGHKLVWq",
 			"fillStyle": "solid",
@@ -5903,7 +5903,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6005,8 +6005,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 494348011,
+			"version": 70,
+			"versionNonce": 418861490,
 			"isDeleted": false,
 			"id": "09zicr-ygGjB_95sLVAYh",
 			"fillStyle": "solid",
@@ -6026,7 +6026,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6078,8 +6078,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1982026053,
+			"version": 72,
+			"versionNonce": 304437870,
 			"isDeleted": false,
 			"id": "fCYjMqYXAdmWcaKtcqlLY",
 			"fillStyle": "solid",
@@ -6099,7 +6099,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6161,8 +6161,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1835602315,
+			"version": 78,
+			"versionNonce": 289819506,
 			"isDeleted": false,
 			"id": "QFlLABxIyh72bCyErIb5b",
 			"fillStyle": "solid",
@@ -6182,7 +6182,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6274,8 +6274,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1184030885,
+			"version": 67,
+			"versionNonce": 1168891054,
 			"isDeleted": false,
 			"id": "8wxzrusaudiaXJ2KCXptQ",
 			"fillStyle": "solid",
@@ -6295,7 +6295,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6332,8 +6332,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1225041963,
+			"version": 67,
+			"versionNonce": 554700082,
 			"isDeleted": false,
 			"id": "H8nV9H7GcskgNuwO06NHG",
 			"fillStyle": "solid",
@@ -6353,7 +6353,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6390,8 +6390,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 890864645,
+			"version": 76,
+			"versionNonce": 1101534958,
 			"isDeleted": false,
 			"id": "2A02mFFQYf7yNdjFQFFGL",
 			"fillStyle": "solid",
@@ -6411,7 +6411,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6493,8 +6493,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1714711243,
+			"version": 78,
+			"versionNonce": 498833138,
 			"isDeleted": false,
 			"id": "ZnqkmBtD8Se0y02zjokyF",
 			"fillStyle": "solid",
@@ -6514,7 +6514,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6606,8 +6606,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 364165989,
+			"version": 80,
+			"versionNonce": 1587743022,
 			"isDeleted": false,
 			"id": "yZJFvSNqCc7djGf7S7Wf-",
 			"fillStyle": "solid",
@@ -6627,7 +6627,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6729,8 +6729,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1502796139,
+			"version": 71,
+			"versionNonce": 399501490,
 			"isDeleted": false,
 			"id": "52_RCxp3zQnvz_1MEP-tp",
 			"fillStyle": "solid",
@@ -6750,7 +6750,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6807,8 +6807,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1622279877,
+			"version": 77,
+			"versionNonce": 2080748398,
 			"isDeleted": false,
 			"id": "sAT9jwKgPqA6OBKH5BP6J",
 			"fillStyle": "solid",
@@ -6828,7 +6828,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323853,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6915,8 +6915,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1080718347,
+			"version": 83,
+			"versionNonce": 1995702898,
 			"isDeleted": false,
 			"id": "iZnWthTWcbTLflu7S1T0T",
 			"fillStyle": "solid",
@@ -6936,7 +6936,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7053,8 +7053,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 682550821,
+			"version": 73,
+			"versionNonce": 605623726,
 			"isDeleted": false,
 			"id": "WgDsAdGBbkJJ8pSspAWMB",
 			"fillStyle": "solid",
@@ -7074,7 +7074,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7141,8 +7141,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 716552875,
+			"version": 78,
+			"versionNonce": 367977522,
 			"isDeleted": false,
 			"id": "WdPRq9k23sSKVdBoSLX5d",
 			"fillStyle": "solid",
@@ -7162,7 +7162,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7259,8 +7259,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1352194437,
+			"version": 77,
+			"versionNonce": 805711854,
 			"isDeleted": false,
 			"id": "H3T2LziBMlgfFpCCG8frR",
 			"fillStyle": "solid",
@@ -7280,7 +7280,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7372,8 +7372,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 1159671115,
+			"version": 89,
+			"versionNonce": 1588039154,
 			"isDeleted": false,
 			"id": "HO3qS5wfnPhYohGs0tOpF",
 			"fillStyle": "solid",
@@ -7393,7 +7393,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7550,8 +7550,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 28139749,
+			"version": 85,
+			"versionNonce": 1809187374,
 			"isDeleted": false,
 			"id": "RV8qDYEcWtJVnRHqc7sZn",
 			"fillStyle": "solid",
@@ -7571,7 +7571,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7713,8 +7713,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1124158443,
+			"version": 79,
+			"versionNonce": 1713700786,
 			"isDeleted": false,
 			"id": "UVYg4BT9HmpMkci3dAswA",
 			"fillStyle": "solid",
@@ -7734,7 +7734,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7846,8 +7846,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1635384389,
+			"version": 66,
+			"versionNonce": 980520046,
 			"isDeleted": false,
 			"id": "hKVQKy66N1QPhq3BcE7ns",
 			"fillStyle": "solid",
@@ -7867,7 +7867,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7914,8 +7914,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 140940939,
+			"version": 71,
+			"versionNonce": 143538546,
 			"isDeleted": false,
 			"id": "5gTgyUQGqt7WleYyDhtOV",
 			"fillStyle": "solid",
@@ -7935,7 +7935,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8007,8 +8007,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 131869605,
+			"version": 80,
+			"versionNonce": 966905518,
 			"isDeleted": false,
 			"id": "sQWxDRiOM6nskbNUIRLml",
 			"fillStyle": "solid",
@@ -8028,7 +8028,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8145,8 +8145,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 336170283,
+			"version": 75,
+			"versionNonce": 86653746,
 			"isDeleted": false,
 			"id": "qvWswkTp1S8yk6JFmU9N-",
 			"fillStyle": "solid",
@@ -8166,7 +8166,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8258,8 +8258,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 889286405,
+			"version": 72,
+			"versionNonce": 1712310510,
 			"isDeleted": false,
 			"id": "5giXTodX1lNvzd5CqLOsI",
 			"fillStyle": "solid",
@@ -8279,7 +8279,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8356,8 +8356,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 693415883,
+			"version": 74,
+			"versionNonce": 442500338,
 			"isDeleted": false,
 			"id": "GmQh6tJkdBFV1qjbWAaWO",
 			"fillStyle": "solid",
@@ -8377,7 +8377,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8464,8 +8464,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1197950565,
+			"version": 76,
+			"versionNonce": 1061452590,
 			"isDeleted": false,
 			"id": "pzsFp6Q0_nEnO7r3ECAj8",
 			"fillStyle": "solid",
@@ -8485,7 +8485,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8582,8 +8582,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 979533419,
+			"version": 73,
+			"versionNonce": 565614258,
 			"isDeleted": false,
 			"id": "3VO77KDv567T1YUfpf54j",
 			"fillStyle": "solid",
@@ -8603,7 +8603,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8685,8 +8685,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1910190533,
+			"version": 76,
+			"versionNonce": 1806230894,
 			"isDeleted": false,
 			"id": "Nio-I6nvGs9AhTvvb7CIa",
 			"fillStyle": "solid",
@@ -8706,7 +8706,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8803,8 +8803,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 301824267,
+			"version": 86,
+			"versionNonce": 735375474,
 			"isDeleted": false,
 			"id": "xR_K6ANQq48VH9ycJz7Ls",
 			"fillStyle": "solid",
@@ -8824,7 +8824,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8971,8 +8971,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 830124325,
+			"version": 74,
+			"versionNonce": 1552287662,
 			"isDeleted": false,
 			"id": "p9boMwXs7Wr1L7wPyNQBo",
 			"fillStyle": "solid",
@@ -8992,7 +8992,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9079,8 +9079,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 1033904043,
+			"version": 87,
+			"versionNonce": 478286386,
 			"isDeleted": false,
 			"id": "HWfxOm6uVvc19cvv7prex",
 			"fillStyle": "solid",
@@ -9100,7 +9100,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9252,8 +9252,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 62080133,
+			"version": 76,
+			"versionNonce": 1912922606,
 			"isDeleted": false,
 			"id": "EClzAnVtp1BYw-n4sb4GO",
 			"fillStyle": "solid",
@@ -9273,7 +9273,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9370,8 +9370,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 930411083,
+			"version": 83,
+			"versionNonce": 1185217522,
 			"isDeleted": false,
 			"id": "702kML35Rdn2IKv96pebZ",
 			"fillStyle": "solid",
@@ -9391,7 +9391,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9528,8 +9528,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1547856869,
+			"version": 80,
+			"versionNonce": 523138094,
 			"isDeleted": false,
 			"id": "m7ZfwB1T8VV3d23YyMayv",
 			"fillStyle": "solid",
@@ -9549,7 +9549,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9671,8 +9671,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1347842283,
+			"version": 69,
+			"versionNonce": 138718642,
 			"isDeleted": false,
 			"id": "hYOGES3xy7KnW6PvxjJHY",
 			"fillStyle": "solid",
@@ -9692,7 +9692,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9759,8 +9759,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1530242885,
+			"version": 74,
+			"versionNonce": 233553518,
 			"isDeleted": false,
 			"id": "LW0ktRgmsD2wNV68d-JNQ",
 			"fillStyle": "solid",
@@ -9780,7 +9780,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9872,8 +9872,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1506745227,
+			"version": 79,
+			"versionNonce": 1720199026,
 			"isDeleted": false,
 			"id": "fCdXx2EVGFjNvRlNXGcI2",
 			"fillStyle": "solid",
@@ -9893,7 +9893,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10010,8 +10010,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1122662053,
+			"version": 74,
+			"versionNonce": 1124450478,
 			"isDeleted": false,
 			"id": "U_Q6c4eUs21687fWza4ob",
 			"fillStyle": "solid",
@@ -10031,7 +10031,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10123,8 +10123,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 270103083,
+			"version": 72,
+			"versionNonce": 699820338,
 			"isDeleted": false,
 			"id": "yfA-3bZaK7lMe0lQcvPZt",
 			"fillStyle": "solid",
@@ -10144,7 +10144,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10226,8 +10226,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 772692485,
+			"version": 75,
+			"versionNonce": 1109752558,
 			"isDeleted": false,
 			"id": "TMdNLekz7yPUfdvE5KhZ0",
 			"fillStyle": "solid",
@@ -10247,7 +10247,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10344,8 +10344,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1142944971,
+			"version": 76,
+			"versionNonce": 2033611506,
 			"isDeleted": false,
 			"id": "jin86b4ZS_tBRx9q7en6P",
 			"fillStyle": "solid",
@@ -10365,7 +10365,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10482,8 +10482,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 94294373,
+			"version": 69,
+			"versionNonce": 835972398,
 			"isDeleted": false,
 			"id": "GEBddjSEcjTKl7q7IbG1Q",
 			"fillStyle": "solid",
@@ -10503,7 +10503,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10585,8 +10585,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1165828971,
+			"version": 73,
+			"versionNonce": 2005877938,
 			"isDeleted": false,
 			"id": "ssgXUuaMqszEaUKoByOSB",
 			"fillStyle": "solid",
@@ -10606,7 +10606,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10708,8 +10708,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 921263301,
+			"version": 80,
+			"versionNonce": 2138707822,
 			"isDeleted": false,
 			"id": "WxCXcyW_GDcS3ZxBW2t6i",
 			"fillStyle": "solid",
@@ -10729,7 +10729,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10866,8 +10866,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 209419787,
+			"version": 71,
+			"versionNonce": 1583865458,
 			"isDeleted": false,
 			"id": "YjRkBX9e25h3XcvU6DDko",
 			"fillStyle": "solid",
@@ -10887,7 +10887,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10979,8 +10979,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 697007141,
+			"version": 83,
+			"versionNonce": 56687022,
 			"isDeleted": false,
 			"id": "bf9h8Yn2Op7Y8EhyZz6pw",
 			"fillStyle": "solid",
@@ -11000,7 +11000,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11152,8 +11152,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 605389995,
+			"version": 74,
+			"versionNonce": 445071410,
 			"isDeleted": false,
 			"id": "ptc-F9zNMmzRL1RfLwk0F",
 			"fillStyle": "solid",
@@ -11173,7 +11173,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11280,8 +11280,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1970450309,
+			"version": 84,
+			"versionNonce": 615617518,
 			"isDeleted": false,
 			"id": "dihxu3bi8cAejFujslH_0",
 			"fillStyle": "solid",
@@ -11301,7 +11301,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11458,8 +11458,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1408612171,
+			"version": 78,
+			"versionNonce": 1741974002,
 			"isDeleted": false,
 			"id": "jFQ5AarJ2kWTRUGrkkBFY",
 			"fillStyle": "solid",
@@ -11479,7 +11479,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11606,8 +11606,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 1490843365,
+			"version": 124,
+			"versionNonce": 2104813102,
 			"isDeleted": false,
 			"id": "_grHBpsq0_n3Yk3QW1Wbl",
 			"fillStyle": "solid",
@@ -11627,7 +11627,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11779,8 +11779,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 175543787,
+			"version": 113,
+			"versionNonce": 1834376114,
 			"isDeleted": false,
 			"id": "-Ay5cdbcYEX24oatNpjTb",
 			"fillStyle": "solid",
@@ -11800,7 +11800,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11897,8 +11897,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1851150917,
+			"version": 111,
+			"versionNonce": 2123624558,
 			"isDeleted": false,
 			"id": "zCdiOCxFENF4TXAi5-oX1",
 			"fillStyle": "solid",
@@ -11918,7 +11918,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12005,8 +12005,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 111321227,
+			"version": 112,
+			"versionNonce": 1496585586,
 			"isDeleted": false,
 			"id": "2kBTjpJXJ1kmuPS0vMRDV",
 			"fillStyle": "solid",
@@ -12026,7 +12026,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12118,8 +12118,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 582861221,
+			"version": 112,
+			"versionNonce": 332903086,
 			"isDeleted": false,
 			"id": "qo1HkKqgVwX0jrP_xx5_X",
 			"fillStyle": "solid",
@@ -12139,7 +12139,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12231,8 +12231,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1110726443,
+			"version": 104,
+			"versionNonce": 2092209970,
 			"isDeleted": false,
 			"id": "CrTbRiqjpi_tkCNBKocNA",
 			"fillStyle": "solid",
@@ -12252,7 +12252,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12304,8 +12304,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1799374085,
+			"version": 101,
+			"versionNonce": 1206463726,
 			"isDeleted": false,
 			"id": "vEKLd-MokjeC5vE8FNAfY",
 			"fillStyle": "solid",
@@ -12325,7 +12325,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12362,8 +12362,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 462830027,
+			"version": 112,
+			"versionNonce": 1748951282,
 			"isDeleted": false,
 			"id": "jv__MlUN52_UeW9YB0VK5",
 			"fillStyle": "solid",
@@ -12383,7 +12383,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12475,8 +12475,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 995843173,
+			"version": 118,
+			"versionNonce": 1750163246,
 			"isDeleted": false,
 			"id": "3XSjQ3cvTLNBhabTD0dfJ",
 			"fillStyle": "solid",
@@ -12496,7 +12496,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12618,8 +12618,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1071827051,
+			"version": 107,
+			"versionNonce": 123335346,
 			"isDeleted": false,
 			"id": "Rmg1I6apBRybgAxq-sucZ",
 			"fillStyle": "solid",
@@ -12639,7 +12639,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12706,8 +12706,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 987531205,
+			"version": 103,
+			"versionNonce": 695814510,
 			"isDeleted": false,
 			"id": "m5ZMkWRxGdgEW6QecHpUn",
 			"fillStyle": "solid",
@@ -12727,7 +12727,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12774,8 +12774,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1424261899,
+			"version": 113,
+			"versionNonce": 1017957490,
 			"isDeleted": false,
 			"id": "_l1XGiV1MJ7wwMS5K3GVR",
 			"fillStyle": "solid",
@@ -12795,7 +12795,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12892,8 +12892,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1004619557,
+			"version": 118,
+			"versionNonce": 1252649902,
 			"isDeleted": false,
 			"id": "wsxG8WYra0G3UG65W8hzl",
 			"fillStyle": "solid",
@@ -12913,7 +12913,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13035,8 +13035,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 1662380459,
+			"version": 122,
+			"versionNonce": 2113826354,
 			"isDeleted": false,
 			"id": "sbhFjnJQ4l7Qhn_39VmwP",
 			"fillStyle": "solid",
@@ -13056,7 +13056,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13198,8 +13198,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1893145221,
+			"version": 111,
+			"versionNonce": 973882862,
 			"isDeleted": false,
 			"id": "rx_ZuJsdb6-6JoQFZVFnc",
 			"fillStyle": "solid",
@@ -13219,7 +13219,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13306,8 +13306,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 2141289547,
+			"version": 122,
+			"versionNonce": 1882576882,
 			"isDeleted": false,
 			"id": "FjXLrUrk_GIilQFjl4x0t",
 			"fillStyle": "solid",
@@ -13327,7 +13327,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13469,8 +13469,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1652261349,
+			"version": 111,
+			"versionNonce": 950622254,
 			"isDeleted": false,
 			"id": "LG7Lgr2CAsngtJUv-V-qv",
 			"fillStyle": "solid",
@@ -13490,7 +13490,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13577,8 +13577,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 912374507,
+			"version": 124,
+			"versionNonce": 56232370,
 			"isDeleted": false,
 			"id": "_Nk914Hf8cWXXxzYdb4bI",
 			"fillStyle": "solid",
@@ -13598,7 +13598,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13750,8 +13750,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 635174213,
+			"version": 116,
+			"versionNonce": 2120884846,
 			"isDeleted": false,
 			"id": "ghuLP_OfsHeYoupZ_dWUx",
 			"fillStyle": "solid",
@@ -13771,7 +13771,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13883,8 +13883,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 870393227,
+			"version": 72,
+			"versionNonce": 244450162,
 			"isDeleted": false,
 			"id": "jMaJkUE_ms6-MvAPob855",
 			"fillStyle": "solid",
@@ -13904,7 +13904,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14001,8 +14001,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1381371045,
+			"version": 64,
+			"versionNonce": 1578607790,
 			"isDeleted": false,
 			"id": "-h9-dH1FNw_lu1Go9fCvy",
 			"fillStyle": "solid",
@@ -14022,7 +14022,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14079,8 +14079,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 794442795,
+			"version": 59,
+			"versionNonce": 1814349106,
 			"isDeleted": false,
 			"id": "Ef4mGVB3hrjcI62n5UCek",
 			"fillStyle": "solid",
@@ -14100,7 +14100,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14132,8 +14132,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 932655109,
+			"version": 70,
+			"versionNonce": 1767562990,
 			"isDeleted": false,
 			"id": "UZbeO1hYOzZgljzLIg7qG",
 			"fillStyle": "solid",
@@ -14153,7 +14153,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14240,8 +14240,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 347569867,
+			"version": 71,
+			"versionNonce": 360271602,
 			"isDeleted": false,
 			"id": "FYEOwAN7yOS6FS22BVVc0",
 			"fillStyle": "solid",
@@ -14261,7 +14261,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14353,8 +14353,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1402791781,
+			"version": 69,
+			"versionNonce": 347918638,
 			"isDeleted": false,
 			"id": "worso5BpoGiAo_cai9vsJ",
 			"fillStyle": "solid",
@@ -14374,7 +14374,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14456,8 +14456,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1855155563,
+			"version": 73,
+			"versionNonce": 1058447538,
 			"isDeleted": false,
 			"id": "PVTeUoPY8-RYT2SZCt1Bz",
 			"fillStyle": "solid",
@@ -14477,7 +14477,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14579,8 +14579,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 146059973,
+			"version": 79,
+			"versionNonce": 1537637230,
 			"isDeleted": false,
 			"id": "9eMxHpxRIt-mySvHfq7AR",
 			"fillStyle": "solid",
@@ -14600,7 +14600,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323854,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14732,8 +14732,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 272140299,
+			"version": 72,
+			"versionNonce": 1956887154,
 			"isDeleted": false,
 			"id": "nMvy0zSXzs4PNbQb6cgd8",
 			"fillStyle": "solid",
@@ -14753,7 +14753,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14850,8 +14850,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 326898213,
+			"version": 62,
+			"versionNonce": 1684069806,
 			"isDeleted": false,
 			"id": "PMl-sw73AU90BzcHhYcFo",
 			"fillStyle": "solid",
@@ -14871,7 +14871,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14918,8 +14918,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 2141277867,
+			"version": 72,
+			"versionNonce": 887594034,
 			"isDeleted": false,
 			"id": "Frsz-4ESXxbIirwGCSCLG",
 			"fillStyle": "solid",
@@ -14939,7 +14939,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15036,8 +15036,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1088456069,
+			"version": 59,
+			"versionNonce": 605353966,
 			"isDeleted": false,
 			"id": "8YFYk0WwXCvWBWQxpQNft",
 			"fillStyle": "solid",
@@ -15057,7 +15057,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15089,8 +15089,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 527974731,
+			"version": 61,
+			"versionNonce": 231294450,
 			"isDeleted": false,
 			"id": "Qdd2v7ArQ_GddcnYJ6i5N",
 			"fillStyle": "solid",
@@ -15110,7 +15110,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15152,8 +15152,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1679789285,
+			"version": 69,
+			"versionNonce": 46909998,
 			"isDeleted": false,
 			"id": "hn16IVR0ZvuNZPvAg47pe",
 			"fillStyle": "solid",
@@ -15173,7 +15173,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15255,8 +15255,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 420995051,
+			"version": 72,
+			"versionNonce": 944748466,
 			"isDeleted": false,
 			"id": "0AQxj3fZIEZO-LZ_zdio6",
 			"fillStyle": "solid",
@@ -15276,7 +15276,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15373,8 +15373,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 214345797,
+			"version": 72,
+			"versionNonce": 2137937006,
 			"isDeleted": false,
 			"id": "20cBr_wqpq4WrDAt6LMUm",
 			"fillStyle": "solid",
@@ -15394,7 +15394,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15491,8 +15491,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 109750923,
+			"version": 59,
+			"versionNonce": 883028338,
 			"isDeleted": false,
 			"id": "2G2h2ldWx0K9Di0QMf2Gw",
 			"fillStyle": "solid",
@@ -15512,7 +15512,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15544,8 +15544,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 2092128165,
+			"version": 61,
+			"versionNonce": 1405458094,
 			"isDeleted": false,
 			"id": "g-o9_1k26xiQYXJuHex9n",
 			"fillStyle": "solid",
@@ -15565,7 +15565,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15607,8 +15607,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1552621867,
+			"version": 65,
+			"versionNonce": 1711731506,
 			"isDeleted": false,
 			"id": "pFuEw1RydN0N_9DzU6S3r",
 			"fillStyle": "solid",
@@ -15628,7 +15628,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15690,8 +15690,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1578310405,
+			"version": 66,
+			"versionNonce": 410685678,
 			"isDeleted": false,
 			"id": "BfxlRLTizkZxZ-apZYDpz",
 			"fillStyle": "solid",
@@ -15711,7 +15711,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15778,8 +15778,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 344179659,
+			"version": 60,
+			"versionNonce": 786808050,
 			"isDeleted": false,
 			"id": "Qhi9lqA4xDI7ygk8o2sdR",
 			"fillStyle": "solid",
@@ -15799,7 +15799,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15836,8 +15836,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 962818661,
+			"version": 77,
+			"versionNonce": 1763066670,
 			"isDeleted": false,
 			"id": "MkDChAE0WCtGhAe96_sQ0",
 			"fillStyle": "solid",
@@ -15857,7 +15857,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15979,8 +15979,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 378475115,
+			"version": 64,
+			"versionNonce": 214257330,
 			"isDeleted": false,
 			"id": "dtNtNBDUgGE4AEqfBGoal",
 			"fillStyle": "solid",
@@ -16000,7 +16000,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16057,8 +16057,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 728882629,
+			"version": 60,
+			"versionNonce": 134327662,
 			"isDeleted": false,
 			"id": "9wX1oXbIOFr45HpV7Ywhf",
 			"fillStyle": "solid",
@@ -16078,7 +16078,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16115,8 +16115,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1668779275,
+			"version": 73,
+			"versionNonce": 877439090,
 			"isDeleted": false,
 			"id": "x7CMkpLPhE_AFhTKBqpH6",
 			"fillStyle": "solid",
@@ -16136,7 +16136,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16238,8 +16238,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1532747045,
+			"version": 81,
+			"versionNonce": 42323886,
 			"isDeleted": false,
 			"id": "Co4ysago5luW3tUHKpxwg",
 			"fillStyle": "solid",
@@ -16259,7 +16259,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16401,8 +16401,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 2125968299,
+			"version": 84,
+			"versionNonce": 759351858,
 			"isDeleted": false,
 			"id": "3ToGQQfvyv1kLZwPK0ffe",
 			"fillStyle": "solid",
@@ -16422,7 +16422,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16579,8 +16579,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 814674053,
+			"version": 72,
+			"versionNonce": 1422633454,
 			"isDeleted": false,
 			"id": "wEsUd10GSyvBzF7PVtt09",
 			"fillStyle": "solid",
@@ -16600,7 +16600,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16697,8 +16697,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 410650187,
+			"version": 74,
+			"versionNonce": 1854845938,
 			"isDeleted": false,
 			"id": "oVNYadmxga4mVPrjgnxJS",
 			"fillStyle": "solid",
@@ -16718,7 +16718,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16825,8 +16825,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1221105637,
+			"version": 73,
+			"versionNonce": 232537134,
 			"isDeleted": false,
 			"id": "WFcc05_4wkEMYaGym7e-n",
 			"fillStyle": "solid",
@@ -16846,7 +16846,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16948,8 +16948,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 2006516971,
+			"version": 68,
+			"versionNonce": 2050450866,
 			"isDeleted": false,
 			"id": "tcdrVpKJv54VyPefs18fw",
 			"fillStyle": "solid",
@@ -16969,7 +16969,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17046,8 +17046,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 773215045,
+			"version": 74,
+			"versionNonce": 1939900014,
 			"isDeleted": false,
 			"id": "kKMVZs0iX6uXkMxOZanOr",
 			"fillStyle": "solid",
@@ -17067,7 +17067,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17174,8 +17174,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 597634955,
+			"version": 66,
+			"versionNonce": 2036588402,
 			"isDeleted": false,
 			"id": "Owg4VTVtiroKzad1rfPSs",
 			"fillStyle": "solid",
@@ -17195,7 +17195,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17262,8 +17262,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1289069221,
+			"version": 61,
+			"versionNonce": 652314798,
 			"isDeleted": false,
 			"id": "pHoklpXZ4LkCf_SApOnLh",
 			"fillStyle": "solid",
@@ -17283,7 +17283,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17325,8 +17325,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1321666091,
+			"version": 72,
+			"versionNonce": 1482367282,
 			"isDeleted": false,
 			"id": "uQHmlHnCpsrvrKzKWvXDR",
 			"fillStyle": "solid",
@@ -17346,7 +17346,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17443,8 +17443,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 699663877,
+			"version": 65,
+			"versionNonce": 1195918062,
 			"isDeleted": false,
 			"id": "UMLs7RZpXV9Fq6XR3tKAe",
 			"fillStyle": "solid",
@@ -17464,7 +17464,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17526,8 +17526,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 2147158219,
+			"version": 70,
+			"versionNonce": 1652828914,
 			"isDeleted": false,
 			"id": "b7BnNXZAQ_jp_ccCrl-45",
 			"fillStyle": "solid",
@@ -17547,7 +17547,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17634,8 +17634,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1471085925,
+			"version": 71,
+			"versionNonce": 392017198,
 			"isDeleted": false,
 			"id": "B_z3G-tzqu2vsOE1Tb8o7",
 			"fillStyle": "solid",
@@ -17655,7 +17655,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17747,8 +17747,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 2094380907,
+			"version": 62,
+			"versionNonce": 1583742130,
 			"isDeleted": false,
 			"id": "HwFfZxYcHs554JnkpPRqY",
 			"fillStyle": "solid",
@@ -17768,7 +17768,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17815,8 +17815,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 773064901,
+			"version": 60,
+			"versionNonce": 545972078,
 			"isDeleted": false,
 			"id": "9ivsnfBzt41E4Jn4DOyWn",
 			"fillStyle": "solid",
@@ -17836,7 +17836,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17873,8 +17873,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1939968523,
+			"version": 77,
+			"versionNonce": 698848882,
 			"isDeleted": false,
 			"id": "NN_APsu0i1gexLtbhPA4D",
 			"fillStyle": "solid",
@@ -17894,7 +17894,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031272,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18016,8 +18016,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1048619045,
+			"version": 88,
+			"versionNonce": 1461240238,
 			"isDeleted": false,
 			"id": "htJkDMV6XJWIvXGg4EfOx",
 			"fillStyle": "solid",
@@ -18037,7 +18037,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18219,8 +18219,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1700337835,
+			"version": 74,
+			"versionNonce": 1427109938,
 			"isDeleted": false,
 			"id": "8MkewhUMKc0FvA_HPH33Q",
 			"fillStyle": "solid",
@@ -18240,7 +18240,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18352,8 +18352,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 182606725,
+			"version": 67,
+			"versionNonce": 1043356654,
 			"isDeleted": false,
 			"id": "lqSc-8v0Prn7PU8BHtSFm",
 			"fillStyle": "solid",
@@ -18373,7 +18373,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18480,8 +18480,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1336331083,
+			"version": 76,
+			"versionNonce": 1082532338,
 			"isDeleted": false,
 			"id": "PpghqUQQq0T03qRAFbzR5",
 			"fillStyle": "solid",
@@ -18501,7 +18501,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18653,8 +18653,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 2071372517,
+			"version": 66,
+			"versionNonce": 198880814,
 			"isDeleted": false,
 			"id": "Z5p-IleUHEk2SUvUbgsX0",
 			"fillStyle": "solid",
@@ -18674,7 +18674,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18776,8 +18776,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 384117227,
+			"version": 66,
+			"versionNonce": 923866034,
 			"isDeleted": false,
 			"id": "9viKPl7tlxjNv-4YDcsyI",
 			"fillStyle": "solid",
@@ -18797,7 +18797,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18899,8 +18899,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 348847685,
+			"version": 62,
+			"versionNonce": 1291892846,
 			"isDeleted": false,
 			"id": "3kf35kTm7pujfYrc8KFZB",
 			"fillStyle": "solid",
@@ -18920,7 +18920,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19002,8 +19002,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 807318667,
+			"version": 62,
+			"versionNonce": 181914994,
 			"isDeleted": false,
 			"id": "RptATbad2tfu7r2n7XIDI",
 			"fillStyle": "solid",
@@ -19023,7 +19023,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19105,8 +19105,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1841098149,
+			"version": 65,
+			"versionNonce": 158038702,
 			"isDeleted": false,
 			"id": "Z5VPneBblKQrgxTWh0WEX",
 			"fillStyle": "solid",
@@ -19126,7 +19126,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19223,8 +19223,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 185461547,
+			"version": 67,
+			"versionNonce": 824266546,
 			"isDeleted": false,
 			"id": "WySftCuh4eNf4uonX7TZf",
 			"fillStyle": "solid",
@@ -19244,7 +19244,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19351,8 +19351,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1702490373,
+			"version": 64,
+			"versionNonce": 1740895470,
 			"isDeleted": false,
 			"id": "RGlIn4gdvvLvoDoh5pNRA",
 			"fillStyle": "solid",
@@ -19372,7 +19372,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19464,8 +19464,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1008553419,
+			"version": 65,
+			"versionNonce": 1582602482,
 			"isDeleted": false,
 			"id": "FfvwLvoPVaDLBrl8jTPIX",
 			"fillStyle": "solid",
@@ -19485,7 +19485,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19582,8 +19582,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 427788389,
+			"version": 63,
+			"versionNonce": 1368598318,
 			"isDeleted": false,
 			"id": "X-q8_otjmy3H98D57FuXr",
 			"fillStyle": "solid",
@@ -19603,7 +19603,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19690,8 +19690,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1718049899,
+			"version": 64,
+			"versionNonce": 569944754,
 			"isDeleted": false,
 			"id": "RuWvy49nK_HIrp7v5omOk",
 			"fillStyle": "solid",
@@ -19711,7 +19711,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19803,8 +19803,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 463156165,
+			"version": 68,
+			"versionNonce": 390205806,
 			"isDeleted": false,
 			"id": "f_-m7Z07ElMC3YQZWG2Ax",
 			"fillStyle": "solid",
@@ -19824,7 +19824,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19936,8 +19936,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1706465035,
+			"version": 66,
+			"versionNonce": 45384818,
 			"isDeleted": false,
 			"id": "K8XnXqtyVhlYQhA9fHUiJ",
 			"fillStyle": "solid",
@@ -19957,7 +19957,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20059,8 +20059,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 1743418149,
+			"version": 75,
+			"versionNonce": 337228718,
 			"isDeleted": false,
 			"id": "q9JkwdxlFarTprctIL-lL",
 			"fillStyle": "solid",
@@ -20080,7 +20080,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20227,8 +20227,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 948272555,
+			"version": 65,
+			"versionNonce": 441394738,
 			"isDeleted": false,
 			"id": "wWos52eK7sbx8WlEqDNji",
 			"fillStyle": "solid",
@@ -20248,7 +20248,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20345,8 +20345,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 450545285,
+			"version": 62,
+			"versionNonce": 1380126190,
 			"isDeleted": false,
 			"id": "48JlIwbSLBRTzSH8V-I-E",
 			"fillStyle": "solid",
@@ -20366,7 +20366,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20448,8 +20448,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 704548939,
+			"version": 61,
+			"versionNonce": 833589234,
 			"isDeleted": false,
 			"id": "pfgnS36O4z7BjCxJQu9ka",
 			"fillStyle": "solid",
@@ -20469,7 +20469,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20546,8 +20546,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1730784741,
+			"version": 65,
+			"versionNonce": 784801838,
 			"isDeleted": false,
 			"id": "o5fYTlzItdZv3E_PL6aLC",
 			"fillStyle": "solid",
@@ -20567,7 +20567,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20664,8 +20664,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1006391019,
+			"version": 67,
+			"versionNonce": 1557971378,
 			"isDeleted": false,
 			"id": "dOGqHpJIspVlW_1kIaaZ6",
 			"fillStyle": "solid",
@@ -20685,7 +20685,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20792,8 +20792,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1273276741,
+			"version": 76,
+			"versionNonce": 2106518126,
 			"isDeleted": false,
 			"id": "BnAVtJ9hJ7zw6DPrx_7I4",
 			"fillStyle": "solid",
@@ -20813,7 +20813,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20965,8 +20965,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1359559051,
+			"version": 67,
+			"versionNonce": 385727346,
 			"isDeleted": false,
 			"id": "j80hz4IfMzOkP9OgfA5Mq",
 			"fillStyle": "solid",
@@ -20986,7 +20986,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21093,8 +21093,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 174667941,
+			"version": 63,
+			"versionNonce": 761490606,
 			"isDeleted": false,
 			"id": "TrNUBupSu95yZXYJfp-qp",
 			"fillStyle": "solid",
@@ -21114,7 +21114,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21201,8 +21201,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 375377963,
+			"version": 61,
+			"versionNonce": 1582923058,
 			"isDeleted": false,
 			"id": "3t-NJ9KM9Dhb_655BYurw",
 			"fillStyle": "solid",
@@ -21222,7 +21222,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21299,8 +21299,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1550113797,
+			"version": 69,
+			"versionNonce": 1810736878,
 			"isDeleted": false,
 			"id": "_--F1uhwfTDRsmNy6_0aE",
 			"fillStyle": "solid",
@@ -21320,7 +21320,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21437,8 +21437,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 770347723,
+			"version": 65,
+			"versionNonce": 1347880690,
 			"isDeleted": false,
 			"id": "RipRtQQ0XL7L9hcZRIbHT",
 			"fillStyle": "solid",
@@ -21458,7 +21458,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21555,8 +21555,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1775571813,
+			"version": 61,
+			"versionNonce": 1236703534,
 			"isDeleted": false,
 			"id": "Cu8fRwI5Ft8zwKDdcNaTj",
 			"fillStyle": "solid",
@@ -21576,7 +21576,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21653,8 +21653,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 407109995,
+			"version": 66,
+			"versionNonce": 1165842610,
 			"isDeleted": false,
 			"id": "_0PEJcERs_yKxYSiYYQNC",
 			"fillStyle": "solid",
@@ -21674,7 +21674,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21776,8 +21776,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 2131189445,
+			"version": 63,
+			"versionNonce": 1579631470,
 			"isDeleted": false,
 			"id": "GJZc6TUmLSXOacPgIiAhy",
 			"fillStyle": "solid",
@@ -21797,7 +21797,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21884,8 +21884,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1589025803,
+			"version": 63,
+			"versionNonce": 1836282482,
 			"isDeleted": false,
 			"id": "-LJUbMXelY-xs84bfX28T",
 			"fillStyle": "solid",
@@ -21905,7 +21905,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21992,8 +21992,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 43597349,
+			"version": 76,
+			"versionNonce": 1804117422,
 			"isDeleted": false,
 			"id": "aok3c3gqJDcZJ3N88txNL",
 			"fillStyle": "solid",
@@ -22013,7 +22013,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22165,8 +22165,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 2101142187,
+			"version": 70,
+			"versionNonce": 1795183666,
 			"isDeleted": false,
 			"id": "lRSbZ5t9TsoyYIryA5jpG",
 			"fillStyle": "solid",
@@ -22186,7 +22186,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22308,8 +22308,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 729297285,
+			"version": 64,
+			"versionNonce": 50577390,
 			"isDeleted": false,
 			"id": "I8xNWbZDi3HrY3xI2Ubuv",
 			"fillStyle": "solid",
@@ -22329,7 +22329,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22421,8 +22421,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 209802571,
+			"version": 66,
+			"versionNonce": 1879768562,
 			"isDeleted": false,
 			"id": "SEIZtVp3YkZ7inWp8TXWK",
 			"fillStyle": "solid",
@@ -22442,7 +22442,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22544,8 +22544,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1994504421,
+			"version": 63,
+			"versionNonce": 681677358,
 			"isDeleted": false,
 			"id": "G0K0fcaF3sG7-G42P-Ber",
 			"fillStyle": "solid",
@@ -22565,7 +22565,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22652,8 +22652,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 735998955,
+			"version": 63,
+			"versionNonce": 1503293362,
 			"isDeleted": false,
 			"id": "15TYK8NTfhQcuS2IiFPae",
 			"fillStyle": "solid",
@@ -22673,7 +22673,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22760,8 +22760,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1583567941,
+			"version": 64,
+			"versionNonce": 2001411182,
 			"isDeleted": false,
 			"id": "GTnNhe0XXCD5x7YFB0W8p",
 			"fillStyle": "solid",
@@ -22781,7 +22781,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22873,8 +22873,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 727629451,
+			"version": 63,
+			"versionNonce": 1272293746,
 			"isDeleted": false,
 			"id": "3Ah1J2Smwd4DYfe3YMavM",
 			"fillStyle": "solid",
@@ -22894,7 +22894,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22981,8 +22981,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1306166181,
+			"version": 62,
+			"versionNonce": 1154047662,
 			"isDeleted": false,
 			"id": "VJlqHuLCaFw0Z1nzY6TtP",
 			"fillStyle": "solid",
@@ -23002,7 +23002,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23084,8 +23084,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1975301419,
+			"version": 57,
+			"versionNonce": 1308863282,
 			"isDeleted": false,
 			"id": "a0Vzb8Kcb8Qf3ACF7KTma",
 			"fillStyle": "solid",
@@ -23105,7 +23105,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23162,8 +23162,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1500825349,
+			"version": 66,
+			"versionNonce": 1170561262,
 			"isDeleted": false,
 			"id": "M_8jxcB6oDnJpznYW6b3a",
 			"fillStyle": "solid",
@@ -23183,7 +23183,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23285,8 +23285,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 979556299,
+			"version": 58,
+			"versionNonce": 1720415474,
 			"isDeleted": false,
 			"id": "A4anO8ri96CCmF8uK4t9d",
 			"fillStyle": "solid",
@@ -23306,7 +23306,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23368,8 +23368,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 867147365,
+			"version": 66,
+			"versionNonce": 835193646,
 			"isDeleted": false,
 			"id": "traH0RrWg5Dr7xQUcEh2m",
 			"fillStyle": "solid",
@@ -23389,7 +23389,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23491,8 +23491,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1466672747,
+			"version": 64,
+			"versionNonce": 921962162,
 			"isDeleted": false,
 			"id": "mOxEEa--rPNUVrDd5TNmf",
 			"fillStyle": "solid",
@@ -23512,7 +23512,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23604,8 +23604,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1666746821,
+			"version": 76,
+			"versionNonce": 1731884398,
 			"isDeleted": false,
 			"id": "tgW1LjXkTfHuPEPxgudNq",
 			"fillStyle": "solid",
@@ -23625,7 +23625,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23777,8 +23777,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 60924171,
+			"version": 72,
+			"versionNonce": 400842866,
 			"isDeleted": false,
 			"id": "elsGt9DdEdpPPlviq9hgW",
 			"fillStyle": "solid",
@@ -23798,7 +23798,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23930,8 +23930,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 965544229,
+			"version": 74,
+			"versionNonce": 258316206,
 			"isDeleted": false,
 			"id": "u1jde7ils2alcTK9C0xc_",
 			"fillStyle": "solid",
@@ -23951,7 +23951,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24093,8 +24093,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 947865515,
+			"version": 65,
+			"versionNonce": 891519538,
 			"isDeleted": false,
 			"id": "uFGvElQjHcCTASpRy3R2D",
 			"fillStyle": "solid",
@@ -24114,7 +24114,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24211,8 +24211,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 129670277,
+			"version": 63,
+			"versionNonce": 1114796526,
 			"isDeleted": false,
 			"id": "PxT0nU-S6cWv05EYjkNrQ",
 			"fillStyle": "solid",
@@ -24232,7 +24232,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24319,8 +24319,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1546590795,
+			"version": 55,
+			"versionNonce": 697854962,
 			"isDeleted": false,
 			"id": "357sJwh1TJ5jxYX1AiCNx",
 			"fillStyle": "solid",
@@ -24340,7 +24340,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24387,8 +24387,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 362726373,
+			"version": 70,
+			"versionNonce": 728368174,
 			"isDeleted": false,
 			"id": "gOSG5VIXDGd8yLXORMLDj",
 			"fillStyle": "solid",
@@ -24408,7 +24408,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24530,8 +24530,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 730568939,
+			"version": 63,
+			"versionNonce": 457842098,
 			"isDeleted": false,
 			"id": "AdUCscRmc6Gw1mJJKrCG4",
 			"fillStyle": "solid",
@@ -24551,7 +24551,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24638,8 +24638,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1464270661,
+			"version": 66,
+			"versionNonce": 741690990,
 			"isDeleted": false,
 			"id": "pYKwJ6MzWmX0Yzdt3vZJ-",
 			"fillStyle": "solid",
@@ -24659,7 +24659,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24761,8 +24761,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1679770507,
+			"version": 66,
+			"versionNonce": 1465882482,
 			"isDeleted": false,
 			"id": "h9gx30VCVdmB3nSE1ajV3",
 			"fillStyle": "solid",
@@ -24782,7 +24782,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24889,8 +24889,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1662045861,
+			"version": 53,
+			"versionNonce": 27087022,
 			"isDeleted": false,
 			"id": "rv82nvy_-G4Ly5kqkF_5I",
 			"fillStyle": "solid",
@@ -24910,7 +24910,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24952,8 +24952,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 774150699,
+			"version": 69,
+			"versionNonce": 1847580978,
 			"isDeleted": false,
 			"id": "eruOvocBJ3wmrUC90gog3",
 			"fillStyle": "solid",
@@ -24973,7 +24973,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25095,8 +25095,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 665432581,
+			"version": 62,
+			"versionNonce": 1732971246,
 			"isDeleted": false,
 			"id": "QOAIYY5HjW6TsgL03YnPX",
 			"fillStyle": "solid",
@@ -25116,7 +25116,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25203,8 +25203,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1183194315,
+			"version": 77,
+			"versionNonce": 1324475122,
 			"isDeleted": false,
 			"id": "oeoYI7qd-0Evbtl5_1l9g",
 			"fillStyle": "solid",
@@ -25224,7 +25224,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25386,8 +25386,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1645160805,
+			"version": 69,
+			"versionNonce": 1002929454,
 			"isDeleted": false,
 			"id": "f-fGuBTIdSEdp_IdVqPxX",
 			"fillStyle": "solid",
@@ -25407,7 +25407,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25529,8 +25529,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1759398763,
+			"version": 62,
+			"versionNonce": 1683797170,
 			"isDeleted": false,
 			"id": "KfUqTf_Jr6NRKT0GGMtBO",
 			"fillStyle": "solid",
@@ -25550,7 +25550,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25637,8 +25637,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1401861317,
+			"version": 61,
+			"versionNonce": 612083566,
 			"isDeleted": false,
 			"id": "l7XwqkvdsEnRwSuFNpXQd",
 			"fillStyle": "solid",
@@ -25658,7 +25658,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25740,8 +25740,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 2037884427,
+			"version": 54,
+			"versionNonce": 805785202,
 			"isDeleted": false,
 			"id": "G0FzTwGsoYjYgYtz5nF73",
 			"fillStyle": "solid",
@@ -25761,7 +25761,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25808,8 +25808,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 935711781,
+			"version": 67,
+			"versionNonce": 833653166,
 			"isDeleted": false,
 			"id": "ahrLszALifRj7-bN03q_-",
 			"fillStyle": "solid",
@@ -25829,7 +25829,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25941,8 +25941,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1867295915,
+			"version": 62,
+			"versionNonce": 1723379762,
 			"isDeleted": false,
 			"id": "hpASIfZYvHjWXadJUIP6g",
 			"fillStyle": "solid",
@@ -25962,7 +25962,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26049,8 +26049,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 2057439109,
+			"version": 58,
+			"versionNonce": 42935278,
 			"isDeleted": false,
 			"id": "-sLnw4f3WSpn-UDxWRqE0",
 			"fillStyle": "solid",
@@ -26070,7 +26070,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26137,8 +26137,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 2114445131,
+			"version": 71,
+			"versionNonce": 207084018,
 			"isDeleted": false,
 			"id": "EBA_4-hgN93SOUMFOcO1u",
 			"fillStyle": "solid",
@@ -26158,7 +26158,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26290,8 +26290,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 778096357,
+			"version": 62,
+			"versionNonce": 1763735086,
 			"isDeleted": false,
 			"id": "JXQ8e7Dzb68hLkR0WgF63",
 			"fillStyle": "solid",
@@ -26311,7 +26311,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26398,8 +26398,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 245227,
+			"version": 64,
+			"versionNonce": 267111346,
 			"isDeleted": false,
 			"id": "gR9vLduUKcfEUt35bdyrJ",
 			"fillStyle": "solid",
@@ -26419,7 +26419,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26516,8 +26516,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1099934277,
+			"version": 52,
+			"versionNonce": 239960174,
 			"isDeleted": false,
 			"id": "Y1osAE36YyEgp1ncYq0QP",
 			"fillStyle": "solid",
@@ -26537,7 +26537,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26574,8 +26574,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 541771915,
+			"version": 65,
+			"versionNonce": 1738245490,
 			"isDeleted": false,
 			"id": "adS9HSj7VPR5W6k4iTKob",
 			"fillStyle": "solid",
@@ -26595,7 +26595,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26697,8 +26697,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1963727269,
+			"version": 62,
+			"versionNonce": 366953134,
 			"isDeleted": false,
 			"id": "a5TqahOFsVnWVLZDjTFrg",
 			"fillStyle": "solid",
@@ -26718,7 +26718,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26805,8 +26805,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1150779179,
+			"version": 59,
+			"versionNonce": 749602610,
 			"isDeleted": false,
 			"id": "7Q1AMEe7DGdbDl6BmjI9K",
 			"fillStyle": "solid",
@@ -26826,7 +26826,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26898,8 +26898,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 302226693,
+			"version": 72,
+			"versionNonce": 1115602158,
 			"isDeleted": false,
 			"id": "TdkkEdvs70sTrTNT4OdZe",
 			"fillStyle": "solid",
@@ -26919,7 +26919,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27056,8 +27056,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 928276939,
+			"version": 232,
+			"versionNonce": 931811570,
 			"isDeleted": false,
 			"id": "rZYyArZyBnYsP5E5IyaF7",
 			"fillStyle": "solid",
@@ -27077,7 +27077,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27214,8 +27214,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1609806949,
+			"version": 224,
+			"versionNonce": 431288110,
 			"isDeleted": false,
 			"id": "_l-B7RBmJopgcK4ekSI4A",
 			"fillStyle": "solid",
@@ -27235,7 +27235,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27332,8 +27332,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 295432299,
+			"version": 211,
+			"versionNonce": 1001874098,
 			"isDeleted": false,
 			"id": "oBDe3yFrV7I3THnYVLUnw",
 			"fillStyle": "solid",
@@ -27353,7 +27353,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27385,8 +27385,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 1521082309,
+			"version": 212,
+			"versionNonce": 132831598,
 			"isDeleted": false,
 			"id": "ElXjvTlUMbheN8QCN1HaG",
 			"fillStyle": "solid",
@@ -27406,7 +27406,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27443,8 +27443,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 1698212619,
+			"version": 217,
+			"versionNonce": 1675377778,
 			"isDeleted": false,
 			"id": "tN7cPDMvYUZNHP1ptxmNS",
 			"fillStyle": "solid",
@@ -27464,7 +27464,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27526,8 +27526,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 675520293,
+			"version": 217,
+			"versionNonce": 74021806,
 			"isDeleted": false,
 			"id": "4xgbyurijIsIwcQOv9uj8",
 			"fillStyle": "solid",
@@ -27547,7 +27547,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27609,8 +27609,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 648352171,
+			"version": 212,
+			"versionNonce": 1841290802,
 			"isDeleted": false,
 			"id": "zxQ8VxvAVjulIMXISNMNN",
 			"fillStyle": "solid",
@@ -27630,7 +27630,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27667,8 +27667,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1328444037,
+			"version": 222,
+			"versionNonce": 895079918,
 			"isDeleted": false,
 			"id": "Lwd47NQa_5OGJTIcJKF3i",
 			"fillStyle": "solid",
@@ -27688,7 +27688,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27775,8 +27775,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 1460380747,
+			"version": 220,
+			"versionNonce": 1179207666,
 			"isDeleted": false,
 			"id": "MZ1i3UU2u0Yo4STrwbX40",
 			"fillStyle": "solid",
@@ -27796,7 +27796,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27873,8 +27873,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 740809189,
+			"version": 215,
+			"versionNonce": 331671598,
 			"isDeleted": false,
 			"id": "MHmh-_H_TJPIZcdr-R9WV",
 			"fillStyle": "solid",
@@ -27894,7 +27894,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27946,8 +27946,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 1850139371,
+			"version": 218,
+			"versionNonce": 629111218,
 			"isDeleted": false,
 			"id": "nJ5kEVcLDibQlShBNz_ic",
 			"fillStyle": "solid",
@@ -27967,7 +27967,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28034,8 +28034,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 675108165,
+			"version": 213,
+			"versionNonce": 261337710,
 			"isDeleted": false,
 			"id": "dH9M9cDxc01FmbPeWxRB2",
 			"fillStyle": "solid",
@@ -28055,7 +28055,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28097,8 +28097,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 81874315,
+			"version": 210,
+			"versionNonce": 713651058,
 			"isDeleted": false,
 			"id": "WqxIjx76S3J2JmPVBaT0_",
 			"fillStyle": "solid",
@@ -28118,7 +28118,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28145,8 +28145,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 785147045,
+			"version": 216,
+			"versionNonce": 865023150,
 			"isDeleted": false,
 			"id": "WK5VkQENdUuJ2vSHHH5SI",
 			"fillStyle": "solid",
@@ -28166,7 +28166,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28223,8 +28223,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 1041589291,
+			"version": 216,
+			"versionNonce": 2007905586,
 			"isDeleted": false,
 			"id": "lJCcwINQUKG9Lzvdlqbyc",
 			"fillStyle": "solid",
@@ -28244,7 +28244,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28301,8 +28301,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1669498885,
+			"version": 222,
+			"versionNonce": 1231056622,
 			"isDeleted": false,
 			"id": "JzlHtjlpmTBXOQgesMM2n",
 			"fillStyle": "solid",
@@ -28322,7 +28322,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28409,8 +28409,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 1909302987,
+			"version": 223,
+			"versionNonce": 1314176754,
 			"isDeleted": false,
 			"id": "-EE6NmzDTEYvb97SpDqGV",
 			"fillStyle": "solid",
@@ -28430,7 +28430,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28522,8 +28522,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 408764261,
+			"version": 228,
+			"versionNonce": 2106614062,
 			"isDeleted": false,
 			"id": "HG6beISNVTR_PirhZauw4",
 			"fillStyle": "solid",
@@ -28543,7 +28543,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28660,8 +28660,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 379884907,
+			"version": 220,
+			"versionNonce": 721686706,
 			"isDeleted": false,
 			"id": "hB2_sIq0bc3PnnlEg62vP",
 			"fillStyle": "solid",
@@ -28681,7 +28681,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28758,8 +28758,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 61475525,
+			"version": 221,
+			"versionNonce": 59247470,
 			"isDeleted": false,
 			"id": "iSM0O96SbTg_SsiTMDttm",
 			"fillStyle": "solid",
@@ -28779,7 +28779,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28861,8 +28861,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 1810149387,
+			"version": 223,
+			"versionNonce": 1633888882,
 			"isDeleted": false,
 			"id": "-SEkjANTfkB8pdlN0t-hm",
 			"fillStyle": "solid",
@@ -28882,7 +28882,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28974,8 +28974,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 906390053,
+			"version": 224,
+			"versionNonce": 965766574,
 			"isDeleted": false,
 			"id": "6dsmDNjxilZZ6gvnxdgt1",
 			"fillStyle": "solid",
@@ -28995,7 +28995,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29092,8 +29092,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 1669887659,
+			"version": 215,
+			"versionNonce": 943262770,
 			"isDeleted": false,
 			"id": "70RDZl1Q6U4EQsfdBifTa",
 			"fillStyle": "solid",
@@ -29113,7 +29113,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29165,8 +29165,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 1348459909,
+			"version": 213,
+			"versionNonce": 1288865774,
 			"isDeleted": false,
 			"id": "8UIvOyGszcct30bMyInQf",
 			"fillStyle": "solid",
@@ -29186,7 +29186,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29228,8 +29228,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1278896459,
+			"version": 222,
+			"versionNonce": 91010546,
 			"isDeleted": false,
 			"id": "4gLDQpSzRgSVzEVFGYiQM",
 			"fillStyle": "solid",
@@ -29249,7 +29249,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29336,8 +29336,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 2046026981,
+			"version": 213,
+			"versionNonce": 1566005806,
 			"isDeleted": false,
 			"id": "-RlEX6rS5DVQEh1qTP55U",
 			"fillStyle": "solid",
@@ -29357,7 +29357,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29399,8 +29399,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 995428331,
+			"version": 220,
+			"versionNonce": 1241851826,
 			"isDeleted": false,
 			"id": "xIEaLYJu3JJmz3qeLE6q_",
 			"fillStyle": "solid",
@@ -29420,7 +29420,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29497,8 +29497,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 374341701,
+			"version": 223,
+			"versionNonce": 570942574,
 			"isDeleted": false,
 			"id": "WzJIo5llZw67bwhPMAPzU",
 			"fillStyle": "solid",
@@ -29518,7 +29518,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29610,8 +29610,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 920834699,
+			"version": 226,
+			"versionNonce": 1311334770,
 			"isDeleted": false,
 			"id": "BMIr6pg0yz7ck9Lkng6Yi",
 			"fillStyle": "solid",
@@ -29631,7 +29631,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29738,8 +29738,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 995209125,
+			"version": 227,
+			"versionNonce": 212674222,
 			"isDeleted": false,
 			"id": "2MuAFFfsQ3Vd0jkXO1b8p",
 			"fillStyle": "solid",
@@ -29759,7 +29759,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29871,8 +29871,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 530467115,
+			"version": 228,
+			"versionNonce": 1025532722,
 			"isDeleted": false,
 			"id": "PtPyUYeV-QyK1xEYcGmiS",
 			"fillStyle": "solid",
@@ -29892,7 +29892,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30009,8 +30009,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1730573061,
+			"version": 226,
+			"versionNonce": 1844453614,
 			"isDeleted": false,
 			"id": "UWiTO46o9c0eRbIUPfVmU",
 			"fillStyle": "solid",
@@ -30030,7 +30030,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30137,8 +30137,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1525803979,
+			"version": 224,
+			"versionNonce": 1095838962,
 			"isDeleted": false,
 			"id": "GKWSciAC0cemWPyAQPCT4",
 			"fillStyle": "solid",
@@ -30158,7 +30158,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30255,8 +30255,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 1984678501,
+			"version": 211,
+			"versionNonce": 425317166,
 			"isDeleted": false,
 			"id": "WzMrw_8Y6MGJ3V2HKKqnL",
 			"fillStyle": "solid",
@@ -30276,7 +30276,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30308,8 +30308,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 1022900843,
+			"version": 213,
+			"versionNonce": 541245106,
 			"isDeleted": false,
 			"id": "P1MjOzIoTfPHYLmD3UK7g",
 			"fillStyle": "solid",
@@ -30329,7 +30329,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30371,8 +30371,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1502557637,
+			"version": 227,
+			"versionNonce": 156450158,
 			"isDeleted": false,
 			"id": "afMUatqZhltabuS5ZplAc",
 			"fillStyle": "solid",
@@ -30392,7 +30392,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30504,8 +30504,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 846968075,
+			"version": 225,
+			"versionNonce": 1453070450,
 			"isDeleted": false,
 			"id": "rfHI2nk22zWIFOgdi6hsW",
 			"fillStyle": "solid",
@@ -30525,7 +30525,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031273,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30627,8 +30627,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 202257701,
+			"version": 226,
+			"versionNonce": 52780974,
 			"isDeleted": false,
 			"id": "0viBv_wObab4k4aGr0tLd",
 			"fillStyle": "solid",
@@ -30648,7 +30648,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30755,8 +30755,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 720821163,
+			"version": 221,
+			"versionNonce": 874789426,
 			"isDeleted": false,
 			"id": "l4cTFbnIvrVBLA32yJIbc",
 			"fillStyle": "solid",
@@ -30776,7 +30776,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30858,8 +30858,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1228294277,
+			"version": 224,
+			"versionNonce": 989411822,
 			"isDeleted": false,
 			"id": "sRNSgGUclNLTiQmgofS7L",
 			"fillStyle": "solid",
@@ -30879,7 +30879,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30976,8 +30976,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1117007435,
+			"version": 224,
+			"versionNonce": 2009211890,
 			"isDeleted": false,
 			"id": "OY2idO9NXgIiaNsJqDDy2",
 			"fillStyle": "solid",
@@ -30997,7 +30997,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31094,8 +31094,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 46460901,
+			"version": 214,
+			"versionNonce": 2010631214,
 			"isDeleted": false,
 			"id": "5fIeYlOp1Iuh_0ScmEEac",
 			"fillStyle": "solid",
@@ -31115,7 +31115,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31162,8 +31162,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 741223659,
+			"version": 216,
+			"versionNonce": 1803343282,
 			"isDeleted": false,
 			"id": "A2pAYujyj0Oo22HF-gG_k",
 			"fillStyle": "solid",
@@ -31183,7 +31183,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31240,8 +31240,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 382184261,
+			"version": 218,
+			"versionNonce": 933893742,
 			"isDeleted": false,
 			"id": "2nfhErr5b4-YuyAxtt58O",
 			"fillStyle": "solid",
@@ -31261,7 +31261,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31328,8 +31328,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1531926411,
+			"version": 221,
+			"versionNonce": 8081266,
 			"isDeleted": false,
 			"id": "uMCLNfbW4VMLiAHlrCWfD",
 			"fillStyle": "solid",
@@ -31349,7 +31349,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31431,8 +31431,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 1167850149,
+			"version": 216,
+			"versionNonce": 1396250798,
 			"isDeleted": false,
 			"id": "82Wnxu5Hzq4j5Lr0NX-3i",
 			"fillStyle": "solid",
@@ -31452,7 +31452,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31509,8 +31509,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 1848782379,
+			"version": 213,
+			"versionNonce": 1795461426,
 			"isDeleted": false,
 			"id": "n6S4HhflUj7dmvqJ74jMg",
 			"fillStyle": "solid",
@@ -31530,7 +31530,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31572,8 +31572,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 1743740421,
+			"version": 233,
+			"versionNonce": 573428462,
 			"isDeleted": false,
 			"id": "uRUyple9Kz4TPE7PPq3gS",
 			"fillStyle": "solid",
@@ -31593,7 +31593,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31735,8 +31735,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 1472278731,
+			"version": 220,
+			"versionNonce": 1048550130,
 			"isDeleted": false,
 			"id": "iSUTEdGOUAdbrVewD5ZgG",
 			"fillStyle": "solid",
@@ -31756,7 +31756,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31833,8 +31833,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 1690260837,
+			"version": 235,
+			"versionNonce": 521225518,
 			"isDeleted": false,
 			"id": "-3T4BBQ7FX0M9fM3V77au",
 			"fillStyle": "solid",
@@ -31854,7 +31854,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32006,8 +32006,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 1234624363,
+			"version": 223,
+			"versionNonce": 158559410,
 			"isDeleted": false,
 			"id": "bra3uu_Bjp8hsRZQSnXGY",
 			"fillStyle": "solid",
@@ -32027,7 +32027,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32119,8 +32119,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1733910725,
+			"version": 231,
+			"versionNonce": 189558638,
 			"isDeleted": false,
 			"id": "X_4d_RXH5J1FvO3FUrZpG",
 			"fillStyle": "solid",
@@ -32140,7 +32140,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32272,8 +32272,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 1576909323,
+			"version": 223,
+			"versionNonce": 1904674418,
 			"isDeleted": false,
 			"id": "Kkh2OUlKpS_a1k7N548Mj",
 			"fillStyle": "solid",
@@ -32293,7 +32293,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32385,8 +32385,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 1432027173,
+			"version": 233,
+			"versionNonce": 321409454,
 			"isDeleted": false,
 			"id": "qRJdJLT2-YoaX0EZLVxZ3",
 			"fillStyle": "solid",
@@ -32406,7 +32406,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32548,8 +32548,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 222,
-			"versionNonce": 32522411,
+			"version": 223,
+			"versionNonce": 1333880882,
 			"isDeleted": false,
 			"id": "1ubCzZ05Fgd94bGg9kjpM",
 			"fillStyle": "solid",
@@ -32569,7 +32569,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32661,8 +32661,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 78754693,
+			"version": 229,
+			"versionNonce": 1909320686,
 			"isDeleted": false,
 			"id": "GHK5tGccAIavG5x9NcXYN",
 			"fillStyle": "solid",
@@ -32682,7 +32682,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32804,8 +32804,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 521728843,
+			"version": 219,
+			"versionNonce": 1263112690,
 			"isDeleted": false,
 			"id": "xSCKgrymEZGTim_3kcyH5",
 			"fillStyle": "solid",
@@ -32825,7 +32825,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32917,8 +32917,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 832240357,
+			"version": 211,
+			"versionNonce": 356924974,
 			"isDeleted": false,
 			"id": "pQFSmnx6HFp_idaAGBQce",
 			"fillStyle": "solid",
@@ -32938,7 +32938,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32990,8 +32990,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 97669611,
+			"version": 209,
+			"versionNonce": 2011595698,
 			"isDeleted": false,
 			"id": "yHnu-JOJQtJHUkK6qTvws",
 			"fillStyle": "solid",
@@ -33011,7 +33011,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33053,8 +33053,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 883185221,
+			"version": 213,
+			"versionNonce": 1115310190,
 			"isDeleted": false,
 			"id": "mGk_cxE0ZiCGdvOADQ0Bi",
 			"fillStyle": "solid",
@@ -33074,7 +33074,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33136,8 +33136,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 388422795,
+			"version": 209,
+			"versionNonce": 1870609778,
 			"isDeleted": false,
 			"id": "PfNfwWH20qTcF8gwDNzPO",
 			"fillStyle": "solid",
@@ -33157,7 +33157,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33199,8 +33199,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 2024490405,
+			"version": 215,
+			"versionNonce": 959646382,
 			"isDeleted": false,
 			"id": "ZKrVXSXsHMimUqk_8_2G5",
 			"fillStyle": "solid",
@@ -33220,7 +33220,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33292,8 +33292,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 785453867,
+			"version": 217,
+			"versionNonce": 1868218162,
 			"isDeleted": false,
 			"id": "cP1BkmvTg3_LAr4-1OfPu",
 			"fillStyle": "solid",
@@ -33313,7 +33313,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33400,8 +33400,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 819808517,
+			"version": 216,
+			"versionNonce": 1478067438,
 			"isDeleted": false,
 			"id": "3Qvdm-6BSYRqjhRjeVwGI",
 			"fillStyle": "solid",
@@ -33421,7 +33421,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33503,8 +33503,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 1295742411,
+			"version": 208,
+			"versionNonce": 1944062194,
 			"isDeleted": false,
 			"id": "CWvFNRVJW1mQy-wlZVtsx",
 			"fillStyle": "solid",
@@ -33524,7 +33524,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33566,8 +33566,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 1320673381,
+			"version": 212,
+			"versionNonce": 1085716270,
 			"isDeleted": false,
 			"id": "QLOh7FUHSV2HggKax4lzW",
 			"fillStyle": "solid",
@@ -33587,7 +33587,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33649,8 +33649,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 25199723,
+			"version": 218,
+			"versionNonce": 1419123378,
 			"isDeleted": false,
 			"id": "RnwgbQlTGrtCm0fzm2bBD",
 			"fillStyle": "solid",
@@ -33670,7 +33670,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33762,8 +33762,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 940084165,
+			"version": 212,
+			"versionNonce": 2071175534,
 			"isDeleted": false,
 			"id": "6sL7PIfcOLhkWhfHGe-5t",
 			"fillStyle": "solid",
@@ -33783,7 +33783,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33845,8 +33845,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 325762827,
+			"version": 220,
+			"versionNonce": 1612969074,
 			"isDeleted": false,
 			"id": "rh9Xh7wcxX_WxDfYkOyDT",
 			"fillStyle": "solid",
@@ -33866,7 +33866,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33968,8 +33968,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 1022151461,
+			"version": 219,
+			"versionNonce": 463029166,
 			"isDeleted": false,
 			"id": "G4MW2ZK2L3XogxD6hPfNa",
 			"fillStyle": "solid",
@@ -33989,7 +33989,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34086,8 +34086,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 1836361131,
+			"version": 218,
+			"versionNonce": 2018547250,
 			"isDeleted": false,
 			"id": "Ao943eWB9trmV-qWKsBvq",
 			"fillStyle": "solid",
@@ -34107,7 +34107,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34199,8 +34199,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 1305616005,
+			"version": 216,
+			"versionNonce": 1666227694,
 			"isDeleted": false,
 			"id": "uf54NA6izSjm-CLRHpqYR",
 			"fillStyle": "solid",
@@ -34220,7 +34220,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34302,8 +34302,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1187559499,
+			"version": 209,
+			"versionNonce": 771948530,
 			"isDeleted": false,
 			"id": "vxgoor-3oK3x8TWLWLrtq",
 			"fillStyle": "solid",
@@ -34323,7 +34323,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34370,8 +34370,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 1903560165,
+			"version": 211,
+			"versionNonce": 1738715182,
 			"isDeleted": false,
 			"id": "9tyjNIhGw27y2VbnmTUpv",
 			"fillStyle": "solid",
@@ -34391,7 +34391,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34448,8 +34448,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 222394091,
+			"version": 212,
+			"versionNonce": 1564619186,
 			"isDeleted": false,
 			"id": "xgWj3m_uOj6X44vgL-yMZ",
 			"fillStyle": "solid",
@@ -34469,7 +34469,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34531,8 +34531,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 2061893957,
+			"version": 208,
+			"versionNonce": 880310894,
 			"isDeleted": false,
 			"id": "c-juTqwOv9_slzzEpqBBj",
 			"fillStyle": "solid",
@@ -34552,7 +34552,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34594,8 +34594,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 258564491,
+			"version": 219,
+			"versionNonce": 1228221298,
 			"isDeleted": false,
 			"id": "T2O9H6W0yAKnl-_HKNy7d",
 			"fillStyle": "solid",
@@ -34615,7 +34615,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34712,8 +34712,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 2139066533,
+			"version": 210,
+			"versionNonce": 1889205422,
 			"isDeleted": false,
 			"id": "3_bfXzMgudpajPFKQty8j",
 			"fillStyle": "solid",
@@ -34733,7 +34733,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34785,8 +34785,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 1719334955,
+			"version": 215,
+			"versionNonce": 941813042,
 			"isDeleted": false,
 			"id": "r6Y1NB0wXGjJpiFxTM-7i",
 			"fillStyle": "solid",
@@ -34806,7 +34806,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34883,8 +34883,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 217068549,
+			"version": 210,
+			"versionNonce": 28522222,
 			"isDeleted": false,
 			"id": "FvEmAFl04h-nj2Eb-H0u-",
 			"fillStyle": "solid",
@@ -34904,7 +34904,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34956,8 +34956,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 543210187,
+			"version": 209,
+			"versionNonce": 259159794,
 			"isDeleted": false,
 			"id": "_gBkX5bRh1mJAzU1s2Ur-",
 			"fillStyle": "solid",
@@ -34977,7 +34977,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35024,8 +35024,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 523594597,
+			"version": 229,
+			"versionNonce": 810166574,
 			"isDeleted": false,
 			"id": "VgN78S78M2cIdavGGPe43",
 			"fillStyle": "solid",
@@ -35045,7 +35045,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35192,8 +35192,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 699738475,
+			"version": 218,
+			"versionNonce": 1873463474,
 			"isDeleted": false,
 			"id": "0mX0eF0tZRmJDymh-rQsx",
 			"fillStyle": "solid",
@@ -35213,7 +35213,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35305,8 +35305,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1453110981,
+			"version": 229,
+			"versionNonce": 1271452526,
 			"isDeleted": false,
 			"id": "R7JkK9rHNAbm_VUenDkIA",
 			"fillStyle": "solid",
@@ -35326,7 +35326,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35473,8 +35473,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 2009252875,
+			"version": 217,
+			"versionNonce": 1349706354,
 			"isDeleted": false,
 			"id": "U32VN69FWjwYp3i3D_9em",
 			"fillStyle": "solid",
@@ -35494,7 +35494,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35581,8 +35581,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 1841534501,
+			"version": 220,
+			"versionNonce": 1316500910,
 			"isDeleted": false,
 			"id": "arcpO0FiyIPnExWjRArmG",
 			"fillStyle": "solid",
@@ -35602,7 +35602,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35704,8 +35704,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 1921256107,
+			"version": 215,
+			"versionNonce": 479314994,
 			"isDeleted": false,
 			"id": "bJqEpNeg8BYvwLcXXtyWx",
 			"fillStyle": "solid",
@@ -35725,7 +35725,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35802,8 +35802,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 206,
-			"versionNonce": 1872202117,
+			"version": 207,
+			"versionNonce": 25251822,
 			"isDeleted": false,
 			"id": "in6yDba2VjeYq7-pDI38U",
 			"fillStyle": "solid",
@@ -35823,7 +35823,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35860,8 +35860,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 514030923,
+			"version": 228,
+			"versionNonce": 1307471346,
 			"isDeleted": false,
 			"id": "oIVxUtol8mPglQBsMy6Ui",
 			"fillStyle": "solid",
@@ -35881,7 +35881,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36023,8 +36023,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 760615141,
+			"version": 220,
+			"versionNonce": 552411694,
 			"isDeleted": false,
 			"id": "FOce5IbSa1aGWU0lyZRcT",
 			"fillStyle": "solid",
@@ -36044,7 +36044,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36146,8 +36146,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 125541355,
+			"version": 229,
+			"versionNonce": 160423858,
 			"isDeleted": false,
 			"id": "QaUrT8qoCf4Z8S80BtVJv",
 			"fillStyle": "solid",
@@ -36167,7 +36167,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36314,8 +36314,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1955376197,
+			"version": 226,
+			"versionNonce": 2141498478,
 			"isDeleted": false,
 			"id": "rbGWQ9PMWtD4_aVtjPcvR",
 			"fillStyle": "solid",
@@ -36335,7 +36335,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36467,8 +36467,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 1763108491,
+			"version": 220,
+			"versionNonce": 1000151410,
 			"isDeleted": false,
 			"id": "xuAe2nj76s_OWBT3GQtbC",
 			"fillStyle": "solid",
@@ -36488,7 +36488,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36590,8 +36590,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 85515173,
+			"version": 214,
+			"versionNonce": 728821422,
 			"isDeleted": false,
 			"id": "-cOGFlBXSGcb0AxLMul4Z",
 			"fillStyle": "solid",
@@ -36611,7 +36611,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36683,8 +36683,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 439344427,
+			"version": 227,
+			"versionNonce": 861739826,
 			"isDeleted": false,
 			"id": "XGxiRBXeCxoHdMj-pS9La",
 			"fillStyle": "solid",
@@ -36704,7 +36704,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36841,8 +36841,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1193811717,
+			"version": 56,
+			"versionNonce": 284879086,
 			"isDeleted": false,
 			"id": "6n_BEirtmn3c-TF0vZC_h",
 			"fillStyle": "solid",
@@ -36862,7 +36862,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36949,8 +36949,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 909180875,
+			"version": 58,
+			"versionNonce": 1060562162,
 			"isDeleted": false,
 			"id": "GzdU3gs3zt8r_dL6MCikj",
 			"fillStyle": "solid",
@@ -36970,7 +36970,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37067,8 +37067,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1094186597,
+			"version": 59,
+			"versionNonce": 533437230,
 			"isDeleted": false,
 			"id": "_hh_z0cHvrWSuxIXFkBpj",
 			"fillStyle": "solid",
@@ -37088,7 +37088,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37190,8 +37190,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 120901227,
+			"version": 53,
+			"versionNonce": 1219589810,
 			"isDeleted": false,
 			"id": "8ZdyJd1oIoyqk6e4kuhuR",
 			"fillStyle": "solid",
@@ -37211,7 +37211,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37283,8 +37283,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1310056901,
+			"version": 63,
+			"versionNonce": 1850475886,
 			"isDeleted": false,
 			"id": "r-5eCTyRLvu34Xga3TLNN",
 			"fillStyle": "solid",
@@ -37304,7 +37304,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37426,8 +37426,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 805685515,
+			"version": 50,
+			"versionNonce": 1886638194,
 			"isDeleted": false,
 			"id": "66beHWIPdYdxV_vK3SGmZ",
 			"fillStyle": "solid",
@@ -37447,7 +37447,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37504,8 +37504,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 316629285,
+			"version": 56,
+			"versionNonce": 1573201838,
 			"isDeleted": false,
 			"id": "2mvA9mY1EefB-F2d2eAw6",
 			"fillStyle": "solid",
@@ -37525,7 +37525,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37612,8 +37612,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 371093419,
+			"version": 56,
+			"versionNonce": 709161522,
 			"isDeleted": false,
 			"id": "xrRjls-FIEfaw6MwZ0j-n",
 			"fillStyle": "solid",
@@ -37633,7 +37633,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37720,8 +37720,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 889320581,
+			"version": 57,
+			"versionNonce": 1046479342,
 			"isDeleted": false,
 			"id": "u5kbhotDwGNKKHY0JGOZY",
 			"fillStyle": "solid",
@@ -37741,7 +37741,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37833,8 +37833,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 195641931,
+			"version": 48,
+			"versionNonce": 1493949426,
 			"isDeleted": false,
 			"id": "rj5VYdZtXmGNeHyPPayfN",
 			"fillStyle": "solid",
@@ -37854,7 +37854,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37901,8 +37901,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1346051045,
+			"version": 63,
+			"versionNonce": 1931842606,
 			"isDeleted": false,
 			"id": "0OLXklxnb40VLWFi425LJ",
 			"fillStyle": "solid",
@@ -37922,7 +37922,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38044,8 +38044,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 964739307,
+			"version": 57,
+			"versionNonce": 1791987122,
 			"isDeleted": false,
 			"id": "_Bq1nKAS-yxfHs4B69OJW",
 			"fillStyle": "solid",
@@ -38065,7 +38065,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38162,8 +38162,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 748181317,
+			"version": 52,
+			"versionNonce": 369024622,
 			"isDeleted": false,
 			"id": "P7oqOXxDFbXIe0MxN9U_K",
 			"fillStyle": "solid",
@@ -38183,7 +38183,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38275,8 +38275,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1227844491,
+			"version": 44,
+			"versionNonce": 1958152050,
 			"isDeleted": false,
 			"id": "p4RuW9cVrnyVpAj-1VIN7",
 			"fillStyle": "solid",
@@ -38296,7 +38296,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38348,8 +38348,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 880223909,
+			"version": 55,
+			"versionNonce": 464838830,
 			"isDeleted": false,
 			"id": "So30gNqKUnC_IoyucWcXT",
 			"fillStyle": "solid",
@@ -38369,7 +38369,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38476,8 +38476,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1324335659,
+			"version": 62,
+			"versionNonce": 1326008626,
 			"isDeleted": false,
 			"id": "wORZE1bcLQAyFQeLh14ZV",
 			"fillStyle": "solid",
@@ -38497,7 +38497,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38639,8 +38639,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 713361925,
+			"version": 57,
+			"versionNonce": 2012257006,
 			"isDeleted": false,
 			"id": "2JUjPHy4a9gb39x3FBhjL",
 			"fillStyle": "solid",
@@ -38660,7 +38660,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38777,8 +38777,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 1940669643,
+			"version": 60,
+			"versionNonce": 825053938,
 			"isDeleted": false,
 			"id": "Wu8LFwBXuoh6pn_fGsuzR",
 			"fillStyle": "solid",
@@ -38798,7 +38798,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38930,8 +38930,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 532644197,
+			"version": 45,
+			"versionNonce": 1094389038,
 			"isDeleted": false,
 			"id": "6TLJRnYYXwBs76zpCr8zf",
 			"fillStyle": "solid",
@@ -38951,7 +38951,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39008,8 +39008,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1593799531,
+			"version": 52,
+			"versionNonce": 1302996146,
 			"isDeleted": false,
 			"id": "dqzO7Pu1Mflq0o9NX93Pv",
 			"fillStyle": "solid",
@@ -39029,7 +39029,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39121,8 +39121,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 695471301,
+			"version": 56,
+			"versionNonce": 1425880942,
 			"isDeleted": false,
 			"id": "Ik5TVUL-JZtRMdPXTe-aJ",
 			"fillStyle": "solid",
@@ -39142,7 +39142,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39254,8 +39254,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1630785035,
+			"version": 54,
+			"versionNonce": 1848032882,
 			"isDeleted": false,
 			"id": "l1TPj0I1hiDTk9V7_2SqN",
 			"fillStyle": "solid",
@@ -39275,7 +39275,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39377,8 +39377,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1463823397,
+			"version": 52,
+			"versionNonce": 2071992750,
 			"isDeleted": false,
 			"id": "uw0SpLRaH09bWSIFdSDmW",
 			"fillStyle": "solid",
@@ -39398,7 +39398,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39490,8 +39490,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1564726443,
+			"version": 61,
+			"versionNonce": 258613298,
 			"isDeleted": false,
 			"id": "zibbPZQD0mhCbMKgwmwmI",
 			"fillStyle": "solid",
@@ -39511,7 +39511,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39658,8 +39658,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1762746245,
+			"version": 57,
+			"versionNonce": 200061934,
 			"isDeleted": false,
 			"id": "Y91uYBvrrvl9S0Ko4iKRQ",
 			"fillStyle": "solid",
@@ -39679,7 +39679,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39806,8 +39806,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1926891339,
+			"version": 50,
+			"versionNonce": 2103134706,
 			"isDeleted": false,
 			"id": "x_O8Ybp9UOm35NLsUL-ca",
 			"fillStyle": "solid",
@@ -39827,7 +39827,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39919,8 +39919,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1160062693,
+			"version": 52,
+			"versionNonce": 273417774,
 			"isDeleted": false,
 			"id": "4BotAmB6ZYl27y9q9toxp",
 			"fillStyle": "solid",
@@ -39940,7 +39940,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40042,8 +40042,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1750132203,
+			"version": 51,
+			"versionNonce": 1862351794,
 			"isDeleted": false,
 			"id": "3suxHq2ExfB4IEggG2ZLR",
 			"fillStyle": "solid",
@@ -40063,7 +40063,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40160,8 +40160,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 772342341,
+			"version": 45,
+			"versionNonce": 1770459246,
 			"isDeleted": false,
 			"id": "zbbzx5NvqyAR_y6P4hK4e",
 			"fillStyle": "solid",
@@ -40181,7 +40181,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40248,8 +40248,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1421013131,
+			"version": 58,
+			"versionNonce": 579007858,
 			"isDeleted": false,
 			"id": "wVymj1dZvE-7vFsbYQWDD",
 			"fillStyle": "solid",
@@ -40269,7 +40269,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40401,8 +40401,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 949645733,
+			"version": 151,
+			"versionNonce": 1936118446,
 			"isDeleted": false,
 			"id": "73curXkG0noSbkznGTu7q",
 			"fillStyle": "solid",
@@ -40422,7 +40422,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40489,8 +40489,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 163227435,
+			"version": 156,
+			"versionNonce": 2032629554,
 			"isDeleted": false,
 			"id": "yBhjYFNyIvlNcQgjtHeKB",
 			"fillStyle": "solid",
@@ -40510,7 +40510,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40602,8 +40602,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 34010373,
+			"version": 150,
+			"versionNonce": 680807662,
 			"isDeleted": false,
 			"id": "D0lyD6LAGv5DtbP_OvVh8",
 			"fillStyle": "solid",
@@ -40623,7 +40623,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40685,8 +40685,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 1037208011,
+			"version": 156,
+			"versionNonce": 324387058,
 			"isDeleted": false,
 			"id": "6wGuJg18SPobOAupPnasg",
 			"fillStyle": "solid",
@@ -40706,7 +40706,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40798,8 +40798,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 634129509,
+			"version": 157,
+			"versionNonce": 1184399150,
 			"isDeleted": false,
 			"id": "vrVMdttMFO5q0RdIwKQET",
 			"fillStyle": "solid",
@@ -40819,7 +40819,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40916,8 +40916,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 1981093995,
+			"version": 146,
+			"versionNonce": 1821692594,
 			"isDeleted": false,
 			"id": "536ARB3usaQlIM84t7yhw",
 			"fillStyle": "solid",
@@ -40937,7 +40937,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40979,8 +40979,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 1941387205,
+			"version": 145,
+			"versionNonce": 1910270318,
 			"isDeleted": false,
 			"id": "tyMr-M1w9vHCZyggh2E5H",
 			"fillStyle": "solid",
@@ -41000,7 +41000,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41037,8 +41037,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 810341131,
+			"version": 157,
+			"versionNonce": 2005642354,
 			"isDeleted": false,
 			"id": "mTDq27Vbc3jq1dOPTcg6e",
 			"fillStyle": "solid",
@@ -41058,7 +41058,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41155,8 +41155,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 1709569829,
+			"version": 155,
+			"versionNonce": 1504250798,
 			"isDeleted": false,
 			"id": "9_YCqUNZcLMa7kAoRChwf",
 			"fillStyle": "solid",
@@ -41176,7 +41176,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41263,8 +41263,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1291073963,
+			"version": 152,
+			"versionNonce": 973164082,
 			"isDeleted": false,
 			"id": "t60HbLBbOtJqHNTKyHScx",
 			"fillStyle": "solid",
@@ -41284,7 +41284,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41356,8 +41356,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1455803013,
+			"version": 154,
+			"versionNonce": 1546085870,
 			"isDeleted": false,
 			"id": "Ds9OOg0ko52ZYk55irwN3",
 			"fillStyle": "solid",
@@ -41377,7 +41377,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41459,8 +41459,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 959827019,
+			"version": 156,
+			"versionNonce": 1759295474,
 			"isDeleted": false,
 			"id": "i4gb2F8-dPfKXT8V-mOzK",
 			"fillStyle": "solid",
@@ -41480,7 +41480,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41577,8 +41577,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 1997812197,
+			"version": 153,
+			"versionNonce": 710965294,
 			"isDeleted": false,
 			"id": "clsRA8N3aTTbMtjSP77Ve",
 			"fillStyle": "solid",
@@ -41598,7 +41598,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41680,8 +41680,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1491864299,
+			"version": 152,
+			"versionNonce": 69527986,
 			"isDeleted": false,
 			"id": "i4y4enlFvxz2vT58r6Az0",
 			"fillStyle": "solid",
@@ -41701,7 +41701,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41778,8 +41778,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 64924997,
+			"version": 155,
+			"versionNonce": 1815954030,
 			"isDeleted": false,
 			"id": "Pgb4eZ9c1Z3Wpb1w6Zq0N",
 			"fillStyle": "solid",
@@ -41799,7 +41799,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41891,8 +41891,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 815887755,
+			"version": 153,
+			"versionNonce": 1929438066,
 			"isDeleted": false,
 			"id": "TqLHhGY9ZAW1aEmb3C4F6",
 			"fillStyle": "solid",
@@ -41912,7 +41912,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41994,8 +41994,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1015200933,
+			"version": 154,
+			"versionNonce": 1686553774,
 			"isDeleted": false,
 			"id": "naCbB-Fu7AsKKGVt5CsTg",
 			"fillStyle": "solid",
@@ -42015,7 +42015,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42102,8 +42102,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 1334873131,
+			"version": 151,
+			"versionNonce": 532129074,
 			"isDeleted": false,
 			"id": "lyumdmjx7Kt4BJ9UEwLUF",
 			"fillStyle": "solid",
@@ -42123,7 +42123,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42195,8 +42195,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 414048261,
+			"version": 148,
+			"versionNonce": 350617326,
 			"isDeleted": false,
 			"id": "zhF5P4cBo5xTLAQxKD6t7",
 			"fillStyle": "solid",
@@ -42216,7 +42216,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42273,8 +42273,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 2040778443,
+			"version": 152,
+			"versionNonce": 330313458,
 			"isDeleted": false,
 			"id": "0ZT_y_3xFdN0fr_RIzkcF",
 			"fillStyle": "solid",
@@ -42294,7 +42294,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42371,8 +42371,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 1046320997,
+			"version": 146,
+			"versionNonce": 1642328366,
 			"isDeleted": false,
 			"id": "IqFwTaObbiB62e7hXzqI1",
 			"fillStyle": "solid",
@@ -42392,7 +42392,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42439,8 +42439,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 292928875,
+			"version": 152,
+			"versionNonce": 326205618,
 			"isDeleted": false,
 			"id": "5shXokTL1Jpgis1y4vezD",
 			"fillStyle": "solid",
@@ -42460,7 +42460,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42537,8 +42537,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 937386693,
+			"version": 156,
+			"versionNonce": 921279342,
 			"isDeleted": false,
 			"id": "lCsjK_vvHbGYrz-3iBPEP",
 			"fillStyle": "solid",
@@ -42558,7 +42558,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42655,8 +42655,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1112594443,
+			"version": 154,
+			"versionNonce": 983734898,
 			"isDeleted": false,
 			"id": "oGiDaZyubHBnWhOFXcM8h",
 			"fillStyle": "solid",
@@ -42676,7 +42676,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031274,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42763,8 +42763,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 1775288869,
+			"version": 154,
+			"versionNonce": 708836782,
 			"isDeleted": false,
 			"id": "ZC_-lAz_1c5PQ2Mv_jO4i",
 			"fillStyle": "solid",
@@ -42784,7 +42784,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42871,8 +42871,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 1781505707,
+			"version": 149,
+			"versionNonce": 403340338,
 			"isDeleted": false,
 			"id": "l07-xw28WYdBxEzXRhJlH",
 			"fillStyle": "solid",
@@ -42892,7 +42892,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42954,8 +42954,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 1226782085,
+			"version": 157,
+			"versionNonce": 554702830,
 			"isDeleted": false,
 			"id": "ylGj3AqjD_I7yruKT3bRj",
 			"fillStyle": "solid",
@@ -42975,7 +42975,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43077,8 +43077,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 1136431435,
+			"version": 151,
+			"versionNonce": 1234183666,
 			"isDeleted": false,
 			"id": "HbHsAqOiUVrZ0sNMhBf_s",
 			"fillStyle": "solid",
@@ -43098,7 +43098,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43170,8 +43170,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1359494373,
+			"version": 152,
+			"versionNonce": 1935862318,
 			"isDeleted": false,
 			"id": "AlQM7AS68aE23zUrmmMHU",
 			"fillStyle": "solid",
@@ -43191,7 +43191,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43268,8 +43268,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 1347563499,
+			"version": 153,
+			"versionNonce": 406493106,
 			"isDeleted": false,
 			"id": "gwDxTuS6_nWMiAB7SlXvH",
 			"fillStyle": "solid",
@@ -43289,7 +43289,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43371,8 +43371,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 957962309,
+			"version": 156,
+			"versionNonce": 270627950,
 			"isDeleted": false,
 			"id": "gak_s-JLDukUzFPT5gVbp",
 			"fillStyle": "solid",
@@ -43392,7 +43392,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43489,8 +43489,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 33225355,
+			"version": 157,
+			"versionNonce": 338743666,
 			"isDeleted": false,
 			"id": "4LY67Twoo7-gX7fObHKuN",
 			"fillStyle": "solid",
@@ -43510,7 +43510,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43612,8 +43612,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 1798309797,
+			"version": 147,
+			"versionNonce": 555005614,
 			"isDeleted": false,
 			"id": "szhFZ0pVpkHxl9Onr3Dj8",
 			"fillStyle": "solid",
@@ -43633,7 +43633,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43685,8 +43685,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 628191531,
+			"version": 149,
+			"versionNonce": 817484594,
 			"isDeleted": false,
 			"id": "460SrpIqSC53N8TuH9Qxa",
 			"fillStyle": "solid",
@@ -43706,7 +43706,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43768,8 +43768,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 964283141,
+			"version": 157,
+			"versionNonce": 786804974,
 			"isDeleted": false,
 			"id": "f4ATD_NZE5QXnKMWJAk7f",
 			"fillStyle": "solid",
@@ -43789,7 +43789,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43891,8 +43891,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 203428811,
+			"version": 145,
+			"versionNonce": 1614585074,
 			"isDeleted": false,
 			"id": "qdjtqu6xU1tqW3aPfumWg",
 			"fillStyle": "solid",
@@ -43912,7 +43912,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43954,8 +43954,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 1416897125,
+			"version": 144,
+			"versionNonce": 1159553838,
 			"isDeleted": false,
 			"id": "tYopENJLkm0kxcdL8M8Pk",
 			"fillStyle": "solid",
@@ -43975,7 +43975,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44012,8 +44012,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 1981899371,
+			"version": 155,
+			"versionNonce": 809512626,
 			"isDeleted": false,
 			"id": "ZD-YxzgjHDNkDTtc-kOeS",
 			"fillStyle": "solid",
@@ -44033,7 +44033,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44125,8 +44125,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 15502789,
+			"version": 154,
+			"versionNonce": 371510638,
 			"isDeleted": false,
 			"id": "_sIM8hWMc5vOECrACsJyz",
 			"fillStyle": "solid",
@@ -44146,7 +44146,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44233,8 +44233,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1010818315,
+			"version": 158,
+			"versionNonce": 1701546098,
 			"isDeleted": false,
 			"id": "WOm02tN41IdCgmhrDG04g",
 			"fillStyle": "solid",
@@ -44254,7 +44254,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44361,8 +44361,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 234917157,
+			"version": 153,
+			"versionNonce": 524611502,
 			"isDeleted": false,
 			"id": "8Bmypp6GvIhdwEo3e2K-4",
 			"fillStyle": "solid",
@@ -44382,7 +44382,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44464,8 +44464,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 972424107,
+			"version": 155,
+			"versionNonce": 394635826,
 			"isDeleted": false,
 			"id": "jHZxaUMsL9H4b8Wa9UqoR",
 			"fillStyle": "solid",
@@ -44485,7 +44485,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44577,8 +44577,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 153,
-			"versionNonce": 186491013,
+			"version": 154,
+			"versionNonce": 1285999086,
 			"isDeleted": false,
 			"id": "xZ6tzT6m2htRcCmgfwtpN",
 			"fillStyle": "solid",
@@ -44598,7 +44598,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44685,8 +44685,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 2003719755,
+			"version": 156,
+			"versionNonce": 1299551218,
 			"isDeleted": false,
 			"id": "57u5IJTGuEqLK8SJMWc6u",
 			"fillStyle": "solid",
@@ -44706,7 +44706,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44803,8 +44803,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 141,
-			"versionNonce": 1040271333,
+			"version": 142,
+			"versionNonce": 492002350,
 			"isDeleted": false,
 			"id": "0UN6-bGgFJZ6JV4XVV84y",
 			"fillStyle": "solid",
@@ -44824,7 +44824,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44851,8 +44851,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 327374059,
+			"version": 144,
+			"versionNonce": 423773618,
 			"isDeleted": false,
 			"id": "PqHv_aaHyQQi4y_BPzgtC",
 			"fillStyle": "solid",
@@ -44872,7 +44872,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44909,8 +44909,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 1488520005,
+			"version": 153,
+			"versionNonce": 1194567278,
 			"isDeleted": false,
 			"id": "18LpTclfwf3o-Jhg9CIll",
 			"fillStyle": "solid",
@@ -44930,7 +44930,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45012,8 +45012,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 1841266571,
+			"version": 152,
+			"versionNonce": 873643890,
 			"isDeleted": false,
 			"id": "PGk0zQWM0_Q7nALhR-XE-",
 			"fillStyle": "solid",
@@ -45033,7 +45033,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45110,8 +45110,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1872908965,
+			"version": 158,
+			"versionNonce": 1527818414,
 			"isDeleted": false,
 			"id": "sjKjS-o6ctqdXfAm4sLqj",
 			"fillStyle": "solid",
@@ -45131,7 +45131,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45238,8 +45238,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 274552363,
+			"version": 152,
+			"versionNonce": 439222578,
 			"isDeleted": false,
 			"id": "ZqMnD3Nocpb9zS5-cFT2D",
 			"fillStyle": "solid",
@@ -45259,7 +45259,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45336,8 +45336,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 795522565,
+			"version": 153,
+			"versionNonce": 1754489582,
 			"isDeleted": false,
 			"id": "SECnxmuMZKQ6I_2NchDNH",
 			"fillStyle": "solid",
@@ -45357,7 +45357,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45464,8 +45464,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 1514625227,
+			"version": 156,
+			"versionNonce": 653986546,
 			"isDeleted": false,
 			"id": "9m-ETyPphMn2QMC_kXQLr",
 			"fillStyle": "solid",
@@ -45485,7 +45485,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45607,8 +45607,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 1393536357,
+			"version": 144,
+			"versionNonce": 574936366,
 			"isDeleted": false,
 			"id": "Uepj1KKXekx5sAw6irOH0",
 			"fillStyle": "solid",
@@ -45628,7 +45628,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45690,8 +45690,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 1763182443,
+			"version": 141,
+			"versionNonce": 822140082,
 			"isDeleted": false,
 			"id": "9xXt2O2FN3vynDTm9x5kq",
 			"fillStyle": "solid",
@@ -45711,7 +45711,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45758,8 +45758,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 1507768517,
+			"version": 146,
+			"versionNonce": 26083182,
 			"isDeleted": false,
 			"id": "xDUwRylysOr4ZR4iqYSA1",
 			"fillStyle": "solid",
@@ -45779,7 +45779,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45851,8 +45851,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 1125769739,
+			"version": 149,
+			"versionNonce": 635860594,
 			"isDeleted": false,
 			"id": "EowX4PF8V6dN7ylm4B0km",
 			"fillStyle": "solid",
@@ -45872,7 +45872,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45959,8 +45959,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 2104842277,
+			"version": 144,
+			"versionNonce": 1790435758,
 			"isDeleted": false,
 			"id": "47JjvwqN094fQ1FMQMS54",
 			"fillStyle": "solid",
@@ -45980,7 +45980,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46042,8 +46042,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 1095198891,
+			"version": 140,
+			"versionNonce": 645060658,
 			"isDeleted": false,
 			"id": "FJwdnzAuK2FNm1NCmnjK-",
 			"fillStyle": "solid",
@@ -46063,7 +46063,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46105,8 +46105,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1740704645,
+			"version": 158,
+			"versionNonce": 1357609966,
 			"isDeleted": false,
 			"id": "l-Sriuo4WRL0C4kVtqr3Y",
 			"fillStyle": "solid",
@@ -46126,7 +46126,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46258,8 +46258,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 961223499,
+			"version": 147,
+			"versionNonce": 579666418,
 			"isDeleted": false,
 			"id": "si5zq5yayQePx_cluRrMc",
 			"fillStyle": "solid",
@@ -46279,7 +46279,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46356,8 +46356,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 687821541,
+			"version": 161,
+			"versionNonce": 1513213486,
 			"isDeleted": false,
 			"id": "vlGJ2hm8FJ5WkMchrEDdt",
 			"fillStyle": "solid",
@@ -46377,7 +46377,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46524,8 +46524,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 1736407531,
+			"version": 149,
+			"versionNonce": 1966863282,
 			"isDeleted": false,
 			"id": "w9PdlGXuIHdCJ_OIjGa44",
 			"fillStyle": "solid",
@@ -46545,7 +46545,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46632,8 +46632,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 1841147461,
+			"version": 147,
+			"versionNonce": 57923694,
 			"isDeleted": false,
 			"id": "-Y9GdW7ZFaTH0WbIeAMgt",
 			"fillStyle": "solid",
@@ -46653,7 +46653,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46730,8 +46730,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 148,
-			"versionNonce": 418317451,
+			"version": 149,
+			"versionNonce": 10923378,
 			"isDeleted": false,
 			"id": "E-Dk3kgfRoDQxnYNCzoRT",
 			"fillStyle": "solid",
@@ -46751,7 +46751,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46838,8 +46838,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 1960418725,
+			"version": 141,
+			"versionNonce": 1148885678,
 			"isDeleted": false,
 			"id": "1coGagHqBxmpFfMLArqVg",
 			"fillStyle": "solid",
@@ -46859,7 +46859,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46906,8 +46906,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 357841707,
+			"version": 160,
+			"versionNonce": 1242836786,
 			"isDeleted": false,
 			"id": "0Bg8am8RksRstyyHik0UY",
 			"fillStyle": "solid",
@@ -46927,7 +46927,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47069,8 +47069,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1166057733,
+			"version": 158,
+			"versionNonce": 871306478,
 			"isDeleted": false,
 			"id": "EGWaTb1Ujqj9U6uC5Ys7V",
 			"fillStyle": "solid",
@@ -47090,7 +47090,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47222,8 +47222,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 1226415563,
+			"version": 151,
+			"versionNonce": 367753458,
 			"isDeleted": false,
 			"id": "YJGmcVxF0thF0PF2dk0LL",
 			"fillStyle": "solid",
@@ -47243,7 +47243,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47340,8 +47340,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 162,
-			"versionNonce": 623917157,
+			"version": 163,
+			"versionNonce": 727336750,
 			"isDeleted": false,
 			"id": "DGpjfRCv8i7uC2OZn2iv6",
 			"fillStyle": "solid",
@@ -47361,7 +47361,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47518,8 +47518,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 794405995,
+			"version": 150,
+			"versionNonce": 62098098,
 			"isDeleted": false,
 			"id": "F1OtPTR0BymOeSRT-Ca69",
 			"fillStyle": "solid",
@@ -47539,7 +47539,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47631,8 +47631,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 158,
-			"versionNonce": 1303765957,
+			"version": 159,
+			"versionNonce": 1797599598,
 			"isDeleted": false,
 			"id": "wK5yxtw9SwU_QPGJZ5YZT",
 			"fillStyle": "solid",
@@ -47652,7 +47652,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47789,8 +47789,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 161,
-			"versionNonce": 2078205707,
+			"version": 162,
+			"versionNonce": 705913970,
 			"isDeleted": false,
 			"id": "hHPrihZVOqkmBjVnBMfBp",
 			"fillStyle": "solid",
@@ -47810,7 +47810,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47962,8 +47962,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 1664033573,
+			"version": 156,
+			"versionNonce": 1050203054,
 			"isDeleted": false,
 			"id": "L7g2m8r1LZi5Qw5SIBrhO",
 			"fillStyle": "solid",
@@ -47983,7 +47983,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48105,8 +48105,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 151,
-			"versionNonce": 86232491,
+			"version": 152,
+			"versionNonce": 852624946,
 			"isDeleted": false,
 			"id": "U1E8oeO7mYk_uFp8zm-Yb",
 			"fillStyle": "solid",
@@ -48126,7 +48126,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48228,8 +48228,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 141,
-			"versionNonce": 705263237,
+			"version": 142,
+			"versionNonce": 534654446,
 			"isDeleted": false,
 			"id": "42wH91K-PSotfBPzvPkGv",
 			"fillStyle": "solid",
@@ -48249,7 +48249,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48301,8 +48301,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 1850925131,
+			"version": 145,
+			"versionNonce": 1993764850,
 			"isDeleted": false,
 			"id": "UE31yRX2z62pr7SVNnMNt",
 			"fillStyle": "solid",
@@ -48322,7 +48322,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48389,8 +48389,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 2097307109,
+			"version": 151,
+			"versionNonce": 1543389230,
 			"isDeleted": false,
 			"id": "slLe1wYGnKfGC4-LAqL36",
 			"fillStyle": "solid",
@@ -48410,7 +48410,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48507,8 +48507,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 152,
-			"versionNonce": 289840875,
+			"version": 153,
+			"versionNonce": 438804914,
 			"isDeleted": false,
 			"id": "WUYxShw2Vfch99kK4TN8Q",
 			"fillStyle": "solid",
@@ -48528,7 +48528,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48635,8 +48635,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 52910405,
+			"version": 146,
+			"versionNonce": 920783470,
 			"isDeleted": false,
 			"id": "5wEcBxQklC-gEARv2Z0K3",
 			"fillStyle": "solid",
@@ -48656,7 +48656,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48728,8 +48728,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 680102283,
+			"version": 157,
+			"versionNonce": 669817714,
 			"isDeleted": false,
 			"id": "hCRS2NK3nsf-1J2uNbraJ",
 			"fillStyle": "solid",
@@ -48749,7 +48749,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48876,8 +48876,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 634775717,
+			"version": 151,
+			"versionNonce": 257068206,
 			"isDeleted": false,
 			"id": "vioZytlA7CslBJHuAKW5b",
 			"fillStyle": "solid",
@@ -48897,7 +48897,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48994,8 +48994,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 961945643,
+			"version": 147,
+			"versionNonce": 778853682,
 			"isDeleted": false,
 			"id": "eyaOqPYJN3xtSNhr_fq73",
 			"fillStyle": "solid",
@@ -49015,7 +49015,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49097,8 +49097,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 1186696197,
+			"version": 158,
+			"versionNonce": 49858286,
 			"isDeleted": false,
 			"id": "E32n85ni1WUTex0DpipF2",
 			"fillStyle": "solid",
@@ -49118,7 +49118,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49255,8 +49255,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 1033298635,
+			"version": 148,
+			"versionNonce": 1527637746,
 			"isDeleted": false,
 			"id": "i7quZIkeOM0jXx6vzpHCx",
 			"fillStyle": "solid",
@@ -49276,7 +49276,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49363,8 +49363,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 903201637,
+			"version": 147,
+			"versionNonce": 308132142,
 			"isDeleted": false,
 			"id": "-ZeTiJcsGVtuHk5X-K7XZ",
 			"fillStyle": "solid",
@@ -49384,7 +49384,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49466,8 +49466,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 233197931,
+			"version": 158,
+			"versionNonce": 374880434,
 			"isDeleted": false,
 			"id": "dnxg0jnDJX0nVNn1zA6am",
 			"fillStyle": "solid",
@@ -49487,7 +49487,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49624,8 +49624,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 1735528133,
+			"version": 141,
+			"versionNonce": 1156211566,
 			"isDeleted": false,
 			"id": "PSKXETZABHoQDDMZOQjPW",
 			"fillStyle": "solid",
@@ -49645,7 +49645,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49697,8 +49697,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 137,
-			"versionNonce": 193915915,
+			"version": 138,
+			"versionNonce": 535974514,
 			"isDeleted": false,
 			"id": "jlOlaKWL9LXiW1DEplRV5",
 			"fillStyle": "solid",
@@ -49718,7 +49718,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49755,8 +49755,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 1781394981,
+			"version": 150,
+			"versionNonce": 1290257838,
 			"isDeleted": false,
 			"id": "A5exFUAnWl59zMqsL9xRl",
 			"fillStyle": "solid",
@@ -49776,7 +49776,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49873,8 +49873,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 176894635,
+			"version": 141,
+			"versionNonce": 715338802,
 			"isDeleted": false,
 			"id": "vPZwyToJrWLCK53BmfDQV",
 			"fillStyle": "solid",
@@ -49894,7 +49894,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49946,8 +49946,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 485941637,
+			"version": 145,
+			"versionNonce": 729735150,
 			"isDeleted": false,
 			"id": "6YYC31gFKkcvDZfDa7_Bl",
 			"fillStyle": "solid",
@@ -49967,7 +49967,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50039,8 +50039,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 141,
-			"versionNonce": 2072356171,
+			"version": 142,
+			"versionNonce": 2018631154,
 			"isDeleted": false,
 			"id": "dwwyudg9Xdtv4KnXIXFh-",
 			"fillStyle": "solid",
@@ -50060,7 +50060,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50117,8 +50117,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 621439205,
+			"version": 139,
+			"versionNonce": 1421390382,
 			"isDeleted": false,
 			"id": "ofzmqWsJBgHhHzcoqC04g",
 			"fillStyle": "solid",
@@ -50138,7 +50138,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50180,8 +50180,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 158,
-			"versionNonce": 1440269291,
+			"version": 159,
+			"versionNonce": 1980059570,
 			"isDeleted": false,
 			"id": "1TZsNJuy_7U39mHdYSwa4",
 			"fillStyle": "solid",
@@ -50201,7 +50201,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50343,8 +50343,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 603325509,
+			"version": 148,
+			"versionNonce": 1400781934,
 			"isDeleted": false,
 			"id": "vSoh0ZLjVFcQ_G4sZOhw4",
 			"fillStyle": "solid",
@@ -50364,7 +50364,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50451,8 +50451,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 1099894411,
+			"version": 160,
+			"versionNonce": 1474595186,
 			"isDeleted": false,
 			"id": "Lm5EOxdrimGaI7zvKZPMm",
 			"fillStyle": "solid",
@@ -50472,7 +50472,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50619,8 +50619,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 146,
-			"versionNonce": 764883877,
+			"version": 147,
+			"versionNonce": 1838710446,
 			"isDeleted": false,
 			"id": "L2APIA_yubxfHC5CIByU6",
 			"fillStyle": "solid",
@@ -50640,7 +50640,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50722,8 +50722,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 23266603,
+			"version": 42,
+			"versionNonce": 892767026,
 			"isDeleted": false,
 			"id": "yB3DHT3bNG0tk3Qr6xCk8",
 			"fillStyle": "solid",
@@ -50743,7 +50743,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50835,8 +50835,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 2115729157,
+			"version": 34,
+			"versionNonce": 1202747630,
 			"isDeleted": false,
 			"id": "U67w9fXPiI_STqL6f3Vs3",
 			"fillStyle": "solid",
@@ -50856,7 +50856,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50908,8 +50908,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 482289611,
+			"version": 45,
+			"versionNonce": 610424050,
 			"isDeleted": false,
 			"id": "Luep0ORm6zI3twxTX0xce",
 			"fillStyle": "solid",
@@ -50929,7 +50929,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51036,8 +51036,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 1879068261,
+			"version": 45,
+			"versionNonce": 156183342,
 			"isDeleted": false,
 			"id": "HJ3ZSYs8BzSgRHLoNDGar",
 			"fillStyle": "solid",
@@ -51057,7 +51057,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51164,8 +51164,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1237186155,
+			"version": 32,
+			"versionNonce": 1458497202,
 			"isDeleted": false,
 			"id": "7J9ypYqU28D4eF19zUg74",
 			"fillStyle": "solid",
@@ -51185,7 +51185,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51227,8 +51227,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 840120773,
+			"version": 44,
+			"versionNonce": 14521710,
 			"isDeleted": false,
 			"id": "Vf1gqcbyuwHbJ_K4qo5iF",
 			"fillStyle": "solid",
@@ -51248,7 +51248,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51350,8 +51350,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 388624651,
+			"version": 46,
+			"versionNonce": 897794162,
 			"isDeleted": false,
 			"id": "gSURn6fD_GBaDiBJ7X7vy",
 			"fillStyle": "solid",
@@ -51371,7 +51371,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51483,8 +51483,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1030863141,
+			"version": 49,
+			"versionNonce": 1201977262,
 			"isDeleted": false,
 			"id": "vCw5G3hvAIngTVjBw26Mn",
 			"fillStyle": "solid",
@@ -51504,7 +51504,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51631,8 +51631,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1451071403,
+			"version": 88,
+			"versionNonce": 2078695986,
 			"isDeleted": false,
 			"id": "xFwIndOiz9MHJJwKr1gDB",
 			"fillStyle": "solid",
@@ -51652,7 +51652,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51734,8 +51734,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 193547397,
+			"version": 82,
+			"versionNonce": 1707971054,
 			"isDeleted": false,
 			"id": "sXYu65LKhyBBvBOhScpp2",
 			"fillStyle": "solid",
@@ -51755,7 +51755,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51807,8 +51807,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1172531787,
+			"version": 81,
+			"versionNonce": 1426017266,
 			"isDeleted": false,
 			"id": "WKkzXHiAMD2oMgoSNZWq2",
 			"fillStyle": "solid",
@@ -51828,7 +51828,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51875,8 +51875,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 202863589,
+			"version": 86,
+			"versionNonce": 1986077742,
 			"isDeleted": false,
 			"id": "ks5J3kSmN6cGE5ika-FLE",
 			"fillStyle": "solid",
@@ -51896,7 +51896,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51968,8 +51968,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 2050353387,
+			"version": 81,
+			"versionNonce": 1993670066,
 			"isDeleted": false,
 			"id": "FaKew8jAAJDE3rxAsCkQ_",
 			"fillStyle": "solid",
@@ -51989,7 +51989,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52036,8 +52036,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1529458501,
+			"version": 85,
+			"versionNonce": 1263038062,
 			"isDeleted": false,
 			"id": "Fapl2ax2Az73aPHI49B4f",
 			"fillStyle": "solid",
@@ -52057,7 +52057,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52124,8 +52124,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 150967179,
+			"version": 90,
+			"versionNonce": 1049524082,
 			"isDeleted": false,
 			"id": "KjlGYpH5tzImpLQY8k0bY",
 			"fillStyle": "solid",
@@ -52145,7 +52145,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52237,8 +52237,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 924679845,
+			"version": 90,
+			"versionNonce": 290222254,
 			"isDeleted": false,
 			"id": "4Vg2a3GuQE-9j1XD6K63p",
 			"fillStyle": "solid",
@@ -52258,7 +52258,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52350,8 +52350,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1920657963,
+			"version": 83,
+			"versionNonce": 1282586930,
 			"isDeleted": false,
 			"id": "72IdBq46bAX6wkh9r8RWB",
 			"fillStyle": "solid",
@@ -52371,7 +52371,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52428,8 +52428,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 916480517,
+			"version": 87,
+			"versionNonce": 1947609838,
 			"isDeleted": false,
 			"id": "_p-mCsTEcGwMt8xbTiVzm",
 			"fillStyle": "solid",
@@ -52449,7 +52449,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52526,8 +52526,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 1267887307,
+			"version": 92,
+			"versionNonce": 535347954,
 			"isDeleted": false,
 			"id": "j8JdxSmlNHt8yKlGRSmrR",
 			"fillStyle": "solid",
@@ -52547,7 +52547,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52649,8 +52649,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1051711845,
+			"version": 82,
+			"versionNonce": 1110351150,
 			"isDeleted": false,
 			"id": "ACtvJVYva31JuYAkSLu3d",
 			"fillStyle": "solid",
@@ -52670,7 +52670,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52722,8 +52722,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 669031275,
+			"version": 94,
+			"versionNonce": 863474866,
 			"isDeleted": false,
 			"id": "p255fUIQnETy75Z_GGrPl",
 			"fillStyle": "solid",
@@ -52743,7 +52743,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52855,8 +52855,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 949576901,
+			"version": 44,
+			"versionNonce": 285132654,
 			"isDeleted": false,
 			"id": "wIxV_Xbz2guGSKTzoO785",
 			"fillStyle": "solid",
@@ -52876,7 +52876,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52978,8 +52978,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1135605259,
+			"version": 114,
+			"versionNonce": 415641202,
 			"isDeleted": false,
 			"id": "5Tto7MylUMblTll7hVIAC",
 			"fillStyle": "solid",
@@ -52999,7 +52999,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53141,8 +53141,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 133858341,
+			"version": 105,
+			"versionNonce": 1624222126,
 			"isDeleted": false,
 			"id": "aU2WCH-2lXBCwobokAicR",
 			"fillStyle": "solid",
@@ -53162,7 +53162,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53259,8 +53259,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1845165227,
+			"version": 113,
+			"versionNonce": 345739314,
 			"isDeleted": false,
 			"id": "m-RIzOziI8qOobWaC4Fvz",
 			"fillStyle": "solid",
@@ -53280,7 +53280,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53417,8 +53417,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1086371717,
+			"version": 105,
+			"versionNonce": 1086997486,
 			"isDeleted": false,
 			"id": "WXf7KUhmF7j0mJ4OzalzL",
 			"fillStyle": "solid",
@@ -53438,7 +53438,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53535,8 +53535,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 845950795,
+			"version": 103,
+			"versionNonce": 987675122,
 			"isDeleted": false,
 			"id": "FZetlM4oyOUWDuSqOjli-",
 			"fillStyle": "solid",
@@ -53556,7 +53556,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53643,8 +53643,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 489258725,
+			"version": 104,
+			"versionNonce": 1928828462,
 			"isDeleted": false,
 			"id": "us25c_BWWk48I-3YM5Bfc",
 			"fillStyle": "solid",
@@ -53664,7 +53664,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53756,8 +53756,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1130237419,
+			"version": 96,
+			"versionNonce": 177646514,
 			"isDeleted": false,
 			"id": "dj8rEhTfGiCVVRsdtzw-h",
 			"fillStyle": "solid",
@@ -53777,7 +53777,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53829,8 +53829,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 868375109,
+			"version": 101,
+			"versionNonce": 272670830,
 			"isDeleted": false,
 			"id": "Zi_XvT6pgfo9vyr0yRWCt",
 			"fillStyle": "solid",
@@ -53850,7 +53850,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53927,8 +53927,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 601561227,
+			"version": 98,
+			"versionNonce": 166356338,
 			"isDeleted": false,
 			"id": "nEuWJSua7YFEra1deXkVJ",
 			"fillStyle": "solid",
@@ -53948,7 +53948,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54010,8 +54010,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1835583909,
+			"version": 106,
+			"versionNonce": 745431726,
 			"isDeleted": false,
 			"id": "RMWoPP8PML7Yqvv0htwj8",
 			"fillStyle": "solid",
@@ -54031,7 +54031,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54133,8 +54133,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 295554859,
+			"version": 102,
+			"versionNonce": 1646323506,
 			"isDeleted": false,
 			"id": "b7sZaJ23DMbDehgNqDAym",
 			"fillStyle": "solid",
@@ -54154,7 +54154,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54236,8 +54236,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 994725125,
+			"version": 107,
+			"versionNonce": 2049563886,
 			"isDeleted": false,
 			"id": "M8vh6jLQncHLxIMk00dM2",
 			"fillStyle": "solid",
@@ -54257,7 +54257,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54364,8 +54364,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 789623243,
+			"version": 95,
+			"versionNonce": 2074161394,
 			"isDeleted": false,
 			"id": "PsSX-Ke0uv02y9k23iURC",
 			"fillStyle": "solid",
@@ -54385,7 +54385,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54432,8 +54432,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 216294501,
+			"version": 97,
+			"versionNonce": 1862012718,
 			"isDeleted": false,
 			"id": "kBKo6zTkkImL-cdZwWGst",
 			"fillStyle": "solid",
@@ -54453,7 +54453,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031275,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54510,8 +54510,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 1833844843,
+			"version": 95,
+			"versionNonce": 435307186,
 			"isDeleted": false,
 			"id": "nVfpywfxIJ4B_veXSu6lC",
 			"fillStyle": "solid",
@@ -54531,7 +54531,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54578,8 +54578,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 100962245,
+			"version": 94,
+			"versionNonce": 1733163374,
 			"isDeleted": false,
 			"id": "frXSwGK0FDx4IKWkDR9vd",
 			"fillStyle": "solid",
@@ -54599,7 +54599,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54641,8 +54641,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 908131083,
+			"version": 106,
+			"versionNonce": 2008751218,
 			"isDeleted": false,
 			"id": "E6NddCKvKdwtefxTysqTX",
 			"fillStyle": "solid",
@@ -54662,7 +54662,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54764,8 +54764,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1959284517,
+			"version": 105,
+			"versionNonce": 1248369582,
 			"isDeleted": false,
 			"id": "EJaZJ5K5R523m94AINFpI",
 			"fillStyle": "solid",
@@ -54785,7 +54785,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54882,8 +54882,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1443062187,
+			"version": 106,
+			"versionNonce": 1656929842,
 			"isDeleted": false,
 			"id": "JckGc_kNrgshKWXanFbG6",
 			"fillStyle": "solid",
@@ -54903,7 +54903,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55010,8 +55010,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 127738501,
+			"version": 93,
+			"versionNonce": 779417070,
 			"isDeleted": false,
 			"id": "9U32YsbQdmDlfbh0Hlaeh",
 			"fillStyle": "solid",
@@ -55031,7 +55031,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55073,8 +55073,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 639628363,
+			"version": 98,
+			"versionNonce": 1475356658,
 			"isDeleted": false,
 			"id": "Gor7VkcjTsXjdYh7uldlo",
 			"fillStyle": "solid",
@@ -55094,7 +55094,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55161,8 +55161,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1128303077,
+			"version": 101,
+			"versionNonce": 2088503342,
 			"isDeleted": false,
 			"id": "8GG_K6vR8Nk2rNoulFGsN",
 			"fillStyle": "solid",
@@ -55182,7 +55182,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55264,8 +55264,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 1985032939,
+			"version": 116,
+			"versionNonce": 524966322,
 			"isDeleted": false,
 			"id": "ocQ-iw0jVVv3Nl90w_5Sx",
 			"fillStyle": "solid",
@@ -55285,7 +55285,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55442,8 +55442,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 952108357,
+			"version": 104,
+			"versionNonce": 342282862,
 			"isDeleted": false,
 			"id": "aiy609snvn4jf4YmMGmlg",
 			"fillStyle": "solid",
@@ -55463,7 +55463,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55560,8 +55560,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 924949899,
+			"version": 117,
+			"versionNonce": 1744327538,
 			"isDeleted": false,
 			"id": "c5J9fyme34AatrNuVS_SJ",
 			"fillStyle": "solid",
@@ -55581,7 +55581,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55743,8 +55743,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 2071532709,
+			"version": 103,
+			"versionNonce": 1895716014,
 			"isDeleted": false,
 			"id": "Q6SnCxpr9BO78gtYTspAj",
 			"fillStyle": "solid",
@@ -55764,7 +55764,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55856,8 +55856,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1674294315,
+			"version": 100,
+			"versionNonce": 1681986866,
 			"isDeleted": false,
 			"id": "rvuFGQyYcWKfNinx0en51",
 			"fillStyle": "solid",
@@ -55877,7 +55877,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55954,8 +55954,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1461270533,
+			"version": 105,
+			"versionNonce": 1273728750,
 			"isDeleted": false,
 			"id": "FqESQe8SPuszaCmSm5cqS",
 			"fillStyle": "solid",
@@ -55975,7 +55975,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56077,8 +56077,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 741996235,
+			"version": 98,
+			"versionNonce": 1703649010,
 			"isDeleted": false,
 			"id": "R6AQOnxHonDJzyxP4BYFP",
 			"fillStyle": "solid",
@@ -56098,7 +56098,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56165,8 +56165,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1167978341,
+			"version": 113,
+			"versionNonce": 1102545198,
 			"isDeleted": false,
 			"id": "BWDfF-wcBMx_svzRrZChH",
 			"fillStyle": "solid",
@@ -56186,7 +56186,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56328,8 +56328,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1594287467,
+			"version": 102,
+			"versionNonce": 2019487922,
 			"isDeleted": false,
 			"id": "TKl_ylZiFiEY5_5U7LitQ",
 			"fillStyle": "solid",
@@ -56349,7 +56349,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56436,8 +56436,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 626309829,
+			"version": 115,
+			"versionNonce": 1976249198,
 			"isDeleted": false,
 			"id": "Uirp3b4Kzxhcu9d8P0lgY",
 			"fillStyle": "solid",
@@ -56457,7 +56457,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56609,8 +56609,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 326959115,
+			"version": 104,
+			"versionNonce": 6425202,
 			"isDeleted": false,
 			"id": "zp_INfakafuG0rP3bRiRr",
 			"fillStyle": "solid",
@@ -56630,7 +56630,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56727,8 +56727,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 786111013,
+			"version": 103,
+			"versionNonce": 913280430,
 			"isDeleted": false,
 			"id": "gYG3w-TyudrRTPZ_b_PbK",
 			"fillStyle": "solid",
@@ -56748,7 +56748,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56840,8 +56840,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 328648363,
+			"version": 97,
+			"versionNonce": 1415310386,
 			"isDeleted": false,
 			"id": "cNpzCWJBmPUQGP3zEU6vv",
 			"fillStyle": "solid",
@@ -56861,7 +56861,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56923,8 +56923,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 723422597,
+			"version": 108,
+			"versionNonce": 550348782,
 			"isDeleted": false,
 			"id": "VMg3gh1t_wOakKtCeXNVG",
 			"fillStyle": "solid",
@@ -56944,7 +56944,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57061,8 +57061,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 100579659,
+			"version": 109,
+			"versionNonce": 1513330162,
 			"isDeleted": false,
 			"id": "FqA56Ke4mxKZBagnbUqDm",
 			"fillStyle": "solid",
@@ -57082,7 +57082,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57204,8 +57204,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1767675109,
+			"version": 101,
+			"versionNonce": 1156479534,
 			"isDeleted": false,
 			"id": "3U19j5Pwcc9pboeIF7O95",
 			"fillStyle": "solid",
@@ -57225,7 +57225,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57307,8 +57307,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1477400555,
+			"version": 94,
+			"versionNonce": 586155954,
 			"isDeleted": false,
 			"id": "xvlWn5qOh9QtJSsw-edQy",
 			"fillStyle": "solid",
@@ -57328,7 +57328,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57375,8 +57375,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1965207621,
+			"version": 111,
+			"versionNonce": 1236993134,
 			"isDeleted": false,
 			"id": "K4PcYaFBevogEZVLzk4_I",
 			"fillStyle": "solid",
@@ -57396,7 +57396,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57528,8 +57528,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 1741890187,
+			"version": 122,
+			"versionNonce": 112738674,
 			"isDeleted": false,
 			"id": "YpdSewi_afzMA9KSU5iYq",
 			"fillStyle": "solid",
@@ -57549,7 +57549,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323860,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57671,8 +57671,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 206462885,
+			"version": 127,
+			"versionNonce": 284968622,
 			"isDeleted": false,
 			"id": "y9lwWAjwfxnU7m2B_eLRc",
 			"fillStyle": "solid",
@@ -57692,7 +57692,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57839,8 +57839,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 1845795115,
+			"version": 140,
+			"versionNonce": 1087587122,
 			"isDeleted": false,
 			"id": "Hp6O9LQtQwQ7oGYEsWtoB",
 			"fillStyle": "solid",
@@ -57860,7 +57860,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57982,8 +57982,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 1426924293,
+			"version": 133,
+			"versionNonce": 1532707054,
 			"isDeleted": false,
 			"id": "6Vq2ZHpkOdJIHoSFSdxFg",
 			"fillStyle": "solid",
@@ -58003,7 +58003,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58090,8 +58090,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 672021451,
+			"version": 144,
+			"versionNonce": 195562738,
 			"isDeleted": false,
 			"id": "1l8gpEi4ReqFzxX-KT3J6",
 			"fillStyle": "solid",
@@ -58111,7 +58111,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58253,8 +58253,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 1406958181,
+			"version": 129,
+			"versionNonce": 1818293038,
 			"isDeleted": false,
 			"id": "fTdHgixkWEZdSadX2Dbr-",
 			"fillStyle": "solid",
@@ -58274,7 +58274,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58431,8 +58431,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 1107987051,
+			"version": 116,
+			"versionNonce": 1019059890,
 			"isDeleted": false,
 			"id": "g1BkLQMS1RPyZyC79BPep",
 			"fillStyle": "solid",
@@ -58452,7 +58452,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58609,8 +58609,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 562685381,
+			"version": 110,
+			"versionNonce": 779509102,
 			"isDeleted": false,
 			"id": "o8h0x6I71gbf8xnzMp36I",
 			"fillStyle": "solid",
@@ -58630,7 +58630,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58757,8 +58757,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 12846347,
+			"version": 103,
+			"versionNonce": 1622866034,
 			"isDeleted": false,
 			"id": "G8D4RX-AvZvz3fGxCykeB",
 			"fillStyle": "solid",
@@ -58778,7 +58778,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58870,8 +58870,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1630725413,
+			"version": 112,
+			"versionNonce": 1457815470,
 			"isDeleted": false,
 			"id": "wk2EU2PS6mHBSXHPRUfvE",
 			"fillStyle": "solid",
@@ -58891,7 +58891,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59028,8 +59028,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 733293483,
+			"version": 102,
+			"versionNonce": 1466374706,
 			"isDeleted": false,
 			"id": "bszOBjqKJN6M82LkbLZwv",
 			"fillStyle": "solid",
@@ -59049,7 +59049,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59136,8 +59136,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1984231557,
+			"version": 97,
+			"versionNonce": 164911598,
 			"isDeleted": false,
 			"id": "ohzJxPRzXFUL5j7LD3Z0R",
 			"fillStyle": "solid",
@@ -59157,7 +59157,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59219,8 +59219,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 923303499,
+			"version": 98,
+			"versionNonce": 1873347570,
 			"isDeleted": false,
 			"id": "lpPqrQ4ErJaEk-9yeIkvk",
 			"fillStyle": "solid",
@@ -59240,7 +59240,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59307,8 +59307,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 2055053285,
+			"version": 94,
+			"versionNonce": 2119101486,
 			"isDeleted": false,
 			"id": "Qb6Zpb6g-ZGpDzrwjzTGB",
 			"fillStyle": "solid",
@@ -59328,7 +59328,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59375,8 +59375,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 764968171,
+			"version": 92,
+			"versionNonce": 59225522,
 			"isDeleted": false,
 			"id": "Xja6LCemEZRs6CaLFPBjb",
 			"fillStyle": "solid",
@@ -59396,7 +59396,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59433,8 +59433,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1944738629,
+			"version": 97,
+			"versionNonce": 574436974,
 			"isDeleted": false,
 			"id": "viDd6SWd7L6ImBQeHcXCY",
 			"fillStyle": "solid",
@@ -59454,7 +59454,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59516,8 +59516,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1525655435,
+			"version": 97,
+			"versionNonce": 338308978,
 			"isDeleted": false,
 			"id": "jEE2VarlH5CS6jx0GTWGD",
 			"fillStyle": "solid",
@@ -59537,7 +59537,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59599,8 +59599,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1256762021,
+			"version": 104,
+			"versionNonce": 1047017646,
 			"isDeleted": false,
 			"id": "2BTUHCujEULCVMWJW-jaq",
 			"fillStyle": "solid",
@@ -59620,7 +59620,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59717,8 +59717,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 893943339,
+			"version": 94,
+			"versionNonce": 1708618034,
 			"isDeleted": false,
 			"id": "li_fzuAcbR1pO8JirYP4_",
 			"fillStyle": "solid",
@@ -59738,7 +59738,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59785,8 +59785,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 2493957,
+			"version": 98,
+			"versionNonce": 444134126,
 			"isDeleted": false,
 			"id": "wPwDMrPweWlwMWJCUJuSe",
 			"fillStyle": "solid",
@@ -59806,7 +59806,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59873,8 +59873,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 126714059,
+			"version": 101,
+			"versionNonce": 469138162,
 			"isDeleted": false,
 			"id": "KQjmP-oUnxr2svD2mvjje",
 			"fillStyle": "solid",
@@ -59894,7 +59894,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59976,8 +59976,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 580912485,
+			"version": 93,
+			"versionNonce": 553149742,
 			"isDeleted": false,
 			"id": "hSeSVzAzmKKws4g4t0_B7",
 			"fillStyle": "solid",
@@ -59997,7 +59997,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60039,8 +60039,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1532571499,
+			"version": 99,
+			"versionNonce": 1427000498,
 			"isDeleted": false,
 			"id": "FIYBGkGB1aymNiaqGc3Tv",
 			"fillStyle": "solid",
@@ -60060,7 +60060,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60132,8 +60132,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 94638277,
+			"version": 95,
+			"versionNonce": 55545710,
 			"isDeleted": false,
 			"id": "O0u4QSBwz70fZhlLAryBl",
 			"fillStyle": "solid",
@@ -60153,7 +60153,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60205,8 +60205,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 586549771,
+			"version": 111,
+			"versionNonce": 1187374706,
 			"isDeleted": false,
 			"id": "9OIjP0ZAzdPhhCoedCS7L",
 			"fillStyle": "solid",
@@ -60226,7 +60226,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60358,8 +60358,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 919580709,
+			"version": 105,
+			"versionNonce": 1573351854,
 			"isDeleted": false,
 			"id": "yCEoKNrO-0Jmkc7ZypCxz",
 			"fillStyle": "solid",
@@ -60379,7 +60379,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60481,8 +60481,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 593399979,
+			"version": 101,
+			"versionNonce": 1508132914,
 			"isDeleted": false,
 			"id": "mpuwqwZc5VtQtbs85sEti",
 			"fillStyle": "solid",
@@ -60502,7 +60502,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60584,8 +60584,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 873489285,
+			"version": 110,
+			"versionNonce": 1535708142,
 			"isDeleted": false,
 			"id": "n8z3wqevPfhl94KceR-8T",
 			"fillStyle": "solid",
@@ -60605,7 +60605,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60732,8 +60732,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 507331403,
+			"version": 46,
+			"versionNonce": 1179677170,
 			"isDeleted": false,
 			"id": "_QxAePIGHtS74FKF7c-zW",
 			"fillStyle": "solid",
@@ -60753,7 +60753,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60870,8 +60870,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1638116069,
+			"version": 41,
+			"versionNonce": 1520262702,
 			"isDeleted": false,
 			"id": "qevfrkc3-IghFKEDDT6XY",
 			"fillStyle": "solid",
@@ -60891,7 +60891,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60983,8 +60983,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1005363691,
+			"version": 33,
+			"versionNonce": 789668786,
 			"isDeleted": false,
 			"id": "Khl3Noysull32DpNo5AmP",
 			"fillStyle": "solid",
@@ -61004,7 +61004,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61056,8 +61056,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1075250757,
+			"version": 51,
+			"versionNonce": 267217006,
 			"isDeleted": false,
 			"id": "r16-NycxfhmaO9DFpE5Fd",
 			"fillStyle": "solid",
@@ -61077,7 +61077,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61219,8 +61219,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 897002635,
+			"version": 46,
+			"versionNonce": 1045306738,
 			"isDeleted": false,
 			"id": "7P88bgTM3_gF6rLT5pBXK",
 			"fillStyle": "solid",
@@ -61240,7 +61240,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61357,8 +61357,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1648883109,
+			"version": 52,
+			"versionNonce": 725756590,
 			"isDeleted": false,
 			"id": "xgDaPm8V6rchZYlAthG6d",
 			"fillStyle": "solid",
@@ -61378,7 +61378,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61525,8 +61525,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1050108715,
+			"version": 51,
+			"versionNonce": 1095606066,
 			"isDeleted": false,
 			"id": "z4LvU8DhUNjUXzuoXMl8m",
 			"fillStyle": "solid",
@@ -61546,7 +61546,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61688,8 +61688,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 593754373,
+			"version": 47,
+			"versionNonce": 2068096238,
 			"isDeleted": false,
 			"id": "KOR-u5chI96wH-6krbd1W",
 			"fillStyle": "solid",
@@ -61709,7 +61709,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61831,8 +61831,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 800572875,
+			"version": 53,
+			"versionNonce": 1148643570,
 			"isDeleted": false,
 			"id": "xxr3k1hhZBycJhpclgJPX",
 			"fillStyle": "solid",
@@ -61852,7 +61852,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62004,8 +62004,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 485003365,
+			"version": 49,
+			"versionNonce": 293459758,
 			"isDeleted": false,
 			"id": "fY6ulKOJMqA2S_u5JveYW",
 			"fillStyle": "solid",
@@ -62025,7 +62025,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62157,8 +62157,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1878185067,
+			"version": 47,
+			"versionNonce": 793836210,
 			"isDeleted": false,
 			"id": "C7yYtB-edzB4Zj5RpgR3e",
 			"fillStyle": "solid",
@@ -62178,7 +62178,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62300,8 +62300,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1554201541,
+			"version": 42,
+			"versionNonce": 1716961646,
 			"isDeleted": false,
 			"id": "ylOURPGtRgaU-1YxKMhIt",
 			"fillStyle": "solid",
@@ -62321,7 +62321,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62418,8 +62418,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 521342731,
+			"version": 32,
+			"versionNonce": 1619186802,
 			"isDeleted": false,
 			"id": "2KqJinKnRZ2_YJMV-GMHN",
 			"fillStyle": "solid",
@@ -62439,7 +62439,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62486,8 +62486,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1521580837,
+			"version": 51,
+			"versionNonce": 2098750382,
 			"isDeleted": false,
 			"id": "yACC8LMWAEs9xKjpQ2YGm",
 			"fillStyle": "solid",
@@ -62507,7 +62507,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62649,8 +62649,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 2140337579,
+			"version": 41,
+			"versionNonce": 1238595122,
 			"isDeleted": false,
 			"id": "y9Zfw0X6fHJ-jJYmFJS5n",
 			"fillStyle": "solid",
@@ -62670,7 +62670,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62762,8 +62762,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 796970629,
+			"version": 38,
+			"versionNonce": 132890094,
 			"isDeleted": false,
 			"id": "nygYmhQb2vUZR4B06b2mi",
 			"fillStyle": "solid",
@@ -62783,7 +62783,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62860,8 +62860,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 547162187,
+			"version": 58,
+			"versionNonce": 204070898,
 			"isDeleted": false,
 			"id": "okiDHIuDyk7YmsOEji1eK",
 			"fillStyle": "solid",
@@ -62881,7 +62881,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63058,8 +63058,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 164541925,
+			"version": 47,
+			"versionNonce": 198823982,
 			"isDeleted": false,
 			"id": "Z3Zyk1W10CzLatdxKK3Aq",
 			"fillStyle": "solid",
@@ -63079,7 +63079,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63201,8 +63201,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 1208731371,
+			"version": 40,
+			"versionNonce": 328012210,
 			"isDeleted": false,
 			"id": "e_L7jT1IND5hKFpguPW9Y",
 			"fillStyle": "solid",
@@ -63222,7 +63222,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63314,8 +63314,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1688777029,
+			"version": 53,
+			"versionNonce": 80452206,
 			"isDeleted": false,
 			"id": "VDRxVV4scvA_ZKJ309khi",
 			"fillStyle": "solid",
@@ -63335,7 +63335,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63492,8 +63492,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 476688779,
+			"version": 39,
+			"versionNonce": 858000242,
 			"isDeleted": false,
 			"id": "yzklASTEEpLd0RivZ0MCI",
 			"fillStyle": "solid",
@@ -63513,7 +63513,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63600,8 +63600,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 2104246437,
+			"version": 39,
+			"versionNonce": 160046254,
 			"isDeleted": false,
 			"id": "uGd_bHXFZ6WSQgQyj4adm",
 			"fillStyle": "solid",
@@ -63621,7 +63621,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63708,8 +63708,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 250693675,
+			"version": 30,
+			"versionNonce": 1094044978,
 			"isDeleted": false,
 			"id": "Oc54lyMzk_NoOQg2P37K5",
 			"fillStyle": "solid",
@@ -63729,7 +63729,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63771,8 +63771,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 164029445,
+			"version": 35,
+			"versionNonce": 1874745070,
 			"isDeleted": false,
 			"id": "hyamSkcGe8E7iEkqT3nbh",
 			"fillStyle": "solid",
@@ -63792,7 +63792,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63859,8 +63859,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 93129419,
+			"version": 43,
+			"versionNonce": 858347250,
 			"isDeleted": false,
 			"id": "E4UkyUsWIoJuCC5CqAfjN",
 			"fillStyle": "solid",
@@ -63880,7 +63880,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63987,8 +63987,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 766909285,
+			"version": 49,
+			"versionNonce": 1878083886,
 			"isDeleted": false,
 			"id": "JNmqJtMCZ-qGgnQfbwkc4",
 			"fillStyle": "solid",
@@ -64008,7 +64008,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64145,8 +64145,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 1154972011,
+			"version": 39,
+			"versionNonce": 965060786,
 			"isDeleted": false,
 			"id": "CAzPcQxZdpVqWAnOis_nC",
 			"fillStyle": "solid",
@@ -64166,7 +64166,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64253,8 +64253,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 830957253,
+			"version": 37,
+			"versionNonce": 1233908590,
 			"isDeleted": false,
 			"id": "e3ocYfKYr8w5w8pEWn2iA",
 			"fillStyle": "solid",
@@ -64274,7 +64274,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64351,8 +64351,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 437982219,
+			"version": 33,
+			"versionNonce": 1542570610,
 			"isDeleted": false,
 			"id": "DniQjCwjsa8Ue6NmHLkMJ",
 			"fillStyle": "solid",
@@ -64372,7 +64372,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64429,8 +64429,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 2010662437,
+			"version": 44,
+			"versionNonce": 1725388206,
 			"isDeleted": false,
 			"id": "RXF6f-MOW7gkinV7tbrfr",
 			"fillStyle": "solid",
@@ -64450,7 +64450,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64562,8 +64562,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1163025067,
+			"version": 47,
+			"versionNonce": 355771442,
 			"isDeleted": false,
 			"id": "YC5t8c5QsKyAEpuA8l8mX",
 			"fillStyle": "solid",
@@ -64583,7 +64583,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64710,8 +64710,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 865483141,
+			"version": 36,
+			"versionNonce": 16543726,
 			"isDeleted": false,
 			"id": "6wRXKBKqdour2BYEL1ela",
 			"fillStyle": "solid",
@@ -64731,7 +64731,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64803,8 +64803,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 589811019,
+			"version": 48,
+			"versionNonce": 1865764338,
 			"isDeleted": false,
 			"id": "PEELtOqLPYA35CQWP199Z",
 			"fillStyle": "solid",
@@ -64824,7 +64824,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928031276,
+			"updated": 1708183323861,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64956,8 +64956,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 270,
-			"versionNonce": 2068286917,
+			"version": 322,
+			"versionNonce": 1370739570,
 			"isDeleted": false,
 			"id": "SFrNhNJma5feRxAnD3Fky",
 			"fillStyle": "solid",
@@ -64966,18 +64966,18 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5786.55144793155,
-			"y": -2169.3059348767933,
+			"x": 6324.937760597321,
+			"y": -2049.01250055043,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 306.6668701171875,
-			"height": 546.6668701171875,
+			"width": 239.1851677915915,
+			"height": 426.3734357908242,
 			"seed": 906207915,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183328574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64986,44 +64986,44 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					0
 				],
 				[
-					-233.3331298828125,
-					186.6668701171875
+					-181.98843520668194,
+					145.5910337919752
 				],
 				[
-					-260,
-					226.6668701171875
+					-202.78729033250204,
+					176.78907845851398
 				],
 				[
-					-226.666259765625,
-					320
+					-176.78860241413125,
+					249.58435733231022
 				],
 				[
-					-106.666259765625,
-					340
+					-83.19446841451492,
+					265.1833796655796
 				],
 				[
 					0,
-					353.33343505859375
+					275.5828072284896
 				],
 				[
-					26.6668701171875,
-					406.6668701171875
+					20.798855125820094,
+					317.18027945793847
 				],
 				[
-					6.6668701171875,
-					460
+					5.199832792550706,
+					358.7775136651959
 				],
 				[
-					-73.3331298828125,
-					540
+					-57.196256540526846,
+					421.17360299827345
 				],
 				[
-					-280,
-					546.6668701171875
+					-218.38631266577144,
+					426.3734357908242
 				],
 				[
-					-280,
-					546.6668701171875
+					-218.38631266577144,
+					426.3734357908242
 				]
 			],
 			"lastCommittedPoint": null,
@@ -65044,8 +65044,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 265,
-			"versionNonce": 83594533,
+			"version": 317,
+			"versionNonce": 851104942,
 			"isDeleted": false,
 			"id": "gw1Vwg232r64E5EO-wiMr",
 			"fillStyle": "solid",
@@ -65054,18 +65054,18 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6019.885188165925,
-			"y": -1895.9724998181996,
+			"x": 6506.926671848386,
+			"y": -1835.825782655018,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 33.333740234375,
-			"height": 220,
+			"width": 25.9986879183708,
+			"height": 171.58924566596326,
 			"seed": 2121274699,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183328574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65074,24 +65074,24 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					0
 				],
 				[
-					-13.333740234375,
-					93.33343505859375
+					-10.399665585101411,
+					72.7955168959876
 				],
 				[
-					-26.6668701171875,
-					160
+					-20.798855125820094,
+					124.79217866615511
 				],
 				[
-					-33.333740234375,
-					220
+					-25.9986879183708,
+					171.58924566596326
 				],
 				[
-					-13.333740234375,
-					166.66656494140625
+					-10.399665585101411,
+					129.99177343651445
 				],
 				[
-					-13.333740234375,
-					166.66656494140625
+					-10.399665585101411,
+					129.99177343651445
 				]
 			],
 			"lastCommittedPoint": null,
@@ -65107,8 +65107,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 1790484613,
+			"version": 314,
+			"versionNonce": 176985394,
 			"isDeleted": false,
 			"id": "cAnkWwJmPNr2TemHIkHLC",
 			"fillStyle": "solid",
@@ -65117,18 +65117,18 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6046.55144793155,
-			"y": -2095.9724998181996,
+			"x": 6527.725050929823,
+			"y": -1991.8160059877118,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 13.333740234375,
-			"height": 26.6668701171875,
+			"width": 10.399665585101411,
+			"height": 20.798855125820094,
 			"seed": 1911895019,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183328574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65137,12 +65137,12 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					0
 				],
 				[
-					6.6668701171875,
-					-13.33343505859375
+					5.199832792550706,
+					-10.399427562910047
 				],
 				[
-					13.333740234375,
-					13.33343505859375
+					10.399665585101411,
+					10.399427562910047
 				]
 			],
 			"lastCommittedPoint": null,
@@ -65155,8 +65155,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 270,
-			"versionNonce": 1916553189,
+			"version": 322,
+			"versionNonce": 572002030,
 			"isDeleted": false,
 			"id": "HsKK4JsZ-vczhSWJ4qkCB",
 			"fillStyle": "solid",
@@ -65165,18 +65165,18 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6379.885188165925,
-			"y": -2222.639064759606,
+			"x": 6787.709073847235,
+			"y": -2090.6097347576874,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 180,
-			"height": 566.6665649414062,
+			"width": 140.39120099942448,
+			"height": 441.9722201019022,
 			"seed": 10321547,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183328574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65185,44 +65185,44 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					0
 				],
 				[
-					-20,
-					380
+					-15.599022333269389,
+					296.38142433211834
 				],
 				[
-					-40,
-					480
+					-31.198044666538777,
+					374.37653599846533
 				],
 				[
-					-73.333740234375,
-					546.6665649414062
+					-57.196732584909576,
+					426.3731977686328
 				],
 				[
-					-106.6668701171875,
-					566.6665649414062
+					-83.19494445889764,
+					441.9722201019022
 				],
 				[
-					-140,
-					533.3331298828125
+					-109.19315633288572,
+					415.97377020572276
 				],
 				[
-					-180,
-					360
+					-140.39120099942448,
+					280.78240199884897
 				],
 				[
-					-166.6668701171875,
-					300
+					-129.9920114587058,
+					233.98533499904082
 				],
 				[
-					-113.333740234375,
-					260
+					-88.39477725144835,
+					202.78729033250204
 				],
 				[
-					-40,
-					300
+					-31.198044666538777,
+					233.98533499904082
 				],
 				[
-					-40,
-					300
+					-31.198044666538777,
+					233.98533499904082
 				]
 			],
 			"lastCommittedPoint": null,
@@ -65243,8 +65243,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 271,
-			"versionNonce": 1301545797,
+			"version": 323,
+			"versionNonce": 912727794,
 			"isDeleted": false,
 			"id": "-8uMN3A-8jscvBJAevc5t",
 			"fillStyle": "solid",
@@ -65253,18 +65253,18 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6706.55144793155,
-			"y": -1729.3059348767933,
+			"x": 7042.492787927713,
+			"y": -1705.8340092185035,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 240,
-			"height": 213.3331298828125,
+			"width": 187.18826799923266,
+			"height": 166.38941287341257,
 			"seed": 891516203,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183328574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65273,48 +65273,48 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					0
 				],
 				[
-					-53.3331298828125,
-					-113.3331298828125
+					-41.59723420725746,
+					-88.39430120706562
 				],
 				[
-					-33.3331298828125,
-					-166.66656494140625
+					-25.99821187398807,
+					-129.99177343651445
 				],
 				[
-					-40,
-					-193.3331298828125
+					-31.198044666538777,
+					-150.79039054014316
 				],
 				[
-					-80,
-					-180
+					-62.396089333077555,
+					-140.39120099942448
 				],
 				[
-					-113.3331298828125,
-					-166.66656494140625
+					-88.39430120706562,
+					-129.99177343651445
 				],
 				[
-					-220,
-					-40
+					-171.58924566596326,
+					-31.198044666538777
 				],
 				[
-					-240,
+					-187.18826799923266,
 					0
 				],
 				[
-					-206.666259765625,
-					20
+					-161.18958008086184,
+					15.599022333269389
 				],
 				[
-					-13.3331298828125,
-					-86.66656494140625
+					-10.399189540718682,
+					-67.5956841034369
 				],
 				[
-					-20,
-					-93.3331298828125
+					-15.599022333269389,
+					-72.79527887379624
 				],
 				[
-					-20,
-					-93.3331298828125
+					-15.599022333269389,
+					-72.79527887379624
 				]
 			],
 			"lastCommittedPoint": null,
@@ -65336,8 +65336,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 272,
-			"versionNonce": 287134373,
+			"version": 324,
+			"versionNonce": 508821806,
 			"isDeleted": false,
 			"id": "vFvaiS-jmNDIt0Sr1lbvx",
 			"fillStyle": "solid",
@@ -65346,18 +65346,18 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7499.885188165925,
-			"y": -1782.6390647596058,
+			"x": 7661.254324510321,
+			"y": -1747.4312434257608,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 126.666259765625,
-			"height": 413.33343505859375,
+			"width": 98.7934907477843,
+			"height": 322.3798742282978,
 			"seed": 1592891339,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183328574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65366,52 +65366,52 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					0
 				],
 				[
-					-6.6668701171875,
-					-126.6668701171875
+					-5.199832792550706,
+					-98.79396679216703
 				],
 				[
 					0,
-					-166.6668701171875
+					-129.9920114587058
 				],
 				[
-					13.3331298828125,
-					-253.33343505859375
+					10.399189540718682,
+					-197.5876955621427
 				],
 				[
-					40,
-					-313.33343505859375
+					31.198044666538777,
+					-244.38476256195085
 				],
 				[
-					66.666259765625,
-					-366.6668701171875
+					51.99642374797614,
+					-285.98223479139966
 				],
 				[
-					86.666259765625,
-					-400
+					67.59544608124553,
+					-311.9804466653878
 				],
 				[
-					86.666259765625,
-					-413.33343505859375
+					67.59544608124553,
+					-322.3798742282978
 				],
 				[
-					66.666259765625,
-					-400
+					51.99642374797614,
+					-311.9804466653878
 				],
 				[
-					-40,
-					-320
+					-31.198044666538777,
+					-249.58435733231022
 				],
 				[
-					-20,
-					-333.33343505859375
+					-15.599022333269389,
+					-259.98378489522025
 				],
 				[
-					-6.6668701171875,
-					-340
+					-5.199832792550706,
+					-265.1833796655796
 				],
 				[
-					-6.6668701171875,
-					-340
+					-5.199832792550706,
+					-265.1833796655796
 				]
 			],
 			"lastCommittedPoint": null,
@@ -65434,8 +65434,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 277,
-			"versionNonce": 1770370565,
+			"version": 329,
+			"versionNonce": 566915250,
 			"isDeleted": false,
 			"id": "AoHYuGhHXYAqpIuHA-ypp",
 			"fillStyle": "solid",
@@ -65444,18 +65444,18 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7759.885188165925,
-			"y": -2175.9724998181996,
+			"x": 7864.041614842823,
+			"y": -2054.2120953207896,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 266.6668701171875,
-			"height": 393.33343505859375,
+			"width": 207.98712312505273,
+			"height": 306.78085189502843,
 			"seed": 2082629227,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183328574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65464,72 +65464,72 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					0
 				],
 				[
-					-20,
-					33.33343505859375
+					-15.599022333269389,
+					25.998449896179434
 				],
 				[
-					-86.6668701171875,
-					220
+					-67.59592212562826,
+					171.58924566596326
 				],
 				[
-					-53.333740234375,
-					213.33343505859375
+					-41.59771025164019,
+					166.38965089560392
 				],
 				[
-					6.666259765625,
-					200
+					5.199356748167976,
+					155.9902233326939
 				],
 				[
-					73.3331298828125,
-					180
+					57.196256540526846,
+					140.39120099942448
 				],
 				[
-					120,
-					173.33343505859375
+					93.59413399961633,
+					135.19160622906514
 				],
 				[
-					133.3331298828125,
-					160
+					103.99332354033501,
+					124.79217866615511
 				],
 				[
-					146.666259765625,
-					126.66656494140625
+					114.39251308105369,
+					98.79372876997567
 				],
 				[
-					153.3331298828125,
-					93.33343505859375
+					119.5923458736044,
+					72.7955168959876
 				],
 				[
-					166.666259765625,
-					60
+					129.99153541432307,
+					46.797066999808166
 				],
 				[
-					180,
-					26.66656494140625
+					140.39120099942448,
+					20.79861710362873
 				],
 				[
-					73.3331298828125,
-					353.33343505859375
+					57.196256540526846,
+					275.5828072284896
 				],
 				[
-					73.3331298828125,
-					386.66656494140625
+					57.196256540526846,
+					301.5810191024777
 				],
 				[
-					73.3331298828125,
-					393.33343505859375
+					57.196256540526846,
+					306.78085189502843
 				],
 				[
-					80,
-					386.66656494140625
+					62.396089333077555,
+					301.5810191024777
 				],
 				[
-					80,
-					380
+					62.396089333077555,
+					296.38142433211834
 				],
 				[
-					80,
-					380
+					62.396089333077555,
+					296.38142433211834
 				]
 			],
 			"lastCommittedPoint": null,
@@ -65557,8 +65557,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 270,
-			"versionNonce": 298495333,
+			"version": 322,
+			"versionNonce": 181906286,
 			"isDeleted": false,
 			"id": "rOlMfZ-2f8NbzYIKctpI9",
 			"fillStyle": "solid",
@@ -65567,18 +65567,18 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8159.885188165925,
-			"y": -1809.3059348767933,
+			"x": 8176.022061508211,
+			"y": -1768.230098551581,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 146.6668701171875,
-			"height": 380,
+			"width": 114.39298912543642,
+			"height": 296.38142433211834,
 			"seed": 1669357835,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183328574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65587,44 +65587,44 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					0
 				],
 				[
-					13.3331298828125,
-					-153.3331298828125
+					10.399189540718682,
+					-119.59234587360437
 				],
 				[
-					20,
-					-200
+					15.599022333269389,
+					-155.99022333269386
 				],
 				[
-					46.666259765625,
-					-313.3331298828125
+					36.39740141470675,
+					-244.38452453975947
 				],
 				[
-					66.666259765625,
-					-360
+					51.99642374797614,
+					-280.78240199884897
 				],
 				[
-					73.3331298828125,
-					-380
+					57.196256540526846,
+					-296.38142433211834
 				],
 				[
-					66.666259765625,
-					-373.3331298828125
+					51.99642374797614,
+					-291.18159153956765
 				],
 				[
-					33.3331298828125,
-					-340
+					25.99821187398807,
+					-265.18337966557954
 				],
 				[
-					-73.333740234375,
-					-253.3331298828125
+					-57.196732584909576,
+					-197.58745753995132
 				],
 				[
-					-60,
-					-260
+					-46.797066999808166,
+					-202.787290332502
 				],
 				[
-					-60,
-					-260
+					-46.797066999808166,
+					-202.787290332502
 				]
 			],
 			"lastCommittedPoint": null,
@@ -65645,8 +65645,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 370,
-			"versionNonce": 154777797,
+			"version": 371,
+			"versionNonce": 1850915630,
 			"isDeleted": false,
 			"id": "88GEFWVKPfalDXgRHn4L8",
 			"fillStyle": "solid",
@@ -65666,7 +65666,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65718,8 +65718,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 382,
-			"versionNonce": 158357541,
+			"version": 383,
+			"versionNonce": 1638684338,
 			"isDeleted": false,
 			"id": "PchVCicw1Phq06FxDuQ6L",
 			"fillStyle": "solid",
@@ -65739,7 +65739,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65851,8 +65851,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 1012665221,
+			"version": 374,
+			"versionNonce": 518989166,
 			"isDeleted": false,
 			"id": "RQRuqprxxm_3ECs5WF8on",
 			"fillStyle": "solid",
@@ -65872,7 +65872,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65939,8 +65939,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 375,
-			"versionNonce": 842683109,
+			"version": 376,
+			"versionNonce": 1729278066,
 			"isDeleted": false,
 			"id": "pzSjkrYyLy0NZCeJ7StcX",
 			"fillStyle": "solid",
@@ -65960,7 +65960,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66037,8 +66037,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 386,
-			"versionNonce": 395882053,
+			"version": 387,
+			"versionNonce": 1292126126,
 			"isDeleted": false,
 			"id": "m7u9cRTfGxWdex5gMBba-",
 			"fillStyle": "solid",
@@ -66058,7 +66058,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66195,8 +66195,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 378,
-			"versionNonce": 726965669,
+			"version": 379,
+			"versionNonce": 705155634,
 			"isDeleted": false,
 			"id": "MIxPoNG2c4Ckhmam4Zs3Y",
 			"fillStyle": "solid",
@@ -66216,7 +66216,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66313,8 +66313,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 375,
-			"versionNonce": 1956356357,
+			"version": 376,
+			"versionNonce": 951788014,
 			"isDeleted": false,
 			"id": "7y20Ef1HGrLWepOqDgQtN",
 			"fillStyle": "solid",
@@ -66334,7 +66334,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66416,8 +66416,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 380,
-			"versionNonce": 954939493,
+			"version": 381,
+			"versionNonce": 494058482,
 			"isDeleted": false,
 			"id": "utWs93DrB_h-8FyYfUDAD",
 			"fillStyle": "solid",
@@ -66437,7 +66437,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66544,8 +66544,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 378,
-			"versionNonce": 839967685,
+			"version": 379,
+			"versionNonce": 891073582,
 			"isDeleted": false,
 			"id": "S8dreL36y_0vQHVPDfQnb",
 			"fillStyle": "solid",
@@ -66565,7 +66565,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66672,8 +66672,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 378,
-			"versionNonce": 69870373,
+			"version": 379,
+			"versionNonce": 1062890930,
 			"isDeleted": false,
 			"id": "bXeQ8YHcwI8BCtzTIKJYx",
 			"fillStyle": "solid",
@@ -66693,7 +66693,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66800,8 +66800,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 375,
-			"versionNonce": 1940158085,
+			"version": 376,
+			"versionNonce": 1276247662,
 			"isDeleted": false,
 			"id": "wldwnaHHoF1c0Wbq_dzwc",
 			"fillStyle": "solid",
@@ -66821,7 +66821,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -66913,8 +66913,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 389,
-			"versionNonce": 1530748389,
+			"version": 390,
+			"versionNonce": 887482226,
 			"isDeleted": false,
 			"id": "knuaJqSa8DFBR8QDXfXCb",
 			"fillStyle": "solid",
@@ -66934,7 +66934,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67096,8 +67096,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 1644321093,
+			"version": 374,
+			"versionNonce": 1650720942,
 			"isDeleted": false,
 			"id": "oIPk4KcT7gmiFJ9hmOS11",
 			"fillStyle": "solid",
@@ -67117,7 +67117,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67199,8 +67199,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 375,
-			"versionNonce": 1901127845,
+			"version": 376,
+			"versionNonce": 1717315890,
 			"isDeleted": false,
 			"id": "ZRyi7BOs-76u9-NDUpe4o",
 			"fillStyle": "solid",
@@ -67220,7 +67220,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67312,8 +67312,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 379,
-			"versionNonce": 1792445445,
+			"version": 380,
+			"versionNonce": 1539029742,
 			"isDeleted": false,
 			"id": "5pB4VZIKHNx6ciQtd6Fiw",
 			"fillStyle": "solid",
@@ -67333,7 +67333,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67445,8 +67445,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 374,
-			"versionNonce": 512803685,
+			"version": 375,
+			"versionNonce": 455357170,
 			"isDeleted": false,
 			"id": "1gXcoRqDAm3WG5l6HuaGj",
 			"fillStyle": "solid",
@@ -67466,7 +67466,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67553,8 +67553,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 375,
-			"versionNonce": 13438661,
+			"version": 376,
+			"versionNonce": 1050815790,
 			"isDeleted": false,
 			"id": "SP2X_qcVJNyL7WL4ULFp8",
 			"fillStyle": "solid",
@@ -67574,7 +67574,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67666,8 +67666,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 366,
-			"versionNonce": 539553317,
+			"version": 367,
+			"versionNonce": 365233330,
 			"isDeleted": false,
 			"id": "OspWwO2OE2aE841tIWL_L",
 			"fillStyle": "solid",
@@ -67687,7 +67687,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67734,8 +67734,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 369,
-			"versionNonce": 1536287109,
+			"version": 370,
+			"versionNonce": 1484805998,
 			"isDeleted": false,
 			"id": "BE5pp0IWbiUYk1bX_G9ao",
 			"fillStyle": "solid",
@@ -67755,7 +67755,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67817,8 +67817,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 366,
-			"versionNonce": 1480943845,
+			"version": 367,
+			"versionNonce": 803577458,
 			"isDeleted": false,
 			"id": "WTpCC23lBU8tmAw6JrIOx",
 			"fillStyle": "solid",
@@ -67838,7 +67838,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67885,8 +67885,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 364,
-			"versionNonce": 936444997,
+			"version": 365,
+			"versionNonce": 1637824942,
 			"isDeleted": false,
 			"id": "AFyoGmG4nkDdGwXUFOSl1",
 			"fillStyle": "solid",
@@ -67906,7 +67906,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67943,8 +67943,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 379,
-			"versionNonce": 236073893,
+			"version": 380,
+			"versionNonce": 1984757810,
 			"isDeleted": false,
 			"id": "NzOh8i-WfLi-p-70Mqll7",
 			"fillStyle": "solid",
@@ -67964,7 +67964,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68081,8 +68081,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 375,
-			"versionNonce": 389445381,
+			"version": 376,
+			"versionNonce": 556258286,
 			"isDeleted": false,
 			"id": "RJc545r4fwvaPFmhgnSfd",
 			"fillStyle": "solid",
@@ -68102,7 +68102,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68199,8 +68199,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 371,
-			"versionNonce": 767250021,
+			"version": 372,
+			"versionNonce": 1155672562,
 			"isDeleted": false,
 			"id": "9oU6TVDyl9nZlS82H59xM",
 			"fillStyle": "solid",
@@ -68220,7 +68220,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68297,8 +68297,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 366,
-			"versionNonce": 7223749,
+			"version": 367,
+			"versionNonce": 287516206,
 			"isDeleted": false,
 			"id": "HidTVhhPCFBk3Y0Ru40Du",
 			"fillStyle": "solid",
@@ -68318,7 +68318,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68370,8 +68370,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 370,
-			"versionNonce": 141343013,
+			"version": 371,
+			"versionNonce": 1655446450,
 			"isDeleted": false,
 			"id": "gzIYfdT19ke52hWEP0M6d",
 			"fillStyle": "solid",
@@ -68391,7 +68391,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68463,8 +68463,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 371,
-			"versionNonce": 1059343493,
+			"version": 372,
+			"versionNonce": 41562222,
 			"isDeleted": false,
 			"id": "Qrih-Q4C2Jh0huM9RTEyR",
 			"fillStyle": "solid",
@@ -68484,7 +68484,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68566,8 +68566,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 340947941,
+			"version": 374,
+			"versionNonce": 500290930,
 			"isDeleted": false,
 			"id": "MGiz3J3A3h9tWmCEDTELd",
 			"fillStyle": "solid",
@@ -68587,7 +68587,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68679,8 +68679,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 363,
-			"versionNonce": 604286789,
+			"version": 364,
+			"versionNonce": 1089860270,
 			"isDeleted": false,
 			"id": "1ZnyUsMwTpudtMHygrP_f",
 			"fillStyle": "solid",
@@ -68700,7 +68700,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68742,8 +68742,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 366,
-			"versionNonce": 748191397,
+			"version": 367,
+			"versionNonce": 1738168114,
 			"isDeleted": false,
 			"id": "CoyauzbQoxHa3lmtzCdh2",
 			"fillStyle": "solid",
@@ -68763,7 +68763,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68820,8 +68820,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 369,
-			"versionNonce": 1153131013,
+			"version": 370,
+			"versionNonce": 926903534,
 			"isDeleted": false,
 			"id": "__a6x0r_nZBYtQjJQ7S-q",
 			"fillStyle": "solid",
@@ -68841,7 +68841,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68913,8 +68913,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 363,
-			"versionNonce": 1365956965,
+			"version": 364,
+			"versionNonce": 1886167282,
 			"isDeleted": false,
 			"id": "DgLNuGKaEeEh9qXhjNJwu",
 			"fillStyle": "solid",
@@ -68934,7 +68934,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68976,8 +68976,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 362,
-			"versionNonce": 1005872325,
+			"version": 363,
+			"versionNonce": 316645166,
 			"isDeleted": false,
 			"id": "0t9LPoMH6AIk4saTMmqkc",
 			"fillStyle": "solid",
@@ -68997,7 +68997,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69034,8 +69034,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 371,
-			"versionNonce": 1744143397,
+			"version": 372,
+			"versionNonce": 1137685170,
 			"isDeleted": false,
 			"id": "S7BVdISA1pslh5AuOR2FL",
 			"fillStyle": "solid",
@@ -69055,7 +69055,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69137,8 +69137,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 367,
-			"versionNonce": 1767618437,
+			"version": 368,
+			"versionNonce": 1748994414,
 			"isDeleted": false,
 			"id": "A2shTcI_RYcXkvySnIxvz",
 			"fillStyle": "solid",
@@ -69158,7 +69158,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69220,8 +69220,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 368,
-			"versionNonce": 2053406437,
+			"version": 369,
+			"versionNonce": 1684704370,
 			"isDeleted": false,
 			"id": "EAdwzOjiwxF5Jv4RGefKz",
 			"fillStyle": "solid",
@@ -69241,7 +69241,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69308,8 +69308,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 832395845,
+			"version": 374,
+			"versionNonce": 1453861806,
 			"isDeleted": false,
 			"id": "izyMg1Jbi3PsfT83F9Zsw",
 			"fillStyle": "solid",
@@ -69329,7 +69329,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69421,8 +69421,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 360,
-			"versionNonce": 2011416997,
+			"version": 361,
+			"versionNonce": 1745104434,
 			"isDeleted": false,
 			"id": "FeNjbEzjTtwSj-zq6Yubw",
 			"fillStyle": "solid",
@@ -69442,7 +69442,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69469,8 +69469,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 361,
-			"versionNonce": 1046826245,
+			"version": 362,
+			"versionNonce": 742557166,
 			"isDeleted": false,
 			"id": "r_6d93r3iE_fP7X7GNIIS",
 			"fillStyle": "solid",
@@ -69490,7 +69490,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69522,8 +69522,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 374,
-			"versionNonce": 1956602981,
+			"version": 375,
+			"versionNonce": 327391218,
 			"isDeleted": false,
 			"id": "GPrUqFA_EI8lA1Fzb_Tz2",
 			"fillStyle": "solid",
@@ -69543,7 +69543,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69640,8 +69640,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 383,
-			"versionNonce": 1046450117,
+			"version": 384,
+			"versionNonce": 169318446,
 			"isDeleted": false,
 			"id": "mghoGGg1Ndotdg54NhX9Q",
 			"fillStyle": "solid",
@@ -69661,7 +69661,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69803,8 +69803,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 371,
-			"versionNonce": 1774407461,
+			"version": 372,
+			"versionNonce": 1995426226,
 			"isDeleted": false,
 			"id": "ppKULYA9OR2KXe65Y_lca",
 			"fillStyle": "solid",
@@ -69824,7 +69824,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69906,8 +69906,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 624435845,
+			"version": 374,
+			"versionNonce": 135291502,
 			"isDeleted": false,
 			"id": "HYiPKDvOrtbBQh_Hpw6I5",
 			"fillStyle": "solid",
@@ -69927,7 +69927,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70019,8 +70019,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 376,
-			"versionNonce": 1971030501,
+			"version": 377,
+			"versionNonce": 158319474,
 			"isDeleted": false,
 			"id": "Vc-x3LOkpyklUwSZRMICC",
 			"fillStyle": "solid",
@@ -70040,7 +70040,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70147,8 +70147,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 414,
-			"versionNonce": 1805321541,
+			"version": 415,
+			"versionNonce": 1492509870,
 			"isDeleted": false,
 			"id": "STDoG71sGf5iexojQhXPp",
 			"fillStyle": "solid",
@@ -70168,7 +70168,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70250,8 +70250,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 414,
-			"versionNonce": 452203685,
+			"version": 415,
+			"versionNonce": 1162511666,
 			"isDeleted": false,
 			"id": "21gqGOwUIdnk2jq_Bu9xD",
 			"fillStyle": "solid",
@@ -70271,7 +70271,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70353,8 +70353,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 413,
-			"versionNonce": 1328822277,
+			"version": 414,
+			"versionNonce": 1852907246,
 			"isDeleted": false,
 			"id": "EPddN-INc9pbrXNF1NOCW",
 			"fillStyle": "solid",
@@ -70374,7 +70374,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70451,8 +70451,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 407,
-			"versionNonce": 39382885,
+			"version": 408,
+			"versionNonce": 1139216114,
 			"isDeleted": false,
 			"id": "8Vybhh9l5TQyw1HgmtRkt",
 			"fillStyle": "solid",
@@ -70472,7 +70472,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70519,8 +70519,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 411,
-			"versionNonce": 313506501,
+			"version": 412,
+			"versionNonce": 487264558,
 			"isDeleted": false,
 			"id": "B1PQfeiAusfKh6Dp_KK1e",
 			"fillStyle": "solid",
@@ -70540,7 +70540,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70607,8 +70607,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 423,
-			"versionNonce": 953555493,
+			"version": 424,
+			"versionNonce": 1506566322,
 			"isDeleted": false,
 			"id": "Z1Vie_B2Y0Ef_KTHg4sYx",
 			"fillStyle": "solid",
@@ -70628,7 +70628,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70760,8 +70760,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 423,
-			"versionNonce": 1035570565,
+			"version": 424,
+			"versionNonce": 1076673390,
 			"isDeleted": false,
 			"id": "jW5iCjQm7rPI9ZHZHFtS2",
 			"fillStyle": "solid",
@@ -70781,7 +70781,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70913,8 +70913,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 422,
-			"versionNonce": 1888982245,
+			"version": 423,
+			"versionNonce": 849443442,
 			"isDeleted": false,
 			"id": "lZtVn8zsMXoRvn0fOIeiE",
 			"fillStyle": "solid",
@@ -70934,7 +70934,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71061,8 +71061,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 411,
-			"versionNonce": 1560129605,
+			"version": 412,
+			"versionNonce": 1579097518,
 			"isDeleted": false,
 			"id": "FmO5kJ-u8OOWerJlJ2nTD",
 			"fillStyle": "solid",
@@ -71082,7 +71082,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71154,8 +71154,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 409,
-			"versionNonce": 1086939045,
+			"version": 410,
+			"versionNonce": 1831689266,
 			"isDeleted": false,
 			"id": "2IEc9bLcIxbE-ZOnuIJBR",
 			"fillStyle": "solid",
@@ -71175,7 +71175,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71237,8 +71237,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 413,
-			"versionNonce": 1109926661,
+			"version": 414,
+			"versionNonce": 1275803630,
 			"isDeleted": false,
 			"id": "DO7NY1q8sKJvXuGRBm-3u",
 			"fillStyle": "solid",
@@ -71258,7 +71258,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71340,8 +71340,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 402,
-			"versionNonce": 1704426085,
+			"version": 403,
+			"versionNonce": 928450034,
 			"isDeleted": false,
 			"id": "YkN7_2lEt5hzqDuGd0cEJ",
 			"fillStyle": "solid",
@@ -71361,7 +71361,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71388,8 +71388,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 402,
-			"versionNonce": 1139074501,
+			"version": 403,
+			"versionNonce": 1375341102,
 			"isDeleted": false,
 			"id": "SVEkpv4y3auCIqZThUjLq",
 			"fillStyle": "solid",
@@ -71409,7 +71409,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71436,8 +71436,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 413,
-			"versionNonce": 3007781,
+			"version": 414,
+			"versionNonce": 1780840370,
 			"isDeleted": false,
 			"id": "jbrp3vQBdv3rYoxboeKr6",
 			"fillStyle": "solid",
@@ -71457,7 +71457,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71539,8 +71539,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 421,
-			"versionNonce": 2111830149,
+			"version": 422,
+			"versionNonce": 1322554478,
 			"isDeleted": false,
 			"id": "4zIfqoEuHlboz8-gV4gcU",
 			"fillStyle": "solid",
@@ -71560,7 +71560,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71682,8 +71682,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 417,
-			"versionNonce": 1454940133,
+			"version": 418,
+			"versionNonce": 633319794,
 			"isDeleted": false,
 			"id": "_i_PXV1x5cktIxONxGOT_",
 			"fillStyle": "solid",
@@ -71703,7 +71703,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71805,8 +71805,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 413,
-			"versionNonce": 281369413,
+			"version": 414,
+			"versionNonce": 1550046894,
 			"isDeleted": false,
 			"id": "zJmvp1s9z2z_nxgnygAk2",
 			"fillStyle": "solid",
@@ -71826,7 +71826,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71908,8 +71908,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 409,
-			"versionNonce": 342076069,
+			"version": 410,
+			"versionNonce": 1835840306,
 			"isDeleted": false,
 			"id": "xquPByPfwWi2-jmoC_XjS",
 			"fillStyle": "solid",
@@ -71929,7 +71929,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71991,8 +71991,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 416,
-			"versionNonce": 1648430597,
+			"version": 417,
+			"versionNonce": 1934676206,
 			"isDeleted": false,
 			"id": "k6HAI2jqZ1DghrbgZOz4G",
 			"fillStyle": "solid",
@@ -72012,7 +72012,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72109,8 +72109,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 416,
-			"versionNonce": 156960101,
+			"version": 417,
+			"versionNonce": 1133739250,
 			"isDeleted": false,
 			"id": "sfU8FekHvECvOnhwHtYa1",
 			"fillStyle": "solid",
@@ -72130,7 +72130,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72227,8 +72227,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 413,
-			"versionNonce": 1560219845,
+			"version": 414,
+			"versionNonce": 254051118,
 			"isDeleted": false,
 			"id": "1YKcHcrhsUSfSz2j7s6C3",
 			"fillStyle": "solid",
@@ -72248,7 +72248,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323862,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72330,8 +72330,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 413,
-			"versionNonce": 1791668261,
+			"version": 414,
+			"versionNonce": 1169886898,
 			"isDeleted": false,
 			"id": "FYAUGlsDg9Nt80fDbHv8a",
 			"fillStyle": "solid",
@@ -72351,7 +72351,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72433,8 +72433,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 415,
-			"versionNonce": 816538501,
+			"version": 416,
+			"versionNonce": 1380445550,
 			"isDeleted": false,
 			"id": "vruhcPcnTbQt3q8VMp1ud",
 			"fillStyle": "solid",
@@ -72454,7 +72454,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72546,8 +72546,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 411,
-			"versionNonce": 316582629,
+			"version": 412,
+			"versionNonce": 1217030258,
 			"isDeleted": false,
 			"id": "dpiycVd5-_eBXSJfeAJNl",
 			"fillStyle": "solid",
@@ -72567,7 +72567,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72639,8 +72639,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 414,
-			"versionNonce": 301073989,
+			"version": 415,
+			"versionNonce": 704909230,
 			"isDeleted": false,
 			"id": "j7ofYwxh0gKxK2xq55xd1",
 			"fillStyle": "solid",
@@ -72660,7 +72660,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72747,8 +72747,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 362,
-			"versionNonce": 1086518693,
+			"version": 363,
+			"versionNonce": 1942522418,
 			"isDeleted": false,
 			"id": "tOb4-fLXMRoxhKvOHNKYc",
 			"fillStyle": "solid",
@@ -72768,7 +72768,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72815,8 +72815,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 365,
-			"versionNonce": 2055141637,
+			"version": 366,
+			"versionNonce": 1921116654,
 			"isDeleted": false,
 			"id": "g6fOC3S3PnvKBkh2uLln2",
 			"fillStyle": "solid",
@@ -72836,7 +72836,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72898,8 +72898,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 377,
-			"versionNonce": 1487114341,
+			"version": 378,
+			"versionNonce": 1583117298,
 			"isDeleted": false,
 			"id": "RlA4LK94QwhzUp_NqwKoe",
 			"fillStyle": "solid",
@@ -72919,7 +72919,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73041,8 +73041,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 365,
-			"versionNonce": 1761491909,
+			"version": 366,
+			"versionNonce": 449477678,
 			"isDeleted": false,
 			"id": "Icib9jXKWOQbNWJbDhTrv",
 			"fillStyle": "solid",
@@ -73062,7 +73062,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73124,8 +73124,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 359,
-			"versionNonce": 598506277,
+			"version": 360,
+			"versionNonce": 709698994,
 			"isDeleted": false,
 			"id": "omYn7Zm6BAgHmFWtVfWZa",
 			"fillStyle": "solid",
@@ -73145,7 +73145,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73177,8 +73177,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 365,
-			"versionNonce": 555470469,
+			"version": 366,
+			"versionNonce": 1220986478,
 			"isDeleted": false,
 			"id": "mqhIQaA8tpTPmYeUfON8a",
 			"fillStyle": "solid",
@@ -73198,7 +73198,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73260,8 +73260,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 388,
-			"versionNonce": 269071845,
+			"version": 389,
+			"versionNonce": 549560178,
 			"isDeleted": false,
 			"id": "IFhyQxWUPW004bTEFfGQC",
 			"fillStyle": "solid",
@@ -73281,7 +73281,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73458,8 +73458,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 378,
-			"versionNonce": 1803792709,
+			"version": 379,
+			"versionNonce": 2101332142,
 			"isDeleted": false,
 			"id": "1tKgnV71FCw2nBTksKajp",
 			"fillStyle": "solid",
@@ -73479,7 +73479,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73606,8 +73606,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 371,
-			"versionNonce": 1894203557,
+			"version": 372,
+			"versionNonce": 1308680498,
 			"isDeleted": false,
 			"id": "ve3s2b_giYOud43lhax4N",
 			"fillStyle": "solid",
@@ -73627,7 +73627,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73719,8 +73719,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 372,
-			"versionNonce": 1440867333,
+			"version": 373,
+			"versionNonce": 937329390,
 			"isDeleted": false,
 			"id": "xHJ7IQ4FkV07C4cCBzN-I",
 			"fillStyle": "solid",
@@ -73740,7 +73740,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73837,8 +73837,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 365,
-			"versionNonce": 1047599973,
+			"version": 366,
+			"versionNonce": 494004978,
 			"isDeleted": false,
 			"id": "IokPrNXKpNq8cAQUNAmfG",
 			"fillStyle": "solid",
@@ -73858,7 +73858,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73920,8 +73920,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1927440069,
+			"version": 181,
+			"versionNonce": 455865646,
 			"isDeleted": false,
 			"id": "36s8J33pVoZu2urn2FUrj",
 			"fillStyle": "solid",
@@ -73941,7 +73941,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74028,8 +74028,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1439909413,
+			"version": 181,
+			"versionNonce": 1973140658,
 			"isDeleted": false,
 			"id": "gxVsyrT5PypWPAVskaTFZ",
 			"fillStyle": "solid",
@@ -74049,7 +74049,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74136,8 +74136,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 439433605,
+			"version": 191,
+			"versionNonce": 277946222,
 			"isDeleted": false,
 			"id": "IA6mlw5kFVuN_aiYtaag6",
 			"fillStyle": "solid",
@@ -74157,7 +74157,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74294,8 +74294,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 960086245,
+			"version": 179,
+			"versionNonce": 1411733106,
 			"isDeleted": false,
 			"id": "YY9YRNbNrt2qeqrKuQCvs",
 			"fillStyle": "solid",
@@ -74315,7 +74315,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74392,8 +74392,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 679107653,
+			"version": 183,
+			"versionNonce": 1817641390,
 			"isDeleted": false,
 			"id": "kS1mTwGgqu6mOQsN0EfIu",
 			"fillStyle": "solid",
@@ -74413,7 +74413,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74510,8 +74510,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1339067301,
+			"version": 180,
+			"versionNonce": 1775614002,
 			"isDeleted": false,
 			"id": "hrceHwrRON0FnGWRUuPk7",
 			"fillStyle": "solid",
@@ -74531,7 +74531,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74613,8 +74613,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 1063898885,
+			"version": 182,
+			"versionNonce": 296131566,
 			"isDeleted": false,
 			"id": "bYFS4RiAKas-87KLThSRj",
 			"fillStyle": "solid",
@@ -74634,7 +74634,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74726,8 +74726,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 633579109,
+			"version": 181,
+			"versionNonce": 915661298,
 			"isDeleted": false,
 			"id": "fdZCTo17gQyHWo5mX274Z",
 			"fillStyle": "solid",
@@ -74747,7 +74747,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74834,8 +74834,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 95130053,
+			"version": 181,
+			"versionNonce": 378072622,
 			"isDeleted": false,
 			"id": "BSlCE0QHkmXuuHg_UryfU",
 			"fillStyle": "solid",
@@ -74855,7 +74855,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74942,8 +74942,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 742330661,
+			"version": 183,
+			"versionNonce": 627495858,
 			"isDeleted": false,
 			"id": "jnQtafuF3qzk0ivRrxAKT",
 			"fillStyle": "solid",
@@ -74963,7 +74963,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75060,8 +75060,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 1726719109,
+			"version": 177,
+			"versionNonce": 1743190126,
 			"isDeleted": false,
 			"id": "iAbIEjCxcqBNKX3Z-p5Rk",
 			"fillStyle": "solid",
@@ -75081,7 +75081,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75148,8 +75148,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 2037304293,
+			"version": 191,
+			"versionNonce": 678792562,
 			"isDeleted": false,
 			"id": "iV4498wnF2aoTbYCBw2X5",
 			"fillStyle": "solid",
@@ -75169,7 +75169,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75306,8 +75306,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 1406535493,
+			"version": 183,
+			"versionNonce": 1837742766,
 			"isDeleted": false,
 			"id": "B0iGomvfSfXj-XJmPNWic",
 			"fillStyle": "solid",
@@ -75327,7 +75327,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75424,8 +75424,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 142530213,
+			"version": 180,
+			"versionNonce": 1426526002,
 			"isDeleted": false,
 			"id": "ea2bdmn_6VT0_0--puMQu",
 			"fillStyle": "solid",
@@ -75445,7 +75445,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75527,8 +75527,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 35043845,
+			"version": 178,
+			"versionNonce": 773469422,
 			"isDeleted": false,
 			"id": "R4UWilmEf5cMyXMJ3_sSc",
 			"fillStyle": "solid",
@@ -75548,7 +75548,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75620,8 +75620,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 2040213861,
+			"version": 183,
+			"versionNonce": 2139248882,
 			"isDeleted": false,
 			"id": "JnguYam-yM9G-wC8gR3bW",
 			"fillStyle": "solid",
@@ -75641,7 +75641,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75738,8 +75738,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 744078533,
+			"version": 191,
+			"versionNonce": 1931568942,
 			"isDeleted": false,
 			"id": "m4btrOYN8DngBP5_U85zx",
 			"fillStyle": "solid",
@@ -75759,7 +75759,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75896,8 +75896,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 1374673957,
+			"version": 190,
+			"versionNonce": 1466854066,
 			"isDeleted": false,
 			"id": "Sq9bcrXuPh6ucSjY0h-k2",
 			"fillStyle": "solid",
@@ -75917,7 +75917,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76049,8 +76049,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 1380650885,
+			"version": 183,
+			"versionNonce": 1829261678,
 			"isDeleted": false,
 			"id": "2aTbEnConmJ7tTBleN2zj",
 			"fillStyle": "solid",
@@ -76070,7 +76070,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76167,8 +76167,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1000920805,
+			"version": 180,
+			"versionNonce": 57820274,
 			"isDeleted": false,
 			"id": "Seb3zAbciWi95U9vZnu4S",
 			"fillStyle": "solid",
@@ -76188,7 +76188,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76270,8 +76270,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 2023141957,
+			"version": 180,
+			"versionNonce": 1461187502,
 			"isDeleted": false,
 			"id": "DJeV2KRlPwLzCTNFnf3qz",
 			"fillStyle": "solid",
@@ -76291,7 +76291,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76373,8 +76373,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 1173496229,
+			"version": 184,
+			"versionNonce": 1028974130,
 			"isDeleted": false,
 			"id": "KFb-tPtsFmhMynPS1gI6F",
 			"fillStyle": "solid",
@@ -76394,7 +76394,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76496,8 +76496,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 172,
-			"versionNonce": 1760077061,
+			"version": 173,
+			"versionNonce": 460934638,
 			"isDeleted": false,
 			"id": "tQ26B9tiytHezilM7w05p",
 			"fillStyle": "solid",
@@ -76517,7 +76517,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76564,8 +76564,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 170,
-			"versionNonce": 620215397,
+			"version": 171,
+			"versionNonce": 1845317618,
 			"isDeleted": false,
 			"id": "ET7S80Koocc3-ZbPCAwGW",
 			"fillStyle": "solid",
@@ -76585,7 +76585,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76622,8 +76622,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 184,
-			"versionNonce": 1911351237,
+			"version": 185,
+			"versionNonce": 1999986734,
 			"isDeleted": false,
 			"id": "M8B_FFDtF9sKG4xFKFL4K",
 			"fillStyle": "solid",
@@ -76643,7 +76643,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76750,8 +76750,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 175,
-			"versionNonce": 1910875941,
+			"version": 176,
+			"versionNonce": 1232241074,
 			"isDeleted": false,
 			"id": "6HHrZKNoL8Vg0Q1cXfoYY",
 			"fillStyle": "solid",
@@ -76771,7 +76771,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76833,8 +76833,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 659520133,
+			"version": 178,
+			"versionNonce": 506800750,
 			"isDeleted": false,
 			"id": "qDQxwfbXAndYlJkgXXMuf",
 			"fillStyle": "solid",
@@ -76854,7 +76854,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -76926,8 +76926,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1793581541,
+			"version": 180,
+			"versionNonce": 1792768882,
 			"isDeleted": false,
 			"id": "ve9BIFbOCO8zgIMWmszZQ",
 			"fillStyle": "solid",
@@ -76947,7 +76947,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77029,8 +77029,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 565992773,
+			"version": 169,
+			"versionNonce": 1598139566,
 			"isDeleted": false,
 			"id": "hMDmKi7HXFI0j_8DS_AD3",
 			"fillStyle": "solid",
@@ -77050,7 +77050,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77077,8 +77077,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 169,
-			"versionNonce": 858418341,
+			"version": 170,
+			"versionNonce": 1887386930,
 			"isDeleted": false,
 			"id": "d_OHujrCelWCsLZz2IIWv",
 			"fillStyle": "solid",
@@ -77098,7 +77098,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77130,8 +77130,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 1054838789,
+			"version": 186,
+			"versionNonce": 1208215278,
 			"isDeleted": false,
 			"id": "DHVNbbUmXRssmeHHNaijH",
 			"fillStyle": "solid",
@@ -77151,7 +77151,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77263,8 +77263,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 316229477,
+			"version": 178,
+			"versionNonce": 398771954,
 			"isDeleted": false,
 			"id": "61AnZAEj_flbIIJpENuJO",
 			"fillStyle": "solid",
@@ -77284,7 +77284,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77356,8 +77356,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 1634013893,
+			"version": 187,
+			"versionNonce": 1225054510,
 			"isDeleted": false,
 			"id": "drf20bRztLLDobJ_CQoOt",
 			"fillStyle": "solid",
@@ -77377,7 +77377,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77494,8 +77494,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 924873253,
+			"version": 184,
+			"versionNonce": 1496520882,
 			"isDeleted": false,
 			"id": "biSesJ5-cigvN_OFiikWa",
 			"fillStyle": "solid",
@@ -77515,7 +77515,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77617,8 +77617,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 821618053,
+			"version": 180,
+			"versionNonce": 1504543598,
 			"isDeleted": false,
 			"id": "90ZPB0WdmNz6MK4QgUMrU",
 			"fillStyle": "solid",
@@ -77638,7 +77638,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77720,8 +77720,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 1915481317,
+			"version": 184,
+			"versionNonce": 74527346,
 			"isDeleted": false,
 			"id": "Df2suBKLwcHpeas6UaEWe",
 			"fillStyle": "solid",
@@ -77741,7 +77741,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77843,8 +77843,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 1514604613,
+			"version": 179,
+			"versionNonce": 474408366,
 			"isDeleted": false,
 			"id": "JLZfjouKD2ubrhUJZ3K0O",
 			"fillStyle": "solid",
@@ -77864,7 +77864,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -77941,8 +77941,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 2066200485,
+			"version": 188,
+			"versionNonce": 1548096562,
 			"isDeleted": false,
 			"id": "NWbDUPOMGN_AJzD0bIYPz",
 			"fillStyle": "solid",
@@ -77962,7 +77962,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78084,8 +78084,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 1325103877,
+			"version": 186,
+			"versionNonce": 33161198,
 			"isDeleted": false,
 			"id": "T5-SjrY6LHAKUXzqaJvNg",
 			"fillStyle": "solid",
@@ -78105,7 +78105,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78217,8 +78217,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 775934565,
+			"version": 179,
+			"versionNonce": 848870898,
 			"isDeleted": false,
 			"id": "74VAsFgUAyviFW6VZdROX",
 			"fillStyle": "solid",
@@ -78238,7 +78238,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78315,8 +78315,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 169,
-			"versionNonce": 96615877,
+			"version": 170,
+			"versionNonce": 1859113518,
 			"isDeleted": false,
 			"id": "51nAcyHChaOipy2pnbSaZ",
 			"fillStyle": "solid",
@@ -78336,7 +78336,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78368,8 +78368,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 1285569829,
+			"version": 177,
+			"versionNonce": 74461106,
 			"isDeleted": false,
 			"id": "K3rzryfGvQ1XaD9XpRA-1",
 			"fillStyle": "solid",
@@ -78389,7 +78389,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234241,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78456,8 +78456,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 169,
-			"versionNonce": 977752197,
+			"version": 170,
+			"versionNonce": 1571904622,
 			"isDeleted": false,
 			"id": "vXayW-P-h868rKLVlwzmQ",
 			"fillStyle": "solid",
@@ -78477,7 +78477,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78509,8 +78509,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 1014298597,
+			"version": 169,
+			"versionNonce": 368273778,
 			"isDeleted": false,
 			"id": "lU1S8nTL__5DTkC4C5WYj",
 			"fillStyle": "solid",
@@ -78530,7 +78530,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78557,8 +78557,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 758559557,
+			"version": 178,
+			"versionNonce": 73899694,
 			"isDeleted": false,
 			"id": "VkCkjG-4OutMGK3T6hPDN",
 			"fillStyle": "solid",
@@ -78578,7 +78578,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78650,8 +78650,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1223295653,
+			"version": 180,
+			"versionNonce": 241789746,
 			"isDeleted": false,
 			"id": "_GeuOqQRauhJ4sghi3gbo",
 			"fillStyle": "solid",
@@ -78671,7 +78671,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78753,8 +78753,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 169,
-			"versionNonce": 1681679877,
+			"version": 170,
+			"versionNonce": 2006685934,
 			"isDeleted": false,
 			"id": "rJMfebPAqx35QimKzvQyX",
 			"fillStyle": "solid",
@@ -78774,7 +78774,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78806,8 +78806,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 1647009125,
+			"version": 169,
+			"versionNonce": 339293426,
 			"isDeleted": false,
 			"id": "XLm5YGNz81EbNoxohWAFN",
 			"fillStyle": "solid",
@@ -78827,7 +78827,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78854,8 +78854,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 1778673861,
+			"version": 179,
+			"versionNonce": 1322666798,
 			"isDeleted": false,
 			"id": "kCNzqtrVR_sUAYgfxAb7x",
 			"fillStyle": "solid",
@@ -78875,7 +78875,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -78952,8 +78952,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1566902309,
+			"version": 180,
+			"versionNonce": 1760151218,
 			"isDeleted": false,
 			"id": "JJXXyfbB5B4hmU5xIDgV-",
 			"fillStyle": "solid",
@@ -78973,7 +78973,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79055,8 +79055,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 238730117,
+			"version": 180,
+			"versionNonce": 1216394606,
 			"isDeleted": false,
 			"id": "GPRUTWkcyCMfz_e_0qFrk",
 			"fillStyle": "solid",
@@ -79076,7 +79076,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79158,8 +79158,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 172,
-			"versionNonce": 885195493,
+			"version": 173,
+			"versionNonce": 86122610,
 			"isDeleted": false,
 			"id": "aTevqcqAGJRpau6rR0dwt",
 			"fillStyle": "solid",
@@ -79179,7 +79179,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323863,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79226,8 +79226,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 629890629,
+			"version": 169,
+			"versionNonce": 1843648430,
 			"isDeleted": false,
 			"id": "2Ey4NbOTgdm2XO8XEli0B",
 			"fillStyle": "solid",
@@ -79247,7 +79247,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79274,8 +79274,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 1198607781,
+			"version": 184,
+			"versionNonce": 883507762,
 			"isDeleted": false,
 			"id": "wWD_U2EKw9cSIgSEyYRzm",
 			"fillStyle": "solid",
@@ -79295,7 +79295,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79397,8 +79397,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 187,
-			"versionNonce": 1235374341,
+			"version": 188,
+			"versionNonce": 925413870,
 			"isDeleted": false,
 			"id": "qgmmH-gApzlrxOZPvmLsB",
 			"fillStyle": "solid",
@@ -79418,7 +79418,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79540,8 +79540,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 429647973,
+			"version": 179,
+			"versionNonce": 845556722,
 			"isDeleted": false,
 			"id": "pmcYWI2Bqd1htnDjC3xEP",
 			"fillStyle": "solid",
@@ -79561,7 +79561,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79638,8 +79638,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 422286277,
+			"version": 181,
+			"versionNonce": 794313774,
 			"isDeleted": false,
 			"id": "3KpkAJCdqw7NlG36xD3iC",
 			"fillStyle": "solid",
@@ -79659,7 +79659,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79746,8 +79746,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 342807333,
+			"version": 186,
+			"versionNonce": 1147133362,
 			"isDeleted": false,
 			"id": "oHBLXHfpC-d2Yw-SZ9Su2",
 			"fillStyle": "solid",
@@ -79767,7 +79767,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -79879,8 +79879,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 184,
-			"versionNonce": 2010326661,
+			"version": 185,
+			"versionNonce": 408653422,
 			"isDeleted": false,
 			"id": "2WjQQtj-VKA2QlQcuocUr",
 			"fillStyle": "solid",
@@ -79900,7 +79900,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80007,8 +80007,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1175850469,
+			"version": 181,
+			"versionNonce": 1472026482,
 			"isDeleted": false,
 			"id": "65jngTZW0GZnmvasuz-B1",
 			"fillStyle": "solid",
@@ -80028,7 +80028,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80115,8 +80115,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1313147205,
+			"version": 181,
+			"versionNonce": 251367598,
 			"isDeleted": false,
 			"id": "Wjz4m-f-d0m7NSobMtXI6",
 			"fillStyle": "solid",
@@ -80136,7 +80136,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80228,8 +80228,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 566073509,
+			"version": 180,
+			"versionNonce": 482711858,
 			"isDeleted": false,
 			"id": "5YPxBtHeT1iEOBRrbWpGB",
 			"fillStyle": "solid",
@@ -80249,7 +80249,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80336,8 +80336,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 1244478469,
+			"version": 177,
+			"versionNonce": 786516718,
 			"isDeleted": false,
 			"id": "s6HRwhgcmU3vEuaYalTUL",
 			"fillStyle": "solid",
@@ -80357,7 +80357,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80429,8 +80429,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 175,
-			"versionNonce": 1066496869,
+			"version": 176,
+			"versionNonce": 585081586,
 			"isDeleted": false,
 			"id": "9oEdT4b0sbjKk2e5yLuSa",
 			"fillStyle": "solid",
@@ -80450,7 +80450,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80517,8 +80517,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 506969797,
+			"version": 179,
+			"versionNonce": 915782958,
 			"isDeleted": false,
 			"id": "uOCc89gYWXTGBdF4iLSwT",
 			"fillStyle": "solid",
@@ -80538,7 +80538,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80620,8 +80620,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 482188837,
+			"version": 190,
+			"versionNonce": 1955755186,
 			"isDeleted": false,
 			"id": "uG0SoNf5O7LQlZs8RqQzK",
 			"fillStyle": "solid",
@@ -80641,7 +80641,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80778,8 +80778,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 1108382085,
+			"version": 179,
+			"versionNonce": 729933678,
 			"isDeleted": false,
 			"id": "9DVpTj8ObB2np8FPVxNZW",
 			"fillStyle": "solid",
@@ -80799,7 +80799,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80881,8 +80881,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 1533941989,
+			"version": 182,
+			"versionNonce": 864358002,
 			"isDeleted": false,
 			"id": "SNFxFCM8m-1LFUaDxaejV",
 			"fillStyle": "solid",
@@ -80902,7 +80902,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -80999,8 +80999,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 845395013,
+			"version": 182,
+			"versionNonce": 2112801198,
 			"isDeleted": false,
 			"id": "oaEVJn1vjiC80JrLht-fR",
 			"fillStyle": "solid",
@@ -81020,7 +81020,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81117,8 +81117,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 47113125,
+			"version": 181,
+			"versionNonce": 880701490,
 			"isDeleted": false,
 			"id": "OE7FIBBrkdzCEVZBR8qYf",
 			"fillStyle": "solid",
@@ -81138,7 +81138,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81230,8 +81230,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 819799813,
+			"version": 179,
+			"versionNonce": 755327982,
 			"isDeleted": false,
 			"id": "2v_lgCjgoSE4ZM16lRl6N",
 			"fillStyle": "solid",
@@ -81251,7 +81251,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81333,8 +81333,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 175,
-			"versionNonce": 1057750629,
+			"version": 176,
+			"versionNonce": 459643378,
 			"isDeleted": false,
 			"id": "Raiu1ijvu_9gVT7FVj525",
 			"fillStyle": "solid",
@@ -81354,7 +81354,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81421,8 +81421,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 69790149,
+			"version": 187,
+			"versionNonce": 1791931950,
 			"isDeleted": false,
 			"id": "IYVJpYCJSOhMKds99LxCE",
 			"fillStyle": "solid",
@@ -81442,7 +81442,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81564,8 +81564,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 558983461,
+			"version": 183,
+			"versionNonce": 2000784306,
 			"isDeleted": false,
 			"id": "oioJjwYdKBjIRgaCyuCJy",
 			"fillStyle": "solid",
@@ -81585,7 +81585,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81687,8 +81687,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 938671237,
+			"version": 177,
+			"versionNonce": 1077133422,
 			"isDeleted": false,
 			"id": "D11V70u4IPF76YkL22B4O",
 			"fillStyle": "solid",
@@ -81708,7 +81708,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81780,8 +81780,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 173,
-			"versionNonce": 1607148517,
+			"version": 174,
+			"versionNonce": 1580811634,
 			"isDeleted": false,
 			"id": "TPNa2bq2-xq_-bVUIhkDd",
 			"fillStyle": "solid",
@@ -81801,7 +81801,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81858,8 +81858,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 1558667077,
+			"version": 189,
+			"versionNonce": 821920430,
 			"isDeleted": false,
 			"id": "FXNxjBQVX4wSu7EcFkUXr",
 			"fillStyle": "solid",
@@ -81879,7 +81879,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82011,8 +82011,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 363146917,
+			"version": 187,
+			"versionNonce": 160679730,
 			"isDeleted": false,
 			"id": "54wGMoePX7Iss9DjMTz3-",
 			"fillStyle": "solid",
@@ -82032,7 +82032,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82154,8 +82154,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 1219629573,
+			"version": 189,
+			"versionNonce": 1607793902,
 			"isDeleted": false,
 			"id": "9jJpQZMpbbfO_V4LP91Y-",
 			"fillStyle": "solid",
@@ -82175,7 +82175,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82307,8 +82307,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 51087717,
+			"version": 178,
+			"versionNonce": 1907888370,
 			"isDeleted": false,
 			"id": "k_sBXN0POAtJCLZQaxWbU",
 			"fillStyle": "solid",
@@ -82328,7 +82328,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82405,8 +82405,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 1442780357,
+			"version": 179,
+			"versionNonce": 843263790,
 			"isDeleted": false,
 			"id": "NjhwgNpFaRkz3YmYptzIY",
 			"fillStyle": "solid",
@@ -82426,7 +82426,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82508,8 +82508,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 1294611493,
+			"version": 182,
+			"versionNonce": 1781342898,
 			"isDeleted": false,
 			"id": "l5zAEHD6vRJ7j7Pvf_hsE",
 			"fillStyle": "solid",
@@ -82529,7 +82529,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82626,8 +82626,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 612001669,
+			"version": 184,
+			"versionNonce": 1957763438,
 			"isDeleted": false,
 			"id": "KIiQTDPhQFlYTEI-J0dst",
 			"fillStyle": "solid",
@@ -82647,7 +82647,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82754,8 +82754,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 1043148517,
+			"version": 183,
+			"versionNonce": 1033501810,
 			"isDeleted": false,
 			"id": "PbOoQ0jJFXp7brrf9v19W",
 			"fillStyle": "solid",
@@ -82775,7 +82775,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82877,8 +82877,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1490029125,
+			"version": 181,
+			"versionNonce": 2120727470,
 			"isDeleted": false,
 			"id": "RZNabxflME6bjLnmYinPw",
 			"fillStyle": "solid",
@@ -82898,7 +82898,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -82990,8 +82990,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 88111525,
+			"version": 177,
+			"versionNonce": 1237687858,
 			"isDeleted": false,
 			"id": "7z_ZzYUESRBQKdoZuKEFi",
 			"fillStyle": "solid",
@@ -83011,7 +83011,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83083,8 +83083,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 178,
-			"versionNonce": 1554775301,
+			"version": 179,
+			"versionNonce": 1435506158,
 			"isDeleted": false,
 			"id": "voCFH6uxKol06IQzw4Qbe",
 			"fillStyle": "solid",
@@ -83104,7 +83104,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83186,8 +83186,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1989153893,
+			"version": 181,
+			"versionNonce": 462882802,
 			"isDeleted": false,
 			"id": "d59ZWsbWtFrjlwBUvnN6m",
 			"fillStyle": "solid",
@@ -83207,7 +83207,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83299,8 +83299,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 515522501,
+			"version": 184,
+			"versionNonce": 1395861550,
 			"isDeleted": false,
 			"id": "5rbFzbpgEMcwHjVoLuVar",
 			"fillStyle": "solid",
@@ -83320,7 +83320,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83427,8 +83427,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1263009573,
+			"version": 181,
+			"versionNonce": 185940402,
 			"isDeleted": false,
 			"id": "IbNqnPX_8DULfvcJSbHyk",
 			"fillStyle": "solid",
@@ -83448,7 +83448,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83540,8 +83540,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 1386664581,
+			"version": 182,
+			"versionNonce": 1194979950,
 			"isDeleted": false,
 			"id": "eL3okoAct4K6miCKSLAT6",
 			"fillStyle": "solid",
@@ -83561,7 +83561,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83658,8 +83658,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 1637104101,
+			"version": 178,
+			"versionNonce": 1466381170,
 			"isDeleted": false,
 			"id": "4mjqJhBqQJx4kjXpYtEqV",
 			"fillStyle": "solid",
@@ -83679,7 +83679,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83756,8 +83756,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 824030533,
+			"version": 177,
+			"versionNonce": 476935342,
 			"isDeleted": false,
 			"id": "Zt_10gBdsFNtDaC8YngHo",
 			"fillStyle": "solid",
@@ -83777,7 +83777,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83849,8 +83849,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 184,
-			"versionNonce": 2090910885,
+			"version": 185,
+			"versionNonce": 1121187122,
 			"isDeleted": false,
 			"id": "h2pIBIuzVLONdz2bOO5wG",
 			"fillStyle": "solid",
@@ -83870,7 +83870,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -83982,8 +83982,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 936044549,
+			"version": 184,
+			"versionNonce": 2088152814,
 			"isDeleted": false,
 			"id": "NcTHgDYLCTU8zSlczxfO5",
 			"fillStyle": "solid",
@@ -84003,7 +84003,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84110,8 +84110,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 77176677,
+			"version": 186,
+			"versionNonce": 784498418,
 			"isDeleted": false,
 			"id": "hT_-auMNjMqPqyd-0kKJE",
 			"fillStyle": "solid",
@@ -84131,7 +84131,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84248,8 +84248,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 1767533253,
+			"version": 186,
+			"versionNonce": 1943970094,
 			"isDeleted": false,
 			"id": "cI63s2XQWGSI6e4FmCWVH",
 			"fillStyle": "solid",
@@ -84269,7 +84269,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84386,8 +84386,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 1185597989,
+			"version": 189,
+			"versionNonce": 934924466,
 			"isDeleted": false,
 			"id": "K8iXy55xOhG-6kH_2idsU",
 			"fillStyle": "solid",
@@ -84407,7 +84407,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84539,8 +84539,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 225983877,
+			"version": 183,
+			"versionNonce": 370035566,
 			"isDeleted": false,
 			"id": "h-kogsLL2iICvJlMx0_db",
 			"fillStyle": "solid",
@@ -84560,7 +84560,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84662,8 +84662,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 889210085,
+			"version": 187,
+			"versionNonce": 1365305970,
 			"isDeleted": false,
 			"id": "aYunF_ch6fqfbqkfx5K6f",
 			"fillStyle": "solid",
@@ -84683,7 +84683,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84805,8 +84805,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 1892704325,
+			"version": 186,
+			"versionNonce": 558804398,
 			"isDeleted": false,
 			"id": "3SbW67Kve_LxrqEynsF_0",
 			"fillStyle": "solid",
@@ -84826,7 +84826,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -84943,8 +84943,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 650514341,
+			"version": 187,
+			"versionNonce": 1652476978,
 			"isDeleted": false,
 			"id": "bG8UYyn6bykcjMaUjJqsa",
 			"fillStyle": "solid",
@@ -84964,7 +84964,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85086,8 +85086,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 621728517,
+			"version": 187,
+			"versionNonce": 583583726,
 			"isDeleted": false,
 			"id": "-uMCMpH1doAI5ny02LonE",
 			"fillStyle": "solid",
@@ -85107,7 +85107,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85229,8 +85229,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 405285477,
+			"version": 190,
+			"versionNonce": 1627026930,
 			"isDeleted": false,
 			"id": "Aw8g9TSMDTUoTSl6CINJ1",
 			"fillStyle": "solid",
@@ -85250,7 +85250,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85387,8 +85387,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 1088394693,
+			"version": 183,
+			"versionNonce": 444963374,
 			"isDeleted": false,
 			"id": "czXCzqmXhur2VA7S2GoVT",
 			"fillStyle": "solid",
@@ -85408,7 +85408,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85510,8 +85510,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 175,
-			"versionNonce": 1783797029,
+			"version": 176,
+			"versionNonce": 1843062706,
 			"isDeleted": false,
 			"id": "AohdIbOyAnpsW7eARq9Nh",
 			"fillStyle": "solid",
@@ -85531,7 +85531,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85598,8 +85598,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 535734405,
+			"version": 177,
+			"versionNonce": 527311982,
 			"isDeleted": false,
 			"id": "87us6uCZiKdtuB0-d1CQM",
 			"fillStyle": "solid",
@@ -85619,7 +85619,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85691,8 +85691,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 264,
-			"versionNonce": 594628581,
+			"version": 295,
+			"versionNonce": 1900487026,
 			"isDeleted": false,
 			"id": "UtrI3jANw0MgqQnqVDt3u",
 			"fillStyle": "solid",
@@ -85702,7 +85702,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8873.490444359584,
-			"y": 311.16413680137066,
+			"y": 126.16413680137066,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 72.87668086980739,
@@ -85712,7 +85712,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -85834,8 +85834,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 270,
-			"versionNonce": 585632581,
+			"version": 301,
+			"versionNonce": 55273134,
 			"isDeleted": false,
 			"id": "chcuf3lwIK5_fu_FX_f6G",
 			"fillStyle": "solid",
@@ -85845,7 +85845,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8989.498149820214,
-			"y": 308.1895575570326,
+			"y": 123.18955755703257,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 77.33837953082548,
@@ -85855,7 +85855,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86007,8 +86007,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 261,
-			"versionNonce": 783309477,
+			"version": 292,
+			"versionNonce": 914760498,
 			"isDeleted": false,
 			"id": "Z8Y2hI4R270q3zatg3UP2",
 			"fillStyle": "solid",
@@ -86018,7 +86018,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8428.794217399773,
-			"y": 376.6044036014324,
+			"y": 191.6044036014324,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1008.3747386245932,
@@ -86028,7 +86028,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86135,8 +86135,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 1870118405,
+			"version": 293,
+			"versionNonce": 1992712430,
 			"isDeleted": false,
 			"id": "pw8W_75yspZvOmk4yWmKh",
 			"fillStyle": "solid",
@@ -86146,7 +86146,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8952.316147553676,
-			"y": 363.2188991252059,
+			"y": 178.2188991252059,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 32.720031276736336,
@@ -86156,7 +86156,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86268,8 +86268,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 243,
-			"versionNonce": 473675109,
+			"version": 274,
+			"versionNonce": 134147314,
 			"isDeleted": false,
 			"id": "CSbIivUexCigFRDGkZtw7",
 			"fillStyle": "solid",
@@ -86279,7 +86279,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7240.299802243054,
-			"y": 280.81842333913573,
+			"y": 95.81842333913573,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 99.47239683285989,
@@ -86289,7 +86289,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86441,8 +86441,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 810139845,
+			"version": 264,
+			"versionNonce": 761795374,
 			"isDeleted": false,
 			"id": "a9A6yhd-qCcDSt-zHUeZS",
 			"fillStyle": "solid",
@@ -86452,7 +86452,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 6968.408584233235,
-			"y": 362.6068047833028,
+			"y": 177.60680478330278,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 886.4095132071197,
@@ -86462,7 +86462,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86564,8 +86564,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1631543333,
+			"version": 266,
+			"versionNonce": 1261993650,
 			"isDeleted": false,
 			"id": "zEzfdpmp496rPZbifrQqw",
 			"fillStyle": "solid",
@@ -86575,7 +86575,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7379.561157809058,
-			"y": 364.81726876118137,
+			"y": 179.81726876118137,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 22.10504453300473,
@@ -86585,7 +86585,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86697,8 +86697,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 1426723717,
+			"version": 278,
+			"versionNonce": 26836334,
 			"isDeleted": false,
 			"id": "excjjWTxARzMMHfwxxhiT",
 			"fillStyle": "solid",
@@ -86708,7 +86708,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7373.45484224574,
-			"y": 297.6633394477765,
+			"y": 112.66333944777648,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 50.27887103045123,
@@ -86718,7 +86718,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86890,8 +86890,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 401038053,
+			"version": 259,
+			"versionNonce": 484038770,
 			"isDeleted": false,
 			"id": "DYcJdFwFqET4qqv87Q84Z",
 			"fillStyle": "solid",
@@ -86901,7 +86901,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7195.8294956569425,
-			"y": 461.30899054479073,
+			"y": 276.30899054479073,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 14.072275576154425,
@@ -86911,7 +86911,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -86988,8 +86988,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1382331973,
+			"version": 256,
+			"versionNonce": 413376430,
 			"isDeleted": false,
 			"id": "ntA47UMMwJiEvylirhY7J",
 			"fillStyle": "solid",
@@ -86999,7 +86999,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7229.768366110255,
-			"y": 456.3423228791678,
+			"y": 271.3423228791678,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 13.244396584771494,
@@ -87009,7 +87009,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87071,8 +87071,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1063232933,
+			"version": 260,
+			"versionNonce": 1823078962,
 			"isDeleted": false,
 			"id": "psSHdKC6qLRnsdBFuXYCO",
 			"fillStyle": "solid",
@@ -87082,7 +87082,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7267.018373602426,
-			"y": 424.88678625866726,
+			"y": 239.88678625866726,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 23.17780770135232,
@@ -87092,7 +87092,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87174,8 +87174,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1644538117,
+			"version": 261,
+			"versionNonce": 112163310,
 			"isDeleted": false,
 			"id": "gQNHZ4E8qC-RCSIFgXSe3",
 			"fillStyle": "solid",
@@ -87185,7 +87185,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7303.440653673884,
-			"y": 429.02565071824165,
+			"y": 244.02565071824165,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 25.661141534163107,
@@ -87195,7 +87195,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323864,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87282,8 +87282,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 2077507685,
+			"version": 244,
+			"versionNonce": 428860402,
 			"isDeleted": false,
 			"id": "tpcEJLynZpEkzj6RZ7Kag",
 			"fillStyle": "solid",
@@ -87293,7 +87293,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8737.671224249232,
-			"y": 425.67629305415176,
+			"y": 240.67629305415176,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 29.03148786035672,
@@ -87303,7 +87303,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87425,8 +87425,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 1117318085,
+			"version": 233,
+			"versionNonce": 1925581870,
 			"isDeleted": false,
 			"id": "nwhVa-W_HFtmsGnIuyRUt",
 			"fillStyle": "solid",
@@ -87436,7 +87436,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8782.762732246261,
-			"y": 472.0031654650181,
+			"y": 287.0031654650181,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 9.88302841341283,
@@ -87446,7 +87446,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87513,8 +87513,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1450257189,
+			"version": 240,
+			"versionNonce": 227710386,
 			"isDeleted": false,
 			"id": "aVy29LOi4HN_P042LmKcp",
 			"fillStyle": "solid",
@@ -87524,7 +87524,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8815.500369899488,
-			"y": 436.7947424327597,
+			"y": 251.79474243275968,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 21.619244825977148,
@@ -87534,7 +87534,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87636,8 +87636,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 2009759365,
+			"version": 240,
+			"versionNonce": 986732142,
 			"isDeleted": false,
 			"id": "_rYVaRt0OCUzeUGwCYhgv",
 			"fillStyle": "solid",
@@ -87647,7 +87647,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8847.620353621474,
-			"y": 438.64781732919437,
+			"y": 253.64781732919437,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 25.943048550085223,
@@ -87657,7 +87657,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87759,8 +87759,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 2103600613,
+			"version": 234,
+			"versionNonce": 1507397490,
 			"isDeleted": false,
 			"id": "2ag3gDW5XIAn3kz05GPHo",
 			"fillStyle": "solid",
@@ -87770,7 +87770,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8452.915400680893,
-			"y": 438.64781732919437,
+			"y": 253.64781732919437,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 22.854580964134584,
@@ -87780,7 +87780,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87852,8 +87852,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 172384581,
+			"version": 241,
+			"versionNonce": 395794606,
 			"isDeleted": false,
 			"id": "6KLzbo2JTZntdIeI4DFaz",
 			"fillStyle": "solid",
@@ -87863,7 +87863,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8473.916906748593,
-			"y": 439.2655278117918,
+			"y": 254.2655278117918,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 28.41380565343752,
@@ -87873,7 +87873,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -87980,8 +87980,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 64221349,
+			"version": 235,
+			"versionNonce": 1386893618,
 			"isDeleted": false,
 			"id": "HxrPQARwkh4ZQQGPJPp5B",
 			"fillStyle": "solid",
@@ -87991,7 +87991,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8512.213797366801,
-			"y": 445.4424347080144,
+			"y": 260.4424347080144,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 19.14845944694389,
@@ -88001,7 +88001,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88078,8 +88078,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 1203278853,
+			"version": 236,
+			"versionNonce": 1086591726,
 			"isDeleted": false,
 			"id": "_ibN2xNPQhucKNFh0Ag05",
 			"fillStyle": "solid",
@@ -88089,7 +88089,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8535.686060537855,
-			"y": 473.2385581545343,
+			"y": 288.2385581545343,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 9.265374482172774,
@@ -88099,7 +88099,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88181,8 +88181,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 569494373,
+			"version": 238,
+			"versionNonce": 728586994,
 			"isDeleted": false,
 			"id": "w4oR3psrxtHCLIE0ECiWg",
 			"fillStyle": "solid",
@@ -88192,7 +88192,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8561.011426881021,
-			"y": 444.2070420184983,
+			"y": 259.2070420184983,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 17.295356274831647,
@@ -88202,7 +88202,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88294,8 +88294,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 206,
-			"versionNonce": 46995141,
+			"version": 237,
+			"versionNonce": 283084078,
 			"isDeleted": false,
 			"id": "WjuTAW0XV8Tyi4Fgp4M-D",
 			"fillStyle": "solid",
@@ -88305,7 +88305,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 8562.246819570537,
-			"y": 436.17706022584116,
+			"y": 251.17706022584116,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 21.619188274617045,
@@ -88315,7 +88315,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88402,8 +88402,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 173,
-			"versionNonce": 1961358885,
+			"version": 174,
+			"versionNonce": 313076914,
 			"isDeleted": false,
 			"id": "Fd7iyLwFoLTTIh9ZK0hCi",
 			"fillStyle": "solid",
@@ -88423,7 +88423,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88480,8 +88480,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 169,
-			"versionNonce": 1395648901,
+			"version": 170,
+			"versionNonce": 693284718,
 			"isDeleted": false,
 			"id": "1QRk7c93C_e7GWwfiB10e",
 			"fillStyle": "solid",
@@ -88501,7 +88501,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88538,8 +88538,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 1055027429,
+			"version": 187,
+			"versionNonce": 1308935794,
 			"isDeleted": false,
 			"id": "y4HG86k6ekxZHNFKtossr",
 			"fillStyle": "solid",
@@ -88559,7 +88559,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88681,8 +88681,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 1435307077,
+			"version": 175,
+			"versionNonce": 375820718,
 			"isDeleted": false,
 			"id": "2NQmwaNOZumgPtDiUh6dJ",
 			"fillStyle": "solid",
@@ -88702,7 +88702,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88764,8 +88764,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 655178661,
+			"version": 175,
+			"versionNonce": 1447503922,
 			"isDeleted": false,
 			"id": "jCezFG5Vm4A76OcWGa6G2",
 			"fillStyle": "solid",
@@ -88785,7 +88785,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88847,8 +88847,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 1804631813,
+			"version": 180,
+			"versionNonce": 1933847534,
 			"isDeleted": false,
 			"id": "Xdj9VtYHwLSOl72_E-MiL",
 			"fillStyle": "solid",
@@ -88868,7 +88868,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -88955,8 +88955,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 184,
-			"versionNonce": 2039764581,
+			"version": 185,
+			"versionNonce": 1935102450,
 			"isDeleted": false,
 			"id": "SUc12CvjW36-jMudkR67O",
 			"fillStyle": "solid",
@@ -88976,7 +88976,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89088,8 +89088,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 2078687685,
+			"version": 184,
+			"versionNonce": 234126894,
 			"isDeleted": false,
 			"id": "AzqAOfz9YfyHuLYpJd-kt",
 			"fillStyle": "solid",
@@ -89109,7 +89109,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89216,8 +89216,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 191,
-			"versionNonce": 1738785061,
+			"version": 192,
+			"versionNonce": 1480344498,
 			"isDeleted": false,
 			"id": "t3kLzx0drA73uMnfB5-AD",
 			"fillStyle": "solid",
@@ -89237,7 +89237,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89384,8 +89384,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 842683525,
+			"version": 186,
+			"versionNonce": 190875758,
 			"isDeleted": false,
 			"id": "ea3vkfc5e0mlJkc0Tlza0",
 			"fillStyle": "solid",
@@ -89405,7 +89405,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89522,8 +89522,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 1197964261,
+			"version": 184,
+			"versionNonce": 1058864498,
 			"isDeleted": false,
 			"id": "3LQ_A-9wbA7hyVWqKv1AU",
 			"fillStyle": "solid",
@@ -89543,7 +89543,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89650,8 +89650,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 1060681541,
+			"version": 181,
+			"versionNonce": 189876910,
 			"isDeleted": false,
 			"id": "q-FqiRl4zSUEMjG9d2qJq",
 			"fillStyle": "solid",
@@ -89671,7 +89671,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89763,8 +89763,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 181,
-			"versionNonce": 1410041509,
+			"version": 182,
+			"versionNonce": 88112946,
 			"isDeleted": false,
 			"id": "lbYWk311WqD1S82EPlIsy",
 			"fillStyle": "solid",
@@ -89784,7 +89784,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -89881,8 +89881,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 183,
-			"versionNonce": 411920901,
+			"version": 184,
+			"versionNonce": 1282393326,
 			"isDeleted": false,
 			"id": "85CPvInaj_HcQw3q9b_hB",
 			"fillStyle": "solid",
@@ -89902,7 +89902,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90009,8 +90009,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 192,
-			"versionNonce": 1841029477,
+			"version": 193,
+			"versionNonce": 1192085746,
 			"isDeleted": false,
 			"id": "jTYoXtV3UibXi45TJJ1qd",
 			"fillStyle": "solid",
@@ -90030,7 +90030,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90182,8 +90182,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 171,
-			"versionNonce": 954494149,
+			"version": 172,
+			"versionNonce": 1346697006,
 			"isDeleted": false,
 			"id": "ObALm7wMIVa0GDcNCFd6E",
 			"fillStyle": "solid",
@@ -90203,7 +90203,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90250,8 +90250,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 1503956005,
+			"version": 175,
+			"versionNonce": 2081151666,
 			"isDeleted": false,
 			"id": "M3_QVLyoayAOTOGq0D9vB",
 			"fillStyle": "solid",
@@ -90271,7 +90271,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90333,8 +90333,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 169,
-			"versionNonce": 1609154437,
+			"version": 170,
+			"versionNonce": 2134499694,
 			"isDeleted": false,
 			"id": "zMG_7KO2WBtD-7aTKK2Sh",
 			"fillStyle": "solid",
@@ -90354,7 +90354,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90391,8 +90391,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 172,
-			"versionNonce": 32605925,
+			"version": 173,
+			"versionNonce": 316781682,
 			"isDeleted": false,
 			"id": "Y6EDEamSOhvSgo7lnfhdN",
 			"fillStyle": "solid",
@@ -90412,7 +90412,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90464,8 +90464,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1380540997,
+			"version": 239,
+			"versionNonce": 1284998062,
 			"isDeleted": false,
 			"id": "P8WpWw6s0RZVLf7vqp3kZ",
 			"fillStyle": "solid",
@@ -90475,7 +90475,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9040.364359923404,
-			"y": 413.7011351109717,
+			"y": 228.70113511097168,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 15.2162642854164,
@@ -90485,7 +90485,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90582,8 +90582,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 206,
-			"versionNonce": 902746533,
+			"version": 237,
+			"versionNonce": 223761970,
 			"isDeleted": false,
 			"id": "qS1BeZW-vpM4YOCVbLT-D",
 			"fillStyle": "solid",
@@ -90593,7 +90593,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9084.322482545913,
-			"y": 422.1546023705491,
+			"y": 237.15460237054913,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 21.13364880046356,
@@ -90603,7 +90603,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90690,8 +90690,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 430920965,
+			"version": 233,
+			"versionNonce": 1518788078,
 			"isDeleted": false,
 			"id": "nWprjEpD7kcBb5npKRPqL",
 			"fillStyle": "solid",
@@ -90701,7 +90701,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9118.136428978147,
-			"y": 427.22669046568785,
+			"y": 242.22669046568785,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 26.205814289523914,
@@ -90711,7 +90711,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90778,8 +90778,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1768451173,
+			"version": 240,
+			"versionNonce": 475054066,
 			"isDeleted": false,
 			"id": "fJiHUYLwdBuJIDMRf78gW",
 			"fillStyle": "solid",
@@ -90789,7 +90789,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9265.398293421216,
-			"y": 417.0030367267691,
+			"y": 232.0030367267691,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 31.808721116130982,
@@ -90799,7 +90799,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -90906,8 +90906,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 1153931205,
+			"version": 246,
+			"versionNonce": 504426542,
 			"isDeleted": false,
 			"id": "2diAv5PheiqJ97lu7i99A",
 			"fillStyle": "solid",
@@ -90917,7 +90917,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9318.724774550907,
-			"y": 424.48746940633134,
+			"y": 239.48746940633134,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 17.775522260688376,
@@ -90927,7 +90927,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91064,8 +91064,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1978292005,
+			"version": 240,
+			"versionNonce": 1004007858,
 			"isDeleted": false,
 			"id": "rJiD-kh67R5z6gC-FKhP6",
 			"fillStyle": "solid",
@@ -91075,7 +91075,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9354.27573341991,
-			"y": 417.0030367267691,
+			"y": 232.0030367267691,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 22.453255212500153,
@@ -91085,7 +91085,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91192,8 +91192,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 658385541,
+			"version": 236,
+			"versionNonce": 52345454,
 			"isDeleted": false,
 			"id": "a8DrduvB_pNJd7veZz4Sc",
 			"fillStyle": "solid",
@@ -91203,7 +91203,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9388.891197089974,
-			"y": 425.4230074314571,
+			"y": 240.4230074314571,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 34.61537801769191,
@@ -91213,7 +91213,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91300,8 +91300,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 1501598181,
+			"version": 235,
+			"versionNonce": 1326639986,
 			"isDeleted": false,
 			"id": "3r-okc4Ok0OmVWrIbdi2m",
 			"fillStyle": "solid",
@@ -91311,7 +91311,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9410.576842605344,
-			"y": 417.4463268001034,
+			"y": 232.4463268001034,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 22.949542038923028,
@@ -91321,7 +91321,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91403,8 +91403,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 431951173,
+			"version": 236,
+			"versionNonce": 276380846,
 			"isDeleted": false,
 			"id": "i0f80rlLOlgD9uuG2_fmb",
 			"fillStyle": "solid",
@@ -91414,7 +91414,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 9265.535326784928,
-			"y": 402.7585560217991,
+			"y": 217.7585560217991,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 34.88336104904192,
@@ -91424,7 +91424,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91511,8 +91511,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 2002197669,
+			"version": 259,
+			"versionNonce": 1011395890,
 			"isDeleted": false,
 			"id": "3Z5Oflm2typcBWH8GwBxs",
 			"fillStyle": "solid",
@@ -91522,7 +91522,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 6964.584789209916,
-			"y": 465.98285923360856,
+			"y": 280.98285923360856,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 9.960216883591784,
@@ -91532,7 +91532,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91614,8 +91614,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 972439557,
+			"version": 264,
+			"versionNonce": 197752558,
 			"isDeleted": false,
 			"id": "JPJK4KSnPeQD4Ntkkpu7e",
 			"fillStyle": "solid",
@@ -91625,7 +91625,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 6986.165233794225,
-			"y": 432.78214895337214,
+			"y": 247.78214895337214,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 19.920433767184477,
@@ -91635,7 +91635,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91742,8 +91742,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1469708133,
+			"version": 261,
+			"versionNonce": 148911858,
 			"isDeleted": false,
 			"id": "Nu4iVcxyq-7rJKiQggbDo",
 			"fillStyle": "solid",
@@ -91753,7 +91753,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7022.686003703921,
-			"y": 431.9521055495982,
+			"y": 246.95210554959817,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 12.45027110449064,
@@ -91763,7 +91763,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91855,8 +91855,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 714064581,
+			"version": 260,
+			"versionNonce": 496527662,
 			"isDeleted": false,
 			"id": "MV_Y8mmu74oTG3aZrVHpP",
 			"fillStyle": "solid",
@@ -91866,7 +91866,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7045.096491692004,
-			"y": 434.4421597704961,
+			"y": 249.44215977049612,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 22.410487988082423,
@@ -91876,7 +91876,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -91963,8 +91963,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1735729701,
+			"version": 261,
+			"versionNonce": 1969260722,
 			"isDeleted": false,
 			"id": "-oIg_t1hpWx0n0h4TY5sZ",
 			"fillStyle": "solid",
@@ -91974,7 +91974,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 6945.494322856082,
-			"y": 433.61215436193424,
+			"y": 248.61215436193424,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 28.220563843228774,
@@ -91984,7 +91984,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92076,8 +92076,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1396151685,
+			"version": 256,
+			"versionNonce": 1968116590,
 			"isDeleted": false,
 			"id": "5EiV40FWFLyPaTZUAZqgX",
 			"fillStyle": "solid",
@@ -92087,7 +92087,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"angle": 0,
 			"x": 7055.056708575596,
-			"y": 425.3119862906781,
+			"y": 240.31198629067808,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 17.43037954628562,
@@ -92097,7 +92097,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92164,8 +92164,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 957652197,
+			"version": 175,
+			"versionNonce": 426812018,
 			"isDeleted": false,
 			"id": "SEoTby6cKpMgZDkdqtC0o",
 			"fillStyle": "solid",
@@ -92185,7 +92185,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92252,8 +92252,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 171,
-			"versionNonce": 546945093,
+			"version": 172,
+			"versionNonce": 1832285614,
 			"isDeleted": false,
 			"id": "U-9VKWgISJ_o0HnfqwCCl",
 			"fillStyle": "solid",
@@ -92273,7 +92273,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92325,8 +92325,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 1134847909,
+			"version": 177,
+			"versionNonce": 2144830514,
 			"isDeleted": false,
 			"id": "iu50F2wuVjFRlnhzjxb6U",
 			"fillStyle": "solid",
@@ -92346,7 +92346,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92423,8 +92423,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 1147284229,
+			"version": 175,
+			"versionNonce": 779587566,
 			"isDeleted": false,
 			"id": "xp7OsMjr6zT3RVGJXak10",
 			"fillStyle": "solid",
@@ -92444,7 +92444,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92511,8 +92511,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 175,
-			"versionNonce": 592478821,
+			"version": 176,
+			"versionNonce": 1115434482,
 			"isDeleted": false,
 			"id": "AVM_8WY-ioZvf38zoNs_i",
 			"fillStyle": "solid",
@@ -92532,7 +92532,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92604,8 +92604,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 1966927301,
+			"version": 178,
+			"versionNonce": 1427857966,
 			"isDeleted": false,
 			"id": "8xICG1sSIeogv4q9lpWoN",
 			"fillStyle": "solid",
@@ -92625,7 +92625,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92707,8 +92707,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 186,
-			"versionNonce": 1497689381,
+			"version": 187,
+			"versionNonce": 644194226,
 			"isDeleted": false,
 			"id": "AgDpr6Xk_XtFsNHGmYVnb",
 			"fillStyle": "solid",
@@ -92728,7 +92728,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92855,8 +92855,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 785776773,
+			"version": 183,
+			"versionNonce": 336260206,
 			"isDeleted": false,
 			"id": "CZzziDEQ2XpJhTm5DjEqN",
 			"fillStyle": "solid",
@@ -92876,7 +92876,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92983,8 +92983,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 195930085,
+			"version": 186,
+			"versionNonce": 934992242,
 			"isDeleted": false,
 			"id": "RHdDjRM9i89zLbSIHNd8K",
 			"fillStyle": "solid",
@@ -93004,7 +93004,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93126,8 +93126,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 1910072133,
+			"version": 169,
+			"versionNonce": 1494167214,
 			"isDeleted": false,
 			"id": "6eZtG2b2CQp6YGOc9hQrr",
 			"fillStyle": "solid",
@@ -93147,7 +93147,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93194,8 +93194,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 166,
-			"versionNonce": 1169601189,
+			"version": 167,
+			"versionNonce": 1707268914,
 			"isDeleted": false,
 			"id": "lriPuRZ5UYrI3PpS1rscY",
 			"fillStyle": "solid",
@@ -93215,7 +93215,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93252,8 +93252,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 194,
-			"versionNonce": 66262533,
+			"version": 237,
+			"versionNonce": 1892755694,
 			"isDeleted": false,
 			"id": "ixzIOWbv4DH_Aa9vv6Hs8",
 			"fillStyle": "solid",
@@ -93262,8 +93262,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8397.665643090499,
-			"y": 1027.0536831069394,
+			"x": 8372.665643090499,
+			"y": 762.0536831069394,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 42.973206897311684,
@@ -93273,7 +93273,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93320,8 +93320,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 196,
-			"versionNonce": 931925349,
+			"version": 239,
+			"versionNonce": 518300914,
 			"isDeleted": false,
 			"id": "pTkOgs_ktxLvycD4U6_N2",
 			"fillStyle": "solid",
@@ -93330,8 +93330,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8435.129498114775,
-			"y": 1053.498733505285,
+			"x": 8410.129498114775,
+			"y": 788.4987335052849,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 59.501363396277156,
@@ -93341,7 +93341,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93398,8 +93398,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 802101445,
+			"version": 244,
+			"versionNonce": 718920494,
 			"isDeleted": false,
 			"id": "DQIT3XmSPE-LhIkhZZ2Zt",
 			"fillStyle": "solid",
@@ -93408,8 +93408,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8462.676358359811,
-			"y": 1116.3057534213215,
+			"x": 8437.676358359811,
+			"y": 851.3057534213215,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 36.36194429772513,
@@ -93419,7 +93419,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93501,8 +93501,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 1985591333,
+			"version": 243,
+			"versionNonce": 1822897842,
 			"isDeleted": false,
 			"id": "NOFsVHOK02eyDpZ8mveRv",
 			"fillStyle": "solid",
@@ -93511,8 +93511,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8504.547755410433,
-			"y": 1113.0001221215282,
+			"x": 8479.547755410433,
+			"y": 848.0001221215282,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 30.852592424689647,
@@ -93522,7 +93522,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93599,8 +93599,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 192,
-			"versionNonce": 85552005,
+			"version": 235,
+			"versionNonce": 2106738030,
 			"isDeleted": false,
 			"id": "OJoeNIG4evm-08otSqPt1",
 			"fillStyle": "solid",
@@ -93609,8 +93609,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8515.566459156502,
-			"y": 1137.2414015067015,
+			"x": 8490.566459156502,
+			"y": 872.2414015067015,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 31.954503151242534,
@@ -93620,7 +93620,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93657,8 +93657,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 1011593957,
+			"version": 240,
+			"versionNonce": 263295090,
 			"isDeleted": false,
 			"id": "FPCPJCQnlES3a43wWKfSJ",
 			"fillStyle": "solid",
@@ -93667,8 +93667,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8546.419051581193,
-			"y": 1109.694490821735,
+			"x": 8521.419051581193,
+			"y": 844.6944908217349,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 23.139419098552025,
@@ -93678,7 +93678,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93740,8 +93740,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 410914373,
+			"version": 243,
+			"versionNonce": 709060526,
 			"isDeleted": false,
 			"id": "JlxveNwdS2yl0d1oz3amX",
 			"fillStyle": "solid",
@@ -93750,8 +93750,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8559.641576780366,
-			"y": 1131.7319991937359,
+			"x": 8534.641576780366,
+			"y": 866.7319991937359,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 33.056312997932764,
@@ -93761,7 +93761,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93838,8 +93838,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 680394149,
+			"version": 243,
+			"versionNonce": 466268722,
 			"isDeleted": false,
 			"id": "8pyV1vstDr3ECmRm42k9N",
 			"fillStyle": "solid",
@@ -93848,8 +93848,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8646.68990130154,
-			"y": 1141.6488930931155,
+			"x": 8621.68990130154,
+			"y": 876.6488930931155,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 48.48265965020801,
@@ -93859,7 +93859,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -93936,8 +93936,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 1135149317,
+			"version": 244,
+			"versionNonce": 1628848622,
 			"isDeleted": false,
 			"id": "MRnuv-gJvYo7mc46zjPNt",
 			"fillStyle": "solid",
@@ -93946,8 +93946,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8668.727409673542,
-			"y": 1068.9250044976648,
+			"x": 8643.727409673542,
+			"y": 803.9250044976648,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 26.44505039834621,
@@ -93957,7 +93957,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94039,8 +94039,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 2135726181,
+			"version": 241,
+			"versionNonce": 333028338,
 			"isDeleted": false,
 			"id": "nsHSFK7CokvXMthWm0a2t",
 			"fillStyle": "solid",
@@ -94049,8 +94049,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8762.386996794303,
-			"y": 1097.573825909183,
+			"x": 8737.386996794303,
+			"y": 832.5738259091829,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 28.64877097158751,
@@ -94060,7 +94060,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94127,8 +94127,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 1699103685,
+			"version": 243,
+			"versionNonce": 1695798318,
 			"isDeleted": false,
 			"id": "c3DJJow9wlAlsjZQYtVtu",
 			"fillStyle": "solid",
@@ -94137,8 +94137,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8807.563924264858,
-			"y": 1137.2414015067015,
+			"x": 8782.563924264858,
+			"y": 872.2414015067015,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 46.27883819710587,
@@ -94148,7 +94148,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94225,8 +94225,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1773372197,
+			"version": 241,
+			"versionNonce": 98913714,
 			"isDeleted": false,
 			"id": "jCjRHH8BTIO1ZAbTvRIQS",
 			"fillStyle": "solid",
@@ -94235,8 +94235,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8800.952661665271,
-			"y": 1082.1475296968376,
+			"x": 8775.952661665271,
+			"y": 817.1475296968376,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 18.73187707220677,
@@ -94246,7 +94246,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94313,8 +94313,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 553768581,
+			"version": 241,
+			"versionNonce": 807738990,
 			"isDeleted": false,
 			"id": "vsGt9mZkI6DkEY8e--Fxo",
 			"fillStyle": "solid",
@@ -94323,8 +94323,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8826.295801337064,
-			"y": 1073.3325213040443,
+			"x": 8801.295801337064,
+			"y": 808.3325213040443,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 11.018804625929988,
@@ -94334,7 +94334,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94401,8 +94401,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 904838629,
+			"version": 245,
+			"versionNonce": 655673202,
 			"isDeleted": false,
 			"id": "JrBfR-DqeU6PAPEr_BgP_",
 			"fillStyle": "solid",
@@ -94411,8 +94411,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8865.963376934584,
-			"y": 1066.7212587044578,
+			"x": 8840.963376934584,
+			"y": 801.7212587044578,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 36.36194429772513,
@@ -94422,7 +94422,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94509,8 +94509,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 528988485,
+			"version": 248,
+			"versionNonce": 387129518,
 			"isDeleted": false,
 			"id": "YEcqAd71bmP0BCieJP6xK",
 			"fillStyle": "solid",
@@ -94519,8 +94519,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8912.242215131688,
-			"y": 1132.8339099202874,
+			"x": 8887.242215131688,
+			"y": 867.8339099202874,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 42.973206897311684,
@@ -94530,7 +94530,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94632,8 +94632,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 388647077,
+			"version": 242,
+			"versionNonce": 1873742130,
 			"isDeleted": false,
 			"id": "NRdZWphmh2uH9zEgAjAgS",
 			"fillStyle": "solid",
@@ -94642,8 +94642,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8972.845489254518,
-			"y": 1101.981317495597,
+			"x": 8947.845489254518,
+			"y": 836.9813174955971,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 29.750681698138578,
@@ -94653,7 +94653,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94725,8 +94725,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 1317268485,
+			"version": 247,
+			"versionNonce": 1837554414,
 			"isDeleted": false,
 			"id": "JNqrUKIbyI-MR9toz8e2r",
 			"fillStyle": "solid",
@@ -94735,8 +94735,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9060.995623622382,
-			"y": 1139.445172519874,
+			"x": 9035.995623622382,
+			"y": 874.445172519874,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 37.46375414441536,
@@ -94746,7 +94746,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94843,8 +94843,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1704076133,
+			"version": 241,
+			"versionNonce": 924521202,
 			"isDeleted": false,
 			"id": "PT_b6PvZ9Rx_M0O2el6xg",
 			"fillStyle": "solid",
@@ -94853,8 +94853,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9072.014428248314,
-			"y": 1108.5925800951834,
+			"x": 9047.014428248314,
+			"y": 843.5925800951834,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 45.17692747055298,
@@ -94864,7 +94864,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -94931,8 +94931,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 547516101,
+			"version": 243,
+			"versionNonce": 705252654,
 			"isDeleted": false,
 			"id": "U2i7QcmAxQV5sT3Z3C-mC",
 			"fillStyle": "solid",
@@ -94941,8 +94941,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9141.432685543972,
-			"y": 1105.2869487953903,
+			"x": 9116.432685543972,
+			"y": 840.2869487953903,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 20.935698525312546,
@@ -94952,7 +94952,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95029,8 +95029,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 1582452261,
+			"version": 243,
+			"versionNonce": 1340073138,
 			"isDeleted": false,
 			"id": "zsidjaQsYZLF7ma2Ri9UB",
 			"fillStyle": "solid",
@@ -95039,8 +95039,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9160.164562616179,
-			"y": 1105.2869487953903,
+			"x": 9135.164562616179,
+			"y": 840.2869487953903,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 42.973206897311684,
@@ -95050,7 +95050,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95127,8 +95127,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1301234053,
+			"version": 241,
+			"versionNonce": 167999342,
 			"isDeleted": false,
 			"id": "IKNNIMGvjq3_GldDGVk1e",
 			"fillStyle": "solid",
@@ -95137,8 +95137,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9270.352407115768,
-			"y": 1085.453160996631,
+			"x": 9245.352407115768,
+			"y": 820.4531609966309,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 38.56576575082727,
@@ -95148,7 +95148,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95215,8 +95215,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 1670826213,
+			"version": 253,
+			"versionNonce": 597982834,
 			"isDeleted": false,
 			"id": "Lrf2idTYgJQd1YBtEq3Ha",
 			"fillStyle": "solid",
@@ -95225,8 +95225,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9306.714351413493,
-			"y": 1088.7587922964242,
+			"x": 9281.714351413493,
+			"y": 823.7587922964242,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 41.871397050621454,
@@ -95236,7 +95236,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95363,8 +95363,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 301360197,
+			"version": 246,
+			"versionNonce": 901667246,
 			"isDeleted": false,
 			"id": "ZpJ6HTkqzwFJ_xC-1iG0y",
 			"fillStyle": "solid",
@@ -95373,8 +95373,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9362.910083509978,
-			"y": 1097.573825909183,
+			"x": 9337.910083509978,
+			"y": 832.5738259091829,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 31.954503151240715,
@@ -95384,7 +95384,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95476,8 +95476,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 1015780261,
+			"version": 242,
+			"versionNonce": 1328537650,
 			"isDeleted": false,
 			"id": "7hc7JL1Np45aCErhMEoGs",
 			"fillStyle": "solid",
@@ -95486,8 +95486,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9399.272027807703,
-			"y": 1153.7695580056675,
+			"x": 9374.272027807703,
+			"y": 888.7695580056675,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 17.629966345655703,
@@ -95497,7 +95497,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95569,8 +95569,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 1870911237,
+			"version": 247,
+			"versionNonce": 1684206574,
 			"isDeleted": false,
 			"id": "b7sgbj9P-kEM4J823hzyY",
 			"fillStyle": "solid",
@@ -95579,8 +95579,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9453.263938451084,
-			"y": 1100.8794572089762,
+			"x": 9428.263938451084,
+			"y": 835.8794572089762,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 40.76938544420773,
@@ -95590,7 +95590,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95687,8 +95687,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 1432137317,
+			"version": 245,
+			"versionNonce": 1047071218,
 			"isDeleted": false,
 			"id": "hVG5tSdh17is9nVDjK98o",
 			"fillStyle": "solid",
@@ -95697,8 +95697,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9462.079022503774,
-			"y": 1088.7587922964242,
+			"x": 9437.079022503774,
+			"y": 823.7587922964242,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 44.07521850372541,
@@ -95708,7 +95708,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95795,8 +95795,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 213,
-			"versionNonce": 1826855365,
+			"version": 256,
+			"versionNonce": 2147108398,
 			"isDeleted": false,
 			"id": "wsLVFl9GIkbR2zMqGEcDw",
 			"fillStyle": "solid",
@@ -95805,8 +95805,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8283.070407884357,
-			"y": 1218.780323714911,
+			"x": 8258.070407884357,
+			"y": 953.780323714911,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1198.8424024181768,
@@ -95816,7 +95816,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -95958,8 +95958,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 2134251813,
+			"version": 251,
+			"versionNonce": 1213660082,
 			"isDeleted": false,
 			"id": "km5us1RVAb3BDjXJiFUKt",
 			"fillStyle": "solid",
@@ -95968,8 +95968,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8871.47282968748,
-			"y": 1216.5765527017386,
+			"x": 8846.47282968748,
+			"y": 951.5765527017386,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 59.501363396278975,
@@ -95979,7 +95979,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96096,8 +96096,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 1438755973,
+			"version": 247,
+			"versionNonce": 1231900782,
 			"isDeleted": false,
 			"id": "rcLMUqs-IH1d3gRNIH2da",
 			"fillStyle": "solid",
@@ -96106,8 +96106,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8573.966012706085,
-			"y": 1257.3460390258088,
+			"x": 8548.966012706085,
+			"y": 992.3460390258088,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 40.769486324068566,
@@ -96117,7 +96117,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96214,8 +96214,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 809751525,
+			"version": 242,
+			"versionNonce": 1260434802,
 			"isDeleted": false,
 			"id": "mylgpnhMMApKuvA6DVkO6",
 			"fillStyle": "solid",
@@ -96224,8 +96224,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8640.078638701949,
-			"y": 1309.1342795358794,
+			"x": 8615.078638701949,
+			"y": 1044.1342795358794,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 19.83378779875784,
@@ -96235,7 +96235,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96307,8 +96307,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 2060062533,
+			"version": 244,
+			"versionNonce": 2089095854,
 			"isDeleted": false,
 			"id": "kN_mLF7x1o3UY_qjnU22k",
 			"fillStyle": "solid",
@@ -96317,8 +96317,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8683.05184559926,
-			"y": 1276.077966537947,
+			"x": 8658.05184559926,
+			"y": 1011.0779665379471,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 29.750681698138578,
@@ -96328,7 +96328,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96420,8 +96420,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1135730341,
+			"version": 241,
+			"versionNonce": 1208825650,
 			"isDeleted": false,
 			"id": "QKzezD3l-W7tyNCETiIxn",
 			"fillStyle": "solid",
@@ -96430,8 +96430,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8738.145666969194,
-			"y": 1282.6892291375336,
+			"x": 8713.145666969194,
+			"y": 1017.6892291375336,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 35.26003357117406,
@@ -96441,7 +96441,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96518,8 +96518,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 1038816043,
+			"version": 283,
+			"versionNonce": 1944751342,
 			"isDeleted": false,
 			"id": "iki0b0xPz78sp8EP5RWIl",
 			"fillStyle": "solid",
@@ -96528,8 +96528,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7089.515841950745,
-			"y": 1103.9572764054296,
+			"x": 7064.515841950745,
+			"y": 838.9572764054296,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 62.80699469607134,
@@ -96539,7 +96539,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96636,8 +96636,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 1763014091,
+			"version": 285,
+			"versionNonce": 2139324658,
 			"isDeleted": false,
 			"id": "sBrcEX0SJE9HMcA8EfsVW",
 			"fillStyle": "solid",
@@ -96646,8 +96646,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7180.971607618404,
-			"y": 1168.9680168947077,
+			"x": 7155.971607618404,
+			"y": 903.9680168947077,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 39.66757559751932,
@@ -96657,7 +96657,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96764,8 +96764,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 303727723,
+			"version": 287,
+			"versionNonce": 1294384942,
 			"isDeleted": false,
 			"id": "UuzBs_bUgMK5hMtXkODEI",
 			"fillStyle": "solid",
@@ -96774,8 +96774,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7212.926110769645,
-			"y": 1131.5042123103617,
+			"x": 7187.926110769645,
+			"y": 866.5042123103617,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 30.85249154482881,
@@ -96785,7 +96785,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -96902,8 +96902,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 12893963,
+			"version": 281,
+			"versionNonce": 218796722,
 			"isDeleted": false,
 			"id": "wrQBox6A-mgI8XoBYvCPI",
 			"fillStyle": "solid",
@@ -96912,8 +96912,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7237.167339714887,
-			"y": 1148.0323688093276,
+			"x": 7212.167339714887,
+			"y": 883.0323688093276,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 30.85249154482881,
@@ -96923,7 +96923,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97010,8 +97010,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 529442219,
+			"version": 280,
+			"versionNonce": 211986798,
 			"isDeleted": false,
 			"id": "kf__HhVWPA7pxjxPnQdqu",
 			"fillStyle": "solid",
@@ -97020,8 +97020,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7283.446177911993,
-			"y": 1129.3004412971893,
+			"x": 7258.446177911993,
+			"y": 864.3004412971893,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 48.48255877034717,
@@ -97031,7 +97031,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97113,8 +97113,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 631421003,
+			"version": 276,
+			"versionNonce": 55143538,
 			"isDeleted": false,
 			"id": "1SD7m7Z2JlEJlfoeQalfS",
 			"fillStyle": "solid",
@@ -97123,8 +97123,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7392.532010805168,
-			"y": 1124.8929497107752,
+			"x": 7367.532010805168,
+			"y": 859.8929497107752,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 46.27883819710587,
@@ -97134,7 +97134,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97196,8 +97196,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 14382827,
+			"version": 284,
+			"versionNonce": 1101482926,
 			"isDeleted": false,
 			"id": "62P-Xsgn71XdjiI3Jm6BD",
 			"fillStyle": "solid",
@@ -97206,8 +97206,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7472.969072726758,
-			"y": 1159.0511229953281,
+			"x": 7447.969072726758,
+			"y": 894.0511229953281,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 22.037508372000957,
@@ -97217,7 +97217,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97319,8 +97319,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 2143510923,
+			"version": 280,
+			"versionNonce": 134680114,
 			"isDeleted": false,
 			"id": "gSsCVVNSEQ1drb5FQ73dA",
 			"fillStyle": "solid",
@@ -97329,8 +97329,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7491.700949798965,
-			"y": 1134.8098436101548,
+			"x": 7466.700949798965,
+			"y": 869.8098436101548,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 47.38074892365512,
@@ -97340,7 +97340,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97422,8 +97422,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 999618603,
+			"version": 280,
+			"versionNonce": 710780398,
 			"isDeleted": false,
 			"id": "-acaYn6wGyBI2uTB6vm1d",
 			"fillStyle": "solid",
@@ -97432,8 +97432,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7561.119207094623,
-			"y": 1127.0966955039821,
+			"x": 7536.119207094623,
+			"y": 862.0966955039821,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 33.056312997932764,
@@ -97443,7 +97443,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97525,8 +97525,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 235,
-			"versionNonce": 1111145163,
+			"version": 278,
+			"versionNonce": 1881831410,
 			"isDeleted": false,
 			"id": "TvzrDa_f_jj47sfQTmdT_",
 			"fillStyle": "solid",
@@ -97535,8 +97535,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7588.66616821952,
-			"y": 1131.5042123103617,
+			"x": 7563.66616821952,
+			"y": 866.5042123103617,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 42.973206897311684,
@@ -97546,7 +97546,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97618,8 +97618,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 5187947,
+			"version": 277,
+			"versionNonce": 1473165358,
 			"isDeleted": false,
 			"id": "rbNRbYMA34VpxKuLceJuS",
 			"fillStyle": "solid",
@@ -97628,8 +97628,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7708.770805738627,
-			"y": 1117.1798016046025,
+			"x": 7683.770805738627,
+			"y": 852.1798016046025,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 29.750681698138578,
@@ -97639,7 +97639,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97706,8 +97706,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 1797047307,
+			"version": 276,
+			"versionNonce": 1538959794,
 			"isDeleted": false,
 			"id": "OPxdNdZ2TKs7ydjKfP66r",
 			"fillStyle": "solid",
@@ -97716,8 +97716,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7741.82711873656,
-			"y": 1112.7722847982232,
+			"x": 7716.82711873656,
+			"y": 847.7722847982232,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 15.426346652277061,
@@ -97727,7 +97727,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97789,8 +97789,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1788742315,
+			"version": 272,
+			"versionNonce": 1373864558,
 			"isDeleted": false,
 			"id": "neDdVNw4nwDlMKr1_QuqM",
 			"fillStyle": "solid",
@@ -97799,8 +97799,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7745.132750036352,
-			"y": 1118.2816871111888,
+			"x": 7720.132750036352,
+			"y": 853.2816871111888,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 19.83378779875966,
@@ -97810,7 +97810,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97852,8 +97852,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 58555723,
+			"version": 279,
+			"versionNonce": 1373545330,
 			"isDeleted": false,
 			"id": "MbS-RsaVOvqXuKY99iD4Q",
 			"fillStyle": "solid",
@@ -97862,8 +97862,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7821.162269931597,
-			"y": 1118.2816871111888,
+			"x": 7796.162269931597,
+			"y": 853.2816871111888,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 22.037609251863614,
@@ -97873,7 +97873,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -97950,8 +97950,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 237,
-			"versionNonce": 1091935211,
+			"version": 280,
+			"versionNonce": 996476078,
 			"isDeleted": false,
 			"id": "4Gd7VsmRJDx10eB3ikTKc",
 			"fillStyle": "solid",
@@ -97960,8 +97960,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7863.033566102357,
-			"y": 1117.1798016046025,
+			"x": 7838.033566102357,
+			"y": 852.1798016046025,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 37.4638550242762,
@@ -97971,7 +97971,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98053,8 +98053,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 1601234571,
+			"version": 282,
+			"versionNonce": 1558013234,
 			"isDeleted": false,
 			"id": "5yfCYKsY56SuhuJhwzKd-",
 			"fillStyle": "solid",
@@ -98063,8 +98063,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7876.25609130153,
-			"y": 1106.1610221986368,
+			"x": 7851.25609130153,
+			"y": 841.1610221986368,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 34.15822372448383,
@@ -98074,7 +98074,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98166,8 +98166,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 249,
-			"versionNonce": 894033195,
+			"version": 292,
+			"versionNonce": 1979465454,
 			"isDeleted": false,
 			"id": "k9fcvRMr0e-wUBW9PNIMX",
 			"fillStyle": "solid",
@@ -98176,8 +98176,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7764.966537835112,
-			"y": 1121.5873184109819,
+			"x": 7739.966537835112,
+			"y": 856.5873184109819,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 35.26003357117406,
@@ -98187,7 +98187,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98329,8 +98329,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 1577779147,
+			"version": 290,
+			"versionNonce": 639495922,
 			"isDeleted": false,
 			"id": "eF45kqsrGN30mXxMlv0zV",
 			"fillStyle": "solid",
@@ -98339,8 +98339,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7020.097584655087,
-			"y": 1220.7562574047784,
+			"x": 6995.097584655087,
+			"y": 955.7562574047784,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 953.1237250669965,
@@ -98350,7 +98350,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98482,8 +98482,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 239,
-			"versionNonce": 600755819,
+			"version": 282,
+			"versionNonce": 1177694510,
 			"isDeleted": false,
 			"id": "sBHEdegBUFUZj8EYdhP7V",
 			"fillStyle": "solid",
@@ -98492,8 +98492,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7496.10849182531,
-			"y": 1229.571291017537,
+			"x": 7471.10849182531,
+			"y": 964.5712910175371,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 24.241329825103094,
@@ -98503,7 +98503,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98595,8 +98595,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 694143243,
+			"version": 288,
+			"versionNonce": 304562354,
 			"isDeleted": false,
 			"id": "SMnLSkdWn-rq_7aPIDCQm",
 			"fillStyle": "solid",
@@ -98605,8 +98605,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7334.132558135442,
-			"y": 1247.201307803124,
+			"x": 7309.132558135442,
+			"y": 982.2013078031241,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 42.973206897311684,
@@ -98616,7 +98616,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98738,8 +98738,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 1412984747,
+			"version": 283,
+			"versionNonce": 2003819374,
 			"isDeleted": false,
 			"id": "W5D9q9sNPJYm--Mk1GkOt",
 			"fillStyle": "solid",
@@ -98748,8 +98748,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7372.69822300641,
-			"y": 1258.2200619891246,
+			"x": 7347.69822300641,
+			"y": 993.2200619891246,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 34.158122844622994,
@@ -98759,7 +98759,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98856,8 +98856,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 1988313675,
+			"version": 279,
+			"versionNonce": 1554012786,
 			"isDeleted": false,
 			"id": "_k1LSxFBVRBVJi75Vsw-l",
 			"fillStyle": "solid",
@@ -98866,8 +98866,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7404.652726157651,
-			"y": 1258.2200619891246,
+			"x": 7379.652726157651,
+			"y": 993.2200619891246,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 26.445050398344392,
@@ -98877,7 +98877,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -98954,8 +98954,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 958054635,
+			"version": 273,
+			"versionNonce": 2147368366,
 			"isDeleted": false,
 			"id": "wvjkG8yw1pszsbV37MP-e",
 			"fillStyle": "solid",
@@ -98964,8 +98964,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7026.708847254674,
-			"y": 1326.5364589981612,
+			"x": 7001.708847254674,
+			"y": 1061.5364589981612,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.305631299792367,
@@ -98975,7 +98975,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99022,8 +99022,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 1166633867,
+			"version": 290,
+			"versionNonce": 877673522,
 			"isDeleted": false,
 			"id": "L9VPycbtWC0kMhRNPBD_e",
 			"fillStyle": "solid",
@@ -99032,8 +99032,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7059.765160252607,
-			"y": 1314.4157940856091,
+			"x": 7034.765160252607,
+			"y": 1049.4157940856091,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 37.46385502427802,
@@ -99043,7 +99043,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99175,8 +99175,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 247,
-			"versionNonce": 805945899,
+			"version": 290,
+			"versionNonce": 621172718,
 			"isDeleted": false,
 			"id": "IHCiQW3AFt0jR4MLk4hwA",
 			"fillStyle": "solid",
@@ -99185,8 +99185,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7066.376422852191,
-			"y": 1252.7107101160896,
+			"x": 7041.376422852191,
+			"y": 987.7107101160896,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 114.59518476621088,
@@ -99196,7 +99196,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99328,8 +99328,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 1337514597,
+			"version": 245,
+			"versionNonce": 1461577202,
 			"isDeleted": false,
 			"id": "4a88yXMf7aJo0onGA-YQ8",
 			"fillStyle": "solid",
@@ -99338,8 +99338,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9007.003511219265,
-			"y": 1280.485458124361,
+			"x": 8982.003511219265,
+			"y": 1015.485458124361,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 39.66757559751932,
@@ -99349,7 +99349,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99446,8 +99446,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 584730053,
+			"version": 243,
+			"versionNonce": 512829998,
 			"isDeleted": false,
 			"id": "7jcg-xv1sgvoMzjFMfkO1",
 			"fillStyle": "solid",
@@ -99456,8 +99456,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9046.671086816783,
-			"y": 1291.5042123103615,
+			"x": 9021.671086816783,
+			"y": 1026.5042123103615,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 44.07511762386275,
@@ -99467,7 +99467,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99554,8 +99554,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 427246885,
+			"version": 242,
+			"versionNonce": 772822962,
 			"isDeleted": false,
 			"id": "0QO5RHT8yuU5zfDBBxhBy",
 			"fillStyle": "solid",
@@ -99564,8 +99564,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9091.848014287338,
-			"y": 1304.7267375095344,
+			"x": 9066.848014287338,
+			"y": 1039.7267375095344,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 37.46375414441536,
@@ -99575,7 +99575,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99657,8 +99657,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 562447563,
+			"version": 284,
+			"versionNonce": 998749294,
 			"isDeleted": false,
 			"id": "ZDx04IbScWyWtpN7Zu3P-",
 			"fillStyle": "solid",
@@ -99667,8 +99667,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7314.29887121654,
-			"y": 1344.1665262236788,
+			"x": 7289.29887121654,
+			"y": 1079.1665262236788,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 25.34324055165598,
@@ -99678,7 +99678,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99780,8 +99780,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 238,
-			"versionNonce": 1100575595,
+			"version": 281,
+			"versionNonce": 1766756722,
 			"isDeleted": false,
 			"id": "V88HM8WzqRXhdqGXpD6cV",
 			"fillStyle": "solid",
@@ -99790,8 +99790,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7348.456994061161,
-			"y": 1350.7777888232652,
+			"x": 7323.456994061161,
+			"y": 1085.7777888232652,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 30.852592424689647,
@@ -99801,7 +99801,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99888,8 +99888,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 1619906059,
+			"version": 277,
+			"versionNonce": 95614638,
 			"isDeleted": false,
 			"id": "P6kIJ-MTzgRgwmoxKq68N",
 			"fillStyle": "solid",
@@ -99898,8 +99898,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7381.513307059094,
-			"y": 1349.6759285366443,
+			"x": 7356.513307059094,
+			"y": 1084.6759285366443,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 34.15822372448383,
@@ -99909,7 +99909,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99976,8 +99976,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 279,
-			"versionNonce": 528348325,
+			"version": 322,
+			"versionNonce": 471831346,
 			"isDeleted": false,
 			"id": "UqMdjJlfPPjQpdTgsUAen",
 			"fillStyle": "solid",
@@ -99986,8 +99986,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7576.28054789476,
-			"y": 1932.362181470468,
+			"x": 7551.28054789476,
+			"y": 1667.362181470468,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 73.16344431642392,
@@ -99997,7 +99997,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100169,8 +100169,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 273,
-			"versionNonce": 1736579077,
+			"version": 316,
+			"versionNonce": 1706815726,
 			"isDeleted": false,
 			"id": "Uczibi_nKkR62OO5CLZ1-",
 			"fillStyle": "solid",
@@ -100179,8 +100179,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7661.416185547284,
-			"y": 1940.343643694534,
+			"x": 7636.416185547284,
+			"y": 1675.343643694534,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 83.80535335269633,
@@ -100190,7 +100190,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100332,8 +100332,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 267,
-			"versionNonce": 367710053,
+			"version": 310,
+			"versionNonce": 1491754226,
 			"isDeleted": false,
 			"id": "8ftt3CEDCCunj19ZnTlXG",
 			"fillStyle": "solid",
@@ -100342,8 +100342,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7292.938638940407,
-			"y": 1992.2231481509648,
+			"x": 7267.938638940407,
+			"y": 1727.2231481509648,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 775.5321200342569,
@@ -100353,7 +100353,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100465,8 +100465,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 264,
-			"versionNonce": 419797701,
+			"version": 307,
+			"versionNonce": 1194042158,
 			"isDeleted": false,
 			"id": "M7faW2JDlGaAnkQLVCNiF",
 			"fillStyle": "solid",
@@ -100475,8 +100475,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7669.39764777135,
-			"y": 2013.507088010958,
+			"x": 7644.39764777135,
+			"y": 1748.507088010958,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 21.283939859993552,
@@ -100486,7 +100486,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100583,8 +100583,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 261,
-			"versionNonce": 963639845,
+			"version": 304,
+			"versionNonce": 1295380146,
 			"isDeleted": false,
 			"id": "fNhA7viDoxsuzIbLEdhow",
 			"fillStyle": "solid",
@@ -100593,8 +100593,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7463.2099142454545,
-			"y": 2097.3124413636538,
+			"x": 7438.2099142454545,
+			"y": 1832.3124413636538,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 18.6233712603389,
@@ -100604,7 +100604,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100686,8 +100686,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 1343712645,
+			"version": 297,
+			"versionNonce": 1013648750,
 			"isDeleted": false,
 			"id": "Y9jwevrMidKkKkFMJCSMB",
 			"fillStyle": "solid",
@@ -100696,8 +100696,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7500.45665676613,
-			"y": 2095.9821570638264,
+			"x": 7475.45665676613,
+			"y": 1830.9821570638264,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 13.302355848478328,
@@ -100707,7 +100707,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100754,8 +100754,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 265,
-			"versionNonce": 1010398437,
+			"version": 308,
+			"versionNonce": 1571375218,
 			"isDeleted": false,
 			"id": "jcKlmDXCRdN200gkJGG9L",
 			"fillStyle": "solid",
@@ -100764,8 +100764,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7552.336161222561,
-			"y": 2060.065577055528,
+			"x": 7527.336161222561,
+			"y": 1795.0655770555281,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 31.925848896264142,
@@ -100775,7 +100775,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100877,8 +100877,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 425955397,
+			"version": 305,
+			"versionNonce": 583217070,
 			"isDeleted": false,
 			"id": "6I_ZGbz5JdxhaAd__xeWT",
 			"fillStyle": "solid",
@@ -100887,8 +100887,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7586.922578718481,
-			"y": 2068.0470392795946,
+			"x": 7561.922578718481,
+			"y": 1803.0470392795946,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 34.58629570847188,
@@ -100898,7 +100898,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -100985,8 +100985,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 270,
-			"versionNonce": 896745381,
+			"version": 313,
+			"versionNonce": 1108044338,
 			"isDeleted": false,
 			"id": "MOQyJOgot4tiC7jiNfdD5",
 			"fillStyle": "solid",
@@ -100995,8 +100995,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8651.117562225223,
-			"y": 1919.0597038345413,
+			"x": 8626.117562225223,
+			"y": 1654.0597038345413,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 71.8331600165966,
@@ -101006,7 +101006,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101133,8 +101133,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 275,
-			"versionNonce": 1184236293,
+			"version": 318,
+			"versionNonce": 1180502510,
 			"isDeleted": false,
 			"id": "u0DCwQD6sQd6wQ_GJgHdS",
 			"fillStyle": "solid",
@@ -101143,8 +101143,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8745.564824614194,
-			"y": 1924.380658352677,
+			"x": 8720.564824614194,
+			"y": 1659.380658352677,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 34.586417495918795,
@@ -101154,7 +101154,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101311,8 +101311,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 268,
-			"versionNonce": 1632197221,
+			"version": 311,
+			"versionNonce": 558060530,
 			"isDeleted": false,
 			"id": "y0U2W8QNlXYNiXzaYuxOe",
 			"fillStyle": "solid",
@@ -101321,8 +101321,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8524.744390046268,
-			"y": 1948.3250450248765,
+			"x": 8499.744390046268,
+			"y": 1683.3250450248765,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 470.90633211363456,
@@ -101332,7 +101332,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101454,8 +101454,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 261,
-			"versionNonce": 777700805,
+			"version": 304,
+			"versionNonce": 104963118,
 			"isDeleted": false,
 			"id": "I3TbuPPULpxQYWkb2kv2p",
 			"fillStyle": "solid",
@@ -101464,8 +101464,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8733.592631278094,
-			"y": 1962.9577460669057,
+			"x": 8708.592631278094,
+			"y": 1697.9577460669057,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 15.96292444813298,
@@ -101475,7 +101475,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101562,8 +101562,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 1625802021,
+			"version": 305,
+			"versionNonce": 760743346,
 			"isDeleted": false,
 			"id": "74sQJWFDLFb_C3n2nnLfP",
 			"fillStyle": "solid",
@@ -101572,8 +101572,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8544.698106500156,
-			"y": 1986.9021327391047,
+			"x": 8519.698106500156,
+			"y": 1721.9021327391047,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 25.274549184578063,
@@ -101583,7 +101583,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101675,8 +101675,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 267,
-			"versionNonce": 1818089605,
+			"version": 310,
+			"versionNonce": 2019157614,
 			"isDeleted": false,
 			"id": "d_-1mTl_15CgHlzKYiJmU",
 			"fillStyle": "solid",
@@ -101685,8 +101685,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8616.531266516755,
-			"y": 1984.2416250331744,
+			"x": 8591.531266516755,
+			"y": 1719.2416250331744,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 30.595564596438635,
@@ -101696,7 +101696,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101813,8 +101813,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 2054848485,
+			"version": 305,
+			"versionNonce": 1064337266,
 			"isDeleted": false,
 			"id": "dGY1d6BnyclrgYWqsUlid",
 			"fillStyle": "solid",
@@ -101823,8 +101823,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8653.778009037429,
-			"y": 1989.5625795513106,
+			"x": 8628.778009037429,
+			"y": 1724.5625795513106,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 23.94438667219947,
@@ -101834,7 +101834,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -101926,8 +101926,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 558578501,
+			"version": 305,
+			"versionNonce": 225372334,
 			"isDeleted": false,
 			"id": "p8AF7qqF3nZI7yDQuHMZo",
 			"fillStyle": "solid",
@@ -101936,8 +101936,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8688.36442653335,
-			"y": 1993.5533106633434,
+			"x": 8663.36442653335,
+			"y": 1728.5533106633434,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 31.92584889626596,
@@ -101947,7 +101947,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323866,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102039,8 +102039,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1539350693,
+			"version": 241,
+			"versionNonce": 1943257394,
 			"isDeleted": false,
 			"id": "SKY1vhYgn5tJutFeSnPgi",
 			"fillStyle": "solid",
@@ -102049,8 +102049,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8279.257509682042,
-			"y": 1282.5309571289301,
+			"x": 8254.257509682042,
+			"y": 1017.5309571289301,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 26.738981037355188,
@@ -102060,7 +102060,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102142,8 +102142,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 1586447365,
+			"version": 246,
+			"versionNonce": 891921134,
 			"isDeleted": false,
 			"id": "s-gCkjNxNd5xwScdOwne9",
 			"fillStyle": "solid",
@@ -102152,8 +102152,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8292.627013505218,
-			"y": 1292.4127666164077,
+			"x": 8267.627013505218,
+			"y": 1027.4127666164077,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 28.482854814201346,
@@ -102163,7 +102163,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102270,8 +102270,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 206,
-			"versionNonce": 175274853,
+			"version": 249,
+			"versionNonce": 1172884210,
 			"isDeleted": false,
 			"id": "yOXgw5qx3rDD3QL3EluLV",
 			"fillStyle": "solid",
@@ -102280,8 +102280,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8330.410351069288,
-			"y": 1282.5309571289301,
+			"x": 8305.410351069288,
+			"y": 1017.5309571289301,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 18.60101871772713,
@@ -102291,7 +102291,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102413,8 +102413,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 2008532677,
+			"version": 241,
+			"versionNonce": 34805038,
 			"isDeleted": false,
 			"id": "8qW0koKvUCH3Ea9AT3H3j",
 			"fillStyle": "solid",
@@ -102423,8 +102423,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8359.474506012102,
-			"y": 1286.5999249842462,
+			"x": 8334.474506012102,
+			"y": 1021.5999249842462,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 15.113377600022432,
@@ -102434,7 +102434,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102516,8 +102516,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 1492952613,
+			"version": 242,
+			"versionNonce": 741776562,
 			"isDeleted": false,
 			"id": "xQi24Uqx0LqSZk73cSJDB",
 			"fillStyle": "solid",
@@ -102526,8 +102526,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8393.770149240472,
-			"y": 1289.506345800327,
+			"x": 8368.770149240472,
+			"y": 1024.506345800327,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 21.507466142804333,
@@ -102537,7 +102537,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102624,8 +102624,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 194,
-			"versionNonce": 825137541,
+			"version": 237,
+			"versionNonce": 1301561198,
 			"isDeleted": false,
 			"id": "kmszEbI809SW0ZkJAIwqL",
 			"fillStyle": "solid",
@@ -102634,8 +102634,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8399.582990872634,
-			"y": 1278.461989273614,
+			"x": 8374.582990872634,
+			"y": 1013.4619892736141,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 20.344865885575928,
@@ -102645,7 +102645,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102707,8 +102707,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 202,
-			"versionNonce": 1233854693,
+			"version": 245,
+			"versionNonce": 878982770,
 			"isDeleted": false,
 			"id": "dcFFrsgf_NOCpSlLj1O9v",
 			"fillStyle": "solid",
@@ -102717,8 +102717,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9299.698785206629,
-			"y": 1291.0558615251844,
+			"x": 9274.698785206629,
+			"y": 1026.0558615251844,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 45.65491255576853,
@@ -102728,7 +102728,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -102830,8 +102830,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 1738521669,
+			"version": 259,
+			"versionNonce": 1542857134,
 			"isDeleted": false,
 			"id": "Rb5wtv7T3cQuRJSuqQYRw",
 			"fillStyle": "solid",
@@ -102840,8 +102840,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9347.636443390184,
-			"y": 1354.9727391032584,
+			"x": 9322.636443390184,
+			"y": 1089.9727391032584,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 35.002122847377905,
@@ -102851,7 +102851,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103023,8 +103023,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1128917925,
+			"version": 271,
+			"versionNonce": 523802674,
 			"isDeleted": false,
 			"id": "aopVV_e0p12q6BqXiSPt9",
 			"fillStyle": "solid",
@@ -103033,8 +103033,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9333.179100856769,
-			"y": 1261.3801683639358,
+			"x": 9308.179100856769,
+			"y": 996.3801683639358,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 138.4865448645378,
@@ -103044,7 +103044,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103276,8 +103276,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 245,
-			"versionNonce": 1633539243,
+			"version": 288,
+			"versionNonce": 6405102,
 			"isDeleted": false,
 			"id": "BoJW0OoXuJgFCratPUGpv",
 			"fillStyle": "solid",
@@ -103286,8 +103286,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7014.773337239859,
-			"y": 1369.504507389981,
+			"x": 6989.773337239859,
+			"y": 1104.504507389981,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 36.49816774950523,
@@ -103297,7 +103297,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103424,8 +103424,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 1672742731,
+			"version": 297,
+			"versionNonce": 2090516978,
 			"isDeleted": false,
 			"id": "ELXnI6nFfgmvKpZpeyZdn",
 			"fillStyle": "solid",
@@ -103434,8 +103434,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7051.785531872524,
-			"y": 1428.1071488917025,
+			"x": 7026.785531872524,
+			"y": 1163.1071488917025,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 25.702944314976776,
@@ -103445,7 +103445,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103617,8 +103617,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 770369003,
+			"version": 300,
+			"versionNonce": 1088425518,
 			"isDeleted": false,
 			"id": "StlPdTjbG-k6DFKIz1t__",
 			"fillStyle": "solid",
@@ -103627,8 +103627,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7072.861951858419,
-			"y": 1364.3639208801576,
+			"x": 7047.861951858419,
+			"y": 1099.3639208801576,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 116.17718217368201,
@@ -103638,7 +103638,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103825,8 +103825,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 193,
-			"versionNonce": 1745383717,
+			"version": 236,
+			"versionNonce": 1200731058,
 			"isDeleted": false,
 			"id": "-ZPqzP0EObRH2VtWbRq-a",
 			"fillStyle": "solid",
@@ -103835,8 +103835,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8542.891121114431,
-			"y": 1370.6245764923883,
+			"x": 8517.891121114431,
+			"y": 1105.6245764923883,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 173.340838870472,
@@ -103846,7 +103846,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103903,8 +103903,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 190,
-			"versionNonce": 579404933,
+			"version": 233,
+			"versionNonce": 2052724846,
 			"isDeleted": false,
 			"id": "m0V_4guMdSete4W_FZjrv",
 			"fillStyle": "solid",
@@ -103913,8 +103913,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8552.01430997202,
-			"y": 1400.7311456614168,
+			"x": 8527.01430997202,
+			"y": 1135.7311456614168,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 145.05892417804716,
@@ -103924,7 +103924,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -103966,8 +103966,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 442510309,
+			"version": 247,
+			"versionNonce": 38038898,
 			"isDeleted": false,
 			"id": "c7dli9I_7AIgQREjAqM04",
 			"fillStyle": "solid",
@@ -103976,8 +103976,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8941.575096455497,
-			"y": 1425.363793163349,
+			"x": 8916.575096455497,
+			"y": 1160.363793163349,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 40.1420643835645,
@@ -103987,7 +103987,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104109,8 +104109,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 261842757,
+			"version": 244,
+			"versionNonce": 77126318,
 			"isDeleted": false,
 			"id": "_p7Q7dFZyzAVYNp66i1Lr",
 			"fillStyle": "solid",
@@ -104119,8 +104119,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9029.157843129033,
-			"y": 1419.889871496253,
+			"x": 9004.157843129033,
+			"y": 1154.889871496253,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 36.49283895577901,
@@ -104130,7 +104130,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104237,8 +104237,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 1687697061,
+			"version": 238,
+			"versionNonce": 1375334194,
 			"isDeleted": false,
 			"id": "m-53LetpXIO2BrSvQxdgt",
 			"fillStyle": "solid",
@@ -104247,8 +104247,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9071.124603751909,
-			"y": 1422.626832329801,
+			"x": 9046.124603751909,
+			"y": 1157.626832329801,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 27.369608335478915,
@@ -104258,7 +104258,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104335,8 +104335,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 1409554949,
+			"version": 242,
+			"versionNonce": 1447384302,
 			"isDeleted": false,
 			"id": "N3L3lvBHdtPDn6RJZZ0MW",
 			"fillStyle": "solid",
@@ -104345,8 +104345,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9109.442055421581,
-			"y": 1432.6623693070464,
+			"x": 9084.442055421581,
+			"y": 1167.6623693070464,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 37.40518707543379,
@@ -104356,7 +104356,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104453,8 +104453,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 205,
-			"versionNonce": 1725731173,
+			"version": 248,
+			"versionNonce": 454637810,
 			"isDeleted": false,
 			"id": "fspGF8CJMS4unD6UyPRKs",
 			"fillStyle": "solid",
@@ -104463,8 +104463,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9278.221278981904,
-			"y": 1505.6480054558965,
+			"x": 9253.221278981904,
+			"y": 1240.6480054558965,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 49.2653785292805,
@@ -104474,7 +104474,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104611,8 +104611,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 711924933,
+			"version": 243,
+			"versionNonce": 686327598,
 			"isDeleted": false,
 			"id": "JNDnI-4TPDV8mMZN7nFES",
 			"fillStyle": "solid",
@@ -104621,8 +104621,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9338.434500845377,
-			"y": 1512.0342334799393,
+			"x": 9313.434500845377,
+			"y": 1247.0342334799393,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 41.96667709745998,
@@ -104632,7 +104632,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104744,8 +104744,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 206,
-			"versionNonce": 643382309,
+			"version": 249,
+			"versionNonce": 489245362,
 			"isDeleted": false,
 			"id": "gdaG5xtNMc6CaN_CM2Cx3",
 			"fillStyle": "solid",
@@ -104754,8 +104754,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9373.10256003643,
-			"y": 1418.9775651393063,
+			"x": 9348.10256003643,
+			"y": 1153.9775651393063,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 162.39303729898893,
@@ -104765,7 +104765,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104907,8 +104907,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 310931333,
+			"version": 231,
+			"versionNonce": 485192046,
 			"isDeleted": false,
 			"id": "ziVI1BkKozL6iElO8RoOd",
 			"fillStyle": "solid",
@@ -104917,8 +104917,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8912.380875406123,
-			"y": 1517.5081551470353,
+			"x": 8887.380875406123,
+			"y": 1252.5081551470353,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 185.20098856161167,
@@ -104928,7 +104928,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -104980,8 +104980,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 189,
-			"versionNonce": 1295660773,
+			"version": 232,
+			"versionNonce": 248587378,
 			"isDeleted": false,
 			"id": "v1RtyHwDsIyrXfdWNq7xf",
 			"fillStyle": "solid",
@@ -104990,8 +104990,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8928.802640407412,
-			"y": 1547.6147243160638,
+			"x": 8903.802640407412,
+			"y": 1282.6147243160638,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 222.60609211162955,
@@ -105001,7 +105001,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105058,8 +105058,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1460465803,
+			"version": 271,
+			"versionNonce": 1570182062,
 			"isDeleted": false,
 			"id": "-Oz09Od_Y-4w13MpQ6l5e",
 			"fillStyle": "solid",
@@ -105068,8 +105068,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7280.996481337604,
-			"y": 1435.5032125091277,
+			"x": 7255.996481337604,
+			"y": 1170.5032125091277,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 101.89233042297747,
@@ -105079,7 +105079,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105141,8 +105141,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 819242795,
+			"version": 267,
+			"versionNonce": 970442290,
 			"isDeleted": false,
 			"id": "MgvKb355uSk-oZcL9iTdN",
 			"fillStyle": "solid",
@@ -105151,8 +105151,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7271.292420254395,
-			"y": 1468.4969046960575,
+			"x": 7246.292420254395,
+			"y": 1203.4969046960575,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 107.71474930429031,
@@ -105162,7 +105162,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105204,8 +105204,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 1907132875,
+			"version": 277,
+			"versionNonce": 1158966766,
 			"isDeleted": false,
 			"id": "12YntCgGj-xMJDuOk_pme",
 			"fillStyle": "solid",
@@ -105214,8 +105214,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7567.265350440116,
-			"y": 1327.788463204838,
+			"x": 7542.265350440116,
+			"y": 1062.788463204838,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 19.408122166418252,
@@ -105225,7 +105225,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105317,8 +105317,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 514791531,
+			"version": 272,
+			"versionNonce": 388247538,
 			"isDeleted": false,
 			"id": "eLDTUENjJ40EY6_RO55TQ",
 			"fillStyle": "solid",
@@ -105327,8 +105327,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7604.140729250473,
-			"y": 1326.8180748651293,
+			"x": 7579.140729250473,
+			"y": 1061.8180748651293,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 13.585614442043152,
@@ -105338,7 +105338,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105405,8 +105405,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 900125451,
+			"version": 277,
+			"versionNonce": 7110702,
 			"isDeleted": false,
 			"id": "T0XM6f9uWz_QdsgTQLb6J",
 			"fillStyle": "solid",
@@ -105415,8 +105415,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7664.3056947430205,
-			"y": 1293.8243382566689,
+			"x": 7639.3056947430205,
+			"y": 1028.8243382566689,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 31.05287108598168,
@@ -105426,7 +105426,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105518,8 +105518,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 386808235,
+			"version": 279,
+			"versionNonce": 1790796210,
 			"isDeleted": false,
 			"id": "_Vk3rqfuFs3kmzDSd82Rw",
 			"fillStyle": "solid",
@@ -105528,8 +105528,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7702.151417471555,
-			"y": 1294.7947710179083,
+			"x": 7677.151417471555,
+			"y": 1029.7947710179083,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 34.93451328787705,
@@ -105539,7 +105539,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105641,8 +105641,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 806341707,
+			"version": 285,
+			"versionNonce": 864569966,
 			"isDeleted": false,
 			"id": "4nGO4a2Mx_d4IIGkD5M57",
 			"fillStyle": "solid",
@@ -105651,8 +105651,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7773.961220726726,
-			"y": 1334.5812704258594,
+			"x": 7748.961220726726,
+			"y": 1069.5812704258594,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 25.230541047731094,
@@ -105662,7 +105662,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105794,8 +105794,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 1686506219,
+			"version": 277,
+			"versionNonce": 1607097202,
 			"isDeleted": false,
 			"id": "1obXH6KLRpm8a_kvcbDvZ",
 			"fillStyle": "solid",
@@ -105804,8 +105804,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7812.777376216501,
-			"y": 1328.7588515445466,
+			"x": 7787.777376216501,
+			"y": 1063.7588515445466,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 37.84572272853438,
@@ -105815,7 +105815,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -105907,8 +105907,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 242,
-			"versionNonce": 956003723,
+			"version": 285,
+			"versionNonce": 489737390,
 			"isDeleted": false,
 			"id": "kQMVqbuSzP2Ts2AMnVQgF",
 			"fillStyle": "solid",
@@ -105917,8 +105917,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7843.830247302482,
-			"y": 1258.8898249687911,
+			"x": 7818.830247302482,
+			"y": 993.8898249687911,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 104.8035398636348,
@@ -105928,7 +105928,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106060,8 +106060,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 1017809963,
+			"version": 268,
+			"versionNonce": 613555506,
 			"isDeleted": false,
 			"id": "y8oJTtevL6AwumLorTqgW",
 			"fillStyle": "solid",
@@ -106070,8 +106070,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7529.419627711583,
-			"y": 1353.0189598310376,
+			"x": 7504.419627711583,
+			"y": 1088.0189598310376,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 191.169479165148,
@@ -106081,7 +106081,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106128,8 +106128,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 863882955,
+			"version": 268,
+			"versionNonce": 990840558,
 			"isDeleted": false,
 			"id": "ItmqD2CzZxJ3BxDZJSJjg",
 			"fillStyle": "solid",
@@ -106138,8 +106138,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7536.212479354134,
-			"y": 1392.805459238989,
+			"x": 7511.212479354134,
+			"y": 1127.805459238989,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 213.48872192916315,
@@ -106149,7 +106149,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928245586,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106196,8 +106196,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 253,
-			"versionNonce": 1496156837,
+			"version": 296,
+			"versionNonce": 108766962,
 			"isDeleted": false,
 			"id": "lUcQcpyp_t9M8AZZof1i6",
 			"fillStyle": "solid",
@@ -106206,8 +106206,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7291.060980610392,
-			"y": 2056.5951678104466,
+			"x": 7266.060980610392,
+			"y": 1791.5951678104466,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 15.668813552054417,
@@ -106217,7 +106217,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106284,8 +106284,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 253,
-			"versionNonce": 852422149,
+			"version": 296,
+			"versionNonce": 1839986990,
 			"isDeleted": false,
 			"id": "sJosp7Nd02wldp5tLB-DZ",
 			"fillStyle": "solid",
@@ -106294,8 +106294,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7307.709125829307,
-			"y": 2091.360388505241,
+			"x": 7282.709125829307,
+			"y": 1826.3603885052412,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 9.303381861873277,
@@ -106305,7 +106305,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106372,8 +106372,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 258,
-			"versionNonce": 1294787941,
+			"version": 301,
+			"versionNonce": 235796658,
 			"isDeleted": false,
 			"id": "JtAxkEodGmL2JkhO51nLZ",
 			"fillStyle": "solid",
@@ -106382,8 +106382,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7320.929699871976,
-			"y": 2060.51238240568,
+			"x": 7295.929699871976,
+			"y": 1795.51238240568,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 7.8343843615894,
@@ -106393,7 +106393,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106485,8 +106485,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 256,
-			"versionNonce": 194310341,
+			"version": 299,
+			"versionNonce": 477143918,
 			"isDeleted": false,
 			"id": "Ues_K_qdvcbNB3H7nDVsd",
 			"fillStyle": "solid",
@@ -106495,8 +106495,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7349.3294216332715,
-			"y": 2060.51238240568,
+			"x": 7324.3294216332715,
+			"y": 1795.51238240568,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 11.751621371262445,
@@ -106506,7 +106506,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106588,8 +106588,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 259,
-			"versionNonce": 195334181,
+			"version": 302,
+			"versionNonce": 451940978,
 			"isDeleted": false,
 			"id": "8pYYB2rBSv0kayI3m7tQG",
 			"fillStyle": "solid",
@@ -106598,8 +106598,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7367.936185357022,
-			"y": 2063.9399311674847,
+			"x": 7342.936185357022,
+			"y": 1798.9399311674847,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 12.241242375812362,
@@ -106609,7 +106609,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106706,8 +106706,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 256,
-			"versionNonce": 1531528069,
+			"version": 299,
+			"versionNonce": 1504052654,
 			"isDeleted": false,
 			"id": "KjAfcQ5spOFu52Lmu_LMN",
 			"fillStyle": "solid",
@@ -106716,8 +106716,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7370.384424866407,
-			"y": 2056.1055243914566,
+			"x": 7345.384424866407,
+			"y": 1791.1055243914566,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 19.09638472830011,
@@ -106727,7 +106727,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106809,8 +106809,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 263,
-			"versionNonce": 1858112229,
+			"version": 306,
+			"versionNonce": 2145973298,
 			"isDeleted": false,
 			"id": "z5F7aGC6_HXFe5ANQItlU",
 			"fillStyle": "solid",
@@ -106819,8 +106819,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8395.442087486143,
-			"y": 1993.2861511031574,
+			"x": 8370.442087486143,
+			"y": 1728.2861511031574,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 16.115056540489604,
@@ -106830,7 +106830,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -106947,8 +106947,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 255,
-			"versionNonce": 1452795461,
+			"version": 298,
+			"versionNonce": 108339182,
 			"isDeleted": false,
 			"id": "sfX9onwDL1MJ2tZf3K_LY",
 			"fillStyle": "solid",
@@ -106957,8 +106957,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8429.094072651005,
-			"y": 2000.3957284896364,
+			"x": 8404.094072651005,
+			"y": 1735.3957284896364,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 16.11503484378227,
@@ -106968,7 +106968,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107045,8 +107045,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 252,
-			"versionNonce": 900519333,
+			"version": 295,
+			"versionNonce": 517971442,
 			"isDeleted": false,
 			"id": "ARJNGdeNgOLQwUqPD0Pmb",
 			"fillStyle": "solid",
@@ -107055,8 +107055,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8446.63104466879,
-			"y": 2025.516220790721,
+			"x": 8421.63104466879,
+			"y": 1760.516220790721,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 8.531492863772655,
@@ -107066,7 +107066,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107128,8 +107128,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 258,
-			"versionNonce": 1999427845,
+			"version": 301,
+			"versionNonce": 1994846766,
 			"isDeleted": false,
 			"id": "jznXA7R0Qo6SB_-_vXOco",
 			"fillStyle": "solid",
@@ -107138,8 +107138,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8467.485790537987,
-			"y": 2001.3436576766944,
+			"x": 8442.485790537987,
+			"y": 1736.3436576766944,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 16.589042830726612,
@@ -107149,7 +107149,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107241,8 +107241,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 255,
-			"versionNonce": 1150644325,
+			"version": 298,
+			"versionNonce": 81465266,
 			"isDeleted": false,
 			"id": "MzhQe491sJJ8u9XydAb30",
 			"fillStyle": "solid",
@@ -107251,8 +107251,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8394.494136602378,
-			"y": 1985.2286228329126,
+			"x": 8369.494136602378,
+			"y": 1720.2286228329126,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 24.64654940426408,
@@ -107262,7 +107262,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107339,8 +107339,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 254,
-			"versionNonce": 1001659333,
+			"version": 297,
+			"versionNonce": 367295598,
 			"isDeleted": false,
 			"id": "FOrZBPYOygaGcSmPS4BRl",
 			"fillStyle": "solid",
@@ -107349,8 +107349,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8474.595367924467,
-			"y": 1987.1245029037377,
+			"x": 8449.595367924467,
+			"y": 1722.1245029037377,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 26.06842148814394,
@@ -107360,7 +107360,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928250210,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107432,8 +107432,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 376,
-			"versionNonce": 1608931301,
+			"version": 377,
+			"versionNonce": 100813170,
 			"isDeleted": false,
 			"id": "jRHixIagelHzfByY_TnuR",
 			"fillStyle": "solid",
@@ -107453,7 +107453,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107515,8 +107515,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 392,
-			"versionNonce": 461116229,
+			"version": 393,
+			"versionNonce": 154582702,
 			"isDeleted": false,
 			"id": "9LmUpfsxULupZ4a-Sye6g",
 			"fillStyle": "solid",
@@ -107536,7 +107536,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107678,8 +107678,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 370,
-			"versionNonce": 126050981,
+			"version": 371,
+			"versionNonce": 1503415090,
 			"isDeleted": false,
 			"id": "YZWKkCZHijPkI-mhJcUFs",
 			"fillStyle": "solid",
@@ -107699,7 +107699,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107731,8 +107731,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 371,
-			"versionNonce": 1219085829,
+			"version": 372,
+			"versionNonce": 1434892526,
 			"isDeleted": false,
 			"id": "hcp-qjje-eoI9MBmOA3eo",
 			"fillStyle": "solid",
@@ -107752,7 +107752,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107789,8 +107789,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 371,
-			"versionNonce": 300727653,
+			"version": 372,
+			"versionNonce": 907023602,
 			"isDeleted": false,
 			"id": "VHcDasfbeBU5yHOzN9Gwc",
 			"fillStyle": "solid",
@@ -107810,7 +107810,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107847,8 +107847,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 383,
-			"versionNonce": 1520027845,
+			"version": 384,
+			"versionNonce": 39676718,
 			"isDeleted": false,
 			"id": "NcR1nSmPuaBacZHHOuhAr",
 			"fillStyle": "solid",
@@ -107868,7 +107868,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -107965,8 +107965,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 388,
-			"versionNonce": 1414424613,
+			"version": 389,
+			"versionNonce": 1826924210,
 			"isDeleted": false,
 			"id": "ev8bw8uRqtXUQYzWntjHe",
 			"fillStyle": "solid",
@@ -107986,7 +107986,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108108,8 +108108,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 375,
-			"versionNonce": 553130885,
+			"version": 376,
+			"versionNonce": 1042535790,
 			"isDeleted": false,
 			"id": "WsKThLaFGloueXhaF_uKy",
 			"fillStyle": "solid",
@@ -108129,7 +108129,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108186,8 +108186,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 375,
-			"versionNonce": 1221878501,
+			"version": 376,
+			"versionNonce": 113311858,
 			"isDeleted": false,
 			"id": "OYDkTXIWRPQ0L3upnzVWO",
 			"fillStyle": "solid",
@@ -108207,7 +108207,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108264,8 +108264,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 1886436933,
+			"version": 374,
+			"versionNonce": 35846062,
 			"isDeleted": false,
 			"id": "C5CQ0J4pOGIE1Bpsz83Zs",
 			"fillStyle": "solid",
@@ -108285,7 +108285,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108332,8 +108332,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 383,
-			"versionNonce": 1319808421,
+			"version": 384,
+			"versionNonce": 1600922162,
 			"isDeleted": false,
 			"id": "URtSuMYTy3JCbxPjtUJIi",
 			"fillStyle": "solid",
@@ -108353,7 +108353,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108455,8 +108455,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 372,
-			"versionNonce": 1655681285,
+			"version": 373,
+			"versionNonce": 914608622,
 			"isDeleted": false,
 			"id": "y-G_BEmQ5fFUkzsYmG1MO",
 			"fillStyle": "solid",
@@ -108476,7 +108476,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108523,8 +108523,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 374,
-			"versionNonce": 1778206821,
+			"version": 375,
+			"versionNonce": 1103956978,
 			"isDeleted": false,
 			"id": "u3jD_RPVWyuRimiVz5Ldb",
 			"fillStyle": "solid",
@@ -108544,7 +108544,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108601,8 +108601,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 377,
-			"versionNonce": 375452613,
+			"version": 378,
+			"versionNonce": 1448043566,
 			"isDeleted": false,
 			"id": "e0XfYrZzZWMQnlGUJCHYu",
 			"fillStyle": "solid",
@@ -108622,7 +108622,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108694,8 +108694,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 368,
-			"versionNonce": 66597669,
+			"version": 369,
+			"versionNonce": 65715634,
 			"isDeleted": false,
 			"id": "aFW9avJTO2gtDu6w8mILQ",
 			"fillStyle": "solid",
@@ -108715,7 +108715,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108742,8 +108742,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 368,
-			"versionNonce": 1865451141,
+			"version": 369,
+			"versionNonce": 326020718,
 			"isDeleted": false,
 			"id": "g6n-7mt17XehgkecBrb9-",
 			"fillStyle": "solid",
@@ -108763,7 +108763,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323867,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108790,8 +108790,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 382,
-			"versionNonce": 717712869,
+			"version": 383,
+			"versionNonce": 585906034,
 			"isDeleted": false,
 			"id": "BlrzmFzLpEdfons4KGhE6",
 			"fillStyle": "solid",
@@ -108811,7 +108811,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -108908,8 +108908,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 380,
-			"versionNonce": 1439328581,
+			"version": 381,
+			"versionNonce": 2058006702,
 			"isDeleted": false,
 			"id": "Cn_VgfogbLNOSK3mQGJI2",
 			"fillStyle": "solid",
@@ -108929,7 +108929,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109016,8 +109016,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 370,
-			"versionNonce": 1368848549,
+			"version": 371,
+			"versionNonce": 1595439410,
 			"isDeleted": false,
 			"id": "VNzMTR551r43GrLSmTrxl",
 			"fillStyle": "solid",
@@ -109037,7 +109037,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109074,8 +109074,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 377,
-			"versionNonce": 2010815493,
+			"version": 378,
+			"versionNonce": 397175534,
 			"isDeleted": false,
 			"id": "zr7VVBLR-B9FQHs4Cjvco",
 			"fillStyle": "solid",
@@ -109095,7 +109095,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109167,8 +109167,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 377,
-			"versionNonce": 278057829,
+			"version": 378,
+			"versionNonce": 1473676018,
 			"isDeleted": false,
 			"id": "vFHbVclHvWiW_hWCsDCMY",
 			"fillStyle": "solid",
@@ -109188,7 +109188,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109260,8 +109260,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 376,
-			"versionNonce": 135077573,
+			"version": 377,
+			"versionNonce": 419224878,
 			"isDeleted": false,
 			"id": "pJ0O1oT6KDsK6c7VWMpWI",
 			"fillStyle": "solid",
@@ -109281,7 +109281,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109348,8 +109348,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 372,
-			"versionNonce": 1692859941,
+			"version": 373,
+			"versionNonce": 665670834,
 			"isDeleted": false,
 			"id": "uC2Gdz8annKALT9E4yR00",
 			"fillStyle": "solid",
@@ -109369,7 +109369,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109416,8 +109416,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 370,
-			"versionNonce": 2114843013,
+			"version": 371,
+			"versionNonce": 1946486638,
 			"isDeleted": false,
 			"id": "wuEAq9yW45jeerOgatsKY",
 			"fillStyle": "solid",
@@ -109437,7 +109437,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109473,186 +109473,191 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			]
 		},
 		{
+			"type": "rectangle",
+			"version": 148,
+			"versionNonce": 4451954,
+			"isDeleted": false,
 			"id": "RY-IWJthN4NwQamybrNGd",
-			"type": "rectangle",
-			"x": -1166.5077639673154,
-			"y": -1540.15801997375,
-			"width": 5499.999999999998,
-			"height": 3646.666666666666,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 1033960843,
-			"version": 113,
-			"versionNonce": 421565963,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707928031280,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "_T_i_uqTZJnwwGhWVkE3D",
-			"type": "rectangle",
-			"x": 4332.82556936602,
-			"y": -1532.7770675927995,
-			"width": 5759.999999999999,
-			"height": 3865.0000000000005,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 593433643,
-			"version": 345,
-			"versionNonce": 747745387,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707928258123,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "y2QJanMoupG9Aw9EYK6c3",
-			"type": "rectangle",
-			"x": 6427.82556936602,
-			"y": -1521.110400926133,
-			"width": 3669.999999999999,
-			"height": 2340,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 1650546379,
-			"version": 143,
-			"versionNonce": 1451824197,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707928234242,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "3uxCYs13ItlnXc1EP1Ohz",
-			"type": "rectangle",
-			"x": 6417.82556936602,
-			"y": 828.889599073867,
-			"width": 3669.999999999999,
-			"height": 1510,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 423773547,
-			"version": 310,
-			"versionNonce": 529598085,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707928255122,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "p4Kzz7Gm",
-			"type": "text",
-			"x": 4385.816831844318,
-			"y": 595.5562657405367,
-			"width": 1996.62744140625,
-			"height": 190.31411849167085,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1193785925,
-			"version": 452,
-			"versionNonce": 719630981,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707929830623,
-			"link": null,
-			"locked": false,
-			"text": "Man kan göra så där eller så där.\nTvå olika sätt att bokföra samma affärshändelser.",
-			"rawText": "Man kan göra så där eller så där.\nTvå olika sätt att bokföra samma affärshändelser.",
-			"fontSize": 76.12564739666834,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 162,
-			"containerId": null,
-			"originalText": "Man kan göra så där eller så där.\nTvå olika sätt att bokföra samma affärshändelser.",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "MMl2SV78bA7FfQHaupFkF",
-			"type": "arrow",
-			"x": 5652.1589026993515,
-			"y": 447.5562657405367,
-			"width": 732,
-			"height": 324,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1166.5077639673154,
+			"y": -2170.15801997375,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 5499.999999999998,
+			"height": 4276.666666666666,
+			"seed": 1033960843,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1708183323868,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 456,
+			"versionNonce": 1955915054,
+			"isDeleted": false,
+			"id": "_T_i_uqTZJnwwGhWVkE3D",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4332.82556936602,
+			"y": -2170.15802,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 5759.999999999999,
+			"height": 4276.6666669999995,
+			"seed": 593433643,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1708183330904,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 151,
+			"versionNonce": 1180782642,
+			"isDeleted": false,
+			"id": "y2QJanMoupG9Aw9EYK6c3",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6427.82556936602,
+			"y": -1521.110400926133,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3669.999999999999,
+			"height": 2244.272892926133,
+			"seed": 1650546379,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1708183323868,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 354,
+			"versionNonce": 1195410414,
+			"isDeleted": false,
+			"id": "3uxCYs13ItlnXc1EP1Ohz",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6427.82556936602,
+			"y": 723.1624919999999,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3669.999999999999,
+			"height": 1383.3461550000002,
+			"seed": 423773547,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1708183323868,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 453,
+			"versionNonce": 1353045550,
+			"isDeleted": false,
+			"id": "p4Kzz7Gm",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4385.816831844318,
+			"y": 595.5562657405367,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 1996.62744140625,
+			"height": 190.31411849167085,
+			"seed": 1193785925,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708183323868,
+			"link": null,
+			"locked": false,
+			"fontSize": 76.12564739666834,
+			"fontFamily": 1,
+			"text": "Man kan göra så där eller så där.\nTvå olika sätt att bokföra samma affärshändelser.",
+			"rawText": "Man kan göra så där eller så där.\nTvå olika sätt att bokföra samma affärshändelser.",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Man kan göra så där eller så där.\nTvå olika sätt att bokföra samma affärshändelser.",
+			"lineHeight": 1.25,
+			"baseline": 162
+		},
+		{
+			"type": "arrow",
+			"version": 137,
+			"versionNonce": 1441557426,
+			"isDeleted": false,
+			"id": "MMl2SV78bA7FfQHaupFkF",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5652.1589026993515,
+			"y": 447.5562657405367,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 732,
+			"height": 324,
+			"seed": 369265189,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 369265189,
-			"version": 136,
-			"versionNonce": 1890410085,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707928234242,
+			"boundElements": [],
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -109662,20 +109667,59 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					732,
 					-324
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "pb1z5uuAQQu09mzWUV2rR",
 			"type": "arrow",
+			"version": 149,
+			"versionNonce": 505864302,
+			"isDeleted": false,
+			"id": "pb1z5uuAQQu09mzWUV2rR",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": 5488.1589026993515,
 			"y": 879.5562657405367,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
 			"width": 872,
 			"height": 672,
+			"seed": 765254283,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1708183323868,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					872,
+					672
+				]
+			]
+		},
+		{
+			"id": "ZrlwL0mN",
+			"type": "text",
+			"x": 8253.82556936602,
+			"y": 1401.389599073867,
+			"width": 18,
+			"height": 45,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -109686,1616 +109730,25 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 765254283,
-			"version": 148,
-			"versionNonce": 983452101,
-			"isDeleted": false,
+			"roundness": null,
+			"seed": 1621416562,
+			"version": 3,
+			"versionNonce": 770472434,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1707928234242,
+			"updated": 1708183323868,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					872,
-					672
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1570937765,
-			"isDeleted": true,
-			"id": "xbZ3jktb_HpbWfiyHotzT",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 386.7663426210648,
-			"y": -1618.997148112036,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 32.168290604708716,
-			"height": 69.55305969130063,
-			"seed": 1084826406,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893622,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.8247177228248574,
-					-15.649435445649488
-				],
-				[
-					17.38827487246823,
-					-32.16831050399469
-				],
-				[
-					26.95181212282546,
-					-48.6871457637676
-				],
-				[
-					32.168290604708716,
-					-59.120102727534004
-				],
-				[
-					32.168290604708716,
-					-47.817745949644404
-				],
-				[
-					28.69063165035783,
-					-20.8659139275328
-				],
-				[
-					26.95181212282546,
-					-4.347078667760115
-				],
-				[
-					26.95181212282546,
-					6.085878296006513
-				],
-				[
-					28.69063165035783,
-					10.432956963766628
-				],
-				[
-					28.69063165035783,
-					7.824717722824971
-				],
-				[
-					27.821231836234745,
-					6.085878296006513
-				],
-				[
-					27.821231836234745,
-					6.085878296006513
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.04296875,
-				0.046875,
-				0.0478515625,
-				0.048828125,
-				0.0498046875,
-				0.0595703125,
-				0.0673828125,
-				0.0908203125,
-				0.271484375,
-				0.2958984375,
-				0.076171875,
-				0.068359375,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 941759787,
-			"isDeleted": true,
-			"id": "n7fQxP08oT-UsATVoQ-ba",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 386.7663426210648,
-			"y": -1632.0383443167439,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 46.07890652282606,
-			"height": 13.910635817403772,
-			"seed": 858032294,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893622,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.4776589543508862,
-					-3.477678853637144
-				],
-				[
-					6.9553179087017725,
-					-5.216478481883314
-				],
-				[
-					28.69063165035783,
-					-13.041196204708285
-				],
-				[
-					33.90711013224103,
-					-13.910635817403772
-				],
-				[
-					44.340067096007544,
-					-11.302396576462115
-				],
-				[
-					46.07890652282606,
-					-10.432956963766628
-				],
-				[
-					46.07890652282606,
-					-10.432956963766628
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0283203125,
-				0.0419921875,
-				0.046875,
-				0.1083984375,
-				0.19140625,
-				0.0810546875,
-				0.07421875,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1752817413,
-			"isDeleted": true,
-			"id": "vRPfy4Xu_v2f0m2zzBASL",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 446.75584516272204,
-			"y": -1673.77017217181,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 9.563537250357228,
-			"height": 53.03418463295543,
-			"seed": 638438,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.869399814123085,
-					2.608239240941657
-				],
-				[
-					-1.73879962824617,
-					8.694117536947942
-				],
-				[
-					-8.694117536947942,
-					44.34006709600749
-				],
-				[
-					-8.694117536947942,
-					48.687105965195315
-				],
-				[
-					-9.563537250357228,
-					53.03418463295543
-				],
-				[
-					-6.955278110129427,
-					49.5565455778908
-				],
-				[
-					-5.216478481883257,
-					45.209466910130686
-				],
-				[
-					-5.216478481883257,
-					45.209466910130686
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.025390625,
-				0.044921875,
-				0.0693359375,
-				0.380859375,
-				0.3828125,
-				0.384765625,
-				0.0771484375,
-				0.0634765625,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1541095371,
-			"isDeleted": true,
-			"id": "41X90qcMEaRTlwctYGdpM",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 458.92764155330707,
-			"y": -1677.247851025447,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 9.56355714964343,
-			"height": 55.642463672469376,
-			"seed": 8697446,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.7388394268185152,
-					-2.6082392409414297
-				],
-				[
-					2.6082392409416,
-					-1.73879962824617
-				],
-				[
-					2.6082392409416,
-					3.477678853637144
-				],
-				[
-					0,
-					13.910635817403772
-				],
-				[
-					-4.347078667760172,
-					35.645949559059545
-				],
-				[
-					-6.955317908701829,
-					53.034224431527946
-				],
-				[
-					-6.955317908701829,
-					53.034224431527946
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.01953125,
-				0.04296875,
-				0.0693359375,
-				0.34375,
-				0.4208984375,
-				0.453125,
-				0.4453125,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1381086821,
-			"isDeleted": true,
-			"id": "arWO0ILNAoEB2oUFUPW1F",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 465.88295946200884,
-			"y": -1645.9489801341476,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 33.90711013224103,
-			"height": 13.910635817403545,
-			"seed": 1149006758,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.7387996282461131,
-					0.8694396126954871
-				],
-				[
-					6.95527811012937,
-					0
-				],
-				[
-					18.257674686591315,
-					-3.4776390550646283
-				],
-				[
-					25.212952796720685,
-					-6.085878296006285
-				],
-				[
-					31.29887089129943,
-					-8.694117536947942
-				],
-				[
-					33.90711013224103,
-					-9.563517351070914
-				],
-				[
-					33.03767051954554,
-					-12.17175659201257
-				],
-				[
-					31.29887089129943,
-					-13.041196204708058
-				],
-				[
-					31.29887089129943,
-					-13.041196204708058
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0185546875,
-				0.0361328125,
-				0.052734375,
-				0.119140625,
-				0.27734375,
-				0.29296875,
-				0.294921875,
-				0.09375,
-				0.0849609375,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 2107051627,
-			"isDeleted": true,
-			"id": "sMoLGCSm6JRwOYbPwBKX2",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 489.3571126304834,
-			"y": -1673.77017217181,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 18.257674686591372,
-			"height": 50.42594539201377,
-			"seed": 24430438,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.738839426818572,
-					0.8693998141229713
-				],
-				[
-					-2.608239240941657,
-					1.73879962824617
-				],
-				[
-					-6.9553179087017725,
-					11.3023567778896
-				],
-				[
-					-10.432956963766514,
-					39.1235886141244
-				],
-				[
-					-7.8247177228248574,
-					46.948306336949145
-				],
-				[
-					-5.216478481883257,
-					50.42594539201377
-				],
-				[
-					-0.8694396126954871,
-					50.42594539201377
-				],
-				[
-					4.34703886918777,
-					46.948306336949145
-				],
-				[
-					7.8247177228248574,
-					44.34006709600749
-				],
-				[
-					7.8247177228248574,
-					44.34006709600749
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.03125,
-				0.0419921875,
-				0.048828125,
-				0.072265625,
-				0.3369140625,
-				0.3505859375,
-				0.3564453125,
-				0.3603515625,
-				0.3466796875,
-				0.34375,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 368550341,
-			"isDeleted": true,
-			"id": "XxAS1hwuDnXlclF3gnlPX",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 511.9618261862625,
-			"y": -1653.7736978569724,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 8.694117536947942,
-			"height": 25.212992595293144,
-			"seed": 809737830,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.869399814123085,
-					1.7388394268184584
-				],
-				[
-					-2.6082392409416,
-					4.347078667760115
-				],
-				[
-					-6.085878296006342,
-					13.910635817403545
-				],
-				[
-					-8.694117536947942,
-					25.212992595293144
-				],
-				[
-					-7.8247177228248574,
-					24.343592781169946
-				],
-				[
-					-5.216478481883257,
-					19.12711429928686
-				],
-				[
-					-3.477639055064685,
-					14.780035631526516
-				],
-				[
-					-3.477639055064685,
-					14.780035631526516
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0322265625,
-				0.0556640625,
-				0.0791015625,
-				0.396484375,
-				0.40234375,
-				0.3544921875,
-				0.0576171875,
-				0.046875,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 538970379,
-			"isDeleted": true,
-			"id": "uALzKs0jgmGb26k9DeOK8",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 510.22302655801633,
-			"y": -1675.5090115986284,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 0.0001,
-			"height": 3.477739055064856,
-			"seed": 452458214,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-2.608239240941657
-				],
-				[
-					0,
-					-3.4776390550648557
-				],
-				[
-					0,
-					-0.8693998141231987
-				],
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0322265625,
-				0.0458984375,
-				0.060546875,
-				0.068359375,
-				0.068359375,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 2022252837,
-			"isDeleted": true,
-			"id": "1YAjJacjTTKivSrny4uP2",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 528.4807012446076,
-			"y": -1656.381937097914,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 26.951792223539314,
-			"height": 40.86242804094286,
-			"seed": 679728550,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.869399814123085,
-					-0.8693998141229713
-				],
-				[
-					0.869399814123085,
-					2.608239240941657
-				],
-				[
-					0.869399814123085,
-					9.56355714964343
-				],
-				[
-					-1.7388394268184584,
-					18.257674686591372
-				],
-				[
-					-2.608239240941657,
-					22.604753354351487
-				],
-				[
-					0,
-					19.12711429928686
-				],
-				[
-					9.563517351071027,
-					3.477678853637144
-				],
-				[
-					17.388235073895885,
-					-4.347038869187827
-				],
-				[
-					22.6047135557792,
-					-7.824717722824971
-				],
-				[
-					24.343552982597657,
-					-6.085878296006285
-				],
-				[
-					21.735313741656,
-					3.477678853637144
-				],
-				[
-					15.649435445649715,
-					15.649435445649715
-				],
-				[
-					8.694117536947942,
-					29.56007126305326
-				],
-				[
-					6.955278110129484,
-					33.03771031811789
-				],
-				[
-					8.694117536947942,
-					31.29887089129943
-				],
-				[
-					12.171756592012684,
-					26.951832022111603
-				],
-				[
-					12.171756592012684,
-					26.951832022111603
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0341796875,
-				0.0419921875,
-				0.056640625,
-				0.06640625,
-				0.07421875,
-				0.302734375,
-				0.310546875,
-				0.3212890625,
-				0.3232421875,
-				0.3193359375,
-				0.3203125,
-				0.365234375,
-				0.3798828125,
-				0.38671875,
-				0.3896484375,
-				0.083984375,
-				0.4267578125,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 149991339,
-			"isDeleted": true,
-			"id": "BZQl20B5JA2l-rGM7bb6V",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 569.3430894869781,
-			"y": -1663.3372152080433,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 41.73182785506583,
-			"height": 66.94478065178646,
-			"seed": 766583654,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2.6082392409415434,
-					1.7387996282459426
-				],
-				[
-					-5.2164784818832,
-					4.3470388691876
-				],
-				[
-					-8.694117536947942,
-					8.694117536947715
-				],
-				[
-					-13.910596018831143,
-					18.257674686591145
-				],
-				[
-					-18.25767468659126,
-					32.1682707054224
-				],
-				[
-					-15.649435445649715,
-					34.77650994636406
-				],
-				[
-					-11.302356777889486,
-					32.1682707054224
-				],
-				[
-					-5.2164784818832,
-					25.21295279672063
-				],
-				[
-					0.8694396126954871,
-					16.518835259772686
-				],
-				[
-					3.4776788536370304,
-					8.694117536947715
-				],
-				[
-					5.2164784818832,
-					1.7387996282459426
-				],
-				[
-					6.0859180945786875,
-					2.6082392409414297
-				],
-				[
-					4.347078667760229,
-					9.563517351070914
-				],
-				[
-					-0.869399814123085,
-					23.47415316847446
-				],
-				[
-					-17.38823507389577,
-					56.51182368802006
-				],
-				[
-					-19.996474314837428,
-					59.9895025416572
-				],
-				[
-					-22.604713555779085,
-					62.59774178259886
-				],
-				[
-					-30.429431278603943,
-					66.94478065178646
-				],
-				[
-					-33.90711013224097,
-					66.94478065178646
-				],
-				[
-					-35.64590976048714,
-					65.20598102354029
-				],
-				[
-					-35.64590976048714,
-					65.20598102354029
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.033203125,
-				0.0673828125,
-				0.083984375,
-				0.201171875,
-				0.2958984375,
-				0.33203125,
-				0.337890625,
-				0.3466796875,
-				0.357421875,
-				0.36328125,
-				0.3662109375,
-				0.36328125,
-				0.3603515625,
-				0.3720703125,
-				0.3837890625,
-				0.4013671875,
-				0.4072265625,
-				0.412109375,
-				0.416015625,
-				0.48046875,
-				0.4951171875,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1064547461,
-			"isDeleted": true,
-			"id": "7LsBqDTHjWHHmj1n1xkk8",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 623.246713732629,
-			"y": -1658.1207367261602,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 2.6082392409415434,
-			"height": 19.127074500714343,
-			"seed": 61343270,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.8693998141231987
-				],
-				[
-					0,
-					1.73879962824617
-				],
-				[
-					0,
-					4.347038869187827
-				],
-				[
-					-1.738839426818572,
-					12.17175659201257
-				],
-				[
-					-2.6082392409415434,
-					16.518835259772686
-				],
-				[
-					-2.6082392409415434,
-					19.127074500714343
-				],
-				[
-					-1.738839426818572,
-					16.518835259772686
-				],
-				[
-					-1.738839426818572,
-					16.518835259772686
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0302734375,
-				0.041015625,
-				0.0478515625,
-				0.076171875,
-				0.30078125,
-				0.3134765625,
-				0.3173828125,
-				0.0849609375,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1781760587,
-			"isDeleted": true,
-			"id": "WeZIqIfTPO42xJOE-eYjY",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 630.2020316413309,
-			"y": -1679.8560902663885,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 6.955317908701545,
-			"seed": 401714854,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.8694396126952597
-				],
-				[
-					0,
-					3.4776788536369168
-				],
-				[
-					0,
-					6.955317908701545
-				],
-				[
-					0,
-					6.955317908701545
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.037109375,
-				0.0556640625,
-				0.0634765625,
-				0.0380859375,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 645192677,
-			"isDeleted": true,
-			"id": "g3Ku0-yy2Td2NUIqyUaQs",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 700.6244911467545,
-			"y": -1658.9901763388557,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 26.9517922235392,
-			"height": 4.347038869187827,
-			"seed": 1254357542,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.7388394268184584,
-					0.8694396126954871
-				],
-				[
-					-1.7388394268184584,
-					1.7388394268186858
-				],
-				[
-					0,
-					1.7388394268186858
-				],
-				[
-					8.694117536947942,
-					2.608239240941657
-				],
-				[
-					16.5188352597728,
-					2.608239240941657
-				],
-				[
-					20.86591392753303,
-					1.7388394268186858
-				],
-				[
-					24.343552982597657,
-					0
-				],
-				[
-					25.212952796720742,
-					-1.73879962824617
-				],
-				[
-					25.212952796720742,
-					-1.73879962824617
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0234375,
-				0.033203125,
-				0.04296875,
-				0.05078125,
-				0.0654296875,
-				0.0673828125,
-				0.068359375,
-				0.0703125,
-				0.0654296875,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1287848171,
-			"isDeleted": true,
-			"id": "BO70OuAMmQGaOWBcmF6Xc",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 722.3598048884106,
-			"y": -1681.594889894635,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 22.604753354351487,
-			"height": 40.86238824237057,
-			"seed": 525164006,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.869399814123085,
-					0.8693998141231987
-				],
-				[
-					-3.477639055064742,
-					5.216478481883314
-				],
-				[
-					-7.8247177228248574,
-					11.3023567778896
-				],
-				[
-					-13.041196204708172,
-					19.996474314837542
-				],
-				[
-					-16.5188352597728,
-					28.690631650358
-				],
-				[
-					-17.388274872468287,
-					32.16827070542263
-				],
-				[
-					-11.3023567778896,
-					40.86238824237057
-				],
-				[
-					-5.216478481883314,
-					40.86238824237057
-				],
-				[
-					3.4776390550646283,
-					37.38474918730594
-				],
-				[
-					5.2164784818832,
-					36.515349373182744
-				],
-				[
-					5.2164784818832,
-					36.515349373182744
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0263671875,
-				0.037109375,
-				0.0458984375,
-				0.052734375,
-				0.05859375,
-				0.0673828125,
-				0.0751953125,
-				0.087890625,
-				0.095703125,
-				0.5078125,
-				0.5634765625,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 362420037,
-			"isDeleted": true,
-			"id": "n0t7Yb0qOqhgagW7SgK1U",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 758.0057544474702,
-			"y": -1697.2443253402844,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 23.474153168474572,
-			"height": 64.3365414108448,
-			"seed": 464185382,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.869399814123085,
-					2.608239240941657
-				],
-				[
-					0.869399814123085,
-					7.824717722824744
-				],
-				[
-					-1.738839426818572,
-					17.388235073895885
-				],
-				[
-					-17.388274872468287,
-					54.77302405977389
-				],
-				[
-					-19.12711429928686,
-					59.120062928961715
-				],
-				[
-					-22.604753354351487,
-					64.3365414108448
-				],
-				[
-					-20.865913927532915,
-					64.3365414108448
-				],
-				[
-					-20.865913927532915,
-					64.3365414108448
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.021484375,
-				0.0439453125,
-				0.0576171875,
-				0.0712890625,
-				0.2763671875,
-				0.28125,
-				0.2431640625,
-				0.0673828125,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 975809419,
-			"isDeleted": true,
-			"id": "LBmMRJA3rrdJQtGWDthC5",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 774.5246295058154,
-			"y": -1672.900772357687,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 26.08239240941623,
-			"height": 44.340067096007715,
-			"seed": 270667942,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.73879962824617,
-					0
-				],
-				[
-					-2.608279039514059,
-					3.4776390550648557
-				],
-				[
-					-8.694157335520345,
-					10.432956963766628
-				],
-				[
-					-16.518875058345202,
-					16.518835259772914
-				],
-				[
-					-21.735353540228402,
-					19.12707450071457
-				],
-				[
-					-24.34359278117006,
-					19.996514113410058
-				],
-				[
-					-13.910635817403545,
-					17.3882748724684
-				],
-				[
-					-12.171836189157489,
-					18.257674686591372
-				],
-				[
-					-11.302396576462002,
-					22.604753354351487
-				],
-				[
-					-13.910635817403545,
-					31.29887089129943
-				],
-				[
-					-16.518875058345202,
-					37.38474918730594
-				],
-				[
-					-19.996553911982346,
-					43.470667281884516
-				],
-				[
-					-20.865953726105317,
-					44.340067096007715
-				],
-				[
-					-20.865953726105317,
-					44.340067096007715
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0322265625,
-				0.0390625,
-				0.0498046875,
-				0.052734375,
-				0.0537109375,
-				0.0546875,
-				0.0546875,
-				0.0615234375,
-				0.068359375,
-				0.255859375,
-				0.3583984375,
-				0.3671875,
-				0.37890625,
-				0.08984375,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 390129317,
-			"isDeleted": true,
-			"id": "bpVnamrAJ-e-egY_yKYaI",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 789.3046253387696,
-			"y": -1665.076054634862,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 42.60126746776143,
-			"height": 34.776549744936574,
-			"seed": 1553532070,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.8694396126954871,
-					3.4776390550646283
-				],
-				[
-					-9.563517351071027,
-					21.735313741656
-				],
-				[
-					-12.17175659201257,
-					25.212992595293144
-				],
-				[
-					-15.649435445649715,
-					31.29887089129943
-				],
-				[
-					-15.649435445649715,
-					33.037710318118116
-				],
-				[
-					-13.041196204708058,
-					29.56003146448097
-				],
-				[
-					-2.608239240941657,
-					17.388274872468173
-				],
-				[
-					6.0859180945786875,
-					9.56355714964343
-				],
-				[
-					15.649435445649715,
-					3.4776390550646283
-				],
-				[
-					22.604713555779085,
-					-0.8693998141229713
-				],
-				[
-					26.08239240941623,
-					-1.7388394268184584
-				],
-				[
-					26.951832022111716,
-					-0.8693998141229713
-				],
-				[
-					26.951832022111716,
-					-0.8693998141229713
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.01953125,
-				0.0419921875,
-				0.1953125,
-				0.251953125,
-				0.291015625,
-				0.3203125,
-				0.3349609375,
-				0.34375,
-				0.3486328125,
-				0.3505859375,
-				0.34765625,
-				0.0771484375,
-				0.06640625,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 648151595,
-			"isDeleted": true,
-			"id": "VOR7ImIysuyMSOB0zayu2",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 815.3870177481858,
-			"y": -1632.9077839294396,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 2.6082392409415434,
-			"height": 5.216478481883087,
-			"seed": 2108921190,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707927893623,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.8694396126954871,
-					0
-				],
-				[
-					-0.8694396126954871,
-					1.7388394268186858
-				],
-				[
-					-0.8694396126954871,
-					2.608239240941657
-				],
-				[
-					0.8694396126954871,
-					0.8694396126957145
-				],
-				[
-					1.7387996282460563,
-					-1.7387996282459426
-				],
-				[
-					1.7387996282460563,
-					-2.6082392409414297
-				],
-				[
-					0.8694396126954871,
-					-2.6082392409414297
-				],
-				[
-					-0.8694396126954871,
-					0
-				],
-				[
-					-0.8694396126954871,
-					0
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.0205078125,
-				0.025390625,
-				0.0341796875,
-				0.0361328125,
-				0.041015625,
-				0.0439453125,
-				0.046875,
-				0.052734375,
-				0.046875,
-				0
-			]
+			"text": "",
+			"rawText": "",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 32,
+			"containerId": "3uxCYs13ItlnXc1EP1Ohz",
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -111313,10 +109766,10 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3475.841097300648,
-		"scrollY": 4042.7770675928014,
+		"scrollX": 409.34109730064847,
+		"scrollY": 3511.8747328428694,
 		"zoom": {
-			"value": 0.15000000000000002
+			"value": 0.2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

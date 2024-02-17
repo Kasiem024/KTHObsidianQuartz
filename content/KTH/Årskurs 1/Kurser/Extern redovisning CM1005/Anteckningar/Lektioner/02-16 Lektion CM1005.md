@@ -9,7 +9,10 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005KS3
 
 ---
 [[02-16 Lektion CM1005.excalidraw]]
+
 [[02-16 Powerpoint CM1005.pdf]]
+
+[Räkningar Excalidraw](https://drive.google.com/file/d/1vsq5DZhgN7DebUuZZpIDPHYEkQmMM06d/view?usp=sharing)
 
 ---
 

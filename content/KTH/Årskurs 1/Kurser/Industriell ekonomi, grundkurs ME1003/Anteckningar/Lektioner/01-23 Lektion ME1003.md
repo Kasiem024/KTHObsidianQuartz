@@ -9,8 +9,10 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #lektion
 
 ---
 [Länk till föreläsning på Canvas](https://kaf.canvas.kth.se/media/F4+De+va%CC%88rdeskapande+processerna+Produktion+och+Produktutveckling+P3+V22+SWE+2022-01-24+BK/0_k2rwr232/660304)
-[[01-23 Journal Lektion ME1003.pdf]]
+
 [Länk till PPT på Canvas](https://canvas.kth.se/courses/44986/files/folder/2.%20F%C3%B6rel%C3%A4sningar?preview=7547659)
+
+[[01-23 Journal Lektion ME1003.pdf]]
 
 ---
 

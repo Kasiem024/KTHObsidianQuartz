@@ -9,8 +9,11 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005KS3
 
 ---
 
-![[02-14 Lektion CM1005.excalidraw]]
-![[02-14 Journal Lektion Moms CM1005.pdf]]
+[[02-14 Lektion CM1005.excalidraw]]
+
+[[02-14 Journal Lektion Moms CM1005.pdf]]
+
+[Räkningar Excalidraw](https://drive.google.com/file/d/1KM2Ivq2Um6gvVRlxq6SZPMXhqGl9bhrc/view?usp=drive_link)
 
 ---
 Sida 126
