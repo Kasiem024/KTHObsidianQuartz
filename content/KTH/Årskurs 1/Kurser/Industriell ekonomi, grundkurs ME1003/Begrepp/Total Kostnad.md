@@ -30,7 +30,7 @@ $$
 ## Flashcards
 
 Total Kostnad (Definition):: När man summerar en produkts [[Fast Kostnad]] och [[Rörlig Kostnad]]
-<!--SR:!2024-02-17,4,270!2024-02-18,4,275-->
+<!--SR:!2024-03-07,17,290!2024-03-04,14,295-->
 
 Total Kostnad (Formel)
 ||
@@ -40,4 +40,4 @@ $$
 $$
 {TK = FK + (RK\!/\!st \,*\, q)}
 $$
-<!--SR:!2024-02-17,4,272-->
+<!--SR:!2024-03-04,14,292-->

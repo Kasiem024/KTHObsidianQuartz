@@ -21,7 +21,7 @@ Betald moms vid inköp respektive moms vid försäljning påverkar inte företag
 
 Hur mycket [[Förädlingsvärde]] man tillför bestämmer hur mycket Moms man ska betala.
 
-## In- och Utgående Moms
+### In- och Utgående Moms
 
 - ==Ingående Moms==: De varor företaget ==KÖPER IN==
 - ==Utgående Moms==: De varor företaget ==SÄLJER UT==
@@ -48,7 +48,17 @@ Destinationsprincipen säger att [[Moms]] är en beskattning av konsumtion, allt
 
 Möbelaffären C har ingen ingående moms för att Möbelfabrikant B är i ett annat land. Alltså, C betalar 500 i moms till staten.
 
----
+### Begrepp inom Moms
+
+==Skattskyldiga== är i stort sett alla rörelseidkare och jordbrukare. ^1ef8d5
+
+==Skattepliktiga== är, med ett fåtal undantag, alla varor och tjänster. ^80b30c
+
+==Redovisningsperiod== omfattar normalt en månad, alltså lämnas momsdeklaration varje månad. ^ceca4b
+
+**Betalning av moms till staten** ska ske samtidigt med avlämnande av deklarationen, momsredovisningstillfället. ^4291e4
+
+==Moms och Euro==: Om företagets redovisningsvaluta är Euro, räknas summa ingående och summa utgående moms i deklarationen till Skatteverket om till kronor. Denna omräkning sker enligt en genomsnittskurs som fastställs av Skatteverket för den månad momsen avser. ^e1679e
 
 Olika momssatser:
 
@@ -57,13 +67,22 @@ Olika momssatser:
 - 12%: Livsmedel, restaurang, hotell.
 - 25%: Allt annat momspliktigt.
 
-I stort sätt alla rörelseidkare och jordbrukare är momsskyldiga.
-
 Staten kan använda moms för att belöna eller straffa befolkningen beroende på deras köpvanor. Alltså kan de göra saker som de tycker är bättre för landet billigt, exempelvis lägre moms på kollektivtrafik.
-
-Hur ofta man ska redovisa sin moms beror på hur mycket omsättning man har. 1 gång/år, 4 gånger/år eller 12 gånger/år.
 
 ## Flashcards
 
-Moms (Definition):: En skatt som betalas vid köpet av varor och tjänster. Inbakad i priset
+Moms (Definition):: En skatt som betalas vid köpet av varor och tjänster, inbakad i priset, en statlig ==konsumtionsskatt==
 <!--SR:!2024-03-15,37,292!2024-04-19,64,312-->
+
+In- och Utgående Moms (Definition)
+??
+- ==Ingående Moms==: De varor företaget ==KÖPER IN==
+- ==Utgående Moms==: De varor företaget ==SÄLJER UT==
+
+Skattskyldiga näringsidkare för moms:: I stort sett alla ==rörelseidkare== och ==jordbrukare==
+
+Skattepliktiga varor och tjänster för moms:: Med ett fåtal undantag, alla ==varor== och ==tjänster==
+
+Redovisningsperiod (Definition):: Omfattar normalt en månad, alltså lämnas ==momsdeklaration varje månad==
+
+Moms och Euro:: Om företagets redovisningsvaluta är Euro, räknas summa ingående och summa utgående moms i deklarationen till Skatteverket om till kronor. Denna omräkning sker enligt en genomsnittskurs som fastställs av Skatteverket för den månad momsen avser, **alltså om redovisningsvalutan är Euro räknas momsen om till kronor genom att använda en genomsnittskurs som bestäms av Skatteverket för den månaden momsen avser**

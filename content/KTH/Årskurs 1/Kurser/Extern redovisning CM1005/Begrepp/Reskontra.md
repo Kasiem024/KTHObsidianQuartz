@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
 ---
 
@@ -24,10 +24,31 @@ Vanliga Reskontra:
 - Leverantörsreskontra
 - Inventarieförteckning
 
-Alltså, Reskontra är ett sätt att dela upp, sortera och kategorisera information i syftet om att hjälpa med bokföringen.
+Alltså, Reskontra är ett sätt att dela upp, sortera och kategorisera information i syftet om att hjälpa med bokföringen. Innehållet är vanligen information och fakturor som hör till Reskontra gruppen.
+
+### Kundreskontra
+
+En Kundreskontra tillhör den sidoordnade redovisningen och upptar konton för var och en av företagets kunder.
+
+Alltså har man information om alla sina kunder i en Kundreskontra, vanligen fakturor. Den är kopplad till kontot för ==kundfordringar==.
+
+### Leverantörsreskontra
+
+En Leverantörsreskontra tillhör den sidoordnade redovisningen och upptar konton för var och en av företagets leverantörer.
+
+Alltså har man information om alla sina leverantörer i en Leverantörsreskontra, vanligen fakturor. Den är kopplad till kontot för ==leverantörsskulder==.
 
 ## Kopplat till
 
+- [[Löpande Bokföring]]
+
 ## Flashcards
 
-Reskontra (Definition):: Ett sätt att dela upp, sortera och kategorisera information i syftet om att hjälpa med bokföringen
+Reskontra (Definition):: Ett sätt att dela upp, sortera och kategorisera information i syftet om att hjälpa med bokföringen, innehållet är vanligen information och fakturor som hör till gruppen
+<!--SR:!2000-01-01,1,250!2024-02-20,1,230-->
+
+Kundreskontra (Definition):: Information om alla sina kunder, vanligen fakturor, kopplad till kontot för ==kundfordringar==
+<!--SR:!2000-01-01,1,250!2024-02-23,4,270-->
+
+Leverantörsreskontra (Definition):: Information om alla sina leverantörer, vanligen fakturor, kopplad till kontot för ==leverantörsskulder==
+<!--SR:!2024-02-20,1,230!2000-01-01,1,250-->

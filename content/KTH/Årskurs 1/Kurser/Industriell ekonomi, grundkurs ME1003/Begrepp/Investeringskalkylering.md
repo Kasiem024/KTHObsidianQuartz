@@ -33,4 +33,4 @@ Det investerade kapitalet skall förräntas alltså öka i värde. Detta kallas 
 ## Flashcards
 
 Investeringskalkylering (Definition):: Handlar om att bedöma [[Lönsamhet]] eller värdet av en investering, syftet är att veta om en viss investering är bra eller inte, hur påverkar en viss investering företagets ==betalningsströmmar==
-<!--SR:!2024-02-17,3,252!2024-02-17,4,270-->
+<!--SR:!2024-02-28,9,272!2024-03-07,17,290-->

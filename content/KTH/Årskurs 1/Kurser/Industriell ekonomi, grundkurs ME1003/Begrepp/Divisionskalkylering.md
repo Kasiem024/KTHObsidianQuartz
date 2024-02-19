@@ -30,7 +30,7 @@ $$
 ## Flashcards
 
 Divisionskalkylering (Definition):: Kalkyleringsmetod om man säljer ett litet antal likartade produkter och vill veta självkostnaden
-<!--SR:!2024-02-17,3,250!2024-02-24,8,250-->
+<!--SR:!2024-02-25,6,250!2024-02-24,8,250-->
 
 Divisionskalkylering (Formel)
 ||

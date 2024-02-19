@@ -22,4 +22,4 @@ Allts책, Kalkylr채ntan visar v채rdet av en framtida investering idag, allts책 v�
 ## Flashcards
 
 Kalkylr채nta (r) (Definition):: Visar v채rdet av en framtida investering idag, allts책 v채rdet av investeringen i relation till [[Grundinvestering]]
-<!--SR:!2000-01-01,1,250!2024-02-19,3,250-->
+<!--SR:!2024-02-20,1,230!2024-02-21,2,230-->

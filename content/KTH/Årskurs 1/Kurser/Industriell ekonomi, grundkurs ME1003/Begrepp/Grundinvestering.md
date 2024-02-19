@@ -20,4 +20,4 @@ Grundinvestering (G) är den första [[Utbetalning]] man gör när det kommer ti
 ## Flashcards
 
 Grundinvestering (G) (Definition):: Den första [[Utbetalning]] för en investering
-<!--SR:!2024-02-17,4,270!2024-02-17,4,272-->
+<!--SR:!2024-03-03,13,290!2024-03-07,17,292-->

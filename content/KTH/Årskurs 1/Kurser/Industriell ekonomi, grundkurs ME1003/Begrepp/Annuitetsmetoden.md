@@ -52,7 +52,7 @@ $$
 ## Flashcards
 
 Annuitetsmetoden (Definition):: När man räknar om investeringens betalningar, både [[Grundinvestering]] och framtida betalningar, till belopp som är lika stora varje år, alltså räknar man ut den genomsnittliga årliga betalningen för en [[Investering]]
-<!--SR:!2024-02-17,2,230!2024-02-17,3,268-->
+<!--SR:!2024-02-20,1,210!2024-02-29,10,288-->
 
 Annuitetsfaktor (Formel)
 ||
@@ -63,7 +63,7 @@ $$
 $$
 { ANN = \frac{r}{1-(1+r)^{-n}}}
 $$
-<!--SR:!2024-02-18,2,230-->
+<!--SR:!2024-02-24,5,250-->
 
 Formel för Annuitetskalkyl, Annuitet (Formel)
 ||

@@ -56,10 +56,10 @@ $$
 ## Flashcards
 
 Täckningsbidrag, TB (Definition):: Skillnaden mellan [[Särintäkt]] och [[Särkostnad]], visar med hur mycket en viss produkt bidrar till att betala kostnader som är gemensamma för alla produkter
-<!--SR:!2024-02-17,3,251!2024-02-23,7,252-->
+<!--SR:!2024-02-21,2,231!2024-02-23,7,252-->
 
 Totalt Täckningsbidrag, TTB (Definition):: Summan av flera produkters Täckningsbidrag
-<!--SR:!2024-02-17,4,270!2024-02-18,4,271-->
+<!--SR:!2024-03-05,15,290!2024-03-06,16,291-->
 
 Täckningsbidrag och Totalt Täckningsbidrag (Formel)
 ||
@@ -81,4 +81,4 @@ $$
 { TG =
 \frac{TB}{Särinäkt}}
 $$
-<!--SR:!2024-02-17,2,232-->
+<!--SR:!2024-02-20,1,212-->

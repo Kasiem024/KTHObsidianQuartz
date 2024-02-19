@@ -15,7 +15,9 @@ Internräntan beräknas genom att man räknar ut den ränta vid vilken nettonuv�
 
 Internräntemetodens beslutsregler säger att en investering vars internränta är högre än kalkylräntan är lönsam. Investeringen med högst internränta har mest [[Lönsamhet]].
 
-Alltså, Internräntemetoden visar när en investering möter avkastningskraven, [[Kalkylränta]].
+Ju högre kalkylräntan är ju svårare det är för en investering att räknas som lönsam enligt [[Nuvärdemetoden]]. Med Internräntemetoden försöker man räkna ut den högsta kalkylräntan en investering kan ha och ändå vara lönsam.
+
+Alltså, Internräntemetoden visar det maximala som [[Kalkylränta]] kan vara. Vad är det högsta avkastningskravet vi kan ha på en investering och ändå vara lönsam.
 
 ==Räntetabell C==
 
@@ -25,5 +27,5 @@ Alltså, Internräntemetoden visar när en investering möter avkastningskraven,
 
 ## Flashcards
 
-Internräntemetoden (Definition):: Handlar om att veta när en viss investering möter avkastningskravet, [[Kalkylränta]]
-<!--SR:!2024-02-17,2,230!2024-02-25,9,250-->
+Internräntemetoden (Definition):: Handlar om att veta den högsta [[Kalkylränta]] en viss investering kan ha och ändå räknas som lönsam enligt [[Nuvärdemetoden]], alltså räknar man ut kalkylräntan
+<!--SR:!2024-02-25,6,250!2024-02-25,9,250-->

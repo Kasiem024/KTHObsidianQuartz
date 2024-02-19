@@ -21,4 +21,4 @@ Förkalkylering är när ett företag försöker beräkna sina kostnader för en
 ## Flashcards
 
 Förkalkylering (Definition):: När ett företag försöker beräkna sina kostnader för en viss produkt i förväg
-<!--SR:!2024-02-17,4,270!2024-02-18,4,272-->
+<!--SR:!2024-03-03,13,290!2024-03-07,17,292-->

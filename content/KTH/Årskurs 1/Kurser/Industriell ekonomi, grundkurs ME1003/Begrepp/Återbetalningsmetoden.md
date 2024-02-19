@@ -24,4 +24,4 @@ Alltså, Återbetalningsmetoden visar den tiden det tar innan grundinvesteringen
 ## Flashcards
 
 Återbetalningsmetoden (Definition):: Visar den tiden det tar innan [[Grundinvestering]] är återbetald, ju kortare tid ju bättre
-<!--SR:!2024-02-18,4,272!2024-02-17,4,270-->
+<!--SR:!2024-03-04,14,292!2024-03-07,17,290-->

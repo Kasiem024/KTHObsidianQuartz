@@ -56,21 +56,21 @@ $$
 ## Flashcards
 
 Resultatdiagram (Definition):: Ett diagram som visar ==relationen== mellan ==intäkterna== och ==verksamhetsvolymen==, innehåller en linje för [[Fast Kostnad]], [[Total Kostnad]] och [[Total Intäkt]]
-<!--SR:!2024-02-25,9,256!2024-02-17,4,270-->
+<!--SR:!2024-02-25,9,256!2024-03-06,16,290-->
 ![[Resultatdiagram ME1003.png]]
 
 Kritiska Punkten i ett Resultatdiagram (Definition):: Punkten där de totala intäkterna precis räcker för att täcka de totala kostnaderna i ett Resultatdiagram, [[Total Intäkt]] = [[Total Kostnad]]
-<!--SR:!2024-02-18,4,276!2024-02-17,4,274-->
+<!--SR:!2024-03-04,14,296!2024-03-07,17,294-->
 
 Kritiska Punkten i volym (Formel)
 ||
 $$
 { Kritiska \, Punkten \, (volym) = \frac{FK}{Pris/st-RK/st} }
 $$
-<!--SR:!2024-02-18,3,258-->
+<!--SR:!2024-02-21,2,238-->
 
 Säkerhetsmarginalen (Definition):: Visar med hur mycket volymen eller försäljningen kan minska innan en förlust uppstår i ett Resultatdiagram
-<!--SR:!2024-02-17,4,270!2024-02-18,4,277-->
+<!--SR:!2024-03-05,15,290!2024-03-07,17,297-->
 
 Säkerhetsmarginal, Volym (Formel)
 ||

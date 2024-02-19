@@ -11,7 +11,7 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
 ## Definition
 
-Incoterms (International Commercial Terms), eller leveransklausuler preciserar leveransvillkoren vid en [[Varutransaktion]].
+Incoterms (International Commercial Terms), eller ==leveransklausuler== preciserar ==leveransvillkoren== vid en [[Varutransaktion]].
 
 ![[Incoterms CM1005.png]]
 

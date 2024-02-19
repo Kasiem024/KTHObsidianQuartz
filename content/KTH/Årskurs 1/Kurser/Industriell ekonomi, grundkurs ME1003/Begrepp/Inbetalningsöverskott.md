@@ -26,7 +26,7 @@ Restvärdet (R) är investeringsobjektets värde vid slutet av dess [[Ekonomisk 
 ## Flashcards
 
 Inbetalningsöverskott (a) (Definition):: Summan av in- och utbetalningar under ett år när det kommer till en specifik investering
-<!--SR:!2024-02-17,4,270!2024-02-18,4,276-->
+<!--SR:!2024-03-02,12,270!2024-03-03,13,296-->
 
 Restvärde (R) (Definition):: Investeringsobjektets värde vid slutet av dess [[Ekonomisk Livslängd]]. Kan vara positivt om man kan sälja det, kan vara negativt om det kostar att skrota det
-<!--SR:!2024-02-18,4,274!2024-02-17,4,270-->
+<!--SR:!2024-03-03,13,294!2024-03-05,15,290-->

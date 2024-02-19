@@ -17,3 +17,7 @@ Tags: #year2024 #KTH
 - <https://www.kth.se/student/kurser/kurs/DD100N?startterm=20241&l=sv>
 - <https://www.kth.se/student/kurser/kurs/SK180N?startterm=20241&l=sv>
 - <https://www.kth.se/student/studier/nypakth/antagen-till-teknik-och-ekonomi-180-hp-1.358413>
+
+## Inriktning
+
+[Jämför Utbildningar, KTH](https://www.kth.se/utbildning/jamfor/p/TIMEL,TIDAA,TIELA,TIEDB,TIDAB,TIBYH,TIKED)
