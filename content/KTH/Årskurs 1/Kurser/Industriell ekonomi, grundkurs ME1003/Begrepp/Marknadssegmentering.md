@@ -33,4 +33,4 @@ Företag behöver en stor och varierad ==produktportfölj== för att kunna anpas
 ## Flashcards
 
 Marknadssegmentering (Definition):: Ett sätt för att enklare kunna rikta sig mot specifika målgrupper
-<!--SR:!2024-02-22,17,290!2024-02-22,14,290-->
+<!--SR:!2024-02-22,17,290-->

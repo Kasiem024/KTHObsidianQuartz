@@ -36,7 +36,7 @@ En utgift uppstår i samband med att företaget erhåller en ==faktura== eller m
 ## Flashcards
 
 Utgift (Definition):: Uppstår när företaget betalar för något, innan man har förbrukat det. Med andra ord när företaget får en ==faktura==, vid ==inköpstillfället==
-<!--SR:!2024-02-17,17,250!2024-02-21,14,250-->
+<!--SR:!2024-04-20,59,270-->
 
 Motsatsen till utgift:: Motsatsen till [[Inkomst]]
-<!--SR:!2024-04-22,66,288!2024-02-17,18,268-->
+<!--SR:!2024-04-22,66,288-->

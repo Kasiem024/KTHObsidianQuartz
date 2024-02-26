@@ -20,4 +20,5 @@ Alltså, om köparen betalar för något i förväg kan den få en rabatt från 
 
 ## Flashcards
 
-Kassarabatt (Definition):: Om köparen betalar för något i förväg kan den få en rabatt från säljaren
+Kassarabatt (Definition):: Om köparen betalar för något i förväg/tidigt/snabbt kan den få en rabatt från säljaren
+<!--SR:!2024-02-27,3,250-->

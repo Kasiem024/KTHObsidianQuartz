@@ -28,4 +28,4 @@ Alltså, Internräntemetoden visar det maximala som [[Kalkylränta]] kan vara. V
 ## Flashcards
 
 Internräntemetoden (Definition):: Handlar om att veta den högsta [[Kalkylränta]] en viss investering kan ha och ändå räknas som lönsam enligt [[Nuvärdemetoden]], alltså räknar man ut kalkylräntan
-<!--SR:!2024-02-25,6,250!2024-02-25,9,250-->
+<!--SR:!2024-02-25,6,250-->

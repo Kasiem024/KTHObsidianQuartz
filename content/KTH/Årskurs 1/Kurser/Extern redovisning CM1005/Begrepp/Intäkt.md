@@ -41,7 +41,7 @@ Vad brukar räknas som intäkt inom RR?
 ## Flashcards
 
 Intäkt (Definition):: En periodiserad [[Inkomst]] som är kopplat till ett företags redovisning och beskattning. När man levererar något, faktiskt får betalt. Med andra ord ==värdet== av en ==levererad prestation== under en viss ==period==
-<!--SR:!2024-03-05,25,272!2024-04-01,48,292-->
+<!--SR:!2024-03-05,25,272-->
 
 Motsatsen till Intäkt:: Motsatsen till [[Kostnad]]
-<!--SR:!2024-03-31,47,290!2024-04-09,54,310-->
+<!--SR:!2024-03-31,47,290-->

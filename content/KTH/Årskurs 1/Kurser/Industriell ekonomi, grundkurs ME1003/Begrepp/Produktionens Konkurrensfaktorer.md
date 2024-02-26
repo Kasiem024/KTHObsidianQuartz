@@ -27,7 +27,7 @@ Ett enkelt exempel på hur Produktionens Konkurrensfaktorer är motstridiga är 
 ## Flashcards
 
 Produktionens Konkurrensfaktorer (Definition);; 4 Faktorer som har med [[Produktion]] att göra och som gör att företaget kan konkurrera med andra företag. De är viktiga både för kunden och för producenten men är ofta motstridiga. Därför måste man välja vilka man vill fokusera på
-<!--SR:!2024-02-11,2,190-->
+<!--SR:!2024-02-11,2,190!2024-02-28,2,236-->
 
 Produktionens konkurrensfaktorer (4)
 ??

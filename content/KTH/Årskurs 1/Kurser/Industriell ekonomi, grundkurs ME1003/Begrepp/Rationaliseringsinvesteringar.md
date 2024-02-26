@@ -22,4 +22,4 @@ Rationaliseringsinvesteringar är operativa och förbättrar förutsättningarna
 ## Flashcards
 
 Rationaliseringsinvesteringar (Definition):: ==Operativa== investeringar som **förbättrar förutsättningarna för den löpande verksamheten**. Exempelvis nya ==arbetsmetoder== och eliminering av en ==trång sektor==
-<!--SR:!2024-02-22,3,250!2024-03-02,12,270-->
+<!--SR:!2024-03-06,12,270-->

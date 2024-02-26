@@ -66,20 +66,20 @@ Alltså handlar den finansiella aspekten av en Varutransaktion om hur köparen s
 ## Flashcards
 
 Varutransaktion (Definition):: Kommer till stånd genom att ett avtal sluts mellan två parter, en säljare (leverantör) och en köpare (kund)
-<!--SR:!2024-02-18,3,253!2024-02-17,4,270-->
+<!--SR:!2024-02-25,3,233-->
 
 Delar av en Varutransaktion (3)
 ??
 - Köpeavtalet, Juridiskt
 - Leveransen, Materiellt
 - Betalningen, Finansiellt
-<!--SR:!2024-02-19,3,250!2024-02-19,4,272-->
+<!--SR:!2024-02-29,7,250!2024-03-06,16,292-->
 
 Köpeavtalet, Juridiskt (Definition):: Skapas när köparen och säljaren kommer överens om ==villkoren för transaktionen==, alltså varans kvalitet, kvantitet, pris, leverans etc. **Vad köparens beställning är**
-<!--SR:!2024-02-22,6,250!2024-02-18,3,252-->
+<!--SR:!2024-03-13,20,270-->
 
 Varutransaktionens Leverans, Materiellt (Definition):: Vid en Varutransaktion måste man bestämma i avtalet vem som ska ansvara för den fysiska transporten av beställningen. **Hur köparens beställning ska levereras**
-<!--SR:!2024-02-17,4,270!2024-02-18,3,252-->
+<!--SR:!2024-03-09,12,270-->
 
 Varutransaktionens Betalning, Finansiellt (Definition):: Villkor gällande köparens betalning för sin beställning ska avtals om, då kallas de för ==betalningsvillkor==. Vad är beloppet, hur ska betalningen ske, när ska betalningen ske, finns det en rabatt och [[Dröjsmålsränta]]. **Hur köparen ska betala för sin beställning**
-<!--SR:!2024-02-23,7,250!2024-02-18,3,252-->
+<!--SR:!2024-03-18,23,270-->

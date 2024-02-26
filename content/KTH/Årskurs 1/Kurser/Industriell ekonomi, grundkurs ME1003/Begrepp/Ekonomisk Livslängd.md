@@ -20,4 +20,4 @@ Alltså är Ekonomisk Livslängd hur länge något fungerar bra och är värt de
 ## Flashcards
 
 Ekonomisk Livslängd (Definition):: Tiden fram till dess att investeringen har uppnått maximal [[Lönsamhet]], när företaget bedömer att det inte längre är värt det att äga investeringen och borde göra en ==nyinvestering==
-<!--SR:!2024-02-22,6,250!2024-03-03,13,290-->
+<!--SR:!2024-03-14,20,270-->

@@ -36,7 +36,7 @@ För att det ska vara näringsverksamhet ska det vara fråga om yrkesmässig ver
 ## Flashcards
 
 Näringsverksamhet (Definition):: Något som bedrivs av en juridisk person exempelvis ett aktie- eller handelsbolag
-<!--SR:!2024-02-17,4,170!2024-03-23,44,290-->
+<!--SR:!2024-03-02,10,190-->
 
 Villkor för att räknas som en näringsverksamhet (3)
 ??

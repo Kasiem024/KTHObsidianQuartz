@@ -17,7 +17,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.21",
 	"elements": [
 		{
 			"type": "freedraw",
@@ -98329,8 +98329,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "freedraw",
-			"version": 290,
-			"versionNonce": 639495922,
+			"version": 292,
+			"versionNonce": 1578849001,
 			"isDeleted": false,
 			"id": "eF45kqsrGN30mXxMlv0zV",
 			"fillStyle": "solid",
@@ -98339,8 +98339,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6995.097584655087,
-			"y": 955.7562574047784,
+			"x": 4628.4307145379,
+			"y": 829.0893872875909,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 953.1237250669965,
@@ -98350,7 +98350,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708183323866,
+			"updated": 1708436404596,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -109590,8 +109590,8 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		},
 		{
 			"type": "text",
-			"version": 453,
-			"versionNonce": 1353045550,
+			"version": 456,
+			"versionNonce": 1613939633,
 			"isDeleted": false,
 			"id": "p4Kzz7Gm",
 			"fillStyle": "solid",
@@ -109600,7 +109600,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4385.816831844318,
+			"x": 4017.96392657088,
 			"y": 595.5562657405367,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -109611,7 +109611,7 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708183323868,
+			"updated": 1708468744080,
 			"link": null,
 			"locked": false,
 			"fontSize": 76.12564739666834,
@@ -109712,43 +109712,6 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 					672
 				]
 			]
-		},
-		{
-			"id": "ZrlwL0mN",
-			"type": "text",
-			"x": 8253.82556936602,
-			"y": 1401.389599073867,
-			"width": 18,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1621416562,
-			"version": 3,
-			"versionNonce": 770472434,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1708183323868,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 36,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 32,
-			"containerId": "3uxCYs13ItlnXc1EP1Ohz",
-			"originalText": "",
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -109766,10 +109729,10 @@ Två olika sätt att bokföra samma affärshändelser. ^p4Kzz7Gm
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 409.34109730064847,
-		"scrollY": 3511.8747328428694,
+		"scrollX": 1934.3410973006485,
+		"scrollY": 3791.8246865,
 		"zoom": {
-			"value": 0.2
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

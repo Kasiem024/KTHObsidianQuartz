@@ -39,7 +39,7 @@ När styckkostnaden minskar för varje tillverkad produkt. Alltså dyrt om volym
 ## Flashcards
 
 Rörlig Kostnad (Definition):: Kostnader som är beroende av verksamhetsvolym, alltså ändras de beroende på hur mycket som tillverkas och säljs
-<!--SR:!2024-02-29,14,290!2024-03-04,14,292-->
+<!--SR:!2024-02-29,14,290-->
 
 Typer av Rörlig Kostnad (3)
 ??
@@ -49,13 +49,13 @@ Typer av Rörlig Kostnad (3)
 <!--SR:!2024-03-07,17,296!2024-03-08,18,299-->
 
 Rörliga Kostnader, Proportionellt (Definition):: När kostnaden per styck är alltid samma och den totala kostnaden ökar ständigt i en rak linje
-<!--SR:!2024-03-08,18,299!2024-03-06,16,298-->
+<!--SR:!2024-03-08,18,299-->
 ![[Proportionellt Rörliga Kostnader ME1003.png]]
 
 Rörliga Kostnader, Progressivt (Definition):: När styckkostnaden ökar för varje tillverkad produkt. Alltså dyrt om volymen är hög men billig med låg volym. Kan hända om personalen behöver jobba övertid
-<!--SR:!2024-03-06,16,292!2024-03-08,18,299-->
+<!--SR:!2024-03-06,16,292-->
 ![[Progressivt Rörliga Kostnader ME1003.png]]
 
 Rörliga Kostnader, Regressivt (Definition):: När styckkostnaden minskar för varje tillverkad produkt. Alltså dyrt om volymen är låg men billig med hög volym. Kan hända om man får en rabatt från leverantören för att köpa råmaterial i bulk
-<!--SR:!2024-02-23,4,286!2024-02-20,4,284-->
+<!--SR:!2024-03-09,15,306-->
 ![[Regressivt Rörliga Kostnader ME1003.png]]

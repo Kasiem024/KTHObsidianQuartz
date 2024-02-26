@@ -35,14 +35,14 @@ Sådant kapital som inte kan användas för andra ändamål än vad det är just
 ## Flashcards
 
 Eget Kapital (Definition):: En benämning på en mängd pengar som ägarna av ett företag satt in vid grundandet eller vad som satts in i efter hand samt vinster. Kan också ses som skillnaden mellan ett företags tillgångar och skulder
-<!--SR:!2024-02-26,19,250!2024-03-16,32,270-->
+<!--SR:!2024-02-26,19,250-->
 
 Exempel på Eget Kapital (3)
 ??
-- Startkapital: Det ägarna satte in vid grundandet.
-- Kapitaltillskott: Det ägarna satte in efter grundandet.
-- Vinster: Vad företag tjänat efter vinstutdelning.
-<!--SR:!2024-02-24,15,292!2024-02-17,12,288-->
+- ==Startkapital==: Det ägarna satte in vid grundandet.
+- ==Kapitaltillskott==: Det ägarna satte in efter grundandet.
+- ==Vinster==: Vad företag tjänat efter vinstutdelning.
+<!--SR:!2024-02-24,15,292!2024-04-11,47,308-->
 
 Kapitalbindning (Definition):: Resurser som inte kan användas för andra ändamål än vad de är just nu. För ett varuproducerande företag är detta vanligtvis råmaterial och produkter i lager
-<!--SR:!2024-02-17,9,262!2024-02-26,17,294-->
+<!--SR:!2024-03-18,23,262-->

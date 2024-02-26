@@ -25,4 +25,4 @@ Toalettpapper under pandemin.
 ## Flashcards
 
 Utbud och Efterfrågan (Definition):: Leverantören vill sälja så många produkter som möjligt till ett så högt pris som möjligt medan kunden vill köpa för ett så lågt pris som möjligt.
-<!--SR:!2024-02-15,7,250!2024-02-17,14,290-->
+<!--SR:!2024-02-15,7,250-->

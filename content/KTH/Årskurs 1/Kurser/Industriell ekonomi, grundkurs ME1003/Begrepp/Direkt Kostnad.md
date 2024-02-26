@@ -22,4 +22,4 @@ Direkta Kostnader kan direkt hänföras till en specifik [[Kostnadsbärare]].
 ## Flashcards
 
 Direkt Kostnad (Definition):: En kostnad som kan hänföras till en specifik [[Kostnadsbärare]]
-<!--SR:!2024-03-06,16,292!2024-03-06,16,290-->
+<!--SR:!2024-03-06,16,292-->

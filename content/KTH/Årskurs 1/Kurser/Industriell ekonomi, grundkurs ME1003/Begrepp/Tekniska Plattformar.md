@@ -26,4 +26,4 @@ Det finns dock en chans att derivaten, slutprodukterna, är för lika varandra o
 ## Flashcards
 
 Tekniska Plattformar (Definition):: När man skapar en ==grundteknologi== som används för att utveckla en rad olika ==slutprodukter/derivat== i syftet att rikta sig mot olika ==målgrupper== och ==prisklasser==
-<!--SR:!2024-02-21,12,270!2024-02-12,4,270-->
+<!--SR:!2024-02-21,12,270-->

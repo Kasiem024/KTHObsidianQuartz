@@ -20,7 +20,7 @@ Enligt Herzbergs Tvåfaktorsteori finns det endast hygienfaktorer och motivation
 ## Flashcards
 
 Hygienfaktorer i Herzbergs Tvåfaktorsteori (Definition):: Faktorer som är nödvändiga för att man ska överhuvudtaget trivas vid sin arbetsplats, exempelvis lön, arbetsmiljö, personalpolitik
-<!--SR:!2024-02-11,3,250!2024-03-03,16,292-->
+<!--SR:!2024-02-11,3,250-->
 
 Motivationsfaktorer i Herzbergs Tvåfaktorsteori (Definition):: Faktorer för att man ska göra ett bra jobb, exempelvis intressant arbetsinnehåll, professionellt erkännande och möjligheter till utveckling
-<!--SR:!2024-02-12,4,270!2024-02-13,4,272-->
+<!--SR:!2024-02-12,4,270-->

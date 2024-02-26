@@ -47,10 +47,10 @@ Om en [[Enskild Näringsverksamhet]] uppfyller två av dessa kriterier måste de
 ## Flashcards
 
 Revisionsberättelse (Definition):: När en revisor redogör sin granskning av ett företags ledningen och om [[Årsredovisning]] är upprättad enligt [[Årsredovisningslagen]]
-<!--SR:!2024-02-20,11,274!2024-02-20,13,290-->
+<!--SR:!2024-03-02,7,254-->
 
 Revisor (Definition):: Någon vars jobb är att granska och verifiera företags redovisning
-<!--SR:!2024-03-16,29,270!2024-02-22,15,290-->
+<!--SR:!2024-03-16,29,270-->
 
 Revisionsberättelsens innehåll (4)
 ??
@@ -58,4 +58,4 @@ Revisionsberättelsens innehåll (4)
 - Om revisorn anser att årsstämman ska fastställa [[Resultaträkning]] och [[Balansräkning]].
 - Om revisorn anser att årsstämman ska besluta förslaget till hur årets resultat ska disponeras.
 - Om revisorn anser att årsstämman ska besluta över styrelsens ansvarsfrihet.
-<!--SR:!2024-02-24,9,218!2024-02-25,12,276-->
+<!--SR:!2024-03-14,19,218!2024-02-25,12,276-->

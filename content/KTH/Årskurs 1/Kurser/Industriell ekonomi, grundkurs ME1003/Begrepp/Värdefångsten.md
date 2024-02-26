@@ -34,7 +34,7 @@ Vart kategoriseras Uber och Airbnb?
 ## Flashcards
 
 Värdefångsten (Definition):: Ett begrepp för att beskriva ett företags betalningsmodell eller intäktsmodell, hur det är tänkt att man ska få betalt och tjäna pengar på det värdet man erbjuder kunden
-<!--SR:!2024-03-18,31,270!2024-02-28,20,270-->
+<!--SR:!2024-03-18,31,270-->
 
 Olika intäktsmodeller (Värdefångst) (8)
 ??

@@ -28,4 +28,4 @@ Syftet med jämförbarhetsprincipen är att jämförelsen från år till år ska
 ## Flashcards
 
 Jämförbarhetsprincipen (Definition):: En av flera [[Redovisningsprinciper]] som säger att ett företag ska tillämpa samma redovisningsprincip från år till år. Inom vissa speciella sammanhang får man byta redovisningsprincip
-<!--SR:!2024-02-22,15,290!2024-02-23,15,292-->
+<!--SR:!2024-04-20,56,310-->

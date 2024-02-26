@@ -32,7 +32,7 @@ Omfattar alla aktiviteter som bidrar till försäljningen av företagets varor o
 ## Flashcards
 
 Marknadsföring (Definition):: Omfattar alla aktiviteter som bidrar till försäljningen av företagets varor och tjänster
-<!--SR:!2024-02-19,9,250!2024-02-20,17,290-->
+<!--SR:!2024-02-19,9,250-->
 
 Nyckelkoncept inom Marknadsföring (3)
 ??
@@ -42,4 +42,4 @@ Nyckelkoncept inom Marknadsföring (3)
 <!--SR:!2024-02-21,6,212!2024-02-18,12,272-->
 
 Relationsmarknadsföring (Definition):: När man bygger långsiktiga relationer med sina kunder, vanligtvis mellan två företag, B2B och [[Företagsmarknad]]
-<!--SR:!2024-02-27,18,304!2024-02-22,14,294-->
+<!--SR:!2024-02-27,18,304-->

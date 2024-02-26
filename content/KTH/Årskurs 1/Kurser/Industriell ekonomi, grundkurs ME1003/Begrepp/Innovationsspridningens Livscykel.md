@@ -26,7 +26,7 @@ Denna livscykel beskriver hur en ny teknologi sprids på en marknad och när den
 ## Flashcards
 
 Innovationsspridningens Livscykel (Definition):: Beskriver hur en ny teknologi sprids på en marknad och när den adopteras av olika typer av människor
-<!--SR:!2024-02-11,3,250!2024-02-13,4,270-->
+<!--SR:!2024-02-11,3,250-->
 
 Innovationsspridningens Livscykel Användarkategorier (5)
 ??

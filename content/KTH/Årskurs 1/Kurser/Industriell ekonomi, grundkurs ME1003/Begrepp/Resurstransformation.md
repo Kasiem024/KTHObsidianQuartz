@@ -39,7 +39,7 @@ Fyra förhållanden som påverkar hur resurstransformationen utformas
 ## Flashcards
 
 Resurstransformation (Definition):: Hur man omvandlar en råvara till något kunden vill köpa
-<!--SR:!2024-03-22,41,292!2024-02-13,14,290-->
+<!--SR:!2024-03-22,41,292-->
 
 Cirkulär Ekonomi (Definition):: Ett perspektiv som syftar till att ==öka samhällets ekologiska hållbarhet==. Praktiskt betyder det att man ska ==utveckla produkter== som går att ==återanvändas== eller ==återvinnas==
-<!--SR:!2024-02-23,14,297!2024-02-24,14,297-->
+<!--SR:!2024-02-23,14,297-->

@@ -105,7 +105,7 @@ $$
 ## Flashcards
 
 Påläggskalkylering (Definition):: När man systematiskt fördelar kostnaderna på en [[Kostnadsbärare]] genom att utgå från [[Direkt Kostnad]]
-<!--SR:!2024-02-20,1,228!2024-02-25,9,250-->
+<!--SR:!2024-02-25,2,188-->
 
 Påläggsbaser och Fördelningsnycklar (7)
 ??
@@ -123,7 +123,7 @@ Påläggsbaser och Fördelningsnycklar (7)
 	- Exempelvis kostnader för ekonomiavdelningen och företagsledningen men också för reklam och försäljare.
 - ==Speciella direkta försäljningskostnader== (dF)
 	- Exempelvis provision, reklam, resor, mässor.
-<!--SR:!2024-02-22,3,230!2024-03-04,14,290-->
+<!--SR:!2024-03-02,9,250!2024-03-04,14,290-->
 
 Materialomkostnadspålägget (Formel)
 ||
@@ -133,7 +133,7 @@ $$
 $$
 { MO\!-\!pålägg=\frac{MO}{dM}}
 $$
-<!--SR:!2024-02-22,6,250-->
+<!--SR:!2024-03-13,19,270-->
 
 Tillverkningsomkostnadspålägget (Formel)
 ||
@@ -153,4 +153,4 @@ $$
 $$
 {AffO\!-\!pålägg=\frac{AffO}{TvK}}
 $$
-<!--SR:!2024-02-23,7,250-->
+<!--SR:!2024-03-17,23,270-->

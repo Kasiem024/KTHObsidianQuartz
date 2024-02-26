@@ -20,4 +20,4 @@ Tags: #year2024 #KTH
 
 ## Inriktning
 
-[Jämför Utbildningar, KTH](https://www.kth.se/utbildning/jamfor/p/TIMEL,TIDAA,TIELA,TIEDB,TIDAB,TIBYH,TIKED)
+[Jämför Utbildningar, KTH](https://www.kth.se/utbildning/jamfor/p/TIMEL,TIDAA,TIELA,TIBYH,TIKED)

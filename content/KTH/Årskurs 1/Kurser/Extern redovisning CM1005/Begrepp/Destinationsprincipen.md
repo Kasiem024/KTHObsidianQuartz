@@ -22,4 +22,4 @@ Möbelaffären C har ingen ingående moms för att Möbelfabrikant B är i ett a
 ## Flashcards
 
 Destinationsprincipen (Definition):: Bestämmer i vilket land [[Moms]] ska betalas, alltså vart konsumenten är ![[Destinationsprincipen CM1005.png]]
-<!--SR:!2024-02-18,3,250!2024-02-19,3,250-->
+<!--SR:!2024-02-25,3,230-->

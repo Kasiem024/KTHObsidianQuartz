@@ -27,4 +27,4 @@ Hur mycket förädlingsvärde man tillför bestämmer hur mycket [[Moms]] man sk
 ## Flashcards
 
 Förädlingsvärde (Definition):: Priset av en produkt minus kostnaden för tillverkningen av produkten, alltså vinstmarginal. Dock inte för den individuella produkten utan för hela företaget
-<!--SR:!2024-02-20,4,228!2024-02-19,9,250-->
+<!--SR:!2024-02-20,4,228-->

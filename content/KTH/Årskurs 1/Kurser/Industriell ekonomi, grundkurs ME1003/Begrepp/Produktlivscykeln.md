@@ -24,7 +24,7 @@ Man börjar med ==introduktionen== av produkten när den först ==lanseras== och
 ## Flashcards
 
 Produktlivscykeln (Definition):: Beskriver stadierna i en produkts livscykel. I vilken stadie man är beror på hur länge produkten har funnits på marknaden och dess försäljningsvolym. Det är viktigt för företag att ha en ==produktportfölj==. Alltså ett flertal produkter som är i olika delar av sin livscykel
-<!--SR:!2024-03-12,26,270!2024-03-09,22,292-->
+<!--SR:!2024-03-12,26,270-->
 
 Stadier i en produkts livscykel (4)
 ??

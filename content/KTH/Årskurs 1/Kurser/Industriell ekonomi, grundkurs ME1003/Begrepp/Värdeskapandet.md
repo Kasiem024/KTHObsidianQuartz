@@ -38,7 +38,7 @@ Värdeskapandet hos ett renodlat tjänsteföretag är annorlunda då kunden är 
 ## Flashcards
 
 Värdeskapandet (Definition):: Handlar om hur en råvara transformeras till något kunden vill köpa och vad värdet av den transformationen är, ==tillverkningen== och ==leveransen== av en produkt
-<!--SR:!2024-02-17,14,230!2024-03-04,25,286-->
+<!--SR:!2024-02-17,14,230-->
 
 Värdeskapandet hos ett renodlat tillverkningsföretag;; Att använda sina ==anställdas kunskap== om användningen av ==teknisk utrustning== för ==transformationen== av en råvara till en vara kunden vill köpa
 <!--SR:!2024-02-12,2,210-->
@@ -47,10 +47,10 @@ Värdeskapandet hos ett renodlat tjänsteföretag;; Kunden är involverad
 <!--SR:!2024-02-14,4,230-->
 
 Varudominerad logik (Definition):: När huvuddelen av Värdeskapandet sker ==utan inblandning av kunden==
-<!--SR:!2024-02-12,3,244!2024-02-11,3,268-->
+<!--SR:!2024-02-12,3,244-->
 
 Back-office dominerad logik (Definition):: När huvuddelen av Värdeskapandet sker ==utan kunden men kunden behövs==, vanligtvis i ==början== och ==slutet== av processen
-<!--SR:!2024-02-16,6,268!2024-02-25,10,288-->
+<!--SR:!2024-02-16,6,268-->
 
 Front-office dominerad logik (Definition):: När huvuddelen av Värdeskapandet sker i ==direkt interaktion== med ==kunden== och det handlar om kundens ==upplevelse==
-<!--SR:!2024-02-17,7,264!2024-02-27,18,304-->
+<!--SR:!2024-02-17,7,264-->

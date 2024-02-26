@@ -33,4 +33,4 @@ Grundläggande Begrepp för Ekonomisk Analys (6)
 - [[Utgift]]: När företaget erhåller en faktura.
 - [[Inbetalning]]: När företaget får betalt.
 - [[Utbetalning]]: När företaget gör en betalning.
-<!--SR:!2024-02-21,2,252!2024-03-06,16,290-->
+<!--SR:!2024-02-25,3,252!2024-03-06,16,290-->

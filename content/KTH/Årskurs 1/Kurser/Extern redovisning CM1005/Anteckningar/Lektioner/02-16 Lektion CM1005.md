@@ -151,7 +151,7 @@ Hjälpmedel som specificerar olika delar av balansräkningen, exempelvis:
 
 ---
 
-## Semesterlön
+## [[Semesterlön]]
 
 Semesterlön:
 

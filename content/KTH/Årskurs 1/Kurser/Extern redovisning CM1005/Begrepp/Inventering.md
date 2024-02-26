@@ -19,3 +19,4 @@ Inventering är genomgång och notering av de verkliga lagerbehållningarna.
 ## Flashcards
 
 Inventering (Definition):: Genomgång och notering av de verkliga lagerbehållningarna
+<!--SR:!2024-03-03,10,270-->

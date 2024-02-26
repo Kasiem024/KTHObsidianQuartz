@@ -20,4 +20,4 @@ Utvecklingstratten syftar till att ett företag kan ha många små förstudier o
 ## Flashcards
 
 Utvecklingstratten (Definition):: Handlar om hur ett företag ska ha många förstudier igång samtidigt som kommer sållas för att hitta de bästa som eventuellt leder till en lanserad produkt
-<!--SR:!2024-02-13,4,272!2024-02-24,14,294-->
+<!--SR:!2024-02-13,4,272-->

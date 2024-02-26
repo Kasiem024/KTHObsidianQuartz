@@ -20,4 +20,4 @@ När efterfrågan för en produkt styrs av efterfrågan för en annan produkt s�
 ## Flashcards
 
 Beroende Efterfrågan (Definition):: När efterfrågan för en produkt styrs av efterfrågan för en annan produkt
-<!--SR:!2024-02-11,3,250!2024-02-27,12,270-->
+<!--SR:!2024-02-11,3,250-->

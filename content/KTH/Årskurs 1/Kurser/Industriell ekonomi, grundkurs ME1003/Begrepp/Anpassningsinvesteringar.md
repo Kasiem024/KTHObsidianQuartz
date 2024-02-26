@@ -22,4 +22,4 @@ Anpassningsinvesteringar är taktiska och görs för att säkerställa att före
 ## Flashcards
 
 Anpassningsinvesteringar (Definition):: ==Taktiska== investeringar för att **säkerställa framgångsrik drift av befintlig verksamhet på lång sikt**, exempelvis ny ==tillverkningsprocess== eller ==maskinpark==
-<!--SR:!2024-02-20,1,210!2024-02-24,5,268-->
+<!--SR:!2024-02-25,2,190-->

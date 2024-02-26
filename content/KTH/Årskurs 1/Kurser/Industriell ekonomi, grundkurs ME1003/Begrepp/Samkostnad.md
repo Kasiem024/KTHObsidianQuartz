@@ -22,4 +22,4 @@ Samkostnader påverkas inte av den handling eller det beslut kalkylen avser, all
 ## Flashcards
 
 Samkostnad (Definition):: Kostnader som inte påverkas av den handling eller det beslut kalkylen avser, alltså har de inget med vad kalkylen försöker räkna ut. Exempelvis kostnader för personal och kontor då de skulle uppstått även om just den produkten inte producerades
-<!--SR:!2024-02-20,1,210!2024-02-28,9,288-->
+<!--SR:!2024-02-28,5,230-->

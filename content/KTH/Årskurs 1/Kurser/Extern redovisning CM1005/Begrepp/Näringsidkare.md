@@ -20,4 +20,4 @@ En Näringsidkare är en fysisk eller juridisk person som driver en näringsverk
 ## Flashcards
 
 Näringsidkare (Definition):: En fysisk eller juridisk person som driver en näringsverksamhet
-<!--SR:!2024-02-27,17,290!2024-02-29,16,292-->
+<!--SR:!2024-02-27,17,290-->

@@ -45,10 +45,10 @@ Vad är företagets finansiering? Från vart kommer pengarna?
 ## Flashcards
 
 Balansräkning (Definition):: Ett företags finansiella ställning vid en given tidpunkt
-<!--SR:!2024-03-02,24,270!2024-04-13,58,310-->
+<!--SR:!2024-03-02,24,270-->
 
 De två delarna/sidorna av en balansräkning:: Ett företags eget kapital och skulder på en sida och ett företags tillgångar på andra sidan
-<!--SR:!2024-03-08,31,270!2024-02-29,24,270-->
+<!--SR:!2024-03-08,31,270-->
 
 Vad som brukar inkluderas i BR Vänster
 ??

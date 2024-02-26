@@ -42,4 +42,4 @@ Alltså är en Årsredovisning ett [[Årsbokslut]] plus en [[Förvaltningsberät
 - [[Resultaträkning]]
 - [[Förvaltningsberättelse]]
 - Noter
-<!--SR:!2024-02-21,14,292!2024-02-20,14,290-->
+<!--SR:!2024-04-17,56,312!2024-04-20,56,310-->

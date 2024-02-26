@@ -27,7 +27,7 @@ Inom Självkostnadskalkylering finns det något som heter Divisionskalkylering s
 ## Flashcards
 
 Självkostnadskalkylering (Definition):: När man kalkylerar samtliga kostnader som företaget har för en produkt tills den är levererad och betald, svårare ju mer produkter företaget har
-<!--SR:!2024-02-24,8,250!2024-03-04,14,290-->
+<!--SR:!2024-03-15,20,250-->
 
 Självkostnad (Definition):: Summan av samtliga kostnader för produkten tills den är levererad och betald
-<!--SR:!2024-02-26,10,270!2024-03-03,13,290-->
+<!--SR:!2024-02-26,10,270-->

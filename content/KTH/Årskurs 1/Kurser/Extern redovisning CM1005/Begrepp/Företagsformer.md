@@ -31,4 +31,4 @@ Alla företagsformer (6)
 <!--SR:!2024-03-26,48,290-->
 
 Fåmansföretag (Definition):: Ett skatterättsligt begrepp, när ett AB/HB/KB/EF ägs till majoriteten av en eller ett fåtal fysiska personer
-<!--SR:!2024-02-17,11,278!2024-02-17,11,264-->
+<!--SR:!2024-03-27,32,278-->

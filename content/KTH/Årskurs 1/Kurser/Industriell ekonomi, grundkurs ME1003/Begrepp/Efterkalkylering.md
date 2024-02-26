@@ -20,4 +20,4 @@ Efterkalkylering är när ett företag beräknar sina kostnader för en produkt 
 ## Flashcards
 
 Efterkalkylering (Definition):: När ett företag beräknar sina kostnader för en produkt i efter hand, vanligtvis för att se hur det gick med [[Förkalkylering]]
-<!--SR:!2024-03-03,13,292!2024-03-07,17,290-->
+<!--SR:!2024-03-03,13,292-->

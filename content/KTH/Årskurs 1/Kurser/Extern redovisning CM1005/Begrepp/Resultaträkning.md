@@ -48,7 +48,7 @@ Vad brukar inkluderas inom RR?
 ## Flashcards
 
 Resultaträkning (Definition):: En rapport över [[Intäkt]] och [[Kostnad]] under en viss period. Visar om företaget har gått i vinst eller förlust
-<!--SR:!2024-02-27,20,270!2024-03-03,27,270-->
+<!--SR:!2024-02-27,20,270-->
 
 Vad som brukar inkluderas i RR Vänster (5)
 ??
@@ -57,10 +57,10 @@ Vad som brukar inkluderas i RR Vänster (5)
 - Kostnad av drift och service.
 - Lön.
 - Hyra.
-<!--SR:!2024-02-17,10,288!2024-02-25,17,293-->
+<!--SR:!2024-03-25,30,288!2024-02-25,17,293-->
 
 Kostnadsindelad Resultaträkning (Definition):: När man delar upp verksamhetens kostnader efter kostnadsslag, alltså vilken typ av kostnad det är
-<!--SR:!2024-02-24,14,292!2024-02-25,12,255-->
+<!--SR:!2024-04-20,56,312-->
 
 Funktionsindelad Resultaträkning (3)
 ??
@@ -68,4 +68,4 @@ När man delar upp verksamhetens kostnader i 3 huvudfunktioner:
 - Tillverkning
 - Försäljning
 - Administration
-<!--SR:!2024-02-17,2,155!2024-02-22,6,232-->
+<!--SR:!2024-02-27,3,155!2024-02-22,6,232-->

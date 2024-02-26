@@ -22,4 +22,4 @@ Kostnadsställe är den avdelningen eller funktionen där kostnaden uppstår.
 ## Flashcards
 
 Kostnadsställe (Definition):: Den avdelning eller funktion där kostnaden uppstår
-<!--SR:!2024-03-04,14,290!2024-03-07,17,292-->
+<!--SR:!2024-03-04,14,290-->

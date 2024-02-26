@@ -21,5 +21,5 @@ Alltså, Kalkylräntan visar värdet av en framtida investering idag, alltså v�
 
 ## Flashcards
 
-Kalkylränta (r) (Definition):: Visar värdet av en framtida investering idag, alltså värdet av investeringen i relation till [[Grundinvestering]]
-<!--SR:!2024-02-20,1,230!2024-02-21,2,230-->
+Kalkylränta (r) (Definition):: Visar värdet av en framtida investering idag, alltså värdet av investeringen i relation till [[Grundinvestering]], det är avkastningskravet som ett företag ställer på en investering, ju högre det är ju svårare det är för en investering att ha hög [[Lönsamhet]]
+<!--SR:!2024-02-25,2,210-->

@@ -29,7 +29,7 @@ Några kända metoder inom kvalitetsledning är:
 ## Flashcards
 
 Kvalitetsledning (Definition):: Samlingsnamn för de principer, metoder och verktyg som används för att nå en god kvalitet på företagets produkter och processer
-<!--SR:!2024-02-12,2,228!2024-02-12,3,245-->
+<!--SR:!2024-02-12,2,228-->
 
 Metoder inom Kvalitetsledning (4)
 ??

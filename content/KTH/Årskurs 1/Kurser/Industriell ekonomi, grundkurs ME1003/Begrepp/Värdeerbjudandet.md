@@ -46,7 +46,7 @@ Många tjänsteföretag är ”lika industriella” som klassiska industriföret
 ## Flashcards
 
 Värdeerbjudandet (Definition):: Det värde som kunderna erbjuds genom de olika varor och tjänster som företaget erbjuder. Alltså är det ==inte bara== de faktiska ==varorna== och ==tjänster== som ett företag säljer men ==också hela upplevelsen==
-<!--SR:!2024-02-12,7,250!2024-05-20,102,290-->
+<!--SR:!2024-02-12,7,250-->
 
 Sätt att kategorisera produkter (Värdeerbjudandet)
 ??

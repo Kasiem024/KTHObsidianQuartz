@@ -25,4 +25,4 @@ Om ägaren av en [[Enskild Näringsverksamhet]] köper varor till sin verksamhet
 ## Flashcards
 
 Konsumentköplagen (Definition):: Gäller när en privatperson köper varor från ett företag, [[Konsumentmarknad]], innehåller lagar om vad som gäller om en vara är felaktig, tvingar företag att agera till konsumentens fördel, indispositiv
-<!--SR:!2024-02-22,6,250!2024-02-18,3,250-->
+<!--SR:!2024-03-09,16,250-->

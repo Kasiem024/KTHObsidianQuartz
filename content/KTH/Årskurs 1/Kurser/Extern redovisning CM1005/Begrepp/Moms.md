@@ -72,17 +72,23 @@ Staten kan använda moms för att belöna eller straffa befolkningen beroende p�
 ## Flashcards
 
 Moms (Definition):: En skatt som betalas vid köpet av varor och tjänster, inbakad i priset, en statlig ==konsumtionsskatt==
-<!--SR:!2024-03-15,37,292!2024-04-19,64,312-->
+<!--SR:!2024-03-15,37,292-->
 
 In- och Utgående Moms (Definition)
 ??
 - ==Ingående Moms==: De varor företaget ==KÖPER IN==
 - ==Utgående Moms==: De varor företaget ==SÄLJER UT==
+Utgående - Ingående = Vad staten får från företaget
+<!--SR:!2024-03-05,10,281!2024-02-25,3,238-->
 
 Skattskyldiga näringsidkare för moms:: I stort sett alla ==rörelseidkare== och ==jordbrukare==
+<!--SR:!2024-03-08,13,281-->
 
 Skattepliktiga varor och tjänster för moms:: Med ett fåtal undantag, alla ==varor== och ==tjänster==
+<!--SR:!2024-03-03,10,281-->
 
-Redovisningsperiod (Definition):: Omfattar normalt en månad, alltså lämnas ==momsdeklaration varje månad==
+Moms Redovisningsperiod (Definition):: Omfattar normalt en månad, alltså lämnas ==momsdeklaration varje månad==
+<!--SR:!2024-03-07,10,261-->
 
-Moms och Euro:: Om företagets redovisningsvaluta är Euro, räknas summa ingående och summa utgående moms i deklarationen till Skatteverket om till kronor. Denna omräkning sker enligt en genomsnittskurs som fastställs av Skatteverket för den månad momsen avser, **alltså om redovisningsvalutan är Euro räknas momsen om till kronor genom att använda en genomsnittskurs som bestäms av Skatteverket för den månaden momsen avser**
+Moms och Euro:: Om företagets redovisningsvaluta är Euro, räknas summa ingående och summa utgående moms i deklarationen till Skatteverket om till kronor. Denna omräkning sker enligt en genomsnittskurs som fastställs av Skatteverket för den månad momsen avser. **Alltså om redovisningsvalutan är Euro räknas momsen om till kronor genom att använda en genomsnittskurs som bestäms av Skatteverket för den månaden momsen avser**
+<!--SR:!2024-02-25,3,261-->

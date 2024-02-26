@@ -22,4 +22,4 @@ Inriktningsinvesteringar är strategiska och binder företagets handlingsutrymme
 ## Flashcards
 
 Inriktningsinvesteringar (Definition):: ==Strategiska== investeringar som **binder företagets handlingsutrymme för lång tid framåt**. Exempelvis kan det vara en ny ==produktfamilj== eller en ny ==produktionsanläggning==
-<!--SR:!2024-02-21,2,232!2024-03-03,13,290-->
+<!--SR:!2024-02-26,3,232-->

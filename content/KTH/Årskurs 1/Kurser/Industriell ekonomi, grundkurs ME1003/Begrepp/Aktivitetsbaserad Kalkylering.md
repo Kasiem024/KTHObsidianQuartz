@@ -20,4 +20,4 @@ Aktivitetsbaserad Kalkylering (ABC-Kalkylering) grundar sig i att inte betrakta 
 ## Flashcards
 
 Aktivitetsbaserad Kalkylering (ABC-Kalkylering) (Definition):: Grundar sig i att inte betrakta kostnader med hjälp av begreppen fast/rörlig eller direkt/indirekt. Man ska istället utgå från att aktiviteter utförs i företaget och att det är dessa aktiviteter, inte avdelningarna, som ger upphov till kostnaderna
-<!--SR:!2024-02-24,8,250!2024-02-29,10,270-->
+<!--SR:!2024-02-28,4,230-->

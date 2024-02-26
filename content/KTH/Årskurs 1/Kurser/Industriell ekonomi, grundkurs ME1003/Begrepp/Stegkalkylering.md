@@ -27,4 +27,4 @@ Stegen heter:
 ## Flashcards
 
 Stegkalkylering (Definition):: När man gör sina kalkyleringar i olika nivåer och gör ett [[Täckningsbidrag]] på varje nivå, antalet produkter man inkluderar ökar på varje nivå
-<!--SR:!2024-03-05,15,292!2024-03-05,15,290-->
+<!--SR:!2024-03-05,15,292-->

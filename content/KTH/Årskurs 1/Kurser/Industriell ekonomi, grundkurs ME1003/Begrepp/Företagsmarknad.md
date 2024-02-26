@@ -33,7 +33,7 @@ I en Företagsmarknad är det vanligt att man har vissa väldigt stora kunder, d
 ## Flashcards
 
 Företagsmarknad (Definition):: När ett företag säljer en produkt till ett annat företag. Kallas också Business to Business, B2B.
-<!--SR:!2024-02-22,14,290!2024-02-20,15,290-->
+<!--SR:!2024-02-22,14,290-->
 
 Egenskaperna av en Företagsmarknad (6)
 ==DISABLEDFLASHCARD==
@@ -46,4 +46,4 @@ Egenskaperna av en Företagsmarknad (6)
 <!--SR:!2024-02-10,2,230!2024-02-11,2,212-->
 
 Key-Account Manager (Definition):: En säljare vars enda jobb är att ansvara för en eller flera av ett företags största kunder
-<!--SR:!2024-02-26,17,302!2024-02-12,4,273-->
+<!--SR:!2024-02-26,17,302-->

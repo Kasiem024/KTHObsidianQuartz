@@ -29,7 +29,7 @@ När ett företag säljer en produkt till en konsument. Kallas också Business t
 ## Flashcards
 
 Konsumentmarknad (Definition):: När ett företag säljer en produkt till en konsument. Kallas också Business to Consumer, B2C.
-<!--SR:!2024-02-25,17,290!2024-02-22,17,290-->
+<!--SR:!2024-02-25,17,290-->
 
 Egenskaperna av en Konsumentmarknad (6)
 ==DISABLEDFLASHCARD==

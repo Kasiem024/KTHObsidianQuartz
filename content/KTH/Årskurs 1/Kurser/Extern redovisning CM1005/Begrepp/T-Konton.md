@@ -40,16 +40,16 @@ Skulder och eget kapital ökar på kredit och minskar på debet.
 ## Flashcards
 
 Dubbel bokföring (Definition):: Ett ekonomiskt system som säger att man måste skriva ner alla affärshändelser på två olika konton med samma belopp
-<!--SR:!2024-03-17,37,290!2024-04-12,57,310-->
+<!--SR:!2024-03-17,37,290-->
 
 Debet (Definition):: Visar vart det kommer in pengar. Alltså på vilket konto pengarna ska sättas in (T-Konto)
-<!--SR:!2024-02-22,15,294!2024-03-05,26,272-->
+<!--SR:!2024-04-26,62,314-->
 
 Kredit (Definition):: Visar vart pengarna kommer från. Alltså vad pengarnas källa är (T-Konto)
-<!--SR:!2024-03-25,41,292!2024-02-20,15,296-->
+<!--SR:!2024-03-25,41,292-->
 
 Råbalans (Definition):: En förteckning över samtliga konton med dessas totalsummor i debet och kredit för perioden. Hopräkning av alla kontons summor vid slutet av en redovisningsperiod. En sammanställning av allt som har debiterats respektive krediterats, kopplat till saldobalans
-<!--SR:!2024-02-22,12,258!2024-03-06,20,240-->
+<!--SR:!2024-03-26,31,258-->
 
 Saldobalans (Definition):: En förteckning över skillnaderna mellan debiteringar och krediteringar på respektive [[T-Konton]], kopplat till råbalans
-<!--SR:!2024-02-19,9,276!2024-02-18,8,220-->
+<!--SR:!2024-03-30,35,296-->
