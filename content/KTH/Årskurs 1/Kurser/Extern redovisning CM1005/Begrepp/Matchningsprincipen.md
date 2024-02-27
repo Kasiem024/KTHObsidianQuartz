@@ -20,4 +20,4 @@ Matchningsprincipen är en av flera [[Redovisningsprinciper]] som innebär att [
 ## Flashcards
 
 Matchningsprincipen (Definition):: En av flera [[Redovisningsprinciper]] som används för att säkerställa att intäkter och kostnader är samma under en viss period
-<!--SR:!2024-02-25,17,250-->
+<!--SR:!2024-02-25,17,250!2024-03-02,4,270-->

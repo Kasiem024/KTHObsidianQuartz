@@ -24,7 +24,7 @@ En rapport som måste skrivas när ett företag blir stort. Om den inte skrivs m
 ## Flashcards
 
 Hållbarhetsrapport (Definition):: Om ett företag är tillräckligt stort enligt vissa kriterier måste den skriva en rapport gällande bland annat ==miljö== och ==mänskliga rättigheter==
-<!--SR:!2024-02-29,8,272-->
+<!--SR:!2024-02-29,8,272!2024-03-02,4,280-->
 
 Kriterier för att ett företag måste skriva en hållbarhetsrapport (3)
 ??

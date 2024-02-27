@@ -12,10 +12,10 @@ Tags: #year2024 #KTH #ekonomi #<% tp.file.cursor(1) %> #begrepp #<% tp.file.curs
 
 ## Definition
 
-<% tp.file.cursor(3) %>
+<% tp.file.title %> <% tp.file.cursor(3) %>
 
 ## Kopplat till
 
 ## Flashcards
 
-(Definition)::
+<% tp.file.title %> (Definition)::

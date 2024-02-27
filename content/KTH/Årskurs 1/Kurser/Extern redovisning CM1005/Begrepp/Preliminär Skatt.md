@@ -14,7 +14,7 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
 
 Preliminär skatt är en skatt som betalas in i förväg och som avräknas (tillgodoräknas) när den slutliga skatten fastställs. Exempel på preliminär skatt är avdragen skatt på löner och ersättningar till anställda, avdragen skatt på räntor och utdelningar samt preliminär F-skatt.
 
-### A-skatt
+### A-Skatt
 
 Om du är anställd är det din arbetsgivare som gör ett skatteavdrag (avdrag för preliminär skatt) från bruttolönen innan den betalas ut till dig. Detta ska göras vid varje utbetalningstillfälle. På inkomster från huvudarbetsgivaren (den som under året normalt betalar ut den högsta inkomsten) görs skatteavdrag enligt skattetabell eller beslut från Skatteverket. På sidoinkomster (inkomster som inte är den anställdes huvudinkomst) dras skatt med 30%.
 
@@ -22,17 +22,21 @@ Om du är anställd är det din arbetsgivare som gör ett skatteavdrag (avdrag f
 
 [[Den nya affärsredovisningen CM1005.pdf#page=158&selection=50,0,58,16|Den nya affärsredovisningen CM1005, page 158]]
 
-### F-skatt
+### F-Skatt
 
-Företagare med F-skatt ska lämna in en preliminär inkomstdeklaration till Skatteverket. I den preliminära inkomstdeklarationen ska du ta upp alla inkomster och avdrag som du räknar med att ha under året. Med hjälp av dessa uppgifter kan Skatteverket sedan beräkna din debiterade preliminära skatt. Lämnar du inte in någon preliminär inkomstdeklaration beräknar Skatteverket skatten enligt en schablonmetod. Du får ett besked om hur mycket F-skatt du ska betala för hela året och sedan betalar du in lika stora belopp varje månad. Vid behov kan du ändra din debiterade preliminärskatt hos Skatteverket genom att lämna in en ny preliminär inkomstdeklaration.
+Företagare med F-skatt ska lämna in en preliminär [[Självdeklaration]] till Skatteverket. I den preliminära inkomstdeklarationen ska du ta upp alla inkomster och avdrag som du räknar med att ha under året. Med hjälp av dessa uppgifter kan Skatteverket sedan beräkna din debiterade preliminära skatt. Lämnar du inte in någon preliminär inkomstdeklaration beräknar Skatteverket skatten enligt en schablonmetod. Du får ett besked om hur mycket F-skatt du ska betala för hela året och sedan betalar du in lika stora belopp varje månad. Vid behov kan du ändra din debiterade preliminärskatt hos Skatteverket genom att lämna in en ny preliminär inkomstdeklaration.
 
-### FA-skatt
+Alltså F-Skatt är den skatten som företag betalar, den beror på den [[Självdeklaration]] som företaget lämnat till skatteverket
+
+### FA-Skatt
 
 Den som både bedriver näringsverksamhet och har anställningsinkomst behöver både godkännande för F-skatt och dessutom A-skatt, eftersom godkännandet för F-skatt inte får användas i en anställning. Arbetsgivaren gör då skatteavdrag och betalar arbetsgivaravgifter som vanligt. Vid sidan av detta betalar du själv in F-skatt varje månad för att täcka skatt och egenavgifter för näringsverksamheten.
 
-### Slutlig skatt
+### Slutlig Skatt
 
 När du lämnar in din inkomstdeklaration redovisar du företagets intäkter och kostnader i en bilaga. Skatteverket stämmer sedan av din preliminära skatt mot din slutliga skatt. Har det kommit in mindre preliminär skatt än den slutliga skatten, måste du betala in mellanskillnaden till ditt skattekonto. Har du betalat mer i preliminär skatt än den slutliga skatten får du tillbaka mellanskillnaden.
+
+Alltså, Slutgiltig Skatt är den skatt man ska faktiskt betala och den kan antingen vara överskjutande skatt eller kvarskatt beroende på dess relation till [[Självdeklaration#Beräknad Skatt|Beräknad Skatt]].
 
 ## Kopplat till
 
@@ -42,3 +46,9 @@ När du lämnar in din inkomstdeklaration redovisar du företagets intäkter oc
 
 Preliminär Skatt (Definition):: Skatt som betalas in i förväg och som avräknas (tillgodoräknas) när den slutliga skatten fastställs, exempelvis avdragen skatt på löner och ersättningar till anställda, avdragen skatt på räntor och utdelningar samt preliminär F-skatt
 <!--SR:!2024-02-27,1,230-->
+
+A-Skatt (Definition):: Skatt som arbetsgivaren drar av från lönen av den anställda och ger till Skatteverket
+
+F-Skatt (Definition):: Den skatten som företag betalar, beror på den [[Självdeklaration]] som företaget lämnat till skatteverket
+
+Slutgiltig Skatt (Definition):: Den skatt man ska faktiskt betala, kan antingen vara **överskjutande skatt eller kvarskatt** beroende på dess relation till [[Självdeklaration#Beräknad Skatt|Beräknad Skatt]]

@@ -52,11 +52,11 @@ AB
 
 Hur mycket av vinsten efter skatt ska gå till ägarna som vinstutdelning och hur mycket ska återinvesteras i företaget som eget kapital.
 
-Bokslutspolitik: Handlar om att komma överens om hur mycket vinstutdelningen ska vara och hur mycket ska sparas i företaget.
+[[Bokslutspolitik]]: Handlar om att komma överens om hur mycket vinstutdelningen ska vara och hur mycket ska sparas i företaget.
 
-Dubbel beskattning: När företagets vinst beskattas och sen ägarens utdelning också.
+[[Dubbel Beskattning]]: När företagets vinst beskattas och sen ägarens utdelning också.
 
----
+## [[Preliminär Skatt]]
 
 Först preliminär självdeklaration från företag till SK.
 
@@ -70,11 +70,11 @@ Allmän självdeklaration.
 
 Preliminär skatten kan vara olika än vad taxeringen är. Då måste företag betala ännu mer skatt eller få tillbaka en del av skatten man betalade.
 
-Preliminär skatt när man räknar och betalar i förhand för det kommande året.
+[[Preliminär Skatt]] när man räknar och betalar i förhand för det kommande året.
 
-Självdeklaration är det man skickar in till SK för det föregående året.
+[[Självdeklaration]] är det man skickar in till SK för det föregående året.
 
-Taxering är SK:s arbete med att beräkna skatten.
+[[Taxering]] är SK:s arbete med att beräkna skatten.
 
 F-Skatt är skatten på företagets vinst.
 

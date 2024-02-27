@@ -77,16 +77,16 @@ En finansiell rapport ska kännetecknas av vissa egenskaper som gör den använd
 <!--SR:!2024-02-25,2,166!2024-04-09,48,290-->
 
 Redovisningens Kvalitativa Egenskaper, Begriplig (Definition):: Informationen i en finansiell rapport ska redovisas på ett sådant sätt att någon med rimlig kunskap om ekonomi och redovisning ska förstå den
-<!--SR:!2024-03-11,25,270-->
+<!--SR:!2024-03-11,25,270!2024-03-01,3,269-->
 
 Redovisningens Kvalitativa Egenskaper, Tillförlitlig (Definition):: Informationen i en finansiell rapport ska vara neutral och inte innehålla väsentliga felaktigheter. Informationen ska också vara aktuell och fullständig
-<!--SR:!2024-02-27,11,228-->
+<!--SR:!2024-02-27,11,228!2024-03-02,4,272-->
 
 Redovisningens Kvalitativa Egenskaper, Relevant (Definition):: Informationen i en finansiell rapport ska underlätta för användaren att bedöma inträffade, aktuella och framtida händelser, eller genom att bekräfta eller korrigera tidigare bedömningar
-<!--SR:!2024-02-26,11,230-->
+<!--SR:!2024-02-26,11,230!2024-03-02,4,272-->
 
 Redovisningens Kvalitativa Egenskaper, Jämförbar (Definition):: Informationen i en finansiell rapport ska följa [[Jämförbarhetsprincipen]] genom att redovisa information på samma sätt hela tiden
-<!--SR:!2024-04-22,58,310-->
+<!--SR:!2024-04-22,58,310!2024-03-01,3,269-->
 
 Redovisningens Kvalitativa Egenskaper, Väsentlig (Definition):: Informationen i en finansiell rapport som kan påverka de beslut som en användare tar ska alltid inkluderas
-<!--SR:!2024-02-29,16,245-->
+<!--SR:!2024-02-29,16,245!2024-03-02,4,272-->

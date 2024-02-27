@@ -86,7 +86,7 @@ Efter allt annat är gjort ska man skapa en aktivitetsplan. Som en kombination a
 ## Flashcards
 
 Marknadsplan (Definition);; För att [[Marknadsföring]] ska bli optimal måste man planera noga och göra en marknadsplan. Kontrollera att budgeten och marknadsplanen håller genom att regelbundet göra uppföljningar
-<!--SR:!2024-03-04,24,270!2024-02-29,3,252-->
+<!--SR:!2024-03-04,24,270-->
 
 Delarna av en Marknadsplan (5)
 ??

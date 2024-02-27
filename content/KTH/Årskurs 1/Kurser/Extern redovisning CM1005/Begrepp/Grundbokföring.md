@@ -25,4 +25,4 @@ Handlar om att bokföra beroende på ordningen av händelser, dag till dag för 
 ## Flashcards
 
 Grundbokföring (Definition):: När man bokför beroende på ordningen som [[Affärshändelse]] skedde
-<!--SR:!2024-02-25,15,292-->
+<!--SR:!2024-02-25,15,292!2024-03-02,4,274-->

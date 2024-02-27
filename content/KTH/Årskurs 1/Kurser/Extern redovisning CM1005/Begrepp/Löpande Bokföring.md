@@ -33,7 +33,7 @@ Fyra olika konton för löpande bokföring
 ## Flashcards
 
 Löpande Bokföring (Definition):: När man bokför ett företags [[Affärshändelse]] kontinuerligt, snarast
-<!--SR:!2024-04-07,52,304-->
+<!--SR:!2024-04-07,52,304!2024-03-02,4,273-->
 
 De olika konton för löpande bokföring (4)
 ??

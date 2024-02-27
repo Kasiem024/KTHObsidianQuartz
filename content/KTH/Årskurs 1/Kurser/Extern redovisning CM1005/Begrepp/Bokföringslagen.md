@@ -26,7 +26,7 @@ En del av BFL är bokföringsskyldighet som innebär att bokföring ska ske av a
 ## Flashcards
 
 Bokföringslagen (Definition):: En lag som reglerar hur bokföring för en verksamhet ska upprättas och vilka som är bokföringsskyldiga
-<!--SR:!2024-03-12,17,246-->
+<!--SR:!2024-03-12,17,246!2024-03-01,3,258-->
 
 Bokföringsskyldighet (Definition):: En del av [[Bokföringslagen]] som säger att alla [[Affärshändelse]] ska bokföras systematiskt så att de kan registreras i en [[Grundbok]] och en [[Huvudbok]]. Alla dessa affärshändelser ska ha [[Verifikation]]. Den innebär även att upprätta ett [[Årsbokslut]] och en [[Årsredovisning]]
-<!--SR:!2024-02-26,2,146-->
+<!--SR:!2024-02-26,2,146!2024-03-01,3,258-->

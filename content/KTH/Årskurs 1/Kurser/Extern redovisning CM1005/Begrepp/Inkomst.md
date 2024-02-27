@@ -32,7 +32,7 @@ En Inkomst uppstår i samband med att företaget skickar en ==faktura== eller mo
 ## Flashcards
 
 Inkomst (Definition):: Uppstår när företaget har slutfört en prestation. När den fortfarande inte har fått betalt. Med andra ord när företaget skickar en ==faktura==, vid ==försäljningstillfället==
-<!--SR:!2024-03-03,8,230-->
+<!--SR:!2024-03-03,8,230!2024-03-02,4,270-->
 
 Motsatsen till Inkomst:: Motsatsen till [[Utgift]]
-<!--SR:!2024-03-28,42,270-->
+<!--SR:!2024-03-28,42,270!2024-03-02,4,270-->

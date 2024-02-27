@@ -30,22 +30,24 @@ Aktiebolaget är ett eget skattesubjekt. Det betalar sin egna skatt.
 ![[Aktiebolag Karta CM1005.png]]
 [[Den nya affärsredovisningen CM1005.pdf#page=275&selection=6,0,6,30|Aktiebolagets organ enligt ABL]]
 
+Skatt för Aktiebolag är 20.6%.
+
 ## Flashcards
 
 Aktiebolag (Definition):: Företagsform där delägarna inte är personligt ansvariga för företagets skulder. Ägarna riskerar bara att förlora deras egna satsade kapital. Minst 1 ägare men kan också vara 100,000-tals ägare
-<!--SR:!2024-04-11,47,272-->
+<!--SR:!2024-04-11,47,272!2024-03-02,4,282-->
 
 Aktiens kvotvärde (Definition):: Aktiens värde vid grundandet som grundarna bestämmer själva
-<!--SR:!2024-03-13,34,292-->
+<!--SR:!2024-03-13,34,292!2024-03-02,4,282-->
 
-Antal aktier ett företag har:: Riskkapital/Aktiens kvotvärde
-<!--SR:!2024-04-05,41,272-->
+Antal aktier ett företag har ==DISABLEDFLASHCARD== Riskkapital/Aktiens kvotvärde
+<!--SR:!2024-04-05,41,272!2024-03-02,4,286-->
 
 De två typerna av aktiebolag;; Privat aktiebolag (50,000 aktiekapital), Publikt aktiebolag (500,000 aktiekapital)
-<!--SR:!2024-03-20,39,290!2024-02-28,4,280-->
+<!--SR:!2024-03-20,39,290-->
 
 Börskurs (Definition):: Priset av en aktie, bestäms av tillgång och efterfrågan
-<!--SR:!2024-03-21,34,270-->
+<!--SR:!2024-03-21,34,270!2024-03-02,4,282-->
 
 Vad som påverkar en akties börskurs (6)
 ==DISABLEDFLASHCARD==

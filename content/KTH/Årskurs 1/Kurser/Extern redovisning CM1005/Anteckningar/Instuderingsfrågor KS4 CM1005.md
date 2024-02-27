@@ -10,51 +10,55 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #övning #CM1005KS4
 
 ---
 
+## Kapitel 6
+
 [[Sociala Avgifter|Lagstadgade arbetsgivaravgifter]]
 
 [[Semesterlön]]
 
-[[Preliminär Skatt]]
+[[Preliminär Skatt#A-skatt|Preliminär (A) skatt för anställda]]
 
-preliminär (A) skatt för anställda
+Skillnad mellan [[Lagfart]] VS [[Fastighetsbevis]]
 
-skillnad mellan lagfart VS fastighetsbevis
+[[Avräkningsnota]]
 
-avräkningsnota
+[[Factoring]]
 
-factoring
+[[Självdeklaration#Preliminär Självdeklaration|Preliminär Självdeklaration]] och [[Självdeklaration#Beräknad Skatt|Beräknad Skatt]]
 
-preliminär självdeklaration och beräknad skatt
+[[Preliminär Skatt#F-skatt|Skattsedel på preliminär F-skatt]]
 
-skattsedel på preliminär F-skatt
+[[Självdeklaration#Allmän Självdeklaration|Allmän Självdeklaration]] och [[Självdeklaration#Beräknad Skatt|Beräknad Skatt]]
 
-allmän självdeklaration och beräknad skatt
+[[Taxering]]
 
-taxering
+[[Preliminär Skatt#Slutlig Skatt|Skattsedel avseende slutlig skatt]]
 
-skattsedel avseende slutlig skatt
+[[Självdeklaration#Beräknad Skatt|Debiterad kvarstående skatt, kvarskatt]]
 
-debiterad kvarstående skatt, kvarskatt
+## Kapitel 7
 
-skillnad mellan de civilrättsliga värderingsreglerna VS de skatterättsliga värderingsreglerna
+Skillnad mellan de [[Civilrättsliga Värderingsreglerna]] VS de [[Skatterättsliga Värderingsreglerna]]
 
-vad är skillnad mellan resultatberäkning VS  bokslutspolitik vid årsbokslut, årsbokslutets två funktioner
+Vad är skillnad mellan [[Årsbokslut#Resultatberäkning|Resultatberäkning]] VS [[Bokslutspolitik]] vid årsbokslut, årsbokslutets två funktioner
 
-anskaffningsvärde för anläggningstillgång
+[[Anläggningstillgångar#Anskaffningsvärde||Anskaffningsvärde för Anläggningstillgångar]]
 
-skillnad mellan avskrivning av anläggningstillgång VS nedskrivning anläggningstillgång
+Skillnad mellan [[Anläggningstillgångar#Avskrivning||Avskrivning av Anläggningstillgångar]] VS [[Anläggningstillgångar#Nedskrivning||Nedskrivning av Anläggningstillgångar]]
 
-förbrukningsinventarier
+[[Förbrukningsinventarier]]
 
-lägsta värdets princip
+[[Lägsta Värdets Princip]]
 
-nettoförsäljningsvärde,  verkligt värde
+[[Nettoförsäljningsvärde]], verkligt värde
 
-FIFU-principen
+[[FIFU-Principen]]
 
-kortfristiga fordringar
+[[Kortfristiga Fordringar]]
 
-skillnad för  osäkra kundfordringar mellan befarad kundförlust VS konstaterad kundförlust enligt Skatteverket
+Skillnad för osäkra kundfordringar mellan befarad kundförlust VS konstaterad kundförlust enligt Skatteverket
+
+## Kapitel 8
 
 skillnad kortfristig skuld vs långfristig skuld
 
@@ -67,6 +71,8 @@ bokfört restvärde
 skillnad mellan reservfond och balanserad vinst
 
 skillnad mellan en akties kvotvärde VS en akties balansvärde
+
+## Kapitel 10
 
 skillnad mellan räntabilitet, avkastning på EGET kapital vs räntabilitet, avkastning på TOTALT kapital
 

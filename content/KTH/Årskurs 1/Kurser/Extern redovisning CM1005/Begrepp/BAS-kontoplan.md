@@ -40,7 +40,7 @@ BAS består av 10 kontoklasser, 1-8 är de viktiga:
 ## Flashcards
 
 Kontoplan (Definition):: En lista över konton som ett företag använder i sin bokföring, ligger till grund för företagets redovisning, bokslut och deklaration
-<!--SR:!2024-02-27,3,210-->
+<!--SR:!2024-02-27,3,210!2024-03-01,3,250-->
 
 BAS-Kontoplan (4)
 ??

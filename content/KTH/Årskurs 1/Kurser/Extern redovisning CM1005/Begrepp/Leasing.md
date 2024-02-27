@@ -12,7 +12,7 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
 
 ## Definition
 
-Leasing är ett annat ord för att hyra. Det utgår på att inte köpa exempelvis en maskin eller bil men hyra den vilket leder till ett flertal små utbetalningar över en längre period. Detta gör man för att undvika en stor utbetalning vid anskaffningstillfället, vilket förbättrar företagets likviditet.
+Leasing är ett annat ord för att hyra. Det utgår på att inte köpa exempelvis en maskin eller bil men hyra den vilket leder till ett flertal små utbetalningar över en längre period. Detta gör man för att undvika en stor utbetalning vid anskaffningstillfället, vilket förbättrar företagets [[Likviditet]].
 
 ### Operationell Leasing
 
@@ -26,7 +26,7 @@ Finansiell Leasing är när den som hyr in maskinen ansvarar för maskinens serv
 
 ## Flashcards
 
-Leasing (Definition):: Ett annat ord för hyra, utgår på att inte köpa en maskin men hyra den vilket leder till ett **flertal små utbetalningar över en längre period**. Detta gör man för att undvika en stor utbetalning vid anskaffningstillfället, vilket **förbättrar företagets likviditet**
+Leasing (Definition);; Ett annat ord för hyra, utgår på att inte köpa en maskin men hyra den vilket leder till ett **flertal små utbetalningar över en längre period**. Detta gör man för att undvika en stor utbetalning vid anskaffningstillfället, vilket **förbättrar företagets likviditet**
 
 Operationell Leasing (Definition):: Ett vanligt hyresavtal, maskinen hyrs ut istället för att säljas av maskintillverkaren, det är också tillverkaren som ansvarar för drift och service
 

@@ -37,7 +37,7 @@ De tre centrala [[Värdeskapande Processerna]] i ett industriföretag är: [[Pro
 I början av 1900-talet var Sverige ett utpräglat jordbrukssamhälle och ett av Europas fattigaste länder. Sverige industrialiserades också sent. Eftersom Sverige inte var med nån av världskrigen blev de svenska företagen starkare än sina europeiska konkurrenter. Mot slutet av 1900-talet ökade näringslivets och den offentliga sektorns tjänsteproduktion.
 
 De viktigaste förändringarna i den svenska ekonomins struktur från år 1900 till idag;; Sverige började som ett ==jordbrukssamhälle==, ett av de ==fattigaste== länderna i Europa, ==industrialiserades sent==, var inte med i nåt av ==världskrigen== vilket gjorde svenska företag starka, näringslivets och den offentliga sektorns tjänsteproduktion ökade mot slutet av 1900-talet
-<!--SR:!2024-02-27,11,284!2024-02-25,1,251-->
+<!--SR:!2024-02-27,11,284-->
 
 2. Ungefär hur stor andel av Sveriges BNP står näringslivets tjänstesektor för och hur stor andel står den tillverkande industrin för?
 
@@ -671,7 +671,7 @@ Beordringsprincipen Pull (Definition):: När ett moment beställer material frå
 ==Påfyllningsvolym== är hur ofta och i hur stora mängder ett lager får en leverans. Alltså kan ett lager få många små leveranser eller ett fåtal stora. Om det är många små leveranser är den genomsnittliga lagernivån låg och i det andra fallet blir den genomsnittliga lagernivån hög.
 
 Relationen mellan Lagernivå och Påfyllningsvolym;; Låg påfyllningsvolym, många små leveranser, leder till låg lagernivå. Hög påfyllningsvolym, ett fåtal stora leveranser, leder till hög lagernivå
-<!--SR:!2024-03-01,15,307!2024-02-27,3,271-->
+<!--SR:!2024-03-01,15,307-->
 
 ![[Lagernivå och Påfyllningsvolym ME1003.png]]
 

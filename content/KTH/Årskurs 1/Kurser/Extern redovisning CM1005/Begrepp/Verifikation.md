@@ -31,7 +31,7 @@ Man kan se på det som ett kvitto som visar att en affärshändelse har hänt.
 ## Flashcards
 
 Verifikation (Definition):: Som ett kvitto som visar att en [[Affärshändelse]] har hänt. Kan vara en faktura, kvitto eller annat både fysiskt och elektroniskt dokument
-<!--SR:!2024-04-15,51,310-->
+<!--SR:!2024-04-15,51,310!2024-03-02,4,280-->
 
 Innehållet av en Verifikation (6)
 ??

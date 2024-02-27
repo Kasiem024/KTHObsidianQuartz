@@ -23,4 +23,4 @@ En grundbok är en lista över ett företags [[Affärshändelse]] presenterad i 
 ## Flashcards
 
 Grundbok (Definition):: En lista över ett företags [[Affärshändelse]] presenterad i [[Grundbokföring|registreringsordning]], dvs. ordnade i kronologisk följd
-<!--SR:!2024-03-28,33,270-->
+<!--SR:!2024-03-28,33,270!2024-03-02,4,272-->

@@ -25,4 +25,4 @@ Alltså man har fått en faktura eller betalat för en vara/tjänst som man inte
 ## Flashcards
 
 Förutbetald Kostnad (Definition):: När man har betalat eller fått faktura för en vara/tjänst som man inte har fått detta [[Räkenskapsår]]
-<!--SR:!2024-02-26,16,292-->
+<!--SR:!2024-02-26,16,292!2024-03-02,4,274-->

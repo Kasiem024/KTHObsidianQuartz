@@ -21,10 +21,12 @@ Man kan ha anställda.
 
 Personligt ansvarig. Företaget är inte en separat juridisk person.
 
+Betalar inkomstskatt på samma sätt som en vanlig privatperson, inte företags skatt.
+
 ## Flashcards
 
 Enskild näringsverksamhet (Definition):: Företagsform om en privatperson är ensam ägare och driver/ansvarar själv för företaget
-<!--SR:!2024-03-29,45,298-->
+<!--SR:!2024-03-29,45,298!2024-03-02,4,284-->
 
 Egenskaper av en enskild näringsverksamhet
 ??

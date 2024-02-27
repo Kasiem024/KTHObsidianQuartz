@@ -22,10 +22,10 @@ Summan från kassaflöde kallas saldo. Det är dina likvida medel, pengar på ba
 ## Flashcards
 
 Kassaflöde (Definition):: Ditt saldo, likvida medel. Hur mycket pengar du har på bankkontot i slutet av en period
-<!--SR:!2024-03-20,34,272-->
+<!--SR:!2024-03-20,34,272!2024-03-02,4,281-->
 
 De två delarna av ett kassaflöde:: Redovisningen av [[Inbetalning]] och [[Utbetalning]] under en viss period
-<!--SR:!2024-03-18,40,290-->
+<!--SR:!2024-03-18,40,290!2024-03-02,4,279-->
 
 Likvida medel (Definition):: De pengar företaget har tillgängliga. Saldot efter kassaflödet
-<!--SR:!2024-02-27,21,280-->
+<!--SR:!2024-02-27,21,280!2024-03-02,4,281-->

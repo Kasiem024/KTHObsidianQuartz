@@ -10,7 +10,7 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #lektion
 ---
 När man skickar en faktura kan man redovisa det som en [[Utgift]].
 
-[[Inbetalning]] och [[Utbetalning]] kan ses som likviditet, penningflödet. Sker i banken, plusgiro och kassan.
+[[Inbetalning]] och [[Utbetalning]] kan ses som [[Likviditet]], penningflödet. Sker i banken, plusgiro och kassan.
 
 [[Inkomst]] och [[Utgift]] kan ses som resurser. Har med fakturan att göra. När vi anskaffar resurser. När vi säljer något.
 
