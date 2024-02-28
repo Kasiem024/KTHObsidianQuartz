@@ -36,7 +36,7 @@ Det finns 3 typer av Anläggningstillgångar:
 
 Anskaffningsvärdet för Anläggningstillgångar definieras som ett belopp motsvarande utgifterna för tillgångens förvärv eller tillverkning. Exempelvis om tillgången är en bil som företaget har köpt blir Anskaffningsvärdet både inköpspriset och alla utgifter som kan direkt hänföras till bilen.
 
-### Omsättningstillgångar
+### [[Omsättningstillgångar]]
 
 Omsättningstillgångar är Tillgångar som löpande förbrukas, säljs eller omvandlas till likvida medel. Saker som omsätts och ändras hela tiden.
 
@@ -60,12 +60,3 @@ Sätt att värdera en Tillgång (4)
 - Försäljningsvärde - Idag
 - Försäljningsvärde - Imorgon
 ![[Tillgångars Värde CM1005.png]]
-
-Omsättningstillgångar (Definition):: Tillgångar som löpande förbrukas, säljs eller omvandlas till likvida medel. Saker som omsätts och ändras hela tiden
-
-Omsättningstillgångar Exempel (4)
-??
-- ==Varulager==
-- ==Kortfristiga fordringar:== Kundfordring, Upplupen intäkt.
-- ==Osäkra fordringar==: Kundfordringar och Upplupna intäkter där det råder osäkerhet om kunden har förmåga att betala eller inte.
-- ==Kortfristiga placeringar==: Låst pengar i banken.

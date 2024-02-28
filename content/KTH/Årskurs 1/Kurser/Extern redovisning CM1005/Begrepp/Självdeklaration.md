@@ -28,7 +28,7 @@ Alla som har F-Skatt och SA-Skatt ska göra en Preliminär Självdeklaration.
 
 ### Beräknad Skatt
 
-Beräknad Skatt är den skatten man beräknar ska  betala, detta sker i maj året efter inkomståret
+Beräknad Skatt är den skatten man beräknar ska betala, detta sker i maj året efter inkomståret
 
 Om den Beräknade Skatten är mindre än preliminärskatten har företaget en ==beräknad överskjutande skatt==, alltså ska man få tillbaka pengar från Skatteverket.
 
@@ -41,6 +41,7 @@ Om den Beräknade Skatten är större än [[Preliminär Skatt]] har företaget e
 Självdeklaration (Definition):: En årlig handling som ska lämnas till Skatteverket där föregående års inkomster redovisas, fastställer hur mycket skatt som ska betalas
 
 Preliminär Självdeklaration (Definition):: Ett underlag för att Skatteverket ska kunna bestämma den debiterade preliminära skatten, inkluderar alla inkomster och avdrag som räknas hända under året, måste göras av alla med F-Skatt och SA-Skatt
+<!--SR:!2024-02-29,1,230!2000-01-01,1,250-->
 
 Beräknad Skatt (Definition):: Den skatten man ska faktiskt betala, detta sker året efter inkomståret, kan antingen vara överskjutande eller kvarskatt
 

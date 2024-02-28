@@ -52,3 +52,4 @@ A-Skatt (Definition):: Skatt som arbetsgivaren drar av från lönen av den anst�
 F-Skatt (Definition):: Den skatten som företag betalar, beror på den [[Självdeklaration]] som företaget lämnat till skatteverket
 
 Slutgiltig Skatt (Definition):: Den skatt man ska faktiskt betala, kan antingen vara **överskjutande skatt eller kvarskatt** beroende på dess relation till [[Självdeklaration#Beräknad Skatt|Beräknad Skatt]]
+<!--SR:!2024-02-29,1,228!2000-01-01,1,250-->

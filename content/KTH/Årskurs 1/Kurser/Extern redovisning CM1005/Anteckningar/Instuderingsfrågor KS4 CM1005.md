@@ -56,24 +56,24 @@ Skillnad mellan [[Anläggningstillgångar#Avskrivning||Avskrivning av Anläggnin
 
 [[Kortfristiga Fordringar]]
 
-Skillnad för osäkra kundfordringar mellan befarad kundförlust VS konstaterad kundförlust enligt Skatteverket
+Skillnad för [[Kundfordringar#Osäkra Kundfordringar|Osäkra Kundfordringar]] mellan befarad kundförlust VS konstaterad kundförlust enligt Skatteverket
 
 ## Kapitel 8
 
-skillnad kortfristig skuld vs långfristig skuld
+[[Skuld|Skillnad kortfristig skuld vs långfristig skuld]]
 
-avsättningar
+[[Avsättningar]]
 
-obeskattade reserver
+[[Obeskattade Reserver]]
 
-bokfört restvärde
+[[Avskrivning#Bokfört Restvärde|Bokfört Restvärde]]
 
-skillnad mellan reservfond och balanserad vinst
+Skillnad mellan [[Bundet Eget Kapital#Reservfond|Reservfond]] och [[Fritt Eget Kapital#Balanserad Vinst|Balanserad Vinst]]
 
-skillnad mellan en akties kvotvärde VS en akties balansvärde
+Skillnad mellan en [[Aktiebolag#Aktiens Kvotvärde|Aktiens Kvotvärde]] VS en [[Aktiebolag#Aktiens Balansvärde|Aktiens Balansvärde]]
 
 ## Kapitel 10
 
-skillnad mellan räntabilitet, avkastning på EGET kapital vs räntabilitet, avkastning på TOTALT kapital
+skillnad mellan [[Räntabilitet#Räntabilitet på Eget Kapital|Räntabilitet på Eget Kapital]] vs[[Räntabilitet#Räntabilitet på Totalt Kapital|Räntabilitet på Totalt Kapital]]
 
 nyckeltal i hållbarhetsredovisningen

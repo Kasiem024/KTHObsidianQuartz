@@ -11,7 +11,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
 
-Lönsamhet är vinsten delat på kapitalet. Alltså genom att veta vår lönsamhet kan vi veta om verksamhetens vinst är rimlig i relation till det investerade kapitalet
+Lönsamhet är vinsten delat på kapitalet. Alltså genom att veta vår Lönsamhet kan vi veta om verksamhetens vinst är rimlig i relation till det investerade kapitalet
 
 ## Kopplat till
 

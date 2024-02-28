@@ -14,8 +14,10 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
 
 Lägsta Värdets Princip (LVP) är huvudregel vid lagervärdering. Principen innebär att lagertillgångar ska tas upp till det lägsta av anskaffningsvärdet och [[Nettoförsäljningsvärde]] (marknadsvärdet) på bokslutsdagen.
 
+Det är som [[Försiktighetsprincipen]] fast när det kommer till lagervaror.
+
 ## Kopplat till
 
 ## Flashcards
 
-Lägsta Värdets Princip, LVP (Definition):: Innebär att lagertillgångar ska tas upp till det ==lägsta== av ==anskaffningsvärdet== och det [[Nettoförsäljningsvärde]] på ==bokslutsdagen==
+Lägsta Värdets Princip, LVP (Definition):: Innebär att lagertillgångar ska tas upp till det lägsta av anskaffningsvärdet och det [[Nettoförsäljningsvärde]] på bokslutsdagen, [[Försiktighetsprincipen]]

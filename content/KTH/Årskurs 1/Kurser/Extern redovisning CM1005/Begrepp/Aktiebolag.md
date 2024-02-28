@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
 
 ---
 
@@ -16,8 +16,6 @@ Ett aktiebolag är ett företag där delägarna, alltså aktieägarna, normalt s
 [Aktiebolag, Verksamt](https://www.verksamt.se/starta/valj-foretagsform/aktiebolag)
 
 Så länge företaget följer lagen kan man inte förlora mer än vad man lagt in som riskkapital.
-
-==Aktiens kvotvärde==: Aktiens värde vid grundandet. Grundarna bestämmer själva vad värdet är. Man vill inte ha det för lågt eller för högt.
 
 Riskkapital/Aktiens kvotvärde = Antal aktier
 Aktiens värde påverkas av vad vi tror kommer hända i framtiden.
@@ -32,13 +30,33 @@ Aktiebolaget är ett eget skattesubjekt. Det betalar sin egna skatt.
 
 Skatt för Aktiebolag är 20.6%.
 
+### Aktiens Kvotvärde
+
+Aktiens Kvotvärde är aktiens värde vid grundandet. Grundarna bestämmer själva vad värdet är. Man vill inte ha det för lågt eller för högt.
+
+Aktiens Kvotvärde = Aktiekapital / Antal Aktier
+
+### Aktiens Balansvärde
+
+Aktiens Balansvärde är när man delar upp [[Eget Kapital]] på antalet aktier som finns, detta värde är en faktor som påverkar aktiens pris.
+
+Aktiens Balansvärde = Eget Kapital / Antal Aktier
+
 ## Flashcards
 
 Aktiebolag (Definition):: Företagsform där delägarna inte är personligt ansvariga för företagets skulder. Ägarna riskerar bara att förlora deras egna satsade kapital. Minst 1 ägare men kan också vara 100,000-tals ägare
 <!--SR:!2024-04-11,47,272!2024-03-02,4,282-->
 
-Aktiens kvotvärde (Definition):: Aktiens värde vid grundandet som grundarna bestämmer själva
+Aktiens kvotvärde (Definition)
+??
+Aktiens värde vid grundandet som grundarna bestämmer själva
+Aktiens Kvotvärde = Aktiekapital / Antal Aktier
 <!--SR:!2024-03-13,34,292!2024-03-02,4,282-->
+
+Aktiens Balansvärde (Definition)
+??
+När man delar upp [[Eget Kapital]] på antalet aktier som finns, detta värde är en faktor som påverkar aktiens pris
+Aktiens Balansvärde = Eget Kapital / Antal Aktier
 
 Antal aktier ett företag har ==DISABLEDFLASHCARD== Riskkapital/Aktiens kvotvärde
 <!--SR:!2024-04-05,41,272!2024-03-02,4,286-->

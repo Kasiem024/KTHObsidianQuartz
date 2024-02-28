@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005
 
 --
 
@@ -25,7 +25,7 @@ Syftet med ett årsbokslut är att ge en överblick på hur det har gått för v
 
 ### Resultatberäkning
 
-Resultatberäkning är en beräkning av resultatet från detta [[Räkenskapsår]] som görs i samband med ett preliminärt bokslut. Det är inte exakt samma sak som [[Resultaträkning]].
+Resultatberäkning är en beräkning av resultatet från detta [[Räkenskapsår]] som görs i samband med ett preliminärt bokslut. Det är processen att skapa [[Resultaträkning]].
 
 ### [[Bokslutspolitik]]
 
@@ -39,3 +39,5 @@ Hur mycket av vinsten efter skatt ska gå till ägarna som vinstutdelning och hu
 
 Årsbokslut (Definition):: En redovisning över verksamhetens tillgångar, eget kapital och skulder, alltså RR och BR
 <!--SR:!2024-04-05,44,288!2024-03-02,4,274-->
+
+Resultatberäkning (Definition):: En beräkning av resultatet från detta [[Räkenskapsår]] som görs i samband med ett preliminärt bokslut, processen att skapa [[Resultaträkning]]

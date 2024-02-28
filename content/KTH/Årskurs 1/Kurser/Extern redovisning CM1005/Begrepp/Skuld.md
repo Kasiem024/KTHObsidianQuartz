@@ -5,11 +5,17 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
 
 ---
 
 ## Definition
+
+Skuld är en tids- och beloppsbestämd förpliktelse.
+
+Den som har en skuld kallas för gäldenär, och den som gäldenären har en skuld till kallas för borgenär.
+
+Skulder kan vara antingen ==kortfristiga== eller ==långfristiga==. Kortfristiga skulder är skulder som ska betalas inom ett år. Vanliga kortfristiga skulder är leverantörsskulder, skatteskulder, moms och interimsskulder. Långfristiga skulder är skulder som förfaller först efter ett år. Exempel på långfristiga skulder är långfristiga lån och checkräkningskredit
 
 ## Kopplat till
 

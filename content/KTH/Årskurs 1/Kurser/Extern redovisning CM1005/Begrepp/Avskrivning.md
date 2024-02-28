@@ -12,7 +12,7 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
 
 ## Definition
 
-Avskrivning är när man fördelar kostnaden av [[Tillgångar]] under dess [[Ekonomisk Livslängd]]. Dock är det enbart [[Anläggningstillgångar]] som avskrivs då de har en förväntad ekonomisk livslängd.
+Avskrivning är när man fördelar kostnaden av [[Tillgångar]] under dess [[Ekonomisk Livslängd]]. Dock är det enbart [[Anläggningstillgångar]] som avskrivs då de har en förväntad [[Ekonomisk Livslängd]].
 
 Avskrivning beror på slitage, tid och teknisk utveckling.
 
@@ -28,16 +28,33 @@ Finns 3 olika sätt att avskriva en tillgång:
 - ==Degressiv==: När avskrivningen är hög i början men minskar med åren.
 - ==Progressiv==: När avskrivningen är låg i början men ökar med åren.
 
-## Kopplat till
+### Bokfört Restvärde
 
-- [[Balansräkning]]
+Bokfört Restvärde är det värde [[Anläggningstillgångar]] har i [[Balansräkning]] efter Avskrivning.
+
++Anskaffningsvärde
+-Ackumulerande Avskrivningar
+= Bokfört Restvärde
+
+Om försäljningspriset är högre än bokfört restvärde är det ==realisationsvinst==, tvärtom blir ==realisationsförlust==.
+
+## Kopplat till
 
 ## Flashcards
 
-Avskrivning (Definition):: När man fördelar kostnaden av [[Tillgångar]] under dess [[Ekonomisk Livslängd]], dock är det enbart anläggningstillgångar då de har en förväntad ekonomisk livslängd
+Avskrivning (Definition):: När man fördelar kostnaden av [[Tillgångar]] under dess [[Ekonomisk Livslängd]], dock är det enbart [[Anläggningstillgångar]] då de har en förväntad [[Ekonomisk Livslängd]]
+<!--SR:!2024-02-29,1,230!2000-01-01,1,250-->
 
 Avskrivningens olika typer (3)
 ??
 - ==Proportionell==: När avskrivningen är samma under hela den ekonomiska livslängden.
 - ==Degressiv==: När avskrivningen är hög i början men minskar med åren.
 - ==Progressiv==: När avskrivningen är låg i början men ökar med åren.
+
+Bokfört Restvärde (Definition):: Det värde [[Anläggningstillgångar]] har i [[Balansräkning]] efter Avskrivning
+
+Bokfört Restvärde (Formel)
+||
++Anskaffningsvärde
+-Ackumulerande Avskrivningar
+= Bokfört Restvärde
