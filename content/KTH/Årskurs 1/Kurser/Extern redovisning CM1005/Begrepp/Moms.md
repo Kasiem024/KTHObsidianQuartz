@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3 #ME1003KS3
 
 ---
 
@@ -13,7 +13,7 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS3
 
 MervärdesOMSättningsskatt är en statlig konsumtionsskatt som betalas av konsumenter.
 
-Moms (mervärdesskatt) är en skatt som vi alla betalar när vi köper varor och tjänster. Den kan tänkas som en konsumtions skatt. Momsen är ==inbakad i priset ==och därför inget privatpersoner behöver tänka på. Som företagare däremot ska du deklarera och betala moms.
+Moms (mervärdesskatt) är en skatt som vi alla betalar när vi köper varor och tjänster. Den kan tänkas som en konsumtions skatt. Momsen är ==inbakad i priset ==och därför inget privatpersoner behöver tänka på. Som företagare däremot ska man deklarera och betala moms.
 
 ==Momsen är varken en intäkt eller kostnad i din verksamhet==, utan en skatt som du tar ut av kunden och för vidare till staten.
 
@@ -72,23 +72,23 @@ Staten kan använda moms för att belöna eller straffa befolkningen beroende p�
 ## Flashcards
 
 Moms (Definition):: En skatt som betalas vid köpet av varor och tjänster, inbakad i priset, en statlig ==konsumtionsskatt==
-<!--SR:!2024-03-15,37,292-->
+<!--SR:!2024-03-15,37,292!2024-03-05,4,280-->
 
 In- och Utgående Moms (Definition)
 ??
 - ==Ingående Moms==: De varor företaget ==KÖPER IN==
 - ==Utgående Moms==: De varor företaget ==SÄLJER UT==
 Utgående - Ingående = Vad staten får från företaget
-<!--SR:!2024-03-05,10,281!2024-02-25,3,238-->
+<!--SR:!2024-03-05,10,281!2024-03-06,5,238-->
 
 Skattskyldiga näringsidkare för moms:: I stort sett alla ==rörelseidkare== och ==jordbrukare==
-<!--SR:!2024-03-08,13,281-->
+<!--SR:!2024-03-08,13,281!2024-03-04,3,260-->
 
 Skattepliktiga varor och tjänster för moms:: Med ett fåtal undantag, alla ==varor== och ==tjänster==
-<!--SR:!2024-03-03,10,281-->
+<!--SR:!2024-03-03,10,281!2024-03-04,3,260-->
 
 Moms Redovisningsperiod (Definition):: Omfattar normalt en månad, alltså lämnas ==momsdeklaration varje månad==
-<!--SR:!2024-03-07,10,261-->
+<!--SR:!2024-03-07,10,261!2024-03-05,4,280-->
 
 Moms och Euro:: Om företagets redovisningsvaluta är Euro, räknas summa ingående och summa utgående moms i deklarationen till Skatteverket om till kronor. Denna omräkning sker enligt en genomsnittskurs som fastställs av Skatteverket för den månad momsen avser. **Alltså om redovisningsvalutan är Euro räknas momsen om till kronor genom att använda en genomsnittskurs som bestäms av Skatteverket för den månaden momsen avser**
-<!--SR:!2024-02-25,3,261-->
+<!--SR:!2024-03-10,9,261!2024-03-04,3,260-->

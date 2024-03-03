@@ -15,7 +15,7 @@ Omslutning, eller balansomslutning som det även kallas, är summan av alla skul
 
 [Omslutning, Fakturino](https://www.fakturino.se/hur-fungerar-det/ordlista/omslutning/)
 
-Omslutning är summa på en sida. Det har med [[Kassaflöde]] att göra. Summan [[Inbetalning]] och summan [[Utbetalning]] när det kommer till ett specifikt [[T-Konton]].
+Omslutning är summa på en sida. Det har med [[Kassaflödesanalys]] att göra. Summan [[Inbetalning]] och summan [[Utbetalning]] när det kommer till ett specifikt [[T-Konton]].
 
 Om det inte är lika mycket på båda sidorna av kontot kallar man det som är över för saldo. Debet saldo eller kredit saldo.
 

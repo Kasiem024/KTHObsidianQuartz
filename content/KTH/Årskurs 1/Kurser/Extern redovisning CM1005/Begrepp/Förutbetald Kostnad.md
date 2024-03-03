@@ -5,13 +5,13 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
 ## Definition
 
-Förutbetalda kostnader är kostnader som företaget betalat eller fått faktura på under räkenskapsåret, men som helt eller delvis hör till kommande [[Räkenskapsår]].
+Förutbetalda Kostnad är en [[Kostnad]] som företaget betalat eller fått faktura på under räkenskapsåret, men som helt eller delvis hör till kommande [[Räkenskapsår]].
 
 [Förutbetalda kostnader, Björn Lundén](https://www.bjornlunden.se/bokslut--%c3%a5rsredovisning/f%c3%b6rutbetalda-kostnader__1129)
 

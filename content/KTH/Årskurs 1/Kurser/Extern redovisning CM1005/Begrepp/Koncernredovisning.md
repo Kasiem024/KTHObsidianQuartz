@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
@@ -17,9 +17,27 @@ Koncernredovisningen är en särskild [[Årsredovisning]] som ett moderföretag 
 
 Alltså, Koncernredovisningen är en särskild [[Årsredovisning]] som ett moderföretag upprättar utöver sin vanliga årsredovisning där moderföretaget och alla dess dotterföretag ses som en ekonomisk enhet. Innehållet liknar årsredovisningen och vissa moderföretag har undantag.
 
+Syftet med Koncernredovisningen är att ge intressenterna en rättvisande och sammanfattande bild av hela koncernen.
+
+Innehållet av en Koncernredovisning liknar årsredovisningen:
+
+- Koncernbalansräkning
+- Koncernresultaträkning
+- [[Förvaltningsberättelse]]
+- Finansieringsanalys (för stora koncerner)
+
 ## Kopplat till
 
 ## Flashcards
 
 Koncernredovisning (Definition):: En särskild [[Årsredovisning]] som ett moderföretag upprättar utöver sin vanliga årsredovisning där moderföretaget och alla dess dotterföretag ses som en ekonomisk enhet. Innehållet liknar årsredovisningen och vissa moderföretag har undantag
 <!--SR:!2024-02-25,12,250!2024-03-02,4,270-->
+
+Syftet med Koncernredovisning;; Syftet med Koncernredovisningen är att ge intressenterna en rättvisande och sammanfattande bild av hela koncernen
+
+Koncernredovisningens innehåll (4)
+||
+- Koncernbalansräkning
+- Koncernresultaträkning
+- [[Förvaltningsberättelse]]
+- Finansieringsanalys (för stora koncerner)

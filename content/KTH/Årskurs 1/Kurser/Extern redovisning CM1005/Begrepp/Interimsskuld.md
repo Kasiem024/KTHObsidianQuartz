@@ -5,13 +5,13 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
 ## Definition
 
-Interimsskulder är inom redovisning av två olika slag, ==upplupna kostnader== och ==förutbetalda intäkter==. Endast de [[Kostnad]] och [[Intäkt]] som hör till räkenskapsåret ska påverka resultatet. Övriga [[Utbetalning]] och [[Inbetalning]] hör till kommande [[Räkenskapsår]] och måste därför periodiseras och bokas upp som tillgångar respektive skulder i [[Årsbokslut]]. Detta gäller bland annat Interimsskulder.
+Interimsskulder är inom redovisning av två olika slag, ==upplupna kostnader== och ==förutbetalda intäkter==. Endast de [[Kostnad]] och [[Intäkt]] som hör till räkenskapsåret ska påverka resultatet. Övrig [[Utbetalning]] och [[Inbetalning]] hör till kommande [[Räkenskapsår]] och måste därför periodiseras och bokas upp som tillgångar respektive skulder i [[Årsbokslut]]. Detta gäller bland annat Interimsskulder.
 
 [Interimsskulder, Björn Lundén](https://www.bjornlunden.se/bokslut--%C3%A5rsredovisning/interimsskulder__1296)
 

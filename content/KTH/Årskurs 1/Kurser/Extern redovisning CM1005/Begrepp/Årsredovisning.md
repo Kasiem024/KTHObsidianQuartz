@@ -5,13 +5,13 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
 ## Definition
 
-Alla företag är skyldiga att upprätta ett [[Årsbokslut]] vid räkenskapsårets slut. Bolagsformen och storleken på företaget styr enligt vilket regelverk årsbokslutet ska upprättas samt om en årsredovisning ska göras eller inte.
+Alla företag är skyldiga att upprätta ett [[Årsbokslut]] vid räkenskapsårets slut. Bolagsformen och storleken på företaget styr enligt vilket regelverk årsbokslutet ska upprättas samt om en Årsredovisning ska göras eller inte.
 
 [[Aktiebolag]] och [[Ekonomisk Förening]] ska alltid upprätta en Årsredovisning.
 

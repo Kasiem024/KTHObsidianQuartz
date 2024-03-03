@@ -5,13 +5,13 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
 ## Definition
 
-Förutbetalda intäkter är inkomster som redan är betalda eller där en faktura har skickats och ska helt eller delvis intäktsredovisas kommande [[Räkenskapsår]]. Exempel på förutbetalda intäkter är:
+Förutbetald Intäkt är en [[Inkomst]] som redan är betald eller där en faktura har skickats och ska helt eller delvis intäktsredovisas kommande [[Räkenskapsår]]. Exempel på förutbetalda intäkter är:
 
 - Hyresintäkter.
 - Prenumerationsintäkter.

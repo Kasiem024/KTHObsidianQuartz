@@ -21,3 +21,4 @@ Kortfristiga Fordringar är fordringar som förfaller inom ett år.
 ## Flashcards
 
 Kortfristiga Fordringar (Definition):: Fordringar som förfaller inom ett år, [[Interimsfordring]]
+<!--SR:!2024-03-04,4,270!2024-03-04,4,272-->

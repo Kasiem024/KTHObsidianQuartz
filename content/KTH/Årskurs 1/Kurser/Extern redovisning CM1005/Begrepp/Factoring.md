@@ -6,7 +6,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4 #ME1003KS3
 
 ---
 
@@ -29,3 +29,4 @@ Ett företag kommer med en hög fakturor värda 100 tkr till ett factoringbolag.
 ## Flashcards
 
 Factoring (Definition):: Belåning eller försäljning av kundfordringar, när ett företag har låg likviditet går de till ett bolag för att ta ett lån
+<!--SR:!2024-03-03,3,250!2024-03-04,4,270-->

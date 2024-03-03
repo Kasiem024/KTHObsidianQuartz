@@ -37,7 +37,7 @@ Intern redovisning är inom företaget, inom avdelningar.
 
 Om man bryter mot extern redovisning lagar blir man straffad.
 
-Det är obligatoriskt för företag att göra extern redovisng för sina intressenter. De vill veta ett föreatsg nyckeltal så att de kan göra beslut.
+Det är obligatoriskt för företag att göra extern redovisng för sina intressenter. De vill veta ett föreatsg [[Nyckeltal]] så att de kan göra beslut.
 
 Man ska utföra de enligt lagen och praxis.
 

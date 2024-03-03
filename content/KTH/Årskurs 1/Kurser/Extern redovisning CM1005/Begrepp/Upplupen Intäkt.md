@@ -5,13 +5,13 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
 ## Definition
 
-Inom redovisning är en upplupen intäkt en sådan intäkt som hör till bokslutsåret, men där företaget varken har skickat en faktura eller fått betalt för tjänsten eller varan före bokslutsdagen.
+Upplupna Intäkt är en sådan [[Intäkt]] som hör till bokslutsåret, men där företaget varken har skickat en faktura eller fått betalt för tjänsten eller varan före bokslutsdagen.
 
 [Upplupen intäkt, Björn Lundén](https://www.bjornlunden.se/bokf%c3%b6ring/upplupen-int%c3%a4kt__2245)
 

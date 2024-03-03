@@ -21,3 +21,4 @@ Alltså är Avräkningsnota ett kvitto på en aktieförsäljning.
 ## Flashcards
 
 Avräkningsnota (Definition):: En skriftlig handling som upprättas vid köp eller försäljning av aktier och andra värdepapper. Innehåller exempelvis köpesumma, [[Courtage]] och stämpelavgift
+<!--SR:!2024-03-03,3,250!2024-03-04,2,230-->

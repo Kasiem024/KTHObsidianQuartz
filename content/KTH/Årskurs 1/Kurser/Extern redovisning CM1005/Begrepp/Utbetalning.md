@@ -24,12 +24,12 @@ Utbetalning kan ses som likviditet, penningflödet. Det sker i banken, plusgiro 
 ## Kopplat till
 
 - Motsatsen till [[Inbetalning]]
-- Används vid räkningen av [[Kassaflöde]].
+- Används vid räkningen av [[Kassaflödesanalys]].
 
 ## Flashcards
 
-Utbetalning (Definition):: När företaget betalar för något. En del av [[Kassaflöde]]
+Utbetalning (Definition):: När företaget betalar för något. En del av [[Kassaflödesanalys]]
 <!--SR:!2024-03-16,37,292!2024-03-02,4,281-->
 
 Motsatsen till utbetalning:: Motsatsen till [[Inbetalning]]
-<!--SR:!2024-04-21,68,312-->
+<!--SR:!2024-04-21,68,312!2024-03-06,4,284-->

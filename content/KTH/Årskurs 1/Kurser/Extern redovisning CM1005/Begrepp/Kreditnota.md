@@ -21,4 +21,4 @@ Alltså om köparen vill reklamera något används en Kreditnota som en bekräft
 ## Flashcards
 
 Kreditnota (Definition):: Om köparen vill reklamera något används den som en bekräftelse av att säljaren är okej med det, köparen får en rabatt
-<!--SR:!2024-02-26,2,230-->
+<!--SR:!2024-02-26,2,230!2024-03-05,3,268-->

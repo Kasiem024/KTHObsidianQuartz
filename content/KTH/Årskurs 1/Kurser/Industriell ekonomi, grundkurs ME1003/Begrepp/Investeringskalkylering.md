@@ -11,7 +11,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
 
-En Investeringskalkyl analyserar de effekter som med rimlig säkerhet kan översättas till kronor och ören. Kalkylen behandlar hur en viss [[Investering]] påverkar ==betalningsströmmarna== över företagets gräns, det vill säga hur mycket pengar som flyter in och ut från företaget, alltså [[Kassaflöde]] inte kostnader.
+En Investeringskalkyl analyserar de effekter som med rimlig säkerhet kan översättas till kronor och ören. Kalkylen behandlar hur en viss [[Investering]] påverkar ==betalningsströmmarna== över företagets gräns, det vill säga hur mycket pengar som flyter in och ut från företaget, alltså [[Kassaflödesanalys]] inte kostnader.
 
 Syftet med en Investeringskalkyl är att utgöra ett underlag för att bedöma [[Lönsamhet]] i en satsning eller ett större projekt. Med den kan man veta lönsamheten av en pågående investering eller om en nyinvestering är värt det.
 

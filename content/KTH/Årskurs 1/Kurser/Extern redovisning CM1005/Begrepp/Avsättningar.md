@@ -23,3 +23,4 @@ Avsättningar är betalningsförpliktelser som är säkra eller sannolika till s
 ## Flashcards
 
 Avsättningar (Definition):: Betalningsförpliktelser som är säkra eller sannolika till sin existens, men där det finns osäkerhet beträffande beloppets storlek eller tidpunkten för betalning
+<!--SR:!2024-03-04,2,230!2024-03-05,3,250-->

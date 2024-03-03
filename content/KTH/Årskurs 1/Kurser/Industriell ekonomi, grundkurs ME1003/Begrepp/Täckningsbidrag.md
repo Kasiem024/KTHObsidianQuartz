@@ -11,7 +11,7 @@ Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
 
 ## Definition
 
-Täckningsbidrag (TB) är ett nyckeltal som visar med hur mycket en viss produkt bidrar till att betala kostnader som är gemensamma för alla produkter. Ett centralt begrepp inom [[Bidragskalkylering]].
+Täckningsbidrag (TB) är ett [[Nyckeltal]] som visar med hur mycket en viss produkt bidrar till att betala kostnader som är gemensamma för alla produkter. Ett centralt begrepp inom [[Bidragskalkylering]].
 
 Täckningsbidrag används ofta som underlag vid produktionsbeslut. Täckningsbidrag är ett beräknat värde som visar med hur mycket en viss produkt bidrar till att betala gemensamma kostnader. I samband med resultatplanering definieras Täckningsbidrag som skillnaden mellan försäljningsintäkt och [[Rörlig Kostnad]].
 

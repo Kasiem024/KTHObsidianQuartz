@@ -24,4 +24,4 @@ Ett avtal kan vara skriftligt eller muntligt och är bindande i båda fallen.
 ## Flashcards
 
 Avtalslagen (Definition):: Innefattar generella regler och riktlinjer som gäller när man ingår ett avtal, och utgör stommen i den allmänna avtalslagstiftningen
-<!--SR:!2024-03-13,18,250-->
+<!--SR:!2024-03-13,18,250!2024-03-06,4,270-->

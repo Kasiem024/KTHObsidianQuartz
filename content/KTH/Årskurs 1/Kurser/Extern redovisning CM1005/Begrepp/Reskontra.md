@@ -45,10 +45,10 @@ Alltså har man information om alla sina leverantörer i en Leverantörsreskontr
 ## Flashcards
 
 Reskontra (Definition):: Ett sätt att dela upp, sortera och kategorisera information i syftet om att hjälpa med bokföringen, innehållet är vanligen information och fakturor som hör till gruppen
-<!--SR:!2024-02-25,3,228-->
+<!--SR:!2024-02-25,3,228!2024-03-06,4,273-->
 
 Kundreskontra (Definition):: Information om alla sina kunder, vanligen fakturor, kopplad till kontot för ==kundfordringar==
-<!--SR:!2024-02-29,7,268-->
+<!--SR:!2024-02-29,7,268!2024-03-06,4,270-->
 
 Leverantörsreskontra (Definition):: Information om alla sina leverantörer, vanligen fakturor, kopplad till kontot för ==leverantörsskulder==
-<!--SR:!2024-03-08,11,250-->
+<!--SR:!2024-03-08,11,250!2024-03-06,4,270-->

@@ -13,7 +13,7 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #lektion
 - [[Årsbokslut]]: [[Balansräkning]] och [[Resultaträkning]]
 - Fotnoter till bokslutet: Värderingsprinciper
 - Förvaltningsberättelse: Styrelsens förvaltning, hur styrelsen har skött om företaget under året.
-- Kassaflödesanalys: [[Kassaflöde]]
+- Kassaflödesanalys: [[Kassaflödesanalys]]
 
 [[Förvaltningsberättelse]]:
 

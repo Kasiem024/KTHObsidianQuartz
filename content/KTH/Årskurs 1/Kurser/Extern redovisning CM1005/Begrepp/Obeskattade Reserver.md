@@ -6,7 +6,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4 #ME1003KS3
 
 ---
 
@@ -19,3 +19,4 @@ Obeskattade Reserver består av vinster som ännu inte beskattats. Uppstår om f
 ## Flashcards
 
 Obeskattade Reserver (Definition):: Vinster som ännu inte beskattats. Uppstår om företaget har valt att skjuta upp beskattningen av vinst till ett senare tillfälle för att jämna ut skattebelastningen
+<!--SR:!2024-03-03,2,232!2024-03-04,4,270-->

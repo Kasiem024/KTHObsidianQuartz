@@ -23,3 +23,4 @@ Hur mycket av vinsten efter skatt ska gå till ägarna som vinstutdelning och hu
 ## Flashcards
 
 Bokslutspolitik (Definition):: Handlar om att komma överens om hur mycket vinstutdelningen ska vara och hur mycket ska sparas/återinvesteras i företaget
+<!--SR:!2024-03-04,4,270!2024-03-05,4,272-->

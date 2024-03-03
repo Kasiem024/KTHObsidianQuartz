@@ -20,4 +20,4 @@ Exempelvis inom en [[Varutransaktion]] kan an av de två parterna kommer med en 
 ## Flashcards
 
 Offert (Definition):: Säljarens erbjudande, anger de villkor på vilka en leverantör kan leverera en bestämd vara eller tjänst, ren- och oren accept, kallas också anbud
-<!--SR:!2024-02-22,1,170-->
+<!--SR:!2024-02-22,1,170!2024-03-05,3,262-->

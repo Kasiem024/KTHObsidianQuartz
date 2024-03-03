@@ -28,7 +28,7 @@ Köplagen är dispositiv. Med detta menas att den gäller bara i situationer dä
 ## Flashcards
 
 Köplagen (Definition):: En svagare version av [[Konsumentköplagen]] som är mer relevant inom en [[Företagsmarknad]], syftet är att skydda köparen, den är dispositiv, gäller bara om inget har tidigare avtalats om
-<!--SR:!2024-03-19,22,250-->
+<!--SR:!2024-03-19,22,250!2024-03-06,4,272-->
 
 När Köplagen gäller (3)
 ??

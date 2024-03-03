@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
@@ -24,7 +24,7 @@ Revisionsberättelsens innehåll:
 
 En revisors uppgift är att granska och verifiera företags redovisning.
 
-De som måste ha en revisor är:
+De företag som måste ha en revisor är:
 
 - Finansiella bolag
 - Aktiebolag med särskild vinstutdelningsbegränsning

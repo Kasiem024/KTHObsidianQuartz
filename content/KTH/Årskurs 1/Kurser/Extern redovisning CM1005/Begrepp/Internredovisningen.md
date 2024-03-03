@@ -25,4 +25,4 @@ Till skillnad från den externa redovisningen som ett företag gör finns det in
 ## Flashcards
 
 Internredovisning (Definition):: Handlar om att ge information framförallt gällande interna [[Affärshändelse]] till företagets interna intressenter, företagsledningen och anställda
-<!--SR:!2024-02-27,3,230-->
+<!--SR:!2024-02-27,3,230!2024-03-05,3,268-->

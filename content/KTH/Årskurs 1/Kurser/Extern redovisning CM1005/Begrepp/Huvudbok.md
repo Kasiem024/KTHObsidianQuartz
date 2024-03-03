@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
@@ -19,6 +19,7 @@ En huvudbok är en lista över ett företags [[Affärshändelse]] presenterad i 
 
 - [[Huvudbokföring]]
 - [[Grundbok]]
+- [[BAS-Kontoplan]]
 
 ## Flashcards
 

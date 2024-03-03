@@ -1,22 +1,22 @@
-# BAS-kontoplan
+# BAS-Kontoplan
 
 ---
 Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
 ## Definition
 
-En typ av kontoplan, alltså en lista över konton som ett företag använder i sin bokföring. Den ligger till grund för företagets redovisning, bokslut och deklaration. En kontoplan underlättar bokföringen för ett företag och är därför nödvändig. Det finns olika sorters kontoplaner men i Sverige är BAS standarden. Den består av 4 huvudgrupper:
+BAS-Kontoplan är en typ av kontoplan, alltså en lista över konton som ett företag använder i sin [[Bokföring]]. Den ligger till grund för företagets redovisning, bokslut och deklaration. En kontoplan underlättar bokföringen för ett företag och är därför nödvändig. Det finns olika sorters kontoplaner men i Sverige är BAS standarden. Den består av 4 huvudgrupper:
 
-- Tillgångar
-- Skulder
-- Intäkter
-- Kostnader
+- [[Tillgångar]]
+- [[Skuld]]
+- [[Intäkt]]
+- [[Kostnad]]
 
 BAS består av 10 kontoklasser, 1-8 är de viktiga:
 
@@ -42,7 +42,7 @@ BAS består av 10 kontoklasser, 1-8 är de viktiga:
 Kontoplan (Definition):: En lista över konton som ett företag använder i sin bokföring, ligger till grund för företagets redovisning, bokslut och deklaration
 <!--SR:!2024-02-27,3,210!2024-03-01,3,250-->
 
-BAS-Kontoplan (4)
+BAS-Kontoplan (Definition) (4)
 ??
 En typ av kontoplan som består av 4 huvudgrupper:
 - Tillgångar
@@ -63,4 +63,4 @@ BAS-Kontoplanens kontoklasser (10)
 - 8xxx: Finansiella poster.
 - 9xxx: Interna konton.
 - 0xxx: Interna konton.
-<!--SR:!2024-02-28,4,210!2024-02-20,12,270-->
+<!--SR:!2024-03-03,2,190!2024-02-20,12,270-->

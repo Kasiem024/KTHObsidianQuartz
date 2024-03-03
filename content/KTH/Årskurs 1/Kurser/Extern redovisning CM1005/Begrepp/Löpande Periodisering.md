@@ -19,4 +19,4 @@ Löpande Periodisering är när man ser till att [[Affärshändelse]] hamnar i r
 ## Flashcards
 
 Löpande Periodisering (Definition):: När man ser till att [[Affärshändelse]] hamnar i rätt period ifall just den affärshändelsen sprider sig över olika perioder
-<!--SR:!2024-02-25,3,248-->
+<!--SR:!2024-02-25,3,248!2024-03-06,4,270-->

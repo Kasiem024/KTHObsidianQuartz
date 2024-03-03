@@ -5,13 +5,13 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
 ## Definition
 
-Ett sätt att bokföra där man har en vänster sida som kallas debet och en höger sida som kallas kredit.
+T-Konton är ett sätt att bokföra [[Affärshändelse]] där man har en vänster sida som kallas debet och en höger sida som kallas kredit.
 
 Debet alltid vänster. Kredit alltid höger. Plus och minus varierar.
 
@@ -32,15 +32,9 @@ Exempel på namnet av T-konto
 - Utgiftskonto
 - Inkomstkonto
 
-Tillgångar minskar på kredit och ökar på debet.
-Skulder och eget kapital ökar på kredit och minskar på debet.
-
 ![[Kontoplan CM1005.png]]
 
 ## Flashcards
-
-Dubbel bokföring (Definition):: Ett ekonomiskt system som säger att man måste skriva ner alla affärshändelser på två olika konton med samma belopp
-<!--SR:!2024-03-17,37,290!2024-03-02,4,289-->
 
 Debet (Definition):: Visar vart det kommer in pengar. Alltså på vilket konto pengarna ska sättas in (T-Konto)
 <!--SR:!2024-04-26,62,314!2024-03-02,4,286-->

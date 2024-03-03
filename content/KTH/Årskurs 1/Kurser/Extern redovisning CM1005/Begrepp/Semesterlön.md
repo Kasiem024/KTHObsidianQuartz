@@ -29,4 +29,4 @@ Finns också semesterlönetillägg cirka 1-2% som läggs på när man ska ta ut 
 ## Flashcards
 
 Semesterlön (Definition);; Lönen en arbetstagare får under sin semester, hur mycket det är beror på antalet semesterdagar. Enligt ==semesterlagen== måste man ha minst 25 dagar semester per år men det kan vara mer beroende på avtalet
-<!--SR:!2024-02-27,1,230-->
+<!--SR:!2024-03-04,3,250-->

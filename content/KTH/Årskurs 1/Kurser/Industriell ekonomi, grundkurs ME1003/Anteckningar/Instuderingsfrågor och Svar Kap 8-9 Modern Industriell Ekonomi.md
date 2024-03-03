@@ -349,7 +349,7 @@ Alltså, ekonomisk livslängd är hur länge något fungerar bra och teknisk liv
 ---
 4. Vilket är syftet med en investeringskalkyl?
 
-En [[Investeringskalkylering]] analyserar de effekter som med rimlig säkerhet kan översättas till kronor och ören. Kalkylen behandlar hur investeringen påverkar ==betalningsströmmarna== över företagets gräns, det vill säga hur mycket pengar som flyter in och ut från företaget, alltså [[Kassaflöde]].
+En [[Investeringskalkylering]] analyserar de effekter som med rimlig säkerhet kan översättas till kronor och ören. Kalkylen behandlar hur investeringen påverkar ==betalningsströmmarna== över företagets gräns, det vill säga hur mycket pengar som flyter in och ut från företaget, alltså [[Kassaflödesanalys]].
 
 Syftet med en investeringskalkyl är att utgöra ett underlag för att bedöma [[Lönsamhet]] i en satsning eller ett större projekt. Med den kan man veta lönsamheten av en pågående investering eller om en nyinvestering är värt det.
 

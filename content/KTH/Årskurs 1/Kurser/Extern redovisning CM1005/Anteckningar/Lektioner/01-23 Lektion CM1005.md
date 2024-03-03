@@ -58,7 +58,7 @@ En presterad inkomst är intäkt och går till RR
 Förbrukat men inte bokfört blir [[Interimsskuld]]
 Presterat men inte bokfört blir [[Interimsfordring]]
 
-[[BAS-kontoplan]]: Första numret i varje kontonummer bestämmer vad för sorts konto det är.
+[[BAS-Kontoplan]]: Första numret i varje kontonummer bestämmer vad för sorts konto det är.
 
 När man gör balansräkning på bokslutstablå börja mitt i med skulder och eget kapital. Sen intäkter och till slut högst upp och ner till tillgångar.
 

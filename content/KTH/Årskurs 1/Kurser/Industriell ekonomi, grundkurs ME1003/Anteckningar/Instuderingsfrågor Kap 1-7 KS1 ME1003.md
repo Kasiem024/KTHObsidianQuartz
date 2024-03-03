@@ -145,7 +145,7 @@ En ==konsumentprodukt== säljs på en [[Konsumentmarknad]], alltså från ett f�
 ==Ersättningstjänst== är en sådan tjänst som ersätter varan helt och hållet. Exempelvis kan det vara uthyrning och leasing av en vara, alltså äger kunden inte varan.
 
 Komplementtjänst (Definition):: En tjänst som erbjuds tillsammans med en vara och förbättrar den
-<!--SR:!2024-02-22,13,294-->
+<!--SR:!2024-02-22,13,294!2024-03-06,4,291-->
 
 Ersättningstjänst (Definition):: En tjänst som substituerar varan helt och hållet så att kunden faktiskt inte äger varan
 <!--SR:!2024-02-25,16,304-->
@@ -252,7 +252,7 @@ Vinst är [[Intäkt]] minus [[Kostnad]], eller resultatet från [[Resultaträkni
 ==Technology push== är när en ny teknologi utvecklas för att någon investerade i forskning om just den teknologi, alltså fanns det inget behov från marknaden för den.
 
 Demand Pull (Definition):: När marknaden efterfrågar en viss teknologi som sedan utvecklas och tillverkas
-<!--SR:!2024-02-25,17,294-->
+<!--SR:!2024-02-25,17,294!2024-03-06,4,291-->
 
 Technology Push (Definition):: När en ny teknologi investeras i och utvecklas utan ett behov från marknaden
 <!--SR:!2024-02-19,10,282-->
@@ -444,7 +444,7 @@ I en [[Företagsmarknad]] är det vanligt att man har vissa väldigt stora kunde
 När kunden blir intresserad av produkten som erbjuds kan den be försäljaren om en ==offert==, alltså att det säljande företaget ska lämna ett erbjudande till köparen. Detta är ovanligt vid en [[Konsumentmarknad]] men praxis vid en [[Företagsmarknad]].
 
 Offert (Definition):: När det säljande företaget ska lämna ett erbjudande till köparen, ovanligt vid en [[Konsumentmarknad]] men praxis vid en [[Företagsmarknad]]
-<!--SR:!2024-02-15,7,254-->
+<!--SR:!2024-02-15,7,254!2024-03-06,4,291-->
 
 16. Vad är dröjsmålsränta?
 

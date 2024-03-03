@@ -50,4 +50,4 @@ Sociala avgifter betalas samtidigt som lönen.
 ## Flashcards
 
 Sociala Avgifter (Definition):: Olika former av lagstadgade och avtalade avgifter som används för att finansiera socialförsäkringssystemet
-<!--SR:!2024-02-27,1,190-->
+<!--SR:!2024-03-04,2,170!2024-03-11,9,264-->

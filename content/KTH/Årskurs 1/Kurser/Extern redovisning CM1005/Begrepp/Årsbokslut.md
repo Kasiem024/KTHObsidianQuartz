@@ -5,9 +5,9 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
---
+---
 
 ## Definition
 
@@ -41,3 +41,4 @@ Hur mycket av vinsten efter skatt ska gå till ägarna som vinstutdelning och hu
 <!--SR:!2024-04-05,44,288!2024-03-02,4,274-->
 
 Resultatberäkning (Definition):: En beräkning av resultatet från detta [[Räkenskapsår]] som görs i samband med ett preliminärt bokslut, processen att skapa [[Resultaträkning]]
+<!--SR:!2024-03-04,3,257!2024-03-04,3,257-->

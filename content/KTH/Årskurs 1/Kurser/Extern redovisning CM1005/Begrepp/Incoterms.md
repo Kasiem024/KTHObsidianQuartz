@@ -24,4 +24,4 @@ Vad betalar jag för, hur mycket av processen har jag ansvar över, när tar jag
 ## Flashcards
 
 Incoterms/Leveransklausuler (Definition):: Preciserar leveransvillkoren vid en [[Varutransaktion]]![[Incoterms CM1005.png]]
-<!--SR:!2024-02-26,10,250-->
+<!--SR:!2024-02-26,10,250!2024-03-06,4,270-->

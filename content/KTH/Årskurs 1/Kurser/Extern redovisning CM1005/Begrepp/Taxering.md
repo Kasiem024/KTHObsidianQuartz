@@ -21,3 +21,4 @@ Vanligen används ordet Taxering i samband med beskattning av fastigheter.
 ## Flashcards
 
 Taxering (Definition):: Skattemässiga värdet på [[Tillgångar]], Skatteverkets arbete med att beräkna skatten som ska betalas
+<!--SR:!2024-03-03,1,190!2024-03-04,4,270-->

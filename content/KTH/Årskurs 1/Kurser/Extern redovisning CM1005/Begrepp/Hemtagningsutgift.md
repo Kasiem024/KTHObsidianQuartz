@@ -25,7 +25,7 @@ Hemtagningsutgifter, eller hemtagningskostnader, är köparens utgifter för att
 ## Flashcards
 
 Hemtagningsutgift (Definition):: Köparens utgifter för att få hem varan från säljarens ort till eget lager
-<!--SR:!2024-03-22,27,270-->
+<!--SR:!2024-03-22,27,270!2024-03-06,4,272-->
 
 Exempel på Hemtagningsutgifter (3)
 ??

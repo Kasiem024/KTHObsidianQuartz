@@ -66,7 +66,7 @@ Avskrivning är när man fördelar kostnaden av [[Tillgångar]] under dess [[Eko
 
 Avskrivning beror på slitage, tid och teknisk utveckling.
 
-+Anskaffningsvärde
++[[Anskaffningsvärde]]
 -Ackumulerande Avskrivningar
 = Bokfört Restvärde
 

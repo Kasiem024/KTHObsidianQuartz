@@ -5,13 +5,13 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
 ## Definition
 
-Upplupna kostnader är utgifter som hör till räkenskapsåret men som företaget inte har betalat eller fått faktura på under räkenskapsåret. Exempel på upplupna kostnader kan vara:
+ Upplupen Kostnad är en [[Utgift]] som hör till räkenskapsåret men som företaget inte har betalat eller fått faktura på under räkenskapsåret. Exempel på upplupna kostnader kan vara:
 
 - Löner.
 - Semesterlöner.

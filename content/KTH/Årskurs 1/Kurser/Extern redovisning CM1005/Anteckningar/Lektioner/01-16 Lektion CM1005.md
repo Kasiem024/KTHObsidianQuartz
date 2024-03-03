@@ -63,7 +63,7 @@ Företagets skatt går till staten.
 
 [[Balansräkning]] (BR): Ett företags finansiella ställning vid en given tidpunkt.
 
-[[Kassaflöde]]: In- och ut betalningar under en period. Samma period som resultaträkningen.
+[[Kassaflödesanalys]]: In- och ut betalningar under en period. Samma period som resultaträkningen.
 
 [[Inkomst]]: När man säljer något, inte när man får betalt. Sin försäljning. Faktura.
 
@@ -89,7 +89,7 @@ Tre sätt att finansiera ett företag.
 - Främmande kapital (Lån)
 - Företagets självfinansiering. Genom vinster
 
-[[Kassaflöde]] --> [[Balansräkning]] --> [[Resultaträkning]]
+[[Kassaflödesanalys]] --> [[Balansräkning]] --> [[Resultaträkning]]
 
 Fyra olika konton för [[Löpande Bokföring]]
 

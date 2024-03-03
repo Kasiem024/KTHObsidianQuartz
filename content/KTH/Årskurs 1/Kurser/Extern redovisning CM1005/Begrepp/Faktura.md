@@ -31,4 +31,4 @@ Fakturan kallas av säljaren kundfaktura och av köparen leverantörsfaktura
 ## Flashcards
 
 Faktura (Definition):: Säljarens meddelande till köparen om hur mycket denne ska betala till säljaren som ersättning för levererade varor eller tjänster
-<!--SR:!2024-02-25,1,190-->
+<!--SR:!2024-02-25,1,190!2024-03-05,3,264-->

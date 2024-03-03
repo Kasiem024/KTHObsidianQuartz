@@ -64,7 +64,7 @@ Mark värde = 2 mkr
 
 Efter 10 år är avskrivningen 0.8 mkr
 
-+Anskaffningsvärde
++[[Anskaffningsvärde]]
 -Ackumulerade avskrivningar
 = Bokfört restvärde
 
@@ -79,6 +79,6 @@ Sida 177
 
 [[Factoring]] är en finansiell tjänst som bolag tar avgift för.
 
-[[Likviditet]]: Kortsiktig betalningsförmåga, vad man har på bankkontot. Förmåga att kunna betala sina räkningar på kort sikt. Det är ett finansiellt nyckeltal.
+[[Likviditet]]: Kortsiktig betalningsförmåga, vad man har på bankkontot. Förmåga att kunna betala sina räkningar på kort sikt. Det är ett finansiellt [[Nyckeltal]].
 
 (Bankmedel+kortsiktiga fordring) / Kortfristiga skulder

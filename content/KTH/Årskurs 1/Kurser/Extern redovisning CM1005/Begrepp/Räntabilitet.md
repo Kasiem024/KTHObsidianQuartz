@@ -12,34 +12,58 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #CM1005KS4
 
 ## Definition
 
-Räntabilitet visar ett företags förmåga att ge avkastning på kapitalet. Det är ett nyckeltal och ett [[Lönsamhet|lönsamhetsmått]] som beskriver ett företags vinst i förhållande till investerat kapital, ju högre ju bättre. Det finns olika sätt att beräkna Räntabilitet
+Räntabilitet visar ett företags förmåga att ge avkastning på kapitalet. Det är ett [[Nyckeltal]] och ett [[Lönsamhet|lönsamhetsmått]] som beskriver ett företags vinst i förhållande till investerat kapital, ju högre ju bättre. Det finns olika sätt att beräkna Räntabilitet.
+
+Vanliga nyckeltal för att räkna Räntabilitet:
+
+- Räntabilitet på eget kapital ($R_{E}$)
+- Räntabilitet på totalt kapital ($R_{T}$)
+- Räntabilitet på sysselsatt kapital ($R_{SYSS}$)
+- Vinstmarginal, rörelsemarginal, bruttomarginal
 
 ### Räntabilitet på Totalt Kapital
 
-Räntabilitet på Totalt Kapital visar resultatet som en procentandel av det totala kapitalet. Det totala kapitalet avser anläggningstillgångar och omsättningstillgångar, alltså de tillgångar som har en livslängd på över flera år samt de tillgångar inom företaget som är avsedda för försäljning.
+Räntabilitet på Totalt Kapital ($R_{T}$) visar resultatet som en proOentandel av det totala kapitalet. Det totala kapitalet avser [[Anläggningstillgångar]] och [[Omsättningstillgångar]], alltså de tillgångar som har en livslängd på över flera år samt de tillgångar inom företaget som är avsedda för försäljning.
 
-Räntabilitet på Totalt Kapital = Rörelseresultat + Finansiella Intäkter / Totalt Kapital
+Uttrycker avkastningen för företaget som helhet, alltså allt kapital som satsats i verksamheten.
+
+$$
+Räntabilitet \, på \, totalt \, kapital = \frac {Rörelseresultat \, efter \, avskrivningar + \, finansiella \, intäkter}{Totalt \, kapital}
+$$
 
 ### Räntabilitet på Eget Kapital
 
-Räntabilitet på Eget Kapital är ett mått som avser ägarnas avkastning på det kapital som de själva har satsat i företaget, [[Eget Kapital]]. Om Räntabilitet på Eget Kapital visar på 10 procent eller mindre kan räntabiliteten anses vara svag, medan ett resultat på över 10 procent anses vara god räntabilitet. Räntabilitet på Eget Kapital kan beräknas både innan och efter skatt.
+Räntabilitet på Eget Kapital ($R_{E}$) är ett mått som avser ägarnas avkastning på det kapital som de själva har satsat i företaget, [[Eget Kapital]]. Om Räntabilitet på Eget Kapital visar på 10 procent eller mindre kan räntabiliteten anses vara svag, medan ett resultat på över 10 procent anses vara god räntabilitet. Räntabilitet på Eget Kapital kan beräknas både innan och efter skatt.
 
-Räntabilitet på Eget Kapital = Resultat / Eget Kapital
+Uttrycker den avkastningen företaget givit på det kapital som tillhör ägarna.
+
+$$
+Räntabilitet \, på \, eget \, kapital = \frac {Resultat \, efter \, finansiella \, intäkter \, och \, kostnader}{Justerat \, eget \, kapital}
+$$
+
+### Räntabilitet på Sysselsatt Kapital
+
+Räntabilitet på Sysselsatt Kapital har ingen definition men man bortser från kapital som företaget inte behöver betala ränta på, exempelvis leverantörsskulder.
+
+### Vinstmarginal, Rörelsemarginal, Bruttomarginal
+
+Man kan ställa ett företags vinst i relation till dess försäljning. Då kan man använda olika mått och skillnaden blir på vilken nivå av [[Resultaträkning]] som vinsten beräknas. Vinstmarginal, rörelsemarginal, bruttomarginal är vanliga mått.
+
+$$
+Vinstmarginal = \frac {Rörelseresultat \, efter \, avskrivningar + \, finansiella \, intäkter}{Nettoomsättning}
+$$
 
 ## Kopplat till
 
 ## Flashcards
 
-Räntabilitet (Definition):: Visar ett företags förmåga att ge avkastning på kapitalet. Det är ett nyckeltal och ett [[Lönsamhet|lönsamhetsmått]] som beskriver ett företags vinst i förhållande till investerat kapital, ju högre ju bättre
+Räntabilitet (Definition):: Visar ett företags förmåga att ge avkastning på kapitalet. Det är ett [[Nyckeltal]] och ett [[Lönsamhet|lönsamhetsmått]] som beskriver ett företags vinst i förhållande till investerat kapital, ju högre ju bättre
+<!--SR:!2024-03-04,2,210!2024-03-04,3,250-->
 
-Räntabilitet på Totalt Kapital (Formel)
-||
-$$
-Räntabilitet \, på \, Totalt \, Kapital = \frac{Rörelseresultat + \, Finansiella \, Intäkter}{Totalt \, Kapital}
-$$
-
-Räntabilitet på Eget Kapital (Formel)
-||
-$$
-Räntabilitet \, på \, Eget \, Kapital = \frac{Resultat}{Eget \, Kapital}
-$$
+Nyckeltal för att räkna Räntabilitet (4)
+??
+- **Räntabilitet på eget kapital** ($R_{E}$): Uttrycker den avkastningen företaget givit på det kapital som tillhör ägarna.
+- **Räntabilitet på totalt kapital** ($R_{T}$): Uttrycker avkastningen för företaget som helhet, alltså allt kapital som satsats i verksamheten.
+- **Räntabilitet på sysselsatt kapital** ($R_{SYSS}$): Det finns ingen definition för detta nyckeltal men man bortser från kapital som företaget inte behöver betala ränta på, exempelvis leverantörsskulder.
+- **Vinstmarginal, rörelsemarginal, bruttomarginal**: Man kan ställa ett företags vinst i relation till dess försäljning. Då kan man använda olika mått och skillnaden blir på vilken nivå av [[Resultaträkning]] som vinsten beräknas.
+<!--SR:!2024-03-03,1,224!2024-03-03,1,226-->

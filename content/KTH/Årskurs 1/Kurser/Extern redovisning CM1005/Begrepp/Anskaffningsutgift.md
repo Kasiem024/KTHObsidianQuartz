@@ -20,4 +20,4 @@ Anskaffningsutgiften, eller anskaffningskostnad, är summan av varuutgiften enli
 ## Flashcards
 
 Anskaffningsutgift (Definition):: Summan av varuutgiften enligt leverantörens faktura och [[Hemtagningsutgift]], alltså vad företaget har betalat för en tillgång
-<!--SR:!2024-03-21,26,270-->
+<!--SR:!2024-03-21,26,270!2024-03-06,4,272-->

@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
 
 ---
 
@@ -21,5 +21,5 @@ Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp
 
 ## Flashcards
 
-Dubbel Bokföring (Definition):: En princip som säger att varje [[Affärshändelse]] ska bokföras på två konton. På det ena kontot på debetsidan, på det andra på kreditsidan och alltid med samma belopp
+Dubbel Bokföring (Definition):: En princip som säger att varje [[Affärshändelse]] ska alltid bokföras på två konton. På det ena kontot på debetsidan, på det andra på kreditsidan och alltid med samma belopp
 <!--SR:!2024-03-27,43,290!2024-03-02,4,274-->
