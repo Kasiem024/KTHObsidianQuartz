@@ -546,7 +546,7 @@ Diagrammet visar hur lång tid det tar från råmaterial till att få betalt fö
 
 [[Eget Kapital]] är en benämning på en mängd pengar som ägarna av ett företag satt in vid grundandet eller vad som satts in i efter hand samt vinster, alltså är det pengar i företaget som tillhör ägarna.
 
-Det avkastningskrav en finansiär har kallas från företagets synpunkt **kostnad för kapital**. Det egna kapitalet har högst kostnad för kapital bland de olika kapitalformer som finansierar ett företag.
+Det avkastningskrav en finansiär har kallas från företagets synpunkt **kostnad för kapital.** Det egna kapitalet har högst kostnad för kapital bland de olika kapitalformer som finansierar ett företag.
 
 ---
 9. Redogör för begreppet aktiekapital.
@@ -560,7 +560,7 @@ Aktiekapital på minst 25 000 kr behövs för att starta ett aktiebolag. Beroend
 ---
 10. Vad är skillnaden mellan en A-aktie och en B-aktie?
 
-Alla aktier i ett [[Aktiebolag]] har samma kvotvärde dock finns det olika typer av aktier som har olika röstvärde. Aktier med olika röstvärde brukar benämnas **A-aktier och B-aktier**.
+Alla aktier i ett [[Aktiebolag]] har samma kvotvärde dock finns det olika typer av aktier som har olika röstvärde. Aktier med olika röstvärde brukar benämnas **A-aktier och B-aktier.**
 
 ---
 11. Beskriv ett företags kapitalstruktur.
@@ -568,8 +568,8 @@ Alla aktier i ett [[Aktiebolag]] har samma kvotvärde dock finns det olika typer
 [[Företags Kapitalstruktur]] är av stor betydelse för de interna överväganden ett företag gör avseende finansiering. Det kapital som finansierar företaget kan delas in i 3 delar. Ordnade efter ==löptid==, alltså tiden tills skulden ska vara återbetald, är de 3 delarna:
 
 - [[Eget Kapital]] (inklusive [[Obeskattade Reserver]]): Motsvarar ägarnas andel i företaget och är grunden för kapitalstrukturen.
-- ==Räntebärande skulder==: Lån där kostnaden för kapital sätts i form av en ränta, alltså **vanliga banklån**.
-- ==Rörelseskulder==, eller icke räntebärande skulder: Består huvudsakligen av de skulder företager har till sina leverantörer, alltså **leverantörsskulder**.
+- ==Räntebärande skulder==: Lån där kostnaden för kapital sätts i form av en ränta, alltså **vanliga banklån.**
+- ==Rörelseskulder==, eller icke räntebärande skulder: Består huvudsakligen av de skulder företager har till sina leverantörer, alltså **leverantörsskulder.**
 
 ![[Företags Kapitalstruktur ME1003.png]]
 
@@ -589,14 +589,14 @@ Efterställda räntebärande skulder är sådana skulder som har låg prioritet.
 
 [[Riskkapital]] är ett samlingsnamn för investeringar i ett företags egna kapital.
 
-==Främmande kapital== är den del av balansomslutningen som inte finansierats av ägarna. Det främmande kapitalet består normalt av **lån och leverantörsskulder**.
+==Främmande kapital== är den del av balansomslutningen som inte finansierats av ägarna. Det främmande kapitalet består normalt av **lån och leverantörsskulder.**
 
 ---
 14. Förklara begreppen:
 
-- ==Efterställda skulder==: Skulder med låg prioritet, ett företag måste betala alla sina andra lån först och till sist dessa skulderna, exempelvis **konvertibler**.
-- ==Räntebärande skulder==: Lån där kostnaden för kapital sätts i form av en ränta, alltså **vanliga banklån**.
-- ==Rörelseskulder==, eller icke räntebärande skulder: Består huvudsakligen av de skulder företager har till sina leverantörer, alltså **leverantörsskulder**.
+- ==Efterställda skulder==: Skulder med låg prioritet, ett företag måste betala alla sina andra lån först och till sist dessa skulderna, exempelvis **konvertibler.**
+- ==Räntebärande skulder==: Lån där kostnaden för kapital sätts i form av en ränta, alltså **vanliga banklån.**
+- ==Rörelseskulder==, eller icke räntebärande skulder: Består huvudsakligen av de skulder företager har till sina leverantörer, alltså **leverantörsskulder.**
 
 ---
 15. Vad innebär det att matcha tillgångar och skulder? Varför är detta viktigt?
@@ -631,7 +631,7 @@ Nyemission är alltså när ett företag utfärdar nya aktier för att få in me
 ---
 18. Vad är syftet med en kassaflödesanalys?
 
-[[Kassaflödesanalys]] är ett sätt att visa hur företaget har finansierats och vilket kapital som strömmat genom företaget under året. Den visar **sambandet mellan företagets resultat och likvida medel**.
+[[Kassaflödesanalys]] är ett sätt att visa hur företaget har finansierats och vilket kapital som strömmat genom företaget under året. Den visar **sambandet mellan företagets resultat och likvida medel.**
 
 Den visar också distinktionen mellan internt och extern genererade medel, samt rörelsekapitalbehov och anläggningskapitalbehov.
 
@@ -643,7 +643,7 @@ Den visar också distinktionen mellan internt och extern genererade medel, samt 
 ---
 20. Förklara skillnaden mellan rörelserisk och finansiell risk.
 
-[[Finansieringens Risker]] i samband med ett företag kan delas in i 2 kategorier: Rörelserisk och Finansiell risk.
+[[Finansiell Risk]] i samband med ett företag kan delas in i 2 kategorier: Rörelserisk och Finansiell risk.
 
 ==Rörelserisk==, eller affärsrisk, mäts som [[Räntabilitet]] på totalt kapital och kan delas upp baserat på:
 

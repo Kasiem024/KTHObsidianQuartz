@@ -6,7 +6,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005TenDelC
+Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005/CM1005TenDelC
 
 ---
 [[Ten Del C Exempel CM1005.pdf]]

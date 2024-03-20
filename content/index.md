@@ -6,4 +6,4 @@ title: Hem
 
 Använd taggarna och sök funktionen för att hitta relevanta anteckningar.
 
-Taggar: #ME1003 #ME1003KS2 #ME1003KS3 #CM1005 #CM1005KS3 #CM1005KS4
+Taggar: #HH1802 #HH1802/HH1802KS1 #HU1801

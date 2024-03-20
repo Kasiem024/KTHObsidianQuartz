@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS2
+Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003/ME1003KS2 #HH1802/HH1802KS1
 
 ## Definition
 
@@ -105,9 +105,12 @@ $$
 Nuvärdemetoden (Definition):: En ränteräkningsmetod som med hjälp av [[Kalkylränta]] räknar om de olika investeringsalternativens betalningar till en och samma tidpunkt, till början av det år då ==grundinvesteringen== görs, hur mycket skulle avkastningen varit om vi satte in pengarna i banken istället för att göra investeringen
 <!--SR:!2024-02-26,2,185-->
 
+Nuvärde (Definition):: Värdet av framtida betalningar idag
+
+Nuvärdesumma (Definition):: Värdet av framtida betalningar som är lika stora varje år idag
+
 Omräkningsfaktorer (3) (Formel)
 ||
-(Alla tre formler finns i formelsamlingen)
 $$
 { Slutvärdefaktor = ( 1 + Kalkylränta )^{Ekonomisk \, Livslängd (Antal \, År)}}
 $$

@@ -1,4 +1,4 @@
-# Finansieringens Risker
+# Risk
 
 ---
 
@@ -6,26 +6,23 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #ME1003 #begrepp #ME1003KS3
+Tags: #year2024 #KTH #ekonomi #HH1802 #begrepp #HH1802/HH1802KS1
 
 ---
 
 ## Definition
 
-Finansieringens Risker i samband med ett företag kan delas in i 2 kategorier:
+Risk handlar om att försöka veta vad som kommer hända i framtiden, dock råder det osäkerhet då oväntade händelser kan ske.
 
-- Rörelserisk
-- Finansiell risk
+### Systematisk Risk
 
-### Rörelserisk
+Systematisk Risk är sådana faktorer som är gemensamma för flera aktier, exempelvis konjunktursvängningar.
 
-Rörelserisk, eller affärsrisk, mäts som [[Räntabilitet]] på totalt kapital och kan delas upp baserat på:
+### Unik Risk
 
-- Verksamhetens innehåll och karaktär
-- Kostnadsstruktur
-- Kapitalbindning
+Unik Risk är sådan risk som är unik till aktien, alltså kan de elimineras genom att diversifiera sin portfölj.
 
-### Finansiell risk
+### Finansiell Risk
 
 Finansiell Risk fokuserar på hur finansiella förändringar påverkar företagets verksamhet. Den består av:
 
@@ -34,13 +31,31 @@ Finansiell Risk fokuserar på hur finansiella förändringar påverkar företage
 - ==Ränterisk==: Låneräntor varierar över tid och om en stor del av skulderna har rörlig ränta innebär det att storleken på företagets finansiella kostnader kan förändras kraftigt på kort tid.
 - ==Valutarisk==: Valutafluktuationer kan påverka både [[Likviditet]] och resultatet av ett företag.
 
+Alltså handlar Finansiell Risk om att inte kunna betala sina räkningar på kort sikt.
+
+### Affärsrisk
+
+Affärsrisk, eller rörelserisk, mäts som [[Räntabilitet]] på totalt kapital och kan delas upp baserat på:
+
+- Verksamhetens innehåll och karaktär
+- Kostnadsstruktur
+- Kapitalbindning
+
+Alltså handlar Affärsrisk om Risk som har med verksamheten att göra.
+
 ## Kopplat till
 
 ## Flashcards
 
-Rörelserisk (Definition) (3)
+Risk (Definition):: Handlar om att försöka veta vad som kommer hända i framtiden, dock råder det osäkerhet då oväntade händelser kan ske
+
+Systematisk Risk (Definition):: Sådana faktorer som är gemensamma för flera aktier, exempelvis konjunktursvängningar
+
+Unik Risk (Definition):: Sådan risk som är unik till aktien, elimineras genom att diversifiera sin portfölj
+
+Affärsrisk (Definition) (3)
 ??
-Mäts som [[Räntabilitet]] på totalt kapital och kan delas upp baserat på:
+**Risk som har med verksamheten att göra.** Mäts som [[Räntabilitet]] på totalt kapital och kan delas upp baserat på:
 - Verksamhetens innehåll och karaktär
 - Kostnadsstruktur
 - Kapitalbindning
@@ -48,7 +63,7 @@ Mäts som [[Räntabilitet]] på totalt kapital och kan delas upp baserat på:
 
 Finansiell Risk (Definition) (4)
 ??
-Fokuserar på hur finansiella förändringar påverkar företagets verksamhet, består av:
+**Risk att inte kunna betala sina räkningar på kort sikt.** Fokuserar på hur finansiella förändringar påverkar företagets verksamhet, består av:
 - ==Hävstångsrisk==: Vid analys av denna risk används [[Soliditet]] och Skuldsättningsgrad. Hävstångsformlen är en spegling av denna risk.
 - ==Likviditetsrisk==: Risken att inte kunna betala sina kortfristiga skulder och fakturor.
 - ==Ränterisk==: Låneräntor varierar över tid och om en stor del av skulderna har rörlig ränta innebär det att storleken på företagets finansiella kostnader kan förändras kraftigt på kort tid.

@@ -64,7 +64,7 @@ Go where profits and growth are and where the competition isn't.
 
 När man har ett resursbaserat synsätt på strategi innebär det att man långsiktigt bygger upp och utvecklar företagets olika typer av resurser, till exempel personalkompetensen, varumärket och företagets teknologi. Strävan är att göra företagets resurser unika.
 
-Resursbaserat Synsätt på Strategi (Definition):: Handlar om att man långsiktigt bygger upp och utvecklar företagets olika typer av resurser, till exempel **personalkompetensen, varumärket och företagets teknologi**. Strävan är att göra företagets resurser unika
+Resursbaserat Synsätt på Strategi (Definition):: Handlar om att man långsiktigt bygger upp och utvecklar företagets olika typer av resurser, till exempel **personalkompetensen, varumärket och företagets teknologi.** Strävan är att göra företagets resurser unika
 <!--SR:!2024-02-13,3,255-->
 
 9. Redogör för strategiprocessen enligt Kotler.

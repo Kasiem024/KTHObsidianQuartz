@@ -5,7 +5,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003KS3
+Tags: #year2024 #KTH #ekonomi #CM1005 #begrepp #ME1003/ME1003KS3 #HH1802/HH1802KS1
 
 ---
 
@@ -48,7 +48,7 @@ Resultaträkning (Definition):: En rapport över [[Intäkt]] och [[Kostnad]] und
 Kostnadsindelad Resultaträkning (Definition):: När man delar upp verksamhetens kostnader efter kostnadsslag, alltså vilken typ av kostnad det är
 <!--SR:!2024-04-20,56,312!2024-03-19,14,294-->
 
-Funktionsindelad Resultaträkning (3)
+Funktionsindelad Resultaträkning (Definition) (3)
 ??
 När man delar upp verksamhetens kostnader beroende på dess funktion:
 - Tillverkning

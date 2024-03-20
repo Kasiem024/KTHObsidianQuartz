@@ -6,7 +6,7 @@ Skapad: `=dateformat(this.file.ctime, "D, HH:mm, EEEE ")`
 
 Uppdaterad: `=dateformat(this.file.mtime, "D, HH:mm, EEEE")`
 
-Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005KS4
+Tags: #year2024 #KTH #ekonomi #CM1005 #lektion #CM1005/CM1005KS4
 
 ---
 [[02-29 Powerpoint CM1005.pdf]]
