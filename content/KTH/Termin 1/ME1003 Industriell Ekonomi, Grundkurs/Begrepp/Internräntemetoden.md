@@ -19,6 +19,8 @@ Ju högre kalkylräntan är ju svårare det är för en investering att räknas 
 
 Alltså, Internräntemetoden visar det maximala som [[Kalkylränta]] kan vara. Vad är det högsta avkastningskravet vi kan ha på en investering och ändå vara lönsam.
 
+Internränta är den inbyggda lönsamhet som finns i en investering, vad ger investeringen för avkastning.
+
 ==Räntetabell C==
 
 ## Kopplat till
@@ -28,4 +30,4 @@ Alltså, Internräntemetoden visar det maximala som [[Kalkylränta]] kan vara. V
 ## Flashcards
 
 Internräntemetoden (Definition):: Handlar om att veta den högsta [[Kalkylränta]] en viss investering kan ha och ändå räknas som lönsam enligt [[Nuvärdemetoden]], alltså räknar man ut kalkylräntan
-<!--SR:!2024-02-25,6,250-->
+<!--SR:!2024-04-09,20,270!2024-04-08,14,290-->

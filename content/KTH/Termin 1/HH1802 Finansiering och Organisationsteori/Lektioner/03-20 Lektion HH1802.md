@@ -10,9 +10,14 @@ Tags: #year2024 #KTH #ekonomi #HH1802 #lektion #HH1802/HH1802KS1
 
 ---
 
+[[03-20 Journal Lektion HH1802.pdf]]
+
 ---
-Börskurs:
+Börskurs: Inte nödvändigtvis kopplat till aktier.
 
-Aktiekurs:
+Aktiekurs är samma som Aktiens Marknadsvärde.
 
-Aktiens Marknadsvärde:
+---
+Om man tar stora risker får man mer betalt.
+
+Långivares risk är lägre än företagets, därför ska långivaren tjäna mindre än ägaren.

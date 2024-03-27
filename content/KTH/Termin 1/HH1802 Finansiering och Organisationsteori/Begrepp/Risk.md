@@ -14,13 +14,19 @@ Tags: #year2024 #KTH #ekonomi #HH1802 #begrepp #HH1802/HH1802KS1
 
 Risk handlar om att försöka veta vad som kommer hända i framtiden, dock råder det osäkerhet då oväntade händelser kan ske.
 
+En utveckling som går att bedöma ungefär under ett intervall. Man vill ha en Risk eftersom det leder till att man tjänar pengar. Man måste ta Risker för att tjäna mycket pengar.
+
+Risk är alltså när det finns osäkerhet gällande konsekvenserna av en handling.
+
+Risk är osäkerheten på hur långt något är från medelvärdet.
+
 ### Systematisk Risk
 
-Systematisk Risk är sådana faktorer som är gemensamma för flera aktier, exempelvis konjunktursvängningar.
+Systematisk Risk är sådana faktorer som är gemensamma för flera aktier, exempelvis konjunktursvängningar. Risken för hela indexet och marknaden.
 
 ### Unik Risk
 
-Unik Risk är sådan risk som är unik till aktien, alltså kan de elimineras genom att diversifiera sin portfölj.
+Unik Risk är sådan risk som är unik till aktien, alltså kan den elimineras genom att diversifiera sin portfölj.
 
 ### Finansiell Risk
 
@@ -47,11 +53,14 @@ Alltså handlar Affärsrisk om Risk som har med verksamheten att göra.
 
 ## Flashcards
 
-Risk (Definition):: Handlar om att försöka veta vad som kommer hända i framtiden, dock råder det osäkerhet då oväntade händelser kan ske
+Risk (Definition):: Handlar om att försöka veta vad som kommer hända i framtiden, dock råder det osäkerhet då oväntade händelser kan ske, osäkerheten på hur långt något är från medelvärdet, osäkerhet gällande konsekvenserna av en handling. I teorin leder det till att man kan tjäna mer pengar
+<!--SR:!2024-04-05,13,272!2024-04-08,15,292-->
 
-Systematisk Risk (Definition):: Sådana faktorer som är gemensamma för flera aktier, exempelvis konjunktursvängningar
+Systematisk Risk (Definition):: Sådana faktorer som är gemensamma för flera aktier, konjunktursvängningar, Risken för hela indexet och marknaden
+<!--SR:!2024-04-08,15,293!2024-04-03,11,272-->
 
-Unik Risk (Definition):: Sådan risk som är unik till aktien, elimineras genom att diversifiera sin portfölj
+Unik Risk (Definition):: Sådan risk som är specifik till aktien, elimineras genom att diversifiera sin portfölj
+<!--SR:!2024-04-10,17,293!2024-04-06,12,272-->
 
 Affärsrisk (Definition) (3)
 ??
@@ -59,7 +68,7 @@ Affärsrisk (Definition) (3)
 - Verksamhetens innehåll och karaktär
 - Kostnadsstruktur
 - Kapitalbindning
-<!--SR:!2024-03-11,3,250!2024-03-09,3,250-->
+<!--SR:!2024-03-28,8,250!2024-03-30,7,250-->
 
 Finansiell Risk (Definition) (4)
 ??
@@ -68,4 +77,4 @@ Finansiell Risk (Definition) (4)
 - ==Likviditetsrisk==: Risken att inte kunna betala sina kortfristiga skulder och fakturor.
 - ==Ränterisk==: Låneräntor varierar över tid och om en stor del av skulderna har rörlig ränta innebär det att storleken på företagets finansiella kostnader kan förändras kraftigt på kort tid.
 - ==Valutarisk==: Valutafluktuationer kan påverka både [[Likviditet]] och resultatet av ett företag.
-<!--SR:!2024-03-11,4,270!2024-03-09,3,250-->
+<!--SR:!2024-03-30,6,270!2024-03-31,11,270-->

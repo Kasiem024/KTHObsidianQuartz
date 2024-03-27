@@ -43,10 +43,10 @@ Finansiella Poster är samlingsnamnet för Finansiella Intäkter och Finansiella
 ## Flashcards
 
 Resultaträkning (Definition):: En rapport över [[Intäkt]] och [[Kostnad]] under en viss period. Visar om företaget har gått i vinst eller förlust
-<!--SR:!2024-05-18,74,290!2024-03-22,17,294-->
+<!--SR:!2024-05-18,74,290!2024-04-22,30,314-->
 
 Kostnadsindelad Resultaträkning (Definition):: När man delar upp verksamhetens kostnader efter kostnadsslag, alltså vilken typ av kostnad det är
-<!--SR:!2024-04-20,56,312!2024-03-19,14,294-->
+<!--SR:!2024-04-20,56,312!2024-04-19,30,314-->
 
 Funktionsindelad Resultaträkning (Definition) (3)
 ??
@@ -54,22 +54,22 @@ När man delar upp verksamhetens kostnader beroende på dess funktion:
 - Tillverkning
 - Försäljning
 - Administration
-<!--SR:!2024-03-10,5,155!2024-03-24,19,252-->
+<!--SR:!2024-03-27,7,155!2024-04-23,30,272-->
 
 EBITDA (Definition):: (Earnings Before Interest, Taxes, Depreciations and Amortizations) Rörelseresultat före avskrivningar
-<!--SR:!2024-03-18,12,274!2024-03-21,14,294-->
+<!--SR:!2024-04-19,30,294!2024-04-20,30,314-->
 
 EBITA (Definition);; (Earnings Before Interest and Taxes) Rörelseresultat efter avskrivningar
-<!--SR:!2024-03-23,16,294-->
+<!--SR:!2024-04-22,30,314-->
 
 Nettoomsättning (Definition):: Försäljningsintäkterna exklusive moms
-<!--SR:!2024-03-16,10,254!2024-03-09,4,281-->
+<!--SR:!2024-04-14,25,254!2024-04-03,14,301-->
 
 Finansiella Poster (Definition):: Samlingsnamnet för Finansiella Intäkter och Finansiella Kostnader
-<!--SR:!2024-03-19,13,271!2024-03-24,17,291-->
+<!--SR:!2024-04-19,30,291!2024-04-23,30,311-->
 
 Finansiella Intäkter (Definition):: Exempelvis intäkter som företaget får av att ha placerat likvida medel i banken, alltså har de inget med försäljningen att göra
-<!--SR:!2024-03-24,16,297!2024-03-24,17,294-->
+<!--SR:!2024-04-23,30,317!2024-04-23,30,314-->
 
 Finansiella Kostnader (Definition):: Kostnader som inte har med försäljning eller tillverkning, exempelvis räntekostnader
-<!--SR:!2024-03-21,14,291!2024-03-21,14,294-->
+<!--SR:!2024-04-20,30,311!2024-04-20,30,314-->

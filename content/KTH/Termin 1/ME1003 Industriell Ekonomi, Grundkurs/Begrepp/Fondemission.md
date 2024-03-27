@@ -23,9 +23,10 @@ Kan också ske genom att värdet av företagets [[Anläggningstillgångar]] skri
 ## Flashcards
 
 Fondemission (Definition):: En form av emission som inte tillför nytt kapital till företaget, alltså när [[Fritt Eget Kapital]] omvandlas till [[Bundet Eget Kapital]], ändrar bara strukturen av en [[Balansräkning]] men inte balansomslutningen, ==aktiekapital ökar==
-<!--SR:!2024-03-14,6,250!2024-03-19,13,270-->
+<!--SR:!2024-03-28,5,230!2024-03-28,8,250-->
 
 Sätt Fondemission kan ske (2)
 ??
 - Balanserad vinst, [[Uppskrivningsfond]], [[Reservfond]] eller [[Överkursfond]] omvandlas till aktiekapital.
 - Värdet av företagets [[Anläggningstillgångar]] skrivs upp, aktiekapitalet ökar med lika mycket.
+<!--SR:!2024-04-05,11,272!2024-03-29,6,252-->

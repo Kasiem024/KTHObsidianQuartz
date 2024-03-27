@@ -16,6 +16,8 @@ Diskontering är när värdet av exempelvis en aktie bedöms utifrån en förvä
 
 Diskontering kan också betyda att man räknar om framtida betalningar till en och samma tidpunkt, alltså räknar man ut ==nuvärdet==.
 
+När man räknar med diskontering är det avdraget man räknar (Discount).
+
 ### Diskonteringsfaktor
 
 Diskonteringsfaktorn, eller nuvärdefaktorn, är en omräkningsfaktor som används för att räkna ut nuvärdet.
@@ -29,16 +31,17 @@ $$
 
 - [[Nuvärdemetoden]]
 - [[Investeringskalkylering]]
+- [[Tidspreferens]]
 
 ## Flashcards
 
-Diskontering (Definition):: När man räknar om framtida betalningar till en och samma tidpunkt, alltså räknar man ut ==nuvärdet==. Också när värdet av exempelvis en aktie bedöms utifrån en förväntad utveckling i framtiden
+Diskontering (Definition):: När man räknar om framtida betalningar till en och samma tidpunkt, alltså räknar man ut ==nuvärdet==
+<!--SR:!2024-03-29,6,250!2024-04-09,16,292-->
 
 Diskonteringsfaktorn (Definition) (Formel)
 ??
 Omräkningsfaktor som används för att räkna ut nuvärde
-
 $$
-{ NUV =
-\frac{1}{( 1 + r )^{n}}}
+\frac{1}{( 1 + r )^{n}}
 $$
+<!--SR:!2024-04-09,16,290!2024-04-02,10,270-->

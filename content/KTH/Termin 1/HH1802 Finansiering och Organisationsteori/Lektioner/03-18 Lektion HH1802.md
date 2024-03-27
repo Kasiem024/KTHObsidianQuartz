@@ -10,11 +10,9 @@ Tags: #year2024 #KTH #ekonomi #HH1802 #lektion #HH1802/HH1802KS1
 
 ---
 
-Investera lite CSN och lön i fonder.
-
 När r går upp blir NNV lägre.
 
-Värdet nu är omvänt proportionellt till nivån på kalkylräntan.
+Nuvärdet är omvänt proportionellt till nivån på [[Kalkylränta]].
 
 [[Investeringskalkylering]]
 
@@ -24,7 +22,7 @@ Konsumentkreditlagen är tvingande till konsumentensfördel. Konsumentverket och
 
 (Alla avgifter och räntor) / Lånebelopp = Effektiv ränta
 
-Diskontering: Handlar om att flytta ett värde som finns i framtiden och räkna om det till vad det är värt idag. Räkna ut avdraget (discount). Tidspreferens.
+[[Diskontering]]: Handlar om att flytta ett värde som finns i framtiden och räkna om det till vad det är värt idag. Räkna ut avdraget (discount). Tidspreferens.
 
 Ränta är pris på pengar.
 
@@ -32,7 +30,7 @@ Nuvärdefaktor * a = G
 
 Internränta är när kalkylräntan ger 0 som nuvärdesumma.
 
-Risk är när det finns osäkerhet gällande konsekvenserna.
+[[Risk]] är när det finns osäkerhet gällande konsekvenserna.
 
 Systematisk risk handlar om hela marknaden. Risken för hela indexet.
 
@@ -42,6 +40,7 @@ Rörelserisk/affärsrisk
 
 Finansiell risk har två dimensioner, nära i tiden och långt bort i tiden.
 
+---
 Branscher:
 - Energi
 - Industri

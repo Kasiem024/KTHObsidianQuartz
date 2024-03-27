@@ -26,7 +26,7 @@ Det finns 4 typer av Omsättningstillgångar:
 ## Flashcards
 
 Omsättningstillgångar (Definition):: Tillgångar som löpande förbrukas, säljs eller omvandlas till likvida medel, saker som omsätts och ändras hela tiden
-<!--SR:!2024-03-15,11,272!2024-03-14,11,288-->
+<!--SR:!2024-04-19,30,292!2024-04-19,30,308-->
 
 Omsättningstillgångar Exempel (4)
 ??
@@ -34,4 +34,4 @@ Omsättningstillgångar Exempel (4)
 - ==Kortfristiga fordringar:== Kundfordring, Upplupen intäkt.
 - ==Osäkra fordringar==: Kundfordringar och Upplupna intäkter där det råder osäkerhet om kunden har förmåga att betala eller inte.
 - ==Kortfristiga placeringar==: Låst pengar i banken.
-<!--SR:!2024-03-20,12,230!2024-03-12,9,268-->
+<!--SR:!2024-04-19,30,250!2024-04-19,30,288-->
