@@ -11,6 +11,7 @@ Använd taggarna och sök funktionen för att hitta relevanta anteckningar.
 - #HE1028
 - #HF1201
 - #HI1025
+- #CM1008
 
 ### 2024 Höst
 
