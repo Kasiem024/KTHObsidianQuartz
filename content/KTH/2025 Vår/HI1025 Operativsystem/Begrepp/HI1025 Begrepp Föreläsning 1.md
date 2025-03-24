@@ -1,4 +1,4 @@
-# 03-17 HI1025 Begrepp Föreläsning 1
+# HI1025 Begrepp Föreläsning 1
 
 ---
 
@@ -16,10 +16,12 @@ Bare metal (Definition):: Ett system där ett operativsystem körs direkt på h�
 <!--SR:!2000-01-01,1,250!2025-03-21,3,250-->
 
 Batch Job (Definition):: En sekvens av programkommandon som exekveras *utan* användarinteraktion. (Tänk: *En bunt uppgifter i kö*).
+<!--SR:!2000-01-01,1,250!2025-03-25,2,248-->
 
 Command Line Interface (CLI) (Definition):: Ett textbaserat gränssnitt för att interagera med ett operativsystem eller ett program, genom att skriva kommandon. (Tänk: *kommando tolk*)
 
 Kernel (Definition):: Operativsystemets *centrala del*, som hanterar grundläggande systemresurser (CPU, minne, I/O). (Tänk: *Hjärtat i systemet*).
+<!--SR:!2000-01-01,1,250!2025-03-25,2,248-->
 
 Limited Direct Execution (Definition):: En teknik där processer får köra *direkt på CPU:n* under större delen av tiden, men med *begränsningar* för att förhindra att de stör operativsystemet eller andra processer.
 
@@ -28,12 +30,14 @@ Supervisor/User mode (Definition) (2)
 Två distinkta *driftlägen* för CPU:n
 - Fullständig åtkomst till *alla* hårdvaruresurser och instruktioner. Används av kärnan.
 - *Begränsad* åtkomst, förhindrar direkt åtkomst till känsliga resurser. Används av applikationer.
+<!--SR:!2025-03-23,1,228!2000-01-01,1,250-->
 
 System Call (Systemanrop) (Definition):: En *mekanism* för en användarprocess att *begära tjänster* från operativsystemets kärna (t.ex. läsa en fil, allokera minne). (Tänk: *Ett samtal till chefen (kärnan)*).
 
 Trap (Avbrottsfälla) (Definition):: En *speciell typ av systemanrop*, ofta utlöst av ett fel (t.ex. division med noll) eller en specifik instruktion. (Tänk: *En larmklocka*).
 
 Virtualization (Definition):: En teknik för att skapa en *virtuell version* av något, t.ex. hårdvara, operativsystem, lagring. (Tänk: *En illusion av hårdvara*).
+<!--SR:!2000-01-01,1,250!2025-03-25,3,268-->
 
 Mechanisms & Policies (Definition) (2)
 ??
@@ -69,6 +73,7 @@ Process Control Block (PCB) (Definition):: En *datstruktur* som operativsystemet
 Context Switch (Kontextbyte) (Definition):: Processen att *spara tillståndet* för en körande process och *återställa tillståndet* för en annan process, så att den andra processen kan fortsätta köra. (Tänk: *Byta förare i en bil*).
 
 Scheduler (Schemaläggare) (Definition):: Den del av operativsystemet som *bestämmer vilken process* som ska köras härnäst och *när*. (Tänk: *Trafikpolisen för processer*).
+<!--SR:!2025-03-25,2,248!2000-01-01,1,250-->
 
 Cooperative vs. Preemptive (Multitasking) (Definition) (2)
 ??
@@ -177,16 +182,6 @@ Processtillståndet *Blocked* i detalj (3)
 	- Väntar på en *signal* från en annan process.
 	- Väntar på en *timer*.
 - Processen *förbrukar ingen CPU-tid* medan den är blockerad.
-
-De *två* vanligaste övergångarna *från* tillståndet *Running* (5)
-||
-1. **Running -> Ready:**
-	- Processens *tidsperiod* tar slut (time-slicing).
-	- Schemaläggaren väljer en annan process (preemption).
-	- Processen ger *frivilligt* upp CPU:n (yield).
-2. **Running -> Blocked:**
-	- Processen begär en *I/O-operation*.
-	- Processen väntar på en *signal* eller annan *synkroniseringsprimitiv*.
 
 Vanliga övergångarna *till* Ready, och *från* Ready till Running (2)
 ||

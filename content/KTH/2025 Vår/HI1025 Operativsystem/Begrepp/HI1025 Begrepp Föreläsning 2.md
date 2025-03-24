@@ -1,4 +1,4 @@
-# 03-24 HI1025 Begrepp Föreläsning 2
+# HI1025 Begrepp Föreläsning 2
 
 ---
 
@@ -15,6 +15,7 @@ Tags: #year2025 #KTH #HI1025 #begrepp
 Throughput (Definition):: Mäter hur mycket arbete ett system utför under en viss tid. Antalet processer som slutförs per tidsenhet
 
 Fairness (Definition):: Hur rättvist systemets resurser, framförallt CPU-tid, fördelas mellan de olika processerna som vill köra.
+<!--SR:!2000-01-01,1,250!2025-03-25,3,250-->
 
 Turnaround Time (Definition):: Den totala tiden det tar för en process att slutföras, från det att den anländer till systemet tills dess att den är helt klar. Inkluderar både väntetid i köer och exekveringstid på CPU:n. En kort turnaround time är önskvärd.
 
@@ -43,10 +44,12 @@ Rate Monotonic Scheduling (RMS) (Definition):: En statisk schemaläggningsalgori
 Earliest Deadline First (EDF) (Definition):: En dynamisk schemaläggningsalgoritm som alltid väljer den process som har närmast deadline. Kan hantera både periodiska och aperiodiska processer. Optimal i den meningen att om ett schema finns som kan möta alla deadlines, så kommer EDF att hitta det.
 
 Idle Task (Definition):: En mycket lågprioriterad process som körs när det inte finns några andra processer redo att köra. Säkerställer att CPU:n alltid har något att göra, även om det bara är att vänta.
+<!--SR:!2000-01-01,1,250!2025-03-25,3,250-->
 
 register (C/C++) (Definition):: Ett nyckelord som ger ett förslag till kompilatorn att lagra en variabel i ett av CPU:ns register istället för i RAM-minnet. Registeråtkomst är mycket snabbare, men antalet register är begränsat. Modern kompilator optimerar bra, så register används sällan explicit.
 
 volatile (C/C++) (Definition):: Ett nyckelord som talar om för kompilatorn att en variabel kan ändras av externa faktorer, till exempel av hårdvara eller en annan tråd. Förhindrar att kompilatorn gör vissa optimeringar som skulle kunna leda till felaktigt beteende.
+<!--SR:!2000-01-01,1,250!2025-03-25,3,250-->
 
 Bit-wise Operators (C/C++) (3)
 ||
@@ -57,5 +60,7 @@ Bit-wise Operators (C/C++) (3)
 Shift Operators (C/C++) (Definition):: Operatörer som flyttar bitarna i ett tal åt vänster (<<) eller höger (>>). Vänsterskift multiplicerar med 2, högerskift dividerar med 2 (för heltal).
 
 struct (C/C++) (Definition):: En sammansatt datatyp som grupperar ihop flera variabler av olika datatyper under ett gemensamt namn.
+<!--SR:!2000-01-01,1,250!2025-03-25,3,250-->
 
 union (C/C++) (Definition):: En sammansatt datatyp där alla medlemmar delar på samma minnesutrymme. Endast en medlem kan vara aktiv åt gången. Används för att spara minne när man vet att endast en av flera variabler kommer att användas vid en given tidpunkt.
+<!--SR:!2025-03-23,1,230!2000-01-01,1,250-->

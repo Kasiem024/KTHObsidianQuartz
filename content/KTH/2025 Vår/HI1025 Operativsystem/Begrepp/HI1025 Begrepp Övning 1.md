@@ -1,4 +1,4 @@
-# 03-20 HI1025 Begrepp Övning 1
+# HI1025 Begrepp Övning 1
 
 ---
 
@@ -13,10 +13,12 @@ Tags: #year2025 #KTH #HI1025 #begrepp
 ## Begrepp
 
 .h (Header file) (Definition):: En fil som innehåller *deklarationer* av funktioner, variabler, makron och datatyper. Används för att dela kod mellan olika källkodsfiler och främjar **återanvändbarhet** och **abstraktion**. (Tänk: Innehållsförteckning).
+<!--SR:!2000-01-01,1,250!2025-03-25,3,250-->
 
 .c (Source file) (Definition):: En fil som innehåller den faktiska *implementationen* (koden) av funktioner och variabler. (Tänk: Själva boken).
 
 `#include` (Definition):: Ett direktiv som infogar innehållet från en headerfil i den aktuella filen, vilket möjliggör användning av deklarerade funktioner och variabler från andra filer. (Tänk: Kopiera och klistra in)
+<!--SR:!2000-01-01,1,250!2025-03-25,3,250-->
 
 Abstraction (Definition):: Att *dölja komplexa detaljer* och endast visa den *nödvändiga informationen*. Gör kod lättare att förstå och använda. Operativsystemet använder detta för att skapa enklare gränssnitt.
 
@@ -45,10 +47,12 @@ När man *inte refererar direkt* till något, utan via en *mellanhand*. Exempel:
 Reusability (Återanvändbarhet) (Definition):: Att skriva kod som kan användas i flera olika sammanhang utan (eller med minimala) ändringar. Sparar utvecklingstid, minskar risken för fel, förbättrar konsistensen och underlättar underhåll av kodbasen. (Tänk: Legobitar).
 
 Maintainability (Underhållbarhet) (Definition):: Att skriva kod som är lätt att förstå, ändra och felsöka. Viktigt för långsiktig programvaruutveckling. Enkel och koncis kod (*Lauer's Law*) och ren, förståelig kod är att föredra framför extremt optimerad kod.
+<!--SR:!2000-01-01,1,250!2025-03-25,3,250-->
 
 High cohesion (Definition):: Ett mått på hur väl *relaterade funktionerna* inom en modul eller klass är. Innebär att en modul har ett *väldefinierat ansvar* och gör en sak väl. Leder till mer läsbar, förståelig och underhållbar kod, samt underlättar återanvändning och testning
 
-Low coupling (Låg koppling) (Definition):: Ett mått på hur *oberoende olika moduler eller klasser* är. Innebär att ändringar i en modul har minimal påverkan på andra moduler, vilket underlättar underhåll och minskar risken för buggar.
+Coupling (Koppling) (Definition):: Ett mått på hur *oberoende olika moduler eller klasser* är. Innebär att ändringar i en modul har minimal påverkan på andra moduler, vilket underlättar underhåll och minskar risken för buggar.
+<!--SR:!2025-03-23,1,230!2025-03-25,2,248-->
 
 Information Hiding (Informationsdöljande) (Definition):: En princip som innebär att implementationen och interna detaljer av en modul döljs från omvärlden, och endast ett väl definierat gränssnitt exponeras.
 
@@ -69,6 +73,7 @@ C incomplete types (Definition) (3)
 malloc (Definition):: En C-funktion som allokerar ett minnesblock på *heapen* (dynamisk minnesallokering). Returnerar en `void *`. Kan leda till *minnesläckor*.
 
 free (Definition):: En C-funktion som frigör ett minnesblock på heapen som tidigare allokerats med `malloc`.
+<!--SR:!2000-01-01,1,250!2025-03-25,3,250-->
 
 void * (Definition):: En *generisk pekare* i C. Kan peka på vilken datatyp som helst, men måste *explicit typomvandlas* innan den kan användas. Används ofta med `malloc`. (Tänk: En universell fjärrkontroll; returtyp från malloc).
 
