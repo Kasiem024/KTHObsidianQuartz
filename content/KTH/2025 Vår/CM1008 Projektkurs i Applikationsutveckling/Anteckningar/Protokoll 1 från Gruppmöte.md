@@ -1,4 +1,4 @@
-# Protokoll 1 från styrelsemöte
+# Protokoll 1 från Gruppmöte
 
 ---
 
@@ -35,7 +35,7 @@ Mötet öppnas och inleds av Van Matti kl 12:13.
 
 ## 2 Beslutsförhet
 
-Styrelsen finner att det vid förevarande sammanträde är beslutsför.
+Gruppen finner att det vid förevarande sammanträde är beslutsför.
 
 ## 3 Val av presidium
 
@@ -61,7 +61,7 @@ Gruppen bestämde att spelet som ska utvecklas ska vara en LoL-like. Alltså en 
 
 - Minst 2 spelare, måste vara ett jämnt antal
 - Top-down perspektiv
-- Non Playable Charachters (NPC:s) och kanontorn
+- Non Playable Characters (NPC:s) och kanontorn
 
 ## 7 Namnet på spelet
 
@@ -93,7 +93,7 @@ Inga övriga frågor.
 
 ## 12 Beslut som fattats
 
-Styrelsen har fattat följande beslut:
+Gruppen har fattat följande beslut:
 
 - Namnet av gruppen är "Flying Tigers"
 - Namnet av spelet är "League of Tigers"
@@ -111,7 +111,7 @@ Följande ska göras inom närmaste tiden:
 
 ## 14 Nästa möte
 
-Styrelsen beslutar att nästa styrelsemöte hålls på fredagen 2025-03-21.
+Gruppen beslutar att nästa gruppmöte hålls på fredagen 2025-03-21.
 
 ## 15 Mötets avslut
 
