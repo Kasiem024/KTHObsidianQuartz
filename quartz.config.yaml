@@ -124,8 +124,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
-      mode: both
+      theme: hackthebox
+      mode: dark
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -211,8 +211,10 @@ plugins:
     layout:
       position: left
       priority: 10
+  # hackthebox is a dark-only theme, so the light/dark toggle has nothing to
+  # switch to. Re-enable this if you move to a theme that supports both modes.
   - source: "@quartz-community/darkmode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
