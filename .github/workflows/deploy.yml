@@ -4,7 +4,12 @@ on:
   push:
     branches:
       - v5
-  workflow_dispatch:
+  # The vault lives in a separate repo as the content/ submodule. This schedule
+  # lets a plain `git push` in the vault publish on its own: the build below
+  # always pulls the vault's newest commit, so no pointer bump is required.
+  schedule:
+    - cron: "0 * * * *" # hourly
+  workflow_dispatch: # ...or trigger it by hand for an immediate rebuild
 
 permissions:
   contents: read
@@ -26,6 +31,10 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 24
+      # Always publish the vault's newest commit, not the pinned pointer. This is
+      # what makes a vault-only push enough to update the site.
+      - name: Update content to latest vault commit
+        run: git submodule update --remote --recursive content
       - name: Cache dependencies
         uses: actions/cache@v5
         with:

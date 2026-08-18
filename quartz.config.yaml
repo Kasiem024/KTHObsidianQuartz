@@ -17,7 +17,15 @@ configuration:
     - "**/Litteraturlista/**"
     - "**/*.ai.md"
     - "**/*.opt.md"
-    - "**/*.excalidraw.md"
+    # Course PDFs: scanned textbook chapters and lecturer slide decks live here
+    # (Filer/ and Filer/SEM2/), not just in Litteraturlista. Publishing them on a
+    # public site is a copyright exposure, and they were 262 MB of the build.
+    # They remain in the vault, so links still resolve inside Obsidian.
+    - "**/Filer/**/*.pdf"
+    # Redundant Excalidraw PNG auto-exports. No note references them, and the
+    # drawings themselves now render via the excalidraw plugin.
+    - "**/*Excalidraw*.png"
+    - "**/*excalidraw*.png"
     - "KTH/Kurs Mapp Mall/**"
     # Dataview-only vault-management pages: Quartz cannot run Dataview, so these
     # would publish as raw query text. They stay fully functional inside Obsidian.
@@ -280,7 +288,7 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: false
+    enabled: true
     options:
       enableInteraction: true
       darkMode: auto
