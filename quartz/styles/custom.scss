@@ -1,3 +1,39 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ---------------------------------------------------------------------------
+// KTH vault: hide Obsidian-only artifacts from the published site.
+//
+// Nothing here touches the vault. These rules only affect the website, so
+// Obsidian keeps its live Dataview indexes and its spaced-repetition decks.
+// Delete a block to bring that content back.
+// ---------------------------------------------------------------------------
+
+// 1. Dataview query blocks.
+//    Quartz has no Dataview engine, so these render as raw query source
+//    ("LIST FROM ...") inside a code block. Hide the whole figure.
+figure[data-rehype-pretty-code-figure]:has(pre[data-language="dataview"]) {
+  display: none;
+}
+// Fallback for browsers without :has() support.
+pre[data-language="dataview"] {
+  display: none;
+}
+
+// 2. Flashcard sections.
+//    The spaced-repetition syntax ("Question:: Answer", "?? ") is meant for
+//    Obsidian's review plugin and publishes as unreadable run-together text.
+//    "## Flashcards" is the last h2 on all 326 notes that have one, so hiding
+//    it and its following siblings is safe.
+article {
+  h2#flashcards,
+  h2#flashcards ~ * {
+    display: none;
+  }
+
+  // Safety net: if a note ever gains a section *after* Flashcards, reveal it
+  // again so real content can never be swallowed by the rule above.
+  h2#flashcards ~ h2,
+  h2#flashcards ~ h2 ~ * {
+    display: revert;
+  }
+}
