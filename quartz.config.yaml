@@ -77,6 +77,15 @@ plugins:
         dark: github-dark
       keepBackground: false
     order: 20
+  # Local transformer: rewrites spaced-repetition cards into collapsible
+  # callouts. Must run before obsidian-flavored-markdown (order 30) parses them.
+  - source: "./plugins/flashcards"
+    enabled: true
+    options:
+      heading: Flashcards
+      calloutType: question
+      collapsed: true
+    order: 25
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:

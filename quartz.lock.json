@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "flashcards": {
+      "source": "./plugins/flashcards",
+      "resolved": "C:\\dev\\KTHObsidianQuartz\\plugins\\flashcards",
+      "commit": "local",
+      "installedAt": "2026-08-18T14:41:11.354Z"
+    }
+  }
+}

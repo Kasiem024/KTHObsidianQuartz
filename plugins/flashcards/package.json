@@ -1,0 +1,32 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "Render Obsidian spaced-repetition flashcards as collapsible callouts",
+  "type": "module",
+  "private": true,
+  "main": "./index.js",
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "build": "node -e \"process.exit(0)\""
+  },
+  "quartz": {
+    "name": "flashcards",
+    "displayName": "KTH Flashcards",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 25,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "heading": "Flashcards",
+      "calloutType": "question",
+      "collapsed": true
+    }
+  }
+}
