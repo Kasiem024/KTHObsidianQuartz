@@ -19,6 +19,10 @@ configuration:
     - "**/*.opt.md"
     - "**/*.excalidraw.md"
     - "KTH/Kurs Mapp Mall/**"
+    # Dataview-only vault-management pages: Quartz cannot run Dataview, so these
+    # would publish as raw query text. They stay fully functional inside Obsidian.
+    - "Atlas/Dashboard.md"
+    - "Atlas/Vault Health Report.md"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
