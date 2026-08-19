@@ -249,6 +249,56 @@ CM1005 `Begrepp` page carries 718 internal links (all 112 concepts), `Föreläsn
 pages list their notes, and a course page has 15. The Dataview blocks are redundant on the
 web rather than lost content, so nothing needs doing.
 
+## Accessibility: image alt text
+
+Image embeds must carry alt text after a pipe:
+
+```markdown
+![[Bostonmatrisen ME1003.png|Bostonmatrisen]]
+```
+
+`obsidian-flavored-markdown` parses the value after the pipe with:
+
+```
+/^(?<alt>(?!^\d*x?\d*$).*?)?(\|?\s*?(?<width>\d+)(x(?<height>\d+))?)?$/
+```
+
+A **non-numeric** value becomes the `alt` attribute; `|300` is still a width. Obsidian
+treats the same text as the embed's display name, so this is native to both tools — there
+is no need to convert anything to `![alt](path)` markdown syntax.
+
+All 183 embeds were bare `![[image.png]]` until 2026-08-19, so every diagram on the site
+had `alt=""`. The vault side is now fixed and enforced by the vault audit
+(`imageEmbedWithoutAlt`), so this should stay at zero.
+
+## robots.txt does not work on this site
+
+Worth recording so it is not attempted again. A file placed in the vault root **is**
+published at the site root — `llms.txt` proves it. But this is a GitHub Pages **project**
+site served from `kasiem024.github.io/KTHObsidianQuartz/`, and crawlers only read
+`robots.txt` from the **domain** root. A copy at the project subpath is ignored, so adding
+one would be dead weight. Controlling crawling would require a `robots.txt` in a separate
+`kasiem024.github.io` user-site repo.
+
+`sitemap.xml` and `index.xml` (RSS) are unaffected and are emitted normally.
+
+## Known page-weight issue: Excalidraw drawings
+
+The 18 Excalidraw pages are the heaviest thing on the site — 4 to 6.8 MB each, roughly
+51 MB of the 105 MB total. Measured cause: a single page's drawing is one 4,592 KB inline
+`<svg>` holding **1,731 `<path>` elements averaging 2,641 characters** of coordinate data,
+which accounts for essentially the whole file. It is freehand geometry, not metadata.
+
+Things that do **not** help, so do not bother:
+
+- `darkMode: auto` is not emitting duplicate light/dark copies. There is exactly one large
+  SVG per page; the other SVGs on the page are small UI icons.
+- `enableInteraction` only toggles the interactivity layer and does not shrink the geometry.
+
+The only real lever would be reducing coordinate precision as a post-build step (SVGO's
+`cleanupNumericValues` or similar), plausibly 40–50%, which would need adding to CI as well.
+Left alone for now: it affects 18 pages, and GitHub Pages is comfortable with 105 MB.
+
 ## Other notes
 
 - There is no `sv-SE` locale upstream, so `locale` stays `en-US` and the interface
