@@ -282,22 +282,46 @@ one would be dead weight. Controlling crawling would require a `robots.txt` in a
 
 `sitemap.xml` and `index.xml` (RSS) are unaffected and are emitted normally.
 
-## Known page-weight issue: Excalidraw drawings
+## Excalidraw page weight, and the slimming step
 
-The 18 Excalidraw pages are the heaviest thing on the site — 4 to 6.8 MB each, roughly
-51 MB of the 105 MB total. Measured cause: a single page's drawing is one 4,592 KB inline
-`<svg>` holding **1,731 `<path>` elements averaging 2,641 characters** of coordinate data,
-which accounts for essentially the whole file. It is freehand geometry, not metadata.
+The 18 Excalidraw pages are the heaviest thing published. Measured cause: a single page's
+drawing is one 4,592 KB inline `<svg>` holding **1,731 `<path>` elements averaging 2,641
+characters** of coordinate data — freehand geometry, not metadata.
 
-Things that do **not** help, so do not bother:
+`tools/slim-svg.mjs` runs after the build and rounds coordinates in the large inline SVGs
+to integers. `deploy.yml` runs it between *Build Quartz* and *Upload artifact*.
+
+**Measured result: HTML 82.3 MB → 67.4 MB (18.1%), whole site ~105 MB → ~90 MB.** The
+heaviest page drops from 6,796 KB to 5,203 KB.
+
+Worth being honest that this was expected to save 40–50% and does not. The coordinates
+average only 3.36 decimal places, so most numbers were already short and the 17-decimal
+outliers are rare. Rounding to one decimal saved just 7.2%; integers were needed to reach
+18%. **A visitor still downloads about 5 MB for one of those pages**, so this reduces the
+problem rather than solving it. Removing the step is one line in `deploy.yml` plus the
+script; nothing else depends on it.
+
+Three safety properties, each verified with a synthetic fixture:
+
+- **Only SVGs over 50 KB are considered**, so the small UI icons are never touched.
+- **Only canvases at least 1,000 units across are rounded.** Rounding shifts a point by at
+  most half a unit, which is invisible at these scales — the smallest real drawing is
+  4033×2066 — but a large *detailed* drawing on a small canvas would be fragile, and byte
+  size alone would not catch that. Such an SVG, or one with no `viewBox`, is skipped and
+  reported.
+- **Only values with |v| ≥ 1 are rounded**, leaving opacities, stroke widths and scale
+  factors alone, where a tenth is a large relative change.
+- Structure is compared before and after — counts of `<path`, `d="` and `<g`, plus a check
+  for `NaN`/`undefined` — and the build **fails** rather than publishing a mangled drawing.
+
+It is idempotent: after one pass no number has more than one decimal, so re-running changes
+nothing.
+
+Things that do **not** help, so do not re-test them:
 
 - `darkMode: auto` is not emitting duplicate light/dark copies. There is exactly one large
-  SVG per page; the other SVGs on the page are small UI icons.
-- `enableInteraction` only toggles the interactivity layer and does not shrink the geometry.
-
-The only real lever would be reducing coordinate precision as a post-build step (SVGO's
-`cleanupNumericValues` or similar), plausibly 40–50%, which would need adding to CI as well.
-Left alone for now: it affects 18 pages, and GitHub Pages is comfortable with 105 MB.
+  SVG per page; the others are small UI icons.
+- `enableInteraction` only toggles the interactivity layer and does not shrink geometry.
 
 ## Other notes
 

@@ -55,6 +55,14 @@ jobs:
         run: npx quartz plugin install --from-config
       - name: Build Quartz
         run: npx quartz build
+      # The Excalidraw pages are the heaviest thing published (4-6.8 MB each). This
+      # rounds coordinates in the large inline SVGs to integers, which is invisible on
+      # canvases thousands of units across and takes the site from ~105 MB to ~90 MB.
+      # It refuses to touch small-canvas or viewBox-less SVGs, and fails the build if a
+      # drawing's structure would change. Remove this step and tools/slim-svg.mjs to
+      # revert; nothing else depends on it.
+      - name: Slim Excalidraw SVGs
+        run: node tools/slim-svg.mjs public 0
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
