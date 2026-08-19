@@ -59,17 +59,30 @@ the plugin simply did nothing. A no-op satisfies it:
 
 ## 5. Verify a change by building and measuring
 
-Do not claim an effect you have not measured. The checks that matter here:
+Do not claim an effect you have not measured. `tools/check-site.mjs` does the measuring, and
+runs in CI before every deploy, so a broken build cannot ship:
+
+```
+npx quartz build -d "G:\My Drive\KTHObsidian" -o C:\Temp\out
+node tools/check-site.mjs C:\Temp\out
+```
 
 | Check | Expected |
 |---|---|
 | Raw flashcard syntax in visible page text | 0 |
 | `<img>` without `alt` | 0 |
 | Pages with `katex-error` | 0 |
+| `brokenInternalLinks` | must not exceed the 43 in `site-baseline.json` |
+| Any count vs `site-baseline.json` | may grow; a drop over 5% fails |
 | Build exit code | 0 |
 
-When grepping built HTML, strip `<script>`, `<pre>` and `<code>` first — inline JavaScript
-contains `||`, and the Meta docs quote card syntax, both of which otherwise read as defects.
+The baseline comparison is deliberately asymmetric: growth is normal, shrinkage means
+something stopped rendering. That is what would have caught the transformer silently missing
+34 notes. Re-baseline an intentional change with `--update`.
+
+When grepping built HTML yourself, strip `<script>`, `<pre>` and `<code>` first — inline
+JavaScript contains `||`, and the Meta docs quote card syntax, both of which otherwise read as
+defects.
 
 ## 6. Things already tried that do not work
 

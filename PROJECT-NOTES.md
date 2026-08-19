@@ -293,6 +293,38 @@ one would be dead weight. Controlling crawling would require a `robots.txt` in a
 
 `sitemap.xml` and `index.xml` (RSS) are unaffected and are emitted normally.
 
+## Verifying the built site
+
+`tools/check-site.mjs` runs in CI between the slim step and the upload, so a broken build
+never reaches GitHub Pages. It takes ~2 s over 600 pages and has no dependencies.
+
+```
+node tools/check-site.mjs public            # check
+node tools/check-site.mjs public --update   # accept current numbers as the baseline
+```
+
+Two kinds of check, and the second is the important one:
+
+1. **Invariants that must be zero** — raw flashcard syntax in visible text, images without
+   `alt`, pages with `katex-error`.
+2. **A comparison against `site-baseline.json`.** Counts may **grow** freely, because adding
+   notes is normal, but a **drop of more than 5% fails**. That asymmetry catches regressions
+   nobody wrote a check for: the flashcard transformer once silently missed 34 notes and
+   ~1,280 cards, and no named check would have found it, but a callout count falling off a
+   cliff is unmistakable.
+
+The current baseline is 601 pages, 353 with callouts, 1965 callouts, 183 images, 35373
+internal links.
+
+**`brokenInternalLinks` is baselined at 43, not 0.** All 43 are links into PDFs, and Quartz
+emits **no** PDFs at all — the course literature is copyrighted and deliberately unpublished.
+So those links work in Obsidian and are dead on the public site. The check fails if the count
+*rises*, which catches genuinely new breakage without demanding the accepted 43 be fixed.
+
+When grepping built HTML for defects, strip `<script>`, `<pre>` and `<code>` first: inline
+JavaScript contains `||` and the vault's Meta docs quote card syntax. Skipping that step once
+produced a false report of 34 leaking pages, one of which was the 404 page's own script.
+
 ## Excalidraw page weight, and the slimming step
 
 The 18 Excalidraw pages are the heaviest thing published. Measured cause: a single page's

@@ -63,6 +63,14 @@ jobs:
       # revert; nothing else depends on it.
       - name: Slim Excalidraw SVGs
         run: node tools/slim-svg.mjs public 0
+      # Verify the artifact before it goes live. Fails on raw flashcard syntax leaking
+      # into visible text, images without alt, KaTeX errors, a new broken internal link,
+      # or any count falling more than 5% below site-baseline.json. Counts may grow
+      # freely - only shrinkage is suspicious, which is what catches a transformer
+      # silently stopping work. Re-baseline intentional changes with:
+      #   node tools/check-site.mjs public --update
+      - name: Check the built site
+        run: node tools/check-site.mjs public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
