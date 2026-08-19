@@ -164,6 +164,91 @@ Two site-only rules, neither of which touches the vault:
    that ends the article. A *filled* section cannot match: filled `Kopplat till` is
    followed by `<ul>`, filled `Flashcards` by `<blockquote class="callout question">`.
 
+## Plugin ecosystem — reviewed 2026-08-19
+
+The whole ecosystem was enumerated from the npm registry so this does not have to be
+re-researched. **It is small, and this install already covers essentially all of it.**
+
+```
+npm search keywords:quartz-plugin --json --searchlimit=2000
+```
+
+53 packages carry the `quartz-plugin` keyword, and the figure is stable at higher
+limits, so it is a real total rather than a truncation:
+
+| Group | Count |
+| --- | --- |
+| `@quartz-community` | 50 (52 packages exist in the scope; **49 installed here**) |
+| Third-party, everything outside the official scopes | **2** |
+
+### Not installed, and why that is correct
+
+| Package | Why not |
+| --- | --- |
+| `@quartz-community/obsidian-plugin-leaflet` | renders Obsidian Leaflet maps; the vault has none |
+| `@quartz-community/obsidian-plugin-ttrpg-tools-maps` | tabletop-RPG map data; irrelevant |
+| `@quartz-community/runtime` | browser helper library for plugin *authors*, not a feature |
+
+### Third-party, evaluated and rejected
+
+- `@kamal-hamza/quartz-plugin-pseudo` — pseudocode rendering with KaTeX. Plausible for
+  `HI1029 Algoritmer och Datastrukturer`, but the vault contains **zero** pseudocode
+  blocks, zero `\begin{algorithm}` and zero "pseudokod". Nothing for it to render.
+- `quartz-navbar` — a top navbar. v0.1.0, single maintainer, outside the official scope.
+  The left sidebar already covers navigation, so it is not worth the supply-chain risk.
+
+### Considered but deliberately not enabled
+
+`@quartz-community/stacked-pages` (installed, disabled) gives binder-style stacked tabs,
+so following a concept chain opens pages side by side. It is the only disabled plugin that
+genuinely suits a densely cross-linked concept vault. **The owner decided against it** —
+do not enable it without asking.
+
+The other eight disabled plugins are inapplicable, not merely unused: `citations` needs
+BibTeX (this vault cites via wikilinks to PDFs), `roam` and `ox-hugo` are foreign formats,
+`explicit-publish` would invert the publish-everything model across 500 notes, `darkmode`
+has nothing to toggle on a dark-only theme, `cname` needs a custom domain,
+`encrypted-pages` has nothing to encrypt, and `comments` would add a GitHub Discussions
+dependency to a personal study site.
+
+### Enabled but inert, deliberately left on
+
+Measured against the vault's actual content, these have nothing to act on:
+
+```
+mermaid 0 · .canvas 0 · .base 0 · footnotes 0 · block refs 0 · youtube 0 · aliases 0
+```
+
+So `canvas-page`, `bases-page`, `alias-redirects` and the `mermaid`,
+`enableYouTubeEmbed` and `parseBlockReferences` options do nothing today. They cost only a
+little build time and some config noise, and they start working by themselves if that
+content ever appears. **The owner chose to leave them enabled** — this is recorded so the
+inertness is not later mistaken for a misconfiguration.
+
+### Content inventory behind those decisions
+
+| Measure | Count |
+| --- | --- |
+| Notes / PDFs / PNGs / JPGs | 524 / 105 / 84 / 6 |
+| Notes containing math | 79 |
+| Notes with transclusions | 61 |
+| Notes with tables | 52 |
+| Notes with callouts | 27 |
+| Notes with `%%` comments | 18 |
+| Code fences | dataview 145, json 17, c 5, java 1, yaml 1, powershell 1 |
+
+Syntax highlighting is therefore near-unused: 145 of the ~170 fenced blocks are Dataview,
+which is hidden anyway.
+
+### Folder pages already replace the hidden Dataview listings
+
+Worth knowing before "fixing" anything: the 24 course `_index.md` pages consist entirely
+of Dataview queries, which the site hides — but `folder-page` emits its own listing
+alongside them, so the pages are **not** dead ends. Verified on the built output: the
+CM1005 `Begrepp` page carries 718 internal links (all 112 concepts), `Föreläsningar`
+pages list their notes, and a course page has 15. The Dataview blocks are redundant on the
+web rather than lost content, so nothing needs doing.
+
 ## Other notes
 
 - There is no `sv-SE` locale upstream, so `locale` stays `en-US` and the interface
@@ -171,9 +256,12 @@ Two site-only rules, neither of which touches the vault:
 - Frontmatter date aliases recognised natively: `created`/`date`, and
   `modified`/`lastmod`/`updated`/`last-modified`. The vault's `created:` and `updated:`
   both work without configuration.
-- Themes come from `saberzero1/quartz-themes` (860 available); live previews at
-  `https://quartz-themes.github.io/<theme-name>`. Variants use dot notation, e.g.
-  `catppuccin.macchiato`.
+- Themes come from `saberzero1/quartz-themes`, whose `#supported-themes` table lists
+  **860 theme variants**; live previews at `https://quartz-themes.github.io/<theme-name>`.
+  Variants use dot notation, e.g. `catppuccin.macchiato`. Note that
+  `npm search keywords:quartz-theme` returns exactly 250 results at **any**
+  `--searchlimit`, because the registry search endpoint caps there — so npm cannot be
+  used to count the published themes. The repo table is the source of truth.
 - Quartz's own documentation ships inside the upstream repo under `docs/`.
 
 The vault side of this work — conventions, the audit script, and the full change log —
