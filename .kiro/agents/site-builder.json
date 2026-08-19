@@ -1,0 +1,39 @@
+{
+  "name": "site-builder",
+  "description": "Builds the Quartz site and verifies the output — raw flashcard syntax, missing alt text, KaTeX errors, page weight. Knows the submodule build trap. Does not push.",
+  "prompt": "file://./site-builder-prompt.md",
+  "model": null,
+  "welcomeMessage": "I build the site and check the output for real defects rather than assuming the build succeeding means it worked. Ask me to build, verify a change, or measure page weight.",
+  "tools": ["read", "grep", "glob", "shell"],
+  "allowedTools": ["read", "grep", "glob", "shell"],
+  "toolsSettings": {
+    "shell": {
+      "allowedCommands": [
+        "cmd /c npx quartz build.*",
+        "cmd /c npx quartz plugin install.*",
+        "cmd /c node tools[\\\\/]slim-svg\\.mjs.*",
+        "cmd /c npm ci.*",
+        "powershell .*",
+        "git -C .* status.*",
+        "git -C .* log.*",
+        "git -C .* diff.*",
+        "git -C .* submodule status.*",
+        "git -C .* ls-remote.*"
+      ]
+    }
+  },
+  "hooks": {
+    "preToolUse": [
+      {
+        "matcher": "shell",
+        "command": "\"C:\\Program Files\\Git\\bin\\bash.exe\" .kiro/hooks/block-destructive.sh",
+        "timeout_ms": 3000
+      }
+    ]
+  },
+  "resources": [
+    "file://.kiro/steering/product.md",
+    "file://.kiro/steering/conventions.md",
+    "file://PROJECT-NOTES.md"
+  ]
+}

@@ -111,22 +111,33 @@ Callouts rather than raw `<details>`: callout bodies are still parsed as markdow
 LaTeX, wikilinks, bold and **list answers** keep working. Raw HTML bodies would not be,
 because `enableInHtmlEmbed` is `false`.
 
-Only content under a `## Flashcards` heading is touched — `::` elsewhere in the vault is
-a Dataview inline field.
+**It processes the whole note body, not just a `## Flashcards` section.** An earlier version
+only looked under that heading and silently missed **34 notes** — some with 150+ cards — that
+keep their cards under a differently named heading (`## Begrepp`,
+`## 📝 Ursprungliga Flashcards`) or interleaved with prose under chapter headings. Those pages
+published raw `::` syntax. Widening the scope is safe here, verified rather than assumed:
+there are **zero** bracketed Dataview inline fields (`[key:: value]`) in the vault, and no
+namespace-style code (`std::`) outside fenced blocks. Fenced blocks, table rows and existing
+blockquotes are skipped regardless.
 
-**Five card forms exist in this vault.** The first implementation handled only the first
-and left 114 pages showing raw syntax:
+**The four separators are not interchangeable.** From the plugin's own settings: `::` is
+single-line one-directional, `;;` single-line **reversed**, `||` multi-line one-directional,
+`??` multi-line **reversed**. A reversed card also generates a back-to-front card. Rendering
+flattens the distinction to one question → answer callout, which is right for reading; the
+direction only matters when reviewing in Obsidian. Never rewrite one form into another.
 
-1. `Question:: Answer` / `Question;; Answer` — single line.
-2. `Question ??` — separator trailing the question.
-3. A **bare** `??` or `||` alone on its own line: question on the line(s) above, answer
-   on the line(s) below, often a bullet list. The most common multi-line form.
-4. `DISABLED` / `==DISABLEDFLASHCARD==` in place of a separator, marking a card switched
-   off for review. Rendered like any other card, marker dropped.
-5. The same marker used **inline** in place of `::`.
+Two edge cases the vault actually contains, both handled:
 
-Current state: 326 pages have a Flashcards section, 316 render callouts, 10 sections are
-genuinely empty, 686 callouts total, **0 pages showing raw card syntax**.
+- **No blank line between cards.** The answer collector used to swallow the *next* card's
+  question, orphaning its `??` so it printed raw. It now stops when the following line is a
+  bare separator.
+- **Cards with no answer** — `Term (Definition)::` with nothing after it, five of them. The
+  question renders as plain text and the dangling separator is dropped. These are a content
+  gap in the vault, not a rendering bug.
+
+Current state: **353 pages render callouts, 1,965 callouts total, 0 pages showing raw card
+syntax.** When checking that last figure, strip `<script>`, `<pre>` and `<code>` first —
+inline JavaScript contains `||` and the vault's Meta docs quote card syntax.
 
 ## Deliberate exclusions
 

@@ -13,6 +13,10 @@ configuration:
     - .obsidian
     - .trash
     - .git
+    # Agent context in the vault, not study content. Quartz does not skip dot-folders
+    # automatically - only the ones listed here - so without this the steering docs and
+    # hooks would be published.
+    - .kiro
     - Meta
     - "**/Litteraturlista/**"
     - "**/*.ai.md"
@@ -77,12 +81,13 @@ plugins:
         dark: github-dark
       keepBackground: false
     order: 20
-  # Local transformer: rewrites spaced-repetition cards into collapsible
-  # callouts. Must run before obsidian-flavored-markdown (order 30) parses them.
+  # Local transformer: rewrites spaced-repetition cards into collapsible callouts.
+  # Must run before obsidian-flavored-markdown (order 30) parses them. It processes the
+  # whole note body, not just a "## Flashcards" section, because 34 notes keep their cards
+  # under a differently named heading or interleaved with prose.
   - source: "./plugins/flashcards"
     enabled: true
     options:
-      heading: Flashcards
       calloutType: question
       collapsed: true
     order: 25
