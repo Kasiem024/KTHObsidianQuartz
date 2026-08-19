@@ -7,8 +7,16 @@ Context for AI agents working on the Quartz site. Modelled on the `.kiro` layout
 |---|---|
 | `steering/product.md` | What the site is, how publishing works |
 | `steering/conventions.md` | Hard rules, traps, and what has already been ruled out |
-| `hooks/block-destructive.sh` | `preToolUse` guard — reads stdin, `exit 2` blocks |
+| `skills/verify-the-site/` | How to build and verify — the submodule trap, `check-site.mjs`, the baseline |
+| `hooks/*.sh` | `preToolUse` guards — read stdin, `exit 2` blocks |
 | `agents/site-builder.*` | Builds and verifies the output |
+
+## Steering vs. skills
+
+`steering/` is loaded automatically and says how to work here. `skills/` is loaded on demand
+and gives step-by-step procedures, so the detail costs nothing until it is relevant. Skills
+are auto-discovered, which is why "make the agent know about X" is a skill rather than a new
+agent.
 
 ## Steering vs. `PROJECT-NOTES.md`
 
@@ -30,8 +38,15 @@ bash:
 ```
 
 `block-destructive.sh` blocks `reset --hard`, `clean -f`, force push, `branch -D`, recursive
-deletes, writes into `content/` (that is the vault submodule — edits belong in the vault repo),
-and `git submodule deinit`.
+deletes, **shell commands** that write into `content/` (that is the vault submodule — edits
+belong in the vault repo), and `git submodule deinit`. `block-secrets.sh` blocks key material
+and credential patterns, since this repository is public and deployment uses the workflow's
+built-in `GITHUB_TOKEN`.
+
+Note the precise scope: both hooks are registered for the `shell` matcher, so they inspect
+commands, not tool payloads. `site-builder` cannot edit files at all — its `tools` list is
+`read, grep, glob, shell` with no `write`, and that tool restriction, not the hook, is the
+hard guarantee.
 
 ## Note on the vault's own `.kiro`
 
