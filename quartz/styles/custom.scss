@@ -21,3 +21,24 @@ pre[data-language="dataview"] {
 // NOTE: flashcards used to be hidden here. They are now rewritten into
 // collapsible callouts at build time by plugins/flashcards, so they are real
 // content again and no longer need hiding.
+
+// Empty section headings.
+//
+// The house format in Meta/Vault Standard.md requires concept notes to carry
+// "## Kopplat till" and "## Flashcards", so a note with nothing to put there
+// still keeps the heading. That is correct in the vault: it stays uniform and the
+// heading acts as a prompt to fill in later. On the published page, though, a
+// heading with no content underneath is just noise.
+//
+// An empty section is one whose heading is immediately followed by the next
+// heading, or one that ends the article. Verified against the built HTML: a filled
+// "Kopplat till" is followed by <ul> and a filled "Flashcards" by
+// <blockquote class="callout question">, so neither selector matches those.
+article {
+  h2:has(+ h2),
+  h3:has(+ h2),
+  h2:last-child,
+  h3:last-child {
+    display: none;
+  }
+}

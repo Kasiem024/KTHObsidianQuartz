@@ -5,9 +5,9 @@ import { componentRegistry } from "./quartz/components/registry"
  * Sort the explorer so KTH terms read chronologically.
  *
  * Term folders are named "2024 Vår" / "2025 Höst". Sorted as plain text, "Höst"
- * (autumn) lands before "Vår" (spring) because H < V, which is backwards: the
- * spring term comes first in a calendar year. This sorts by (year, season)
- * instead, newest year first so current studies sit at the top.
+ * (autumn) lands before "Vår" (spring) because H < V, which is wrong within a year.
+ * This sorts by (year, season) fully reverse-chronologically, newest term first, so
+ * the term currently being studied is always at the top of the explorer.
  *
  * IMPORTANT: the explorer serialises this function with `sortFn.toString()` and
  * rebuilds it in the browser, so it MUST be entirely self-contained. Anything
@@ -37,7 +37,7 @@ const sortFn = (a: any, b: any): number => {
     if (yearA !== yearB) return yearB - yearA // newest year first
     const seasonA = mA[2] === "Höst" ? 1 : 0
     const seasonB = mB[2] === "Höst" ? 1 : 0
-    return seasonA - seasonB // Vår before Höst
+    return seasonB - seasonA // Höst before Vår, so the ordering is reverse-chronological throughout
   }
   if (mA && !mB) return -1
   if (!mA && mB) return 1

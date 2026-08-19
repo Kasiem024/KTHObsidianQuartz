@@ -151,8 +151,11 @@ plugins:
     enabled: true
     options: {}
     order: 45
+  # Nothing in this vault is encrypted, and there is no custom domain: the site is
+  # served from a github.io subpath, so a CNAME file would be wrong. Both off to
+  # keep the build honest about what it actually does.
   - source: "@quartz-community/encrypted-pages"
-    enabled: true
+    enabled: false
     options:
       iterations: 600000
       passwordField: password
@@ -176,7 +179,7 @@ plugins:
   - source: "@quartz-community/og-image"
     enabled: true
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
@@ -218,8 +221,10 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+  # Tag pages were already being generated but tags never appeared on the notes
+  # themselves, so the taxonomy was unreachable from a page you were reading.
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -260,13 +265,23 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Vault på GitHub: https://github.com/Kasiem024/KTHObisidan
+        Sidans källkod: https://github.com/Kasiem024/KTHObsidianQuartz
+        Byggd med Quartz: https://quartz.jzhao.xyz/
     layout:
       position: footer
       priority: 50
+  # Active study vault, so a recent-changes list is genuinely useful. Sorted by
+  # the frontmatter `updated` date, which every study note carries.
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      title: Senast uppdaterat
+      limit: 6
+      showTags: false
+    layout:
+      position: right
+      priority: 40
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
