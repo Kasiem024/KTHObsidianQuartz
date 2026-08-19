@@ -4,40 +4,43 @@ import { componentRegistry } from "./quartz/components/registry"
 /**
  * Sort the explorer so KTH terms read chronologically.
  *
- * Term folders are named "2024 Vår" / "2025 Höst". Sorting them as plain text
- * puts "Höst" (autumn) before "Vår" (spring) because H < V, which is backwards:
- * the spring term comes first in a calendar year. This sorts by (year, season)
+ * Term folders are named "2024 Vår" / "2025 Höst". Sorted as plain text, "Höst"
+ * (autumn) lands before "Vår" (spring) because H < V, which is backwards: the
+ * spring term comes first in a calendar year. This sorts by (year, season)
  * instead, newest year first so current studies sit at the top.
  *
- * Anything that is not a term folder keeps the default behaviour: folders before
- * files, then alphabetical with Swedish collation so å/ä/ö sort after z.
+ * IMPORTANT: the explorer serialises this function with `sortFn.toString()` and
+ * rebuilds it in the browser, so it MUST be entirely self-contained. Anything
+ * referenced from an enclosing scope would be undefined at runtime. That is why
+ * the regex and the season table are declared inside the function body rather
+ * than hoisted out.
  *
- * NOTE: the docs show importing from "./.quartz/plugins", but that barrel is only
- * generated for git-installed plugins. These plugins come from npm, so we talk to
- * the component registry directly. This must run before loadQuartzConfig().
+ * Note also that the docs show importing from "./.quartz/plugins", but that barrel
+ * is only generated for git-installed plugins. These come from npm, so options are
+ * registered directly with the component registry, before loadQuartzConfig().
  */
-const TERM = /^(\d{4})\s+(Vår|Höst)$/
-const SEASON_ORDER: Record<string, number> = { Vår: 0, Höst: 1 }
-
-function termKey(name: string): [number, number] | null {
-  const m = name.match(TERM)
-  if (!m) return null
-  return [parseInt(m[1], 10), SEASON_ORDER[m[2]] ?? 0]
-}
-
 const sortFn = (a: any, b: any): number => {
-  const nameA: string = a?.displayName ?? a?.name ?? ""
-  const nameB: string = b?.displayName ?? b?.name ?? ""
+  const termRe = /^(\d{4})\s+(Vår|Höst)$/
 
-  const ka = termKey(nameA)
-  const kb = termKey(nameB)
+  const nameA: string = String(a?.displayName ?? a?.name ?? "")
+  const nameB: string = String(b?.displayName ?? b?.name ?? "")
 
-  if (ka && kb) {
-    if (ka[0] !== kb[0]) return kb[0] - ka[0] // newest year first
-    return ka[1] - kb[1] // Vår before Höst
+  // Matched inline rather than via a helper: esbuild wraps named inner functions
+  // in its __name() helper, which does not exist once this function has been
+  // serialised and rebuilt in the browser.
+  const mA = nameA.match(termRe)
+  const mB = nameB.match(termRe)
+
+  if (mA && mB) {
+    const yearA = parseInt(mA[1], 10)
+    const yearB = parseInt(mB[1], 10)
+    if (yearA !== yearB) return yearB - yearA // newest year first
+    const seasonA = mA[2] === "Höst" ? 1 : 0
+    const seasonB = mB[2] === "Höst" ? 1 : 0
+    return seasonA - seasonB // Vår before Höst
   }
-  if (ka && !kb) return -1
-  if (!ka && kb) return 1
+  if (mA && !mB) return -1
+  if (!mA && mB) return 1
 
   const aFolder = Boolean(a?.isFolder)
   const bFolder = Boolean(b?.isFolder)
