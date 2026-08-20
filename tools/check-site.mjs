@@ -209,7 +209,30 @@ if (problems.length > 0) {
   for (const p of problems) console.error(`  - ${p}`)
   console.error("\nIf a change is intentional, re-baseline with:")
   console.error(`  node tools/check-site.mjs ${dir} --update`)
+  printNotChecked()
   process.exit(1)
 }
 
 console.log("\ncheck-site OK")
+printNotChecked()
+
+// A pass means "nothing was found by the checks that ran" - never "the site is good".
+// Printing the blind spots every run stops a green result being over-read. This exists
+// because a "0 pages leak flashcard syntax" claim was true for weeks while 34 pages leaked:
+// the check only inspected pages containing id="flashcards", and never said so.
+function printNotChecked() {
+  console.log(`
+NOT CHECKED by this script - a pass means only that the checks above found nothing:
+  - Visual layout, spacing, or whether anything looks broken.
+  - Mobile rendering. Nothing here opens a browser or a phone.
+  - Whether search finds Swedish terms containing a-ring or umlauts, or course codes.
+  - KaTeX legibility. It counts render *errors*, not whether a formula is readable
+    against the dark-only theme.
+  - Excalidraw readability. It never asks whether a drawing is legible at phone width,
+    only that the page emitted.
+  - Whether a link's target page contains what the link text promises.
+  - Content accuracy. Nothing here reads the Swedish prose.
+  - Page weight and load time on mobile data.
+
+  Those need a person. See MANUAL-CHECK.md - Priority 1 takes about ten minutes.`)
+}

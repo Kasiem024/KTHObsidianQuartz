@@ -39,7 +39,8 @@
   "resources": [
     "file://.kiro/steering/product.md",
     "file://.kiro/steering/conventions.md",
-    "file://.kiro/skills/verify-the-site/SKILL.md",
+    "file://.kiro/traps.md",
+    "skill://.kiro/skills/verify-the-site/SKILL.md",
     "file://PROJECT-NOTES.md"
   ]
 }

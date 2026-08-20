@@ -80,6 +80,13 @@ The baseline comparison is deliberately asymmetric: growth is normal, shrinkage 
 something stopped rendering. That is what would have caught the transformer silently missing
 34 notes. Re-baseline an intentional change with `--update`.
 
+**A pass means "nothing was found by the checks that ran" — never "the site is good".** The
+script prints its own blind spots on every run for that reason. Report what passed, and name
+what you did not look at. The things no script here covers — visual layout, mobile rendering,
+whether search handles `å ä ö`, whether a formula is *legible* rather than merely error-free,
+whether a drawing reads at phone width — are in `MANUAL-CHECK.md`, ordered so Priority 1 takes
+about ten minutes.
+
 When grepping built HTML yourself, strip `<script>`, `<pre>` and `<code>` first — inline
 JavaScript contains `||`, and the Meta docs quote card syntax, both of which otherwise read as
 defects.

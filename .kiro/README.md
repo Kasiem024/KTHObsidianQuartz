@@ -7,9 +7,15 @@ Context for AI agents working on the Quartz site. Modelled on the `.kiro` layout
 |---|---|
 | `steering/product.md` | What the site is, how publishing works |
 | `steering/conventions.md` | Hard rules, traps, and what has already been ruled out |
+| `traps.md` | The seven things that fail **silently** while the build exits 0 |
+| `lessons-learned.md` | Where a miss becomes a new check |
 | `skills/verify-the-site/` | How to build and verify — the submodule trap, `check-site.mjs`, the baseline |
+| `settings/lsp.json` | TypeScript language server, for symbol navigation over `quartz.ts`, the plugin and `tools/` |
 | `hooks/*.sh` | `preToolUse` guards — read stdin, `exit 2` blocks |
 | `agents/site-builder.*` | Builds and verifies the output |
+
+See also `MANUAL-CHECK.md` in the repo root: the checks no script here can make, ordered so
+Priority 1 takes about ten minutes.
 
 ## Steering vs. skills
 
