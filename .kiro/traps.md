@@ -88,6 +88,23 @@ sounds identical to a claim about the whole site.
 
 ---
 
+## T8 — A local build is ~18% bigger than the deployed site, and nothing says so
+
+`tools/slim-svg.mjs` is a **post-build** step that exists only as a line in `deploy.yml`
+(`node tools/slim-svg.mjs public 0`). There is no npm script for it, so `npx quartz build`
+never runs it. Every size figure in `PROJECT-NOTES.md` and `.kiro/steering/product.md`
+describes the *deployed* artifact, after slimming.
+
+**What it produced:** a local build measuring 105.5 MB total / 82.8 MB of HTML with a
+6,796 KB heaviest page — which are exactly the "before" numbers in the docs, inviting the
+conclusion that the slimming had stopped working. It had not; it simply had not run.
+
+**What to do:** compare a local build against 105.5 MB / 82.8 MB / 6,796 KB, and only
+compare against ~90 MB / 67.4 MB / 5,203 KB after running `node tools/slim-svg.mjs <dir> 0`
+yourself. Page count and every `check-site.mjs` metric are unaffected either way.
+
+---
+
 ## Keeping this file honest
 
 A trap that no longer reproduces is a **finding against this file**, not against the site.

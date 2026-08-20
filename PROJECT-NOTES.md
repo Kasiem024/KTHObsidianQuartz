@@ -240,15 +240,19 @@ inertness is not later mistaken for a misconfiguration.
 
 | Measure | Count |
 | --- | --- |
-| Notes / PDFs / PNGs / JPGs | 524 / 105 / 84 / 6 |
-| Notes containing math | 79 |
+| Notes / PDFs / PNGs / JPGs | 507 / 105 / 84 / 6 |
+| Notes containing math | 78 |
 | Notes with transclusions | 61 |
-| Notes with tables | 52 |
-| Notes with callouts | 27 |
+| Notes with tables | 51 |
+| Notes with callouts | 26 |
 | Notes with `%%` comments | 18 |
-| Code fences | dataview 145, json 17, c 5, java 1, yaml 1, powershell 1 |
+| Code fences | dataview 141, json 17, c 5, powershell 2, java 1, compressed-json 1, text 1 |
 
-Syntax highlighting is therefore near-unused: 145 of the ~170 fenced blocks are Dataview,
+Measured 2026-08-20 over the 507 notes in publish scope — excludes `Meta/`, `.kiro/`,
+`Litteraturlista/`, `*.opt.md`, `*.ai.md` and the course template. The vault holds 539
+`.md` files in total; the difference is what `ignorePatterns` drops.
+
+Syntax highlighting is therefore near-unused: 141 of the 168 fenced blocks are Dataview,
 which is hidden anyway.
 
 ### Folder pages already replace the hidden Dataview listings
@@ -334,8 +338,13 @@ characters** of coordinate data — freehand geometry, not metadata.
 `tools/slim-svg.mjs` runs after the build and rounds coordinates in the large inline SVGs
 to integers. `deploy.yml` runs it between *Build Quartz* and *Upload artifact*.
 
-**Measured result: HTML 82.3 MB → 67.4 MB (18.1%), whole site ~105 MB → ~90 MB.** The
+**Measured result: HTML 82.8 MB → 67.4 MB (18.1%), whole site 105.5 MB → ~90 MB.** The
 heaviest page drops from 6,796 KB to 5,203 KB.
+
+**These are two different artifacts.** A plain `npx quartz build` does *not* run the slimmer —
+it is a step in `deploy.yml`, with no npm script — so a local build measures 105.5 MB / 82.8 MB
+with a 6,796 KB heaviest page. Those are the "before" figures, not a regression. Re-measured
+2026-08-20; see trap T8.
 
 Worth being honest that this was expected to save 40–50% and does not. The coordinates
 average only 3.36 decimal places, so most numbers were already short and the 17-decimal

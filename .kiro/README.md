@@ -7,7 +7,7 @@ Context for AI agents working on the Quartz site. Modelled on the `.kiro` layout
 |---|---|
 | `steering/product.md` | What the site is, how publishing works |
 | `steering/conventions.md` | Hard rules, traps, and what has already been ruled out |
-| `traps.md` | The seven things that fail **silently** while the build exits 0 |
+| `traps.md` | The eight things that fail **silently** while the build exits 0 |
 | `lessons-learned.md` | Where a miss becomes a new check |
 | `skills/verify-the-site/` | How to build and verify — the submodule trap, `check-site.mjs`, the baseline |
 | `settings/lsp.json` | TypeScript language server, for symbol navigation over `quartz.ts`, the plugin and `tools/` |
