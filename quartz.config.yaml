@@ -78,7 +78,7 @@ plugins:
     options:
       theme:
         light: github-light
-        dark: github-dark
+        dark: tokyo-night
       keepBackground: false
     order: 20
   # Local transformer: rewrites spaced-repetition cards into collapsible callouts.
@@ -146,8 +146,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: hackthebox
-      mode: dark
+      theme: tokyo-night
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -238,10 +237,9 @@ plugins:
     layout:
       position: left
       priority: 10
-  # hackthebox is a dark-only theme, so the light/dark toggle has nothing to
-  # switch to. Re-enable this if you move to a theme that supports both modes.
+  # Tokyo Night supports both light and dark modes.
   - source: "@quartz-community/darkmode"
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 30
