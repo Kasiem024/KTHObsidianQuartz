@@ -1,11 +1,11 @@
 {
-  "pages": 601,
-  "pagesWithCallouts": 353,
-  "questionCallouts": 1965,
+  "pages": 1270,
+  "pagesWithCallouts": 442,
+  "questionCallouts": 2476,
   "images": 183,
   "imagesWithoutAlt": 0,
   "katexErrorPages": 0,
   "cardLeakPages": 0,
-  "internalLinks": 35373,
-  "brokenInternalLinks": 43
+  "internalLinks": 40905,
+  "brokenInternalLinks": 87
 }
