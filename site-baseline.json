@@ -7,18 +7,18 @@
   "katexErrorPages": 0,
   "cardLeakPages": 0,
   "internalLinks": 40892,
-  "brokenInternalLinks": 87,
+  "brokenInternalLinks": 85,
   "_meta": {
-    "generatedAt": "2026-08-26T10:55:25.954Z",
-    "sourceDir": "a clean local build (empty output dir, 693 pages written over 5s)",
+    "generatedAt": "2026-08-26T12:15:00Z",
+    "sourceDir": "a clean local build, cross-checked line by line against a CI run log",
     "htmlFiles": 693,
-    "writeSpanSeconds": 5,
+    "redirectStubs": 0,
     "forced": false,
     "notes": [
-      "Set per metric by which direction each check fails in, because a local Windows build and the CI Linux build disagree on 'pages' (693 vs 1270) for reasons not yet understood.",
-      "pages / callouts / images / internalLinks fail on a DROP over 5%, so the LOWER of the two builds is the safe ceiling - these come from the local build.",
-      "brokenInternalLinks fails on ANY RISE, so the HIGHER of the two is safe: 87 from the CI log (F58), not the local build's 85. Setting 85 would turn CI red the moment it reported 87.",
-      "Before changing any number here, read F58 in the vault backlog and check a CI run log."
+      "Every metric here is now identical between a local Windows build and the Linux CI build. Confirmed against the deploy.yml log for vault e098001: 442 / 2476 / 183 / 0 / 0 / 0 / 40892 / 85 matched exactly.",
+      "'pages' counts DISTINCT CASE-INSENSITIVE routes, not raw .html files. Quartz emits a redirect stub at each note's original-cased path beside the lowercase slug; Linux keeps both (1269 files), Windows collapses each pair (693 files). CI's own listing: 1269 raw = 576 mixed-case stubs + 693 real pages.",
+      "That is why an earlier baseline of 1270 looked unreproducible locally and why 693 looked like a 45% drop in CI. Both numbers were correct measurements of different things.",
+      "brokenInternalLinks 85 is CI's own figure and matches local exactly. It is a ceiling that must never rise; the links are overwhelmingly into deliberately-unpublished Litteraturlista PDFs."
     ]
   }
 }

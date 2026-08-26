@@ -319,10 +319,11 @@ Two kinds of check, and the second is the important one:
 
 The current baseline is 693 pages, 442 with callouts, 2476 callouts, 183 images, 40892
 internal links. It records `_meta` — when it was taken, from which directory, and over how
-many seconds the pages were written — because a local build and the CI build disagree on this
-number (693 vs 1270) and there was previously no way to tell which one a baseline came from.
+many seconds the pages were written. `pages` counts **distinct case-insensitive routes**, not raw
+`.html` files: Quartz emits a 448-byte original-case redirect stub per note, so CI's artifact holds
+1269 files (576 stubs + 693 pages) where a Windows build holds 693. Both now report 693.
 
-**`brokenInternalLinks` is baselined at 87, not 0.** Almost all are links into PDFs, and Quartz
+**`brokenInternalLinks` is baselined at 85, not 0.** Almost all are links into PDFs, and Quartz
 emits **no** PDFs at all — the course literature is copyrighted and deliberately unpublished.
 So those links work in Obsidian and are dead on the public site. The check fails if the count
 *rises*, which catches genuinely new breakage without demanding the accepted dead links be fixed. (Went 43 → 85 on 2026-08-26 as the vault gained 92 notes; one of the 85 is the MOC link to the unpublished degree project.)

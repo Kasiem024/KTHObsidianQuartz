@@ -77,6 +77,22 @@ if (looksStale) {
   console.error(`    rm -r ${dir} && npx quartz build -o ${dir}`)
 }
 
+// Distinct pages, counted case-insensitively - NOT the raw number of .html files.
+//
+// Quartz emits a 448-byte redirect stub at each note's ORIGINAL-cased path
+// (`KTH/2026-Höst/.../Replikering.html`, meta-refresh + rel=canonical + robots:noindex)
+// pointing at the lowercase slug it serves from. On Linux both files exist. On a
+// case-insensitive filesystem (Windows, usually macOS) each pair collapses into a single
+// file, so a raw count reads 693 here against CI's 1269 - a 45% gap that silently disabled
+// the drop check for this metric and made the local build useless as a gate.
+//
+// Verified against a real CI artifact listing: 1269 raw paths, of which 576 are mixed-case
+// stubs, every one with a lowercase twin, leaving exactly 693 - the local figure. Counting
+// distinct lowercase routes makes this reproducible on either platform, so a baseline taken
+// locally is valid. Every other metric was already identical between the two builds.
+const distinctRoutes = new Set(files.map((f) => f.toLowerCase())).size
+const redirectStubs = files.length - distinctRoutes
+
 // Every route the site actually serves. This must include non-HTML assets (images, feeds)
 // or every link to one is reported as broken. Note that PDFs are deliberately not
 // published, so links into them are genuinely dead on the public site - that is a real
@@ -91,7 +107,7 @@ for (const f of files) {
 }
 
 const m = {
-  pages: files.length,
+  pages: distinctRoutes,
   pagesWithCallouts: 0,
   questionCallouts: 0,
   images: 0,
@@ -181,6 +197,11 @@ for (const rel of files) {
 
 // ---------- report ----------
 console.log(`check-site: ${dir}`)
+if (redirectStubs > 0) {
+  console.log(
+    `  (${files.length} html files, ${redirectStubs} of them original-case redirect stubs)`,
+  )
+}
 for (const [k, v] of Object.entries(m)) console.log(`  ${k.padEnd(22)} ${v}`)
 
 // Broken links are worth seeing even when the run passes, so they do not quietly
@@ -204,6 +225,7 @@ if (update) {
     generatedAt: new Date().toISOString(),
     sourceDir: dir,
     htmlFiles: files.length,
+    redirectStubs,
     writeSpanSeconds: spanSeconds,
     forced: Boolean(force),
   }

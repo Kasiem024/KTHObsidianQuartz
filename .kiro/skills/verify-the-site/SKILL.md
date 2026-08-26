@@ -41,15 +41,16 @@ The baseline comparison is **asymmetric on purpose**: counts may grow freely, bu
 5% fails. Growth is you adding notes; shrinkage means something stopped rendering. That is
 what would have caught the transformer silently missing 34 notes.
 
-`brokenInternalLinks` is baselined at **87**, not 0 — almost all point into PDFs and Quartz emits
+`brokenInternalLinks` is baselined at **85**, not 0 — almost all point into PDFs and Quartz emits
 no PDFs, because the course literature is copyrighted and deliberately unpublished. One is the
 MOC link to the degree project, which is deliberately unpublished until examined. The check
 fails only if the count rises.
 
 **Always build into an empty directory.** `check-site.mjs` refuses `--update` when the pages
 were written over more than 300 seconds, because that means the directory holds output from two
-builds and every count is inflated. Separately: the ceiling for `brokenInternalLinks` is 87 from
-the CI log, not the 85 a local Windows build reports, because that metric fails on any rise.
+builds and every count is inflated. Separately: `pages` counts distinct case-insensitive routes,
+not raw `.html` files, because Quartz emits an original-case redirect stub per note - 1269 files
+on Linux, 693 on Windows, 693 routes on both.
 
 Re-baseline a deliberate change: `node tools/check-site.mjs public --update`, and say in the
 commit why the numbers moved.

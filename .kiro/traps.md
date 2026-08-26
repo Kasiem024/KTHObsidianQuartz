@@ -71,7 +71,7 @@ The build produces zero `.pdf` files. The course literature is copyrighted and d
 unpublished, so wikilinks pointing at PDFs resolve in Obsidian and are dead on the site.
 
 **What it produced:** **43** broken internal links, invisible until `check-site.mjs` resolved
-hrefs against the emitted routes. They are baselined at 87, so the check fails only if the
+hrefs against the emitted routes. They are baselined at 85, so the check fails only if the
 count rises.
 
 ## T7 — Grepping built HTML without stripping `<script>`, `<pre>` and `<code>` reports false defects
@@ -102,6 +102,28 @@ conclusion that the slimming had stopped working. It had not; it simply had not 
 **What to do:** compare a local build against 105.5 MB / 82.8 MB / 6,796 KB, and only
 compare against ~90 MB / 67.4 MB / 5,203 KB after running `node tools/slim-svg.mjs <dir> 0`
 yourself. Page count and every `check-site.mjs` metric are unaffected either way.
+
+---
+
+## T9 - A Windows build emits 693 HTML files where CI emits 1269, and both are correct
+
+Quartz emits a 448-byte redirect stub at each note's **original-cased** path
+(`KTH/2026-Höst/HI1031-.../Replikering.html`) containing `meta http-equiv="refresh"`,
+`rel=canonical` and `robots: noindex`, pointing at the lowercase slug it actually serves.
+
+Linux keeps both files. **NTFS is case-insensitive, so each pair collapses into one.** CI's own
+artifact listing: 1269 HTML = **576 mixed-case stubs + 693 real pages**. A Windows build cannot
+produce 1269 and CI cannot produce 693.
+
+This cost three attempts to diagnose. A baseline of 1270 was taken from a CI log, "corrected" to
+693 from a local build, and each looked like a 45% regression from the other side.
+
+**What to do:** nothing, as long as you leave the metric alone. `check-site.mjs` counts
+**distinct case-insensitive routes**, so both platforms report `pages 693` and a locally-taken
+baseline is valid. If you ever change that expression back to `files.length`, the local build
+becomes permanently red against CI. The stubs contribute no callouts, images or `<a>` links,
+which is why every other metric already matched exactly - including `brokenInternalLinks`, 85 on
+both.
 
 ---
 
