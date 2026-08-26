@@ -135,7 +135,7 @@ Two edge cases the vault actually contains, both handled:
   question renders as plain text and the dangling separator is dropped. These are a content
   gap in the vault, not a rendering bug.
 
-Current state: **353 pages render callouts, 1,965 callouts total, 0 pages showing raw card
+Current state: **442 pages render callouts, 2,476 callouts total, 0 pages showing raw card
 syntax.** When checking that last figure, strip `<script>`, `<pre>` and `<code>` first —
 inline JavaScript contains `||` and the vault's Meta docs quote card syntax.
 
@@ -317,13 +317,13 @@ Two kinds of check, and the second is the important one:
    ~1,280 cards, and no named check would have found it, but a callout count falling off a
    cliff is unmistakable.
 
-The current baseline is 601 pages, 353 with callouts, 1965 callouts, 183 images, 35373
+The current baseline is 1270 pages, 442 with callouts, 2476 callouts, 183 images, 40905
 internal links.
 
-**`brokenInternalLinks` is baselined at 43, not 0.** All 43 are links into PDFs, and Quartz
+**`brokenInternalLinks` is baselined at 87, not 0.** Almost all are links into PDFs, and Quartz
 emits **no** PDFs at all — the course literature is copyrighted and deliberately unpublished.
 So those links work in Obsidian and are dead on the public site. The check fails if the count
-*rises*, which catches genuinely new breakage without demanding the accepted 43 be fixed.
+*rises*, which catches genuinely new breakage without demanding the accepted dead links be fixed. (Re-baselined from 43 to 87 on 2026-08-26 as the vault roughly doubled; see vault backlog F58.)
 
 When grepping built HTML for defects, strip `<script>`, `<pre>` and `<code>` first: inline
 JavaScript contains `||` and the vault's Meta docs quote card syntax. Skipping that step once

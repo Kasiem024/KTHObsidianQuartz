@@ -19,6 +19,11 @@ configuration:
     - .kiro
     - Meta
     - "**/Litteraturlista/**"
+    # Third-party course material from Canvas: KTH templates, grading criteria and other
+    # students' example theses. Gitignored in the vault, so a deployed build never sees it
+    # anyway - this line keeps a LOCAL build (-d pointing at the working tree) identical to
+    # what actually ships.
+    - "**/Filer/Canvas/**"
     - "**/*.ai.md"
     - "**/*.opt.md"
     # Course PDFs: scanned textbook chapters and lecturer slide decks live here
