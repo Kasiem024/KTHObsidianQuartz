@@ -53,6 +53,13 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install --from-config
+      # Proves what `check-site.mjs` counts as a "page" still holds. ~0.1s, no build needed,
+      # so it fails fast. Guards a specific mistake: `pages` was once a raw .html count, which
+      # reads 693 on Windows and 1269 here for the same site, because Quartz emits an
+      # original-case redirect stub per note and NTFS collapses each pair. A baseline taken on
+      # either machine then looked like a 45% regression on the other. See .kiro/traps.md T9.
+      - name: Test what check-site counts
+        run: node tools/test-check-site.mjs
       - name: Build Quartz
         run: npx quartz build
       # The Excalidraw pages are the heaviest thing published (4-6.8 MB each). This

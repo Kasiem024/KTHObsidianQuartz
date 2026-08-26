@@ -323,6 +323,14 @@ many seconds the pages were written. `pages` counts **distinct case-insensitive 
 `.html` files: Quartz emits a 448-byte original-case redirect stub per note, so CI's artifact holds
 1269 files (576 stubs + 693 pages) where a Windows build holds 693. Both now report 693.
 
+`pages` counts **distinct case-insensitive routes**, not raw `.html` files, and every
+metric's unit is declared in `tools/lib/page-count.mjs`. `node tools/test-check-site.mjs`
+(22 assertions, runs in CI) proves both platforms agree and fails if a baselined metric has no
+declared unit. Every build writes `build-report.json` into its output, so the deployed site
+publishes CI's own numbers at `/build-report.json`; `node tools/check-site.mjs <dir>
+--compare-ci` diffs a local build against it and names anything that is not
+machine-independent.
+
 **`brokenInternalLinks` is baselined at 85, not 0.** Almost all are links into PDFs, and Quartz
 emits **no** PDFs at all — the course literature is copyrighted and deliberately unpublished.
 So those links work in Obsidian and are dead on the public site. The check fails if the count

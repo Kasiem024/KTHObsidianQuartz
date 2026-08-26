@@ -83,8 +83,21 @@ CI counts KaTeX *errors*. It cannot tell whether a formula is readable.
 - [ ] 🖥️ **Recent notes** in the left sidebar reflects what you actually edited last.
 - [ ] 🖥️ **A dead PDF link**: open `Instuderingsfrågor KS2 CM1005` and click the
       `KS2 Exempel` link. It 404s — expected, because PDFs are deliberately unpublished.
-      There are **43** of these. Decide whether that bothers you; if it does, the fix is to
+      There are **85** of these. Decide whether that bothers you; if it does, the fix is to
       unlink them rather than publish copyrighted material.
+- [ ] 🖥️ **The deployed build's own numbers**: open
+      <https://kasiem024.github.io/KTHObsidianQuartz/build-report.json>. Every build writes
+      it, so CI's measurements are readable without a GitHub login, the `gh` CLI or an API
+      token. Compare it against your machine with one command:
+
+      ```
+      node tools/check-site.mjs <your build dir> --compare-ci
+      ```
+
+      Any metric it reports as `DIFF` is a metric that is **not machine-independent**, which
+      is the one failure that cost a whole day: `pages` differed by 45% between Windows and
+      Linux and both numbers were honest. If that happens, fix what the metric *counts* in
+      `tools/lib/page-count.mjs` — never settle it by picking one of the two numbers.
 - [ ] 📓 **Dashboard** and **Vault Health Report** still render inside Obsidian. Both are
       Dataview-only and deliberately excluded from the site. The Health Report's sections
       should be empty — a non-empty section is a real conformance failure the audit may not

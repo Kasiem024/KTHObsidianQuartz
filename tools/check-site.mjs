@@ -14,15 +14,19 @@
 // Usage:
 //   node tools/check-site.mjs [dir]            check (default dir: public)
 //   node tools/check-site.mjs [dir] --update   accept current numbers as the new baseline
+//   node tools/check-site.mjs [dir] --compare-ci   diff this build against the DEPLOYED one,
+//                                                  to prove a metric is machine-independent
 //
 // No dependencies, single pass, ~2 s over 600 pages.
 
 import { readdirSync, readFileSync, writeFileSync, existsSync, statSync } from "node:fs"
 import { join, dirname, posix } from "node:path"
+import { countPages, METRIC_UNITS } from "./lib/page-count.mjs"
 
 const args = process.argv.slice(2)
 const update = args.includes("--update")
 const force = args.includes("--force")
+const compareCi = args.includes("--compare-ci")
 const dir = args.find((a) => !a.startsWith("--")) ?? "public"
 const baselineFile = "site-baseline.json"
 
@@ -90,8 +94,7 @@ if (looksStale) {
 // stubs, every one with a lowercase twin, leaving exactly 693 - the local figure. Counting
 // distinct lowercase routes makes this reproducible on either platform, so a baseline taken
 // locally is valid. Every other metric was already identical between the two builds.
-const distinctRoutes = new Set(files.map((f) => f.toLowerCase())).size
-const redirectStubs = files.length - distinctRoutes
+const { pages: distinctRoutes, redirectStubs } = countPages(files)
 
 // Every route the site actually serves. This must include non-HTML assets (images, feeds)
 // or every link to one is reported as broken. Note that PDFs are deliberately not
@@ -211,6 +214,71 @@ if (m.brokenInternalLinks > 0) {
   for (const s of detail.broken) console.log(`    ${s}`)
 }
 
+// Publish the numbers this run measured, INSIDE the output directory, so CI's own figures
+// end up deployed at /build-report.json and are readable by anyone with no GitHub login, no
+// `gh` CLI and no API token.
+//
+// This exists because the opposite cost a day. When a local build disagreed with CI, the run
+// log needed `actions:read`, the artifact needed auth, and the anonymous API rate-limited at
+// 60/hour - so four hypotheses were tested against local data alone and none of them
+// converged. One log settled it in minutes. Machine-readable, so `--compare-ci` can diff it.
+const report = {
+  generatedAt: new Date().toISOString(),
+  platform: `${process.platform} node ${process.versions.node}`,
+  caseSensitiveFilesystem: redirectStubs > 0 || undefined,
+  rawHtmlFiles: files.length,
+  redirectStubs,
+  metrics: m,
+  units: METRIC_UNITS,
+}
+try {
+  writeFileSync(join(dir, "build-report.json"), `${JSON.stringify(report, null, 2)}\n`)
+} catch (err) {
+  console.error(`  (could not write build-report.json: ${err.message})`)
+}
+
+// Compare this run against the DEPLOYED build's own report. Any metric that differs is a
+// metric that is not machine-independent - which is the failure this whole mechanism exists
+// to catch, because `pages` was exactly that and nothing noticed for weeks.
+if (compareCi) {
+  const cfg = existsSync("quartz.config.yaml") ? readFileSync("quartz.config.yaml", "utf8") : ""
+  const base = cfg.match(/^\s*baseUrl:\s*["']?([^"'\s]+)/m)?.[1]
+  if (!base) {
+    console.error("\ncheck-site: --compare-ci needs baseUrl in quartz.config.yaml.")
+    process.exit(1)
+  }
+  const url = `https://${base.replace(/\/$/, "")}/build-report.json`
+  console.log(`\ncomparing against the deployed build:\n  ${url}`)
+  let live
+  try {
+    const res = await fetch(url, { signal: AbortSignal.timeout(30000) })
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    live = await res.json()
+  } catch (err) {
+    console.error(`\ncheck-site: could not fetch the deployed report (${err.message}).`)
+    console.error("  If the site has not deployed since this feature was added, that is expected.")
+    process.exit(1)
+  }
+  console.log(`  deployed ${live.generatedAt} on ${live.platform}`)
+  console.log(`  local    ${report.generatedAt} on ${report.platform}\n`)
+  const differing = []
+  for (const [k, v] of Object.entries(m)) {
+    const there = live.metrics?.[k]
+    const same = there === v
+    if (!same) differing.push(`${k}: local ${v} vs deployed ${there}`)
+    console.log(`  ${same ? "ok  " : "DIFF"}  ${k.padEnd(22)} local ${String(v).padEnd(7)} deployed ${there}`)
+  }
+  if (differing.length > 0) {
+    console.error("\ncheck-site: these metrics are NOT machine-independent:")
+    for (const d of differing) console.error(`  - ${d}`)
+    console.error("\nA metric that differs by platform cannot be baselined from either side.")
+    console.error("Fix what it COUNTS (see tools/lib/page-count.mjs), do not pick a number.")
+    process.exit(1)
+  }
+  console.log("\ncheck-site: every metric matches the deployed build")
+  process.exit(0)
+}
+
 if (update) {
   // Refuse to record a baseline from a directory that looks like two builds stacked on top
   // of each other. This is the exact mistake that broke the gate once already.
@@ -280,6 +348,11 @@ if (problems.length > 0) {
   for (const p of problems) console.error(`  - ${p}`)
   console.error("\nIf a change is intentional, re-baseline with:")
   console.error(`  node tools/check-site.mjs ${dir} --update`)
+  // The trap this points at: a count can differ between YOUR machine and CI without either
+  // being wrong. `pages` did, by 45%, because of case-collapsed redirect stubs. Never resolve
+  // such a disagreement by picking a number - find out what the metric counts.
+  console.error("\nIf this only fails on one machine, compare against the deployed build first:")
+  console.error(`  node tools/check-site.mjs ${dir} --compare-ci`)
   printNotChecked()
   process.exit(1)
 }

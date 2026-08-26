@@ -52,6 +52,18 @@ builds and every count is inflated. Separately: `pages` counts distinct case-ins
 not raw `.html` files, because Quartz emits an original-case redirect stub per note - 1269 files
 on Linux, 693 on Windows, 693 routes on both.
 
+**If a count disagrees with CI, do not pick a number.** Every build publishes its own
+measurements, so run:
+
+```
+node tools/check-site.mjs <dir> --compare-ci
+```
+
+It fetches `/build-report.json` from the deployed site and exits 1 naming any metric that is not
+machine-independent. Then fix what the metric *counts* in `tools/lib/page-count.mjs`, and add an
+assertion to `tools/test-check-site.mjs` so it cannot regress. That test runs in CI on every
+push and fails if a baselined metric has no declared unit.
+
 Re-baseline a deliberate change: `node tools/check-site.mjs public --update`, and say in the
 commit why the numbers moved.
 

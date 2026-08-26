@@ -125,6 +125,23 @@ becomes permanently red against CI. The stubs contribute no callouts, images or 
 which is why every other metric already matched exactly - including `brokenInternalLinks`, 85 on
 both.
 
+**Three mechanisms now stop this recurring, none of which need an agent:**
+
+1. `node tools/test-check-site.mjs` - 22 assertions over a fixture that reproduces the Linux
+   shape, including the invariant that both platforms agree on `pages`. Reverting the
+   expression to a raw count fails 5 of them by name. Runs in CI on every push, ~0.1s.
+2. Every build writes `build-report.json` into its output, so the deployed site publishes CI's
+   own measurements at `/build-report.json` - no login, no `gh`, no token. Diagnosing this
+   originally required a run log that needs `actions:read`; the anonymous API rate-limits at
+   60/hour and artifacts return 403.
+3. `node tools/check-site.mjs <dir> --compare-ci` diffs your build against that published
+   report and exits 1 naming any metric that differs. `check-site` also prints this command
+   whenever a baseline comparison fails, so the next person finds it without reading this file.
+
+**The rule:** when two measurements disagree, establish **what each one counts** before changing
+either. Every metric's unit is declared in `tools/lib/page-count.mjs` (`METRIC_UNITS`) and
+published in `build-report.json`; the test fails if a baselined metric has no declared unit.
+
 ---
 
 ## Keeping this file honest
