@@ -46,21 +46,31 @@ if (files.length === 0) {
   process.exit(1)
 }
 
-// A single Quartz build writes every page within a few seconds. A wide spread of
-// modification times means this directory holds output from MORE THAN ONE build - stale
-// pages from an earlier run that the current one did not overwrite. Counting those inflates
-// every metric, so a baseline taken from such a directory silently poisons the gate. This
-// guard is precautionary: it has not yet caused a real failure here, but nothing else would
-// notice, and the baseline is the one number the deploy depends on.
+// A single Quartz build writes every page within a few seconds. Pages much OLDER than the
+// rest mean this directory holds output from MORE THAN ONE build - stale pages from an
+// earlier run that the current one did not overwrite. Counting those inflates every metric,
+// so a baseline taken from such a directory silently poisons the gate. This guard is
+// precautionary: it has not yet caused a real failure here, but nothing else would notice,
+// and the baseline is the one number the deploy depends on.
+//
+// Measured against the MEDIAN, and requiring a MINORITY SHARE to be old. A plain
+// max-minus-min span gave a false warning on a perfectly clean build, because deploy.yml
+// runs slim-svg.mjs between the build and this check: it rewrites ~17 Excalidraw pages and
+// so pushes the newest mtime minutes past the oldest. Only files that are old relative to
+// the bulk are evidence of a second build.
 const mtimes = files.map((f) => statSync(join(dir, f)).mtimeMs)
-const spanSeconds = Math.round((Math.max(...mtimes) - Math.min(...mtimes)) / 1000)
+const sortedMtimes = [...mtimes].sort((a, b) => a - b)
+const medianMtime = sortedMtimes[Math.floor(sortedMtimes.length / 2)]
 const STALE_SPAN_SECONDS = 300
-const looksStale = spanSeconds > STALE_SPAN_SECONDS
+const STALE_SHARE = 0.05
+const staleFiles = mtimes.filter((t) => (medianMtime - t) / 1000 > STALE_SPAN_SECONDS).length
+const spanSeconds = Math.round((Math.max(...mtimes) - Math.min(...mtimes)) / 1000)
+const looksStale = staleFiles > files.length * STALE_SHARE
 
 if (looksStale) {
   console.error(
-    `\ncheck-site: WARNING - the ${files.length} HTML files in '${dir}' were written over ` +
-      `${spanSeconds}s (threshold ${STALE_SPAN_SECONDS}s).`,
+    `\ncheck-site: WARNING - ${staleFiles} of ${files.length} HTML files are more than ` +
+      `${STALE_SPAN_SECONDS}s older than the rest of this directory.`,
   )
   console.error("  That usually means the directory holds output from more than one build.")
   console.error("  Delete it and rebuild before trusting these numbers:")
