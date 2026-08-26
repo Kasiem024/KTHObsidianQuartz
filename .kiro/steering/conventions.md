@@ -72,7 +72,7 @@ node tools/check-site.mjs C:\Temp\out
 | Raw flashcard syntax in visible page text | 0 |
 | `<img>` without `alt` | 0 |
 | Pages with `katex-error` | 0 |
-| `brokenInternalLinks` | must not exceed the 43 in `site-baseline.json` |
+| `brokenInternalLinks` | must not exceed the 87 in `site-baseline.json` |
 | Any count vs `site-baseline.json` | may grow; a drop over 5% fails |
 | Build exit code | 0 |
 

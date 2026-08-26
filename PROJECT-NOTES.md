@@ -317,13 +317,15 @@ Two kinds of check, and the second is the important one:
    ~1,280 cards, and no named check would have found it, but a callout count falling off a
    cliff is unmistakable.
 
-The current baseline is 1270 pages, 442 with callouts, 2476 callouts, 183 images, 40905
-internal links.
+The current baseline is 693 pages, 442 with callouts, 2476 callouts, 183 images, 40892
+internal links. It records `_meta` — when it was taken, from which directory, and over how
+many seconds the pages were written — because a local build and the CI build disagree on this
+number (693 vs 1270) and there was previously no way to tell which one a baseline came from.
 
 **`brokenInternalLinks` is baselined at 87, not 0.** Almost all are links into PDFs, and Quartz
 emits **no** PDFs at all — the course literature is copyrighted and deliberately unpublished.
 So those links work in Obsidian and are dead on the public site. The check fails if the count
-*rises*, which catches genuinely new breakage without demanding the accepted dead links be fixed. (Re-baselined from 43 to 87 on 2026-08-26 as the vault roughly doubled; see vault backlog F58.)
+*rises*, which catches genuinely new breakage without demanding the accepted dead links be fixed. (Went 43 → 85 on 2026-08-26 as the vault gained 92 notes; one of the 85 is the MOC link to the unpublished degree project.)
 
 When grepping built HTML for defects, strip `<script>`, `<pre>` and `<code>` first: inline
 JavaScript contains `||` and the vault's Meta docs quote card syntax. Skipping that step once

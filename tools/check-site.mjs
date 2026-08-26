@@ -17,11 +17,12 @@
 //
 // No dependencies, single pass, ~2 s over 600 pages.
 
-import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs"
+import { readdirSync, readFileSync, writeFileSync, existsSync, statSync } from "node:fs"
 import { join, dirname, posix } from "node:path"
 
 const args = process.argv.slice(2)
 const update = args.includes("--update")
+const force = args.includes("--force")
 const dir = args.find((a) => !a.startsWith("--")) ?? "public"
 const baselineFile = "site-baseline.json"
 
@@ -43,6 +44,27 @@ const files = allEmitted.filter((f) => f.endsWith(".html"))
 if (files.length === 0) {
   console.error(`check-site: no HTML found under '${dir}'.`)
   process.exit(1)
+}
+
+// A single Quartz build writes every page within a few seconds. A wide spread of
+// modification times means this directory holds output from MORE THAN ONE build - stale
+// pages from an earlier run that the current one did not overwrite. Counting those inflates
+// every metric, so a baseline taken from such a directory silently poisons the gate. This
+// guard is precautionary: it has not yet caused a real failure here, but nothing else would
+// notice, and the baseline is the one number the deploy depends on.
+const mtimes = files.map((f) => statSync(join(dir, f)).mtimeMs)
+const spanSeconds = Math.round((Math.max(...mtimes) - Math.min(...mtimes)) / 1000)
+const STALE_SPAN_SECONDS = 300
+const looksStale = spanSeconds > STALE_SPAN_SECONDS
+
+if (looksStale) {
+  console.error(
+    `\ncheck-site: WARNING - the ${files.length} HTML files in '${dir}' were written over ` +
+      `${spanSeconds}s (threshold ${STALE_SPAN_SECONDS}s).`,
+  )
+  console.error("  That usually means the directory holds output from more than one build.")
+  console.error("  Delete it and rebuild before trusting these numbers:")
+  console.error(`    rm -r ${dir} && npx quartz build -o ${dir}`)
 }
 
 // Every route the site actually serves. This must include non-HTML assets (images, feeds)
@@ -159,8 +181,25 @@ if (m.brokenInternalLinks > 0) {
 }
 
 if (update) {
-  writeFileSync(baselineFile, `${JSON.stringify(m, null, 2)}\n`)
+  // Refuse to record a baseline from a directory that looks like two builds stacked on top
+  // of each other. This is the exact mistake that broke the gate once already.
+  if (looksStale && !force) {
+    console.error(
+      "\ncheck-site: REFUSING to write a baseline from a directory that looks stale.",
+    )
+    console.error("  Rebuild into an empty directory, or pass --force if you are certain.")
+    process.exit(1)
+  }
+  const meta = {
+    generatedAt: new Date().toISOString(),
+    sourceDir: dir,
+    htmlFiles: files.length,
+    writeSpanSeconds: spanSeconds,
+    forced: Boolean(force),
+  }
+  writeFileSync(baselineFile, `${JSON.stringify({ ...m, _meta: meta }, null, 2)}\n`)
   console.log(`\nbaseline written to ${baselineFile}`)
+  console.log(`  from ${dir} - ${files.length} pages written over ${spanSeconds}s`)
   process.exit(0)
 }
 

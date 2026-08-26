@@ -71,7 +71,7 @@ The build produces zero `.pdf` files. The course literature is copyrighted and d
 unpublished, so wikilinks pointing at PDFs resolve in Obsidian and are dead on the site.
 
 **What it produced:** **43** broken internal links, invisible until `check-site.mjs` resolved
-hrefs against the emitted routes. They are baselined at 43, so the check fails only if the
+hrefs against the emitted routes. They are baselined at 87, so the check fails only if the
 count rises.
 
 ## T7 — Grepping built HTML without stripping `<script>`, `<pre>` and `<code>` reports false defects

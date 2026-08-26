@@ -24,6 +24,14 @@ configuration:
     # anyway - this line keeps a LOCAL build (-d pointing at the working tree) identical to
     # what actually ships.
     - "**/Filer/Canvas/**"
+    # The degree project stays unpublished until it is examined. A thesis is normally done
+    # for a company, often under confidentiality terms, and publishing drafts of the problem
+    # formulation, method or results on a public site risks both that and the plagiarism
+    # check - your own public draft can flag against your submission. Remove this line after
+    # examination if you want the finished work on the site. Written without Swedish
+    # characters on purpose: a path containing "ö" risks an NFC/NFD mismatch between the
+    # Windows working tree and the Linux CI checkout, which would silently publish it.
+    - "**/HT100X Examensarbete/**"
     - "**/*.ai.md"
     - "**/*.opt.md"
     # Course PDFs: scanned textbook chapters and lecturer slide decks live here
