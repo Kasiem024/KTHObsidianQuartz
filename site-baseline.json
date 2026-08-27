@@ -1,25 +1,25 @@
 {
-  "pages": 652,
-  "pagesWithCallouts": 401,
-  "questionCallouts": 2241,
+  "pages": 648,
+  "pagesWithCallouts": 397,
+  "questionCallouts": 2233,
   "images": 183,
   "imagesWithoutAlt": 0,
   "katexErrorPages": 0,
   "cardLeakPages": 0,
-  "internalLinks": 38428,
-  "brokenInternalLinks": 74,
+  "internalLinks": 38241,
+  "brokenInternalLinks": 44,
   "_meta": {
-    "generatedAt": "2026-08-27T09:37:24.917Z",
-    "sourceDir": "clean local build of the pruned vault working tree (C:\\Temp\\kth-prune-site)",
-    "htmlFiles": 652,
+    "generatedAt": "2026-08-27T11:37:16.317Z",
+    "sourceDir": "C:\\Temp\\kth-consolidate-site",
+    "htmlFiles": 648,
     "redirectStubs": 0,
-    "writeSpanSeconds": 10,
+    "writeSpanSeconds": 5,
     "forced": false,
-    "notes": [
-      "Re-baselined 2026-08-26 after HI1031/HI1032 flashcards were pruned to course-relevant scope (vault backlog F60): 41 published notes removed. pages 693->652, pagesWithCallouts 442->401, questionCallouts 2476->2241, internalLinks 40892->38428, brokenInternalLinks 85->74; cardLeakPages/imagesWithoutAlt/katexErrorPages still 0.",
-      "COORDINATION: this baseline matches the PRUNED vault, so it must go live together with the vault-prune push. Push the vault first, then this repo (or use workflow_dispatch after both). An interim scheduled build of the still-old vault clears the growth checks (higher pages/callouts) but would trip the no-rise check on brokenInternalLinks (85 > 74), so keep the two pushes inside the hourly deploy cadence.",
-      "'pages' counts DISTINCT CASE-INSENSITIVE routes, not raw .html files: Quartz emits an original-cased redirect stub beside each lowercase slug, so Linux keeps both files and NTFS collapses each pair, yet both platforms report the same route count. See tools/lib/page-count.mjs and vault backlog F59.",
-      "brokenInternalLinks is a ceiling that must never rise; the links are overwhelmingly into deliberately-unpublished Litteraturlista PDFs plus the unpublished HT100X degree project."
-    ]
+    "notes": {
+      "pages": "Distinct case-insensitive routes, not raw .html files. Quartz emits a redirect stub at each note's original-cased path; NTFS collapses the pair while Linux keeps both, so both platforms report the same route count. See PROJECT-NOTES.md and .kiro/traps.md T9.",
+      "brokenInternalLinks": "A ceiling, not 0. The 44 are almost all links into course-literature PDFs under Filer/Litteraturlista/ (gitignored, deliberately unpublished), plus one HT100X thesis placeholder. Fell 74 -> 44 on 2026-08-27 when the 4 cross-course duplicate concept notes were removed, de-ambiguating the HE1033 TCP/UDP/DNS/OSI cross-links (vault F61).",
+      "history": "693 (F57, whole-book decks) -> 652 (F60, HI1031/HI1032 pruned to course scope) -> 648 (F61, removed 4 cross-course duplicate notes). The 23 in-note duplicate cards disabled in F61 still render as callouts (the ==DISABLEDFLASHCARD== marker is dropped), so questionCallouts fell only by the 4 removed notes' 8 cards.",
+      "pushCoordination": "Push the vault repo first (pruned content live), then this baseline. brokenInternalLinks is a must-not-rise metric that dropped 74 -> 44, so building the OLD vault against this baseline would fail the no-rise check; the vault consolidation must be live before or with this baseline."
+    }
   }
 }

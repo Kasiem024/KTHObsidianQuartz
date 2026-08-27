@@ -41,7 +41,7 @@ The baseline comparison is **asymmetric on purpose**: counts may grow freely, bu
 5% fails. Growth is you adding notes; shrinkage means something stopped rendering. That is
 what would have caught the transformer silently missing 34 notes.
 
-`brokenInternalLinks` is baselined at **74**, not 0 — almost all point into PDFs and Quartz emits
+`brokenInternalLinks` is baselined at **44**, not 0 — almost all point into PDFs and Quartz emits
 no PDFs, because the course literature is copyrighted and deliberately unpublished. One is the
 MOC link to the degree project, which is deliberately unpublished until examined. The check
 fails only if the count rises.
