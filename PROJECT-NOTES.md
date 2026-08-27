@@ -135,7 +135,7 @@ Two edge cases the vault actually contains, both handled:
   question renders as plain text and the dangling separator is dropped. These are a content
   gap in the vault, not a rendering bug.
 
-Current state: **442 pages render callouts, 2,476 callouts total, 0 pages showing raw card
+Current state: **401 pages render callouts, 2,241 callouts total, 0 pages showing raw card
 syntax.** When checking that last figure, strip `<script>`, `<pre>` and `<code>` first —
 inline JavaScript contains `||` and the vault's Meta docs quote card syntax.
 
@@ -317,11 +317,11 @@ Two kinds of check, and the second is the important one:
    ~1,280 cards, and no named check would have found it, but a callout count falling off a
    cliff is unmistakable.
 
-The current baseline is 693 pages, 442 with callouts, 2476 callouts, 183 images, 40892
-internal links. It records `_meta` — when it was taken, from which directory, and over how
+The current baseline is 652 pages, 401 with callouts, 2241 callouts, 183 images, 38428
+internal links (74 broken), re-baselined after the HI1031/HI1032 flashcard prune (vault F60). It records `_meta` — when it was taken, from which directory, and over how
 many seconds the pages were written. `pages` counts **distinct case-insensitive routes**, not raw
 `.html` files: Quartz emits a 448-byte original-case redirect stub per note, so CI's artifact holds
-1269 files (576 stubs + 693 pages) where a Windows build holds 693. Both now report 693.
+1269 files (576 stubs + 693 pages) where a Windows build holds 693. Both platforms report the same count, now 652 after the HI1031/HI1032 prune; the 1269/693 split above is the pre-prune F59 measurement.
 
 `pages` counts **distinct case-insensitive routes**, not raw `.html` files, and every
 metric's unit is declared in `tools/lib/page-count.mjs`. `node tools/test-check-site.mjs`
@@ -331,7 +331,7 @@ publishes CI's own numbers at `/build-report.json`; `node tools/check-site.mjs <
 --compare-ci` diffs a local build against it and names anything that is not
 machine-independent.
 
-**`brokenInternalLinks` is baselined at 85, not 0.** Almost all are links into PDFs, and Quartz
+**`brokenInternalLinks` is baselined at 74, not 0.** Almost all are links into PDFs, and Quartz
 emits **no** PDFs at all — the course literature is copyrighted and deliberately unpublished.
 So those links work in Obsidian and are dead on the public site. The check fails if the count
 *rises*, which catches genuinely new breakage without demanding the accepted dead links be fixed. (Went 43 → 85 on 2026-08-26 as the vault gained 92 notes; one of the 85 is the MOC link to the unpublished degree project.)

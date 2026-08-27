@@ -1,24 +1,25 @@
 {
-  "pages": 693,
-  "pagesWithCallouts": 442,
-  "questionCallouts": 2476,
+  "pages": 652,
+  "pagesWithCallouts": 401,
+  "questionCallouts": 2241,
   "images": 183,
   "imagesWithoutAlt": 0,
   "katexErrorPages": 0,
   "cardLeakPages": 0,
-  "internalLinks": 40892,
-  "brokenInternalLinks": 85,
+  "internalLinks": 38428,
+  "brokenInternalLinks": 74,
   "_meta": {
-    "generatedAt": "2026-08-26T12:15:00Z",
-    "sourceDir": "a clean local build, cross-checked line by line against a CI run log",
-    "htmlFiles": 693,
+    "generatedAt": "2026-08-27T09:37:24.917Z",
+    "sourceDir": "clean local build of the pruned vault working tree (C:\\Temp\\kth-prune-site)",
+    "htmlFiles": 652,
     "redirectStubs": 0,
+    "writeSpanSeconds": 10,
     "forced": false,
     "notes": [
-      "Every metric here is now identical between a local Windows build and the Linux CI build. Confirmed against the deploy.yml log for vault e098001: 442 / 2476 / 183 / 0 / 0 / 0 / 40892 / 85 matched exactly.",
-      "'pages' counts DISTINCT CASE-INSENSITIVE routes, not raw .html files. Quartz emits a redirect stub at each note's original-cased path beside the lowercase slug; Linux keeps both (1269 files), Windows collapses each pair (693 files). CI's own listing: 1269 raw = 576 mixed-case stubs + 693 real pages.",
-      "That is why an earlier baseline of 1270 looked unreproducible locally and why 693 looked like a 45% drop in CI. Both numbers were correct measurements of different things.",
-      "brokenInternalLinks 85 is CI's own figure and matches local exactly. It is a ceiling that must never rise; the links are overwhelmingly into deliberately-unpublished Litteraturlista PDFs."
+      "Re-baselined 2026-08-26 after HI1031/HI1032 flashcards were pruned to course-relevant scope (vault backlog F60): 41 published notes removed. pages 693->652, pagesWithCallouts 442->401, questionCallouts 2476->2241, internalLinks 40892->38428, brokenInternalLinks 85->74; cardLeakPages/imagesWithoutAlt/katexErrorPages still 0.",
+      "COORDINATION: this baseline matches the PRUNED vault, so it must go live together with the vault-prune push. Push the vault first, then this repo (or use workflow_dispatch after both). An interim scheduled build of the still-old vault clears the growth checks (higher pages/callouts) but would trip the no-rise check on brokenInternalLinks (85 > 74), so keep the two pushes inside the hourly deploy cadence.",
+      "'pages' counts DISTINCT CASE-INSENSITIVE routes, not raw .html files: Quartz emits an original-cased redirect stub beside each lowercase slug, so Linux keeps both files and NTFS collapses each pair, yet both platforms report the same route count. See tools/lib/page-count.mjs and vault backlog F59.",
+      "brokenInternalLinks is a ceiling that must never rise; the links are overwhelmingly into deliberately-unpublished Litteraturlista PDFs plus the unpublished HT100X degree project."
     ]
   }
 }

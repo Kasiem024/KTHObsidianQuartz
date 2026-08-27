@@ -30,7 +30,7 @@ analytics and no sign-up.
 | Local overrides | `quartz.ts` (component options), `quartz/styles/custom.scss` (site-only CSS) |
 | Custom code | `plugins/flashcards/` (transformer), `tools/slim-svg.mjs` (post-build) |
 
-Roughly 700 pages and 90 MB built — 693 pages exactly, and 90 MB *after* `slim-svg`; a local
+Roughly 650 pages and 90 MB built — 652 pages exactly, and 90 MB *after* `slim-svg`; a local
 build is 105.5 MB because that step only runs in `deploy.yml`.
 
 ## Publishing

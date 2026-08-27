@@ -24,7 +24,7 @@ wrong diagnosis.
 | Raw flashcard syntax in visible text (`(Definition)::`, bare `??` / `\|\|`, `DISABLEDFLASHCARD`) | 0 |
 | `<img>` tags without `alt`, or with `alt=""` | 0 |
 | Pages containing `katex-error` | 0 |
-| Question callouts | ~442 pages, ~2,476 total |
+| Question callouts | ~401 pages, ~2,241 total |
 
 When grepping built HTML, **strip `<script>`, `<pre>` and `<code>` first.** Inline JavaScript
 contains `||`, and the vault's Meta docs quote card syntax — both otherwise read as defects. A
