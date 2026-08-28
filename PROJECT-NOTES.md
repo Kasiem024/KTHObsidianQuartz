@@ -145,7 +145,7 @@ inline JavaScript contains `||` and the vault's Meta docs quote card syntax.
 
 - `**/Filer/**/*.pdf` — scanned textbook chapters and lecturer slide decks. A copyright
   exposure on a public site, and 262 MB of the build. They stay in the vault, so links
-  still resolve in Obsidian. **26 note links to these PDFs are dead on the site only,
+  still resolve in Obsidian. **43 links into these PDFs are dead on the site only,
   which is accepted.**
 - `**/*Excalidraw*.png` — redundant auto-exports; the drawings render via
   `obsidian-plugin-excalidraw` instead.
@@ -334,7 +334,7 @@ machine-independent.
 **`brokenInternalLinks` is baselined at 44, not 0.** Almost all are links into PDFs, and Quartz
 emits **no** PDFs at all — the course literature is copyrighted and deliberately unpublished.
 So those links work in Obsidian and are dead on the public site. The check fails if the count
-*rises*, which catches genuinely new breakage without demanding the accepted dead links be fixed. (Went 43 → 85 on 2026-08-26 as the vault gained 92 notes; one of the 85 is the MOC link to the unpublished degree project.)
+*rises*, which catches genuinely new breakage without demanding the accepted dead links be fixed. (Went 43 → 85 on 2026-08-26 as the vault gained 92 notes, then fell to 44 on 2026-08-27 — the HI1031/HI1032 deck prune (F60) and the removal of 4 cross-course duplicate concept notes, which de-ambiguated the HE1033 TCP/UDP/DNS/OSI cross-links (F61); one of the 44 is the MOC link to the unpublished degree project.)
 
 When grepping built HTML for defects, strip `<script>`, `<pre>` and `<code>` first: inline
 JavaScript contains `||` and the vault's Meta docs quote card syntax. Skipping that step once
