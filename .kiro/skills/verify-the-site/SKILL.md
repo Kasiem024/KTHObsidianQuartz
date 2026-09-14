@@ -49,8 +49,10 @@ fails only if the count rises.
 **Always build into an empty directory.** `check-site.mjs` refuses `--update` when the pages
 were written over more than 300 seconds, because that means the directory holds output from two
 builds and every count is inflated. Separately: `pages` counts distinct case-insensitive routes,
-not raw `.html` files, because Quartz emits an original-case redirect stub per note - 1269 files
-on Linux, 693 on Windows, 693 routes on both.
+not raw `.html` files, because Quartz emits an original-case redirect stub per note. When this
+was investigated (2026-08-26) that was 1269 files on Linux against 693 on Windows, and 693
+routes on both; the vault has been pruned twice since, so read the current figure from
+`site-baseline.json` rather than from those numbers. The *ratio* is the point, not the values.
 
 **If a count disagrees with CI, do not pick a number.** Every build publishes its own
 measurements, so run:

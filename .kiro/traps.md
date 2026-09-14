@@ -9,8 +9,9 @@ Facts about **this** Quartz setup that will bite you. Nothing here is derivable 
 Quartz docs — each came from an actual wrong result in this repository.
 
 **Every trap here is silent.** The build exits 0 and prints no warning. That is the entry
-criterion. There are **seven**; do not add an eighth without reproducing it and recording the
-wrong result it produced.
+criterion. There are **nine**; do not add a tenth without reproducing it and recording the
+wrong result it produced. A defect that fails *loudly* is not a trap and belongs in
+`PROJECT-NOTES.md` under "Gotchas" — the CRLF highlight crash is there for that reason.
 
 ---
 
@@ -105,25 +106,27 @@ yourself. Page count and every `check-site.mjs` metric are unaffected either way
 
 ---
 
-## T9 - A Windows build emits 693 HTML files where CI emits 1269, and both are correct
+## T9 - A Windows build emits roughly half the HTML files CI does, and both are correct
 
 Quartz emits a 448-byte redirect stub at each note's **original-cased** path
 (`KTH/2026-Höst/HI1031-.../Replikering.html`) containing `meta http-equiv="refresh"`,
 `rel=canonical` and `robots: noindex`, pointing at the lowercase slug it actually serves.
 
 Linux keeps both files. **NTFS is case-insensitive, so each pair collapses into one.** CI's own
-artifact listing: 1269 HTML = **576 mixed-case stubs + 693 real pages**. A Windows build cannot
-produce 1269 and CI cannot produce 693.
+artifact listing on 2026-08-26: 1269 HTML = **576 mixed-case stubs + 693 real pages**. A Windows
+build could not produce 1269 and CI could not produce 693. Those three numbers are that build's,
+kept because they are the measured evidence; the vault has been pruned twice since, so the
+current route count lives in `site-baseline.json`.
 
 This cost three attempts to diagnose. A baseline of 1270 was taken from a CI log, "corrected" to
 693 from a local build, and each looked like a 45% regression from the other side.
 
 **What to do:** nothing, as long as you leave the metric alone. `check-site.mjs` counts
-**distinct case-insensitive routes**, so both platforms report `pages 693` and a locally-taken
-baseline is valid. If you ever change that expression back to `files.length`, the local build
-becomes permanently red against CI. The stubs contribute no callouts, images or `<a>` links,
-which is why every other metric already matched exactly - including `brokenInternalLinks`, 85 on
-both.
+**distinct case-insensitive routes**, so both platforms report the same `pages` figure and a
+locally-taken baseline is valid. If you ever change that expression back to `files.length`, the
+local build becomes permanently red against CI. The stubs contribute no callouts, images or
+`<a>` links, which is why every other metric already matched exactly — `brokenInternalLinks` was
+85 on both when this was investigated, and has since fallen to the 44 in `site-baseline.json`.
 
 **Three mechanisms now stop this recurring, none of which need an agent:**
 

@@ -60,6 +60,13 @@ jobs:
       # either machine then looked like a 45% regression on the other. See .kiro/traps.md T9.
       - name: Test what check-site counts
         run: node tools/test-check-site.mjs
+      # Audits the repo's own PROSE against site-baseline.json: a figure presented as current
+      # that no longer is, a cited path that does not exist, a metric with no declared unit.
+      # No build needed, ~0.1s. Guards the failure mode a hand audit already hit once - the
+      # 2026-08-28 pass fixed a stale brokenInternalLinks figure in PROJECT-NOTES.md and missed
+      # the identical one in .kiro/traps.md, where it survived another eight days.
+      - name: Check the docs against the baseline
+        run: node tools/check-docs.mjs
       - name: Build Quartz
         run: npx quartz build
       # The Excalidraw pages are the heaviest thing published (4-6.8 MB each). This

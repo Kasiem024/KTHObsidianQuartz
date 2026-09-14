@@ -36,6 +36,86 @@ submodule pointer by hand. Use *Run workflow* for an immediate rebuild.
 
 ## Gotchas, each of which cost real time
 
+### `npm run check` fails before it checks anything
+
+`tsconfig.json` sets `"moduleResolution": "node"`, which TypeScript maps to `node10` —
+**removed in TypeScript 7**. `devDependencies.typescript` is `^7.0.2`, so `npm run check`
+(`tsc --noEmit && prettier --check`) dies immediately with:
+
+```
+tsconfig.json(7,25): error TS5108: Option 'moduleResolution=node10' has been removed.
+```
+
+Nothing caught it because **CI never runs `npm run check`** — `deploy.yml` runs the tests,
+the build, `slim-svg` and `check-site`. `esbuild` does not type-check, so the site builds and
+deploys perfectly with the type check broken. The `prettier --check` half has therefore not run
+since the TypeScript 7 bump either.
+
+Measured cost of fixing it, with a throwaway config that only overrides the one option:
+
+| `moduleResolution` | Result |
+|---|---|
+| `node` (current) | TS5108, stops immediately |
+| `bundler` | **2 errors** — `micromorph` ships no types (TS7016 in `quartz/components/scripts/spa.inline.ts`), and `remark-parse/lib` is not resolvable as a subpath (TS2307 in `quartz/processors/parse.ts`) |
+| `nodenext` | TS5110 — would also force `module: nodenext`, wrong for a bundled site |
+
+So `bundler` is the right target and costs two type fixes, not a rewrite. Left undone
+deliberately: it is an upstream Quartz config and two upstream typing gaps, and the site is
+unaffected. If you fix it, add `npm run check` to `deploy.yml` in the same change — otherwise it
+will break again silently.
+
+### A `==highlight==` spanning CRLF line breaks crashes the parser, on Windows only
+
+The vault hard-wraps prose near 100 columns, so a long `==highlight==` routinely has its opening
+and closing markers on different lines. That is fine — **until the file has CRLF line endings**,
+at which point a highlight spanning **two or more** line breaks kills the build outright:
+
+```
+Failed to process markdown `...Kap 16 Transaktioner och samtidighetskontroll.md`:
+Cannot access index `6234` in a splice buffer of size `6234`
+     at ../processors/parse.ts:107:31
+```
+
+Line 107 is `processor.parse(file)`, so it is micromark, after the `textTransform` plugins have
+run. Reduced to three lines, which is the whole reproducer:
+
+```markdown
+aaa ==bbb
+ccc
+ddd== eee
+```
+
+Measured, one file per build, everything else held constant:
+
+| Case | Result |
+|---|---|
+| Highlight over 2 lines, CRLF | builds |
+| Highlight over 3 lines, **CRLF** | **crashes** |
+| Highlight over 4 lines, CRLF | crashes |
+| Highlight over 3 lines, **LF** | builds |
+| Same shape with `**bold**` instead, CRLF | builds |
+
+So it needs both conditions: the highlight syntax specifically, and CRLF. A second highlight
+after the closing marker is irrelevant — it crashes without one.
+
+**Why this is a Windows-only trap and not a broken site.** Git for Windows sets
+`core.autocrlf=true` at *system* level, so both the vault clone and the `content` submodule
+clone convert LF to CRLF on checkout. The blobs in git are LF and the vault has no
+`.gitattributes`, so `ubuntu-latest` checks out LF and CI builds fine. Verified both ways here:
+the same chapter-16 note is 580 CR / 580 LF in `content/` and 0 CR / 580 LF in the vault working
+tree, and a full build pointed straight at the vault with `-d` processed **560 files, emitted
+1456, exit 0**.
+
+**What it cost:** most of an hour, and a wrong conclusion reported to the author — that a vault
+push had broken the site and the hourly deploy would fail. It had not. The build only fails on
+this machine, from a checkout artefact.
+
+**What to do.** Do not "fix" the notes by rewrapping; the content is correct and CI is happy. If
+you need a local build of current content, either build against the vault directly —
+`npx quartz build -d "G:\My Drive\KTHObsidian"` — or set `core.autocrlf=false` in the submodule
+clone and re-check it out. Related to **T9** in `.kiro/traps.md`: another case where Windows and
+CI legitimately disagree about the same commit, and the local result is the wrong one to trust.
+
 ### Local builds do not see uncommitted vault edits
 
 `content/` is a pinned submodule, so `npx quartz build` reflects the last **pushed**
@@ -49,6 +129,10 @@ npx quartz build -d "G:\My Drive\KTHObsidian" -o C:\Temp\out
 
 `-d` is the **content** directory and defaults to `content`, despite the docs table
 describing it as the project directory. Confirmed in `quartz/cli/args.js`.
+
+The pinned pointer being behind the vault does **not** make the deployed site stale:
+`deploy.yml` runs `git submodule update --remote --recursive content` and rebuilds hourly on a
+cron, so a vault-only push publishes on its own. The pin only affects *local* builds.
 
 ### A local plugin needs a `build` script even when there is nothing to build
 

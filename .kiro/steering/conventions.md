@@ -80,6 +80,22 @@ The baseline comparison is deliberately asymmetric: growth is normal, shrinkage 
 something stopped rendering. That is what would have caught the transformer silently missing
 34 notes. Re-baseline an intentional change with `--update`.
 
+Two more checks run without a build, so run them before anything slow:
+
+```
+node tools/test-check-site.mjs     # does `pages` still mean what it claims?
+node tools/check-docs.mjs          # do the docs still agree with site-baseline.json?
+```
+
+`check-docs.mjs` exists because prose is where this repo drifts: a stale
+`brokenInternalLinks` figure was fixed in `PROJECT-NOTES.md` on 2026-08-28 and the identical
+one survived in `.kiro/traps.md` for another eight days. See `.kiro/steering/scripts.md` for
+the full tool list and for what each one cannot see.
+
+**`npm run check` is not in CI and currently fails.** `tsconfig.json` sets
+`moduleResolution: "node"`, which TypeScript 7 removed, so `tsc --noEmit` stops before it
+type-checks anything. A green deploy is not a green type check.
+
 **A pass means "nothing was found by the checks that ran" — never "the site is good".** The
 script prints its own blind spots on every run for that reason. Report what passed, and name
 what you did not look at. The things no script here covers — visual layout, mobile rendering,

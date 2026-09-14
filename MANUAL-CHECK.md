@@ -83,7 +83,8 @@ CI counts KaTeX *errors*. It cannot tell whether a formula is readable.
 - [ ] 🖥️ **Recent notes** in the left sidebar reflects what you actually edited last.
 - [ ] 🖥️ **A dead PDF link**: open `Instuderingsfrågor KS2 CM1005` and click the
       `KS2 Exempel` link. It 404s — expected, because PDFs are deliberately unpublished.
-      There are **85** of these. Decide whether that bothers you; if it does, the fix is to
+      There are **44** of them (`brokenInternalLinks` in `site-baseline.json`). Decide whether
+      that bothers you; if it does, the fix is to
       unlink them rather than publish copyrighted material.
 - [ ] 🖥️ **The deployed build's own numbers**: open
       <https://kasiem024.github.io/KTHObsidianQuartz/build-report.json>. Every build writes
